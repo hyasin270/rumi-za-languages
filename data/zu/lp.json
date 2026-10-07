@@ -1,0 +1,571 @@
+{
+ "lang": "zu",
+ "lesson": {
+  "title": "isiZulu HL Ibanga 1 · Isonto 3 Usuku 2 — umsindo omusha m",
+  "title_en": "isiZulu HL Grade 1 · Week 3 Day 2 — new sound m",
+  "topic": "Umzimba wami · umsindo omusha /m/ (m + a = ma)",
+  "topic_en": "My body · new sound /m/ (m + a = ma)",
+  "grade": 1,
+  "term": 1,
+  "week": 3,
+  "day": 2,
+  "minutes": 88,
+  "caps_ref": "CAPS isiZulu HL Gr R-3, printed pages 11, 53, 54, 55, 57",
+  "caps_items": [
+   "p11: isikhathi ngesonto",
+   "p53: LS-06 phendula imibuzo",
+   "p54: RP-13/14 m; m+a = ma",
+   "p55: RP-36 ukufunda ngokuhlanganyela; RP-37 amaqembu",
+   "p57: W-46 uhlamvu t"
+  ]
+ },
+ "pages": [
+  "assets/img/zu_lp_p1.png",
+  "assets/img/zu_lp_p2.png",
+  "assets/img/zu_lp_p3.png",
+  "assets/img/zu_lp_p4.png"
+ ],
+ "pdf": "assets/pdf/zu_lp.pdf",
+ "reviewer_pdf": "assets/pdf/zu_lp_reviewer_en.pdf",
+ "voice_note": {
+  "mp3": "assets/audio/zu_lp_voicenote.mp3",
+  "script": "Sawubona mngane wami. Namuhla abafundi bafunda ungwaqa wabo wokuqala, umsindo m. Lokhu kubalulekile kakhulu, ngoba manje sebengaqala ukufunda amalunga namagama abo okuqala. Into eyodwa okumele uyenze kahle yile: vumela abafundi bahlanganise imisindo bona ngokwabo. Ungahlanganisi esikhundleni sabo. Yisho m, yisho a, bese uyalinda, bona bathi ma. Uma uhlanganisa wena, bazophinda nje emva kwakho, bangafundi. Amalunga anamuhla ngu ma, me, mi, mo, mu. Amagama okuqala ngu umama, uma, nelithi mema. Emlolozelweni, khomba igama ngalinye ngomnwe, futhi ucele abafundi benze izenzo. Ngesikhathi sokukhuluma, cela abafundi baphendule ngomusho ophelele, njengokuthi igama lami ngu Nomsa. Ube nosuku oluhle.",
+  "script_en": "Hello, my friend. Today the learners learn their first consonant, the sound m. This is very important, because now they can start reading their first syllables and words. The one thing you must get right is this: let the learners blend the sounds by themselves. Do not blend for them. Say m, say a, then wait, and they say ma. If you blend for them, they will just repeat after you and not read. Today's syllables are ma, me, mi, mo, mu. The first words are umama, uma, and mema. In the rhyme, point to each word with your finger, and ask the learners to do the actions. During speaking time, ask the learners to answer in a full sentence, such as my name is Nomsa. Have a good day.",
+  "words": [
+   {
+    "w": "Sawubona",
+    "s": 0.0,
+    "e": 0.682
+   },
+   {
+    "w": "mngane",
+    "s": 0.682,
+    "e": 1.036
+   },
+   {
+    "w": "wami.",
+    "s": 1.036,
+    "e": 1.32
+   },
+   {
+    "w": "Namuhla",
+    "s": 1.92,
+    "e": 2.34
+   },
+   {
+    "w": "abafundi",
+    "s": 2.34,
+    "e": 2.88
+   },
+   {
+    "w": "bafunda",
+    "s": 2.88,
+    "e": 3.32
+   },
+   {
+    "w": "ungwaqa",
+    "s": 3.32,
+    "e": 3.8
+   },
+   {
+    "w": "wabo",
+    "s": 3.8,
+    "e": 4.2
+   },
+   {
+    "w": "wokuqala,",
+    "s": 4.2,
+    "e": 4.96
+   },
+   {
+    "w": "umsindo",
+    "s": 5.32,
+    "e": 5.68
+   },
+   {
+    "w": "m.",
+    "s": 5.68,
+    "e": 6.1
+   },
+   {
+    "w": "Lokhu",
+    "s": 7.06,
+    "e": 7.12
+   },
+   {
+    "w": "kubalulekile",
+    "s": 7.12,
+    "e": 7.887
+   },
+   {
+    "w": "kakhulu,",
+    "s": 7.887,
+    "e": 8.52
+   },
+   {
+    "w": "ngoba",
+    "s": 8.84,
+    "e": 9.04
+   },
+   {
+    "w": "manje",
+    "s": 9.04,
+    "e": 9.5
+   },
+   {
+    "w": "sebengaqala",
+    "s": 9.5,
+    "e": 10.36
+   },
+   {
+    "w": "ukufunda",
+    "s": 10.36,
+    "e": 10.82
+   },
+   {
+    "w": "amalunga",
+    "s": 10.82,
+    "e": 11.36
+   },
+   {
+    "w": "namagama",
+    "s": 11.36,
+    "e": 11.86
+   },
+   {
+    "w": "abo",
+    "s": 11.86,
+    "e": 12.24
+   },
+   {
+    "w": "okuqala.",
+    "s": 12.24,
+    "e": 12.88
+   },
+   {
+    "w": "Into",
+    "s": 13.64,
+    "e": 13.78
+   },
+   {
+    "w": "eyodwa",
+    "s": 13.851,
+    "e": 14.28
+   },
+   {
+    "w": "okumele",
+    "s": 14.28,
+    "e": 14.66
+   },
+   {
+    "w": "uyenze",
+    "s": 14.66,
+    "e": 15.127
+   },
+   {
+    "w": "kahle",
+    "s": 15.193,
+    "e": 15.54
+   },
+   {
+    "w": "yile:",
+    "s": 15.54,
+    "e": 15.84
+   },
+   {
+    "w": "vumela",
+    "s": 16.68,
+    "e": 16.82
+   },
+   {
+    "w": "abafundi",
+    "s": 16.82,
+    "e": 17.44
+   },
+   {
+    "w": "bahlanganise",
+    "s": 17.44,
+    "e": 18.14
+   },
+   {
+    "w": "imisindo",
+    "s": 18.14,
+    "e": 18.7
+   },
+   {
+    "w": "bona",
+    "s": 18.7,
+    "e": 19.08
+   },
+   {
+    "w": "ngokwabo.",
+    "s": 19.08,
+    "e": 19.6
+   },
+   {
+    "w": "Ungahlanganisi",
+    "s": 20.22,
+    "e": 21.04
+   },
+   {
+    "w": "esikhundleni",
+    "s": 21.04,
+    "e": 21.692
+   },
+   {
+    "w": "sabo.",
+    "s": 21.692,
+    "e": 22.14
+   },
+   {
+    "w": "Yisho",
+    "s": 22.8,
+    "e": 22.96
+   },
+   {
+    "w": "m,",
+    "s": 22.96,
+    "e": 23.34
+   },
+   {
+    "w": "yisho",
+    "s": 23.84,
+    "e": 24.02
+   },
+   {
+    "w": "a,",
+    "s": 24.02,
+    "e": 24.34
+   },
+   {
+    "w": "bese",
+    "s": 24.98,
+    "e": 25.02
+   },
+   {
+    "w": "uyalinda,",
+    "s": 25.02,
+    "e": 25.78
+   },
+   {
+    "w": "bona",
+    "s": 26.3,
+    "e": 26.56
+   },
+   {
+    "w": "bathi",
+    "s": 26.62,
+    "e": 26.94
+   },
+   {
+    "w": "ma.",
+    "s": 26.94,
+    "e": 27.2
+   },
+   {
+    "w": "Uma",
+    "s": 27.2,
+    "e": 28.04
+   },
+   {
+    "w": "uhlanganisa",
+    "s": 28.04,
+    "e": 28.86
+   },
+   {
+    "w": "wena,",
+    "s": 28.86,
+    "e": 29.24
+   },
+   {
+    "w": "bazophinda",
+    "s": 29.56,
+    "e": 30.093
+   },
+   {
+    "w": "nje",
+    "s": 30.093,
+    "e": 30.258
+   },
+   {
+    "w": "emva",
+    "s": 30.258,
+    "e": 30.674
+   },
+   {
+    "w": "kwakho,",
+    "s": 30.674,
+    "e": 31.06
+   },
+   {
+    "w": "bangafundi.",
+    "s": 31.32,
+    "e": 32.08
+   },
+   {
+    "w": "Amalunga",
+    "s": 32.74,
+    "e": 33.34
+   },
+   {
+    "w": "anamuhla",
+    "s": 33.34,
+    "e": 33.951
+   },
+   {
+    "w": "ngu",
+    "s": 33.951,
+    "e": 34.18
+   },
+   {
+    "w": "ma,",
+    "s": 34.18,
+    "e": 34.48
+   },
+   {
+    "w": "me,",
+    "s": 35.0,
+    "e": 35.2
+   },
+   {
+    "w": "mi,",
+    "s": 35.92,
+    "e": 36.04
+   },
+   {
+    "w": "mo,",
+    "s": 36.6,
+    "e": 36.76
+   },
+   {
+    "w": "mu.",
+    "s": 37.34,
+    "e": 37.68
+   },
+   {
+    "w": "Amagama",
+    "s": 38.12,
+    "e": 38.52
+   },
+   {
+    "w": "okuqala",
+    "s": 38.52,
+    "e": 39.197
+   },
+   {
+    "w": "ngu",
+    "s": 39.197,
+    "e": 39.48
+   },
+   {
+    "w": "umama,",
+    "s": 39.48,
+    "e": 40.08
+   },
+   {
+    "w": "uma,",
+    "s": 40.74,
+    "e": 40.88
+   },
+   {
+    "w": "nelithi",
+    "s": 41.3,
+    "e": 41.72
+   },
+   {
+    "w": "mema.",
+    "s": 41.98,
+    "e": 42.34
+   },
+   {
+    "w": "Emlolozelweni,",
+    "s": 42.7,
+    "e": 43.94
+   },
+   {
+    "w": "khomba",
+    "s": 44.32,
+    "e": 44.52
+   },
+   {
+    "w": "igama",
+    "s": 44.52,
+    "e": 44.911
+   },
+   {
+    "w": "ngalinye",
+    "s": 44.911,
+    "e": 45.473
+   },
+   {
+    "w": "ngomnwe,",
+    "s": 45.473,
+    "e": 45.94
+   },
+   {
+    "w": "futhi",
+    "s": 46.36,
+    "e": 46.48
+   },
+   {
+    "w": "ucele",
+    "s": 46.48,
+    "e": 46.88
+   },
+   {
+    "w": "abafundi",
+    "s": 46.88,
+    "e": 47.58
+   },
+   {
+    "w": "benze",
+    "s": 47.58,
+    "e": 47.88
+   },
+   {
+    "w": "izenzo.",
+    "s": 47.88,
+    "e": 48.44
+   },
+   {
+    "w": "Ngesikhathi",
+    "s": 48.71,
+    "e": 49.431
+   },
+   {
+    "w": "sokukhuluma,",
+    "s": 49.431,
+    "e": 50.14
+   },
+   {
+    "w": "cela",
+    "s": 50.44,
+    "e": 50.6
+   },
+   {
+    "w": "abafundi",
+    "s": 50.6,
+    "e": 51.22
+   },
+   {
+    "w": "baphendule",
+    "s": 51.22,
+    "e": 51.73
+   },
+   {
+    "w": "ngomusho",
+    "s": 51.73,
+    "e": 52.32
+   },
+   {
+    "w": "ophelele,",
+    "s": 52.32,
+    "e": 53.0
+   },
+   {
+    "w": "njengokuthi",
+    "s": 53.23,
+    "e": 53.96
+   },
+   {
+    "w": "igama",
+    "s": 53.96,
+    "e": 54.48
+   },
+   {
+    "w": "lami",
+    "s": 54.48,
+    "e": 54.8
+   },
+   {
+    "w": "ngu",
+    "s": 54.8,
+    "e": 55.085
+   },
+   {
+    "w": "Nomsa.",
+    "s": 55.085,
+    "e": 55.56
+   },
+   {
+    "w": "Ube",
+    "s": 55.56,
+    "e": 56.148
+   },
+   {
+    "w": "nosuku",
+    "s": 56.148,
+    "e": 56.84
+   },
+   {
+    "w": "oluhle.",
+    "s": 56.84,
+    "e": 57.36
+   }
+  ]
+ },
+ "scores": {
+  "q1": {
+   "value": 9.24,
+   "display": "9.2",
+   "label": "measured (automated)",
+   "line": "Lesson-plan score: the mean of page reading, curriculum mapping and real-word use."
+  },
+  "page_truth": {
+   "value": 8.91,
+   "display": "8.9",
+   "raw": 0.0217,
+   "n": 22,
+   "label": "measured (automated)",
+   "line": "Page reading: how exactly Rumi reads the government books (order-free character error rate)."
+  },
+  "segmentation": {
+   "value": 9.25,
+   "display": "9.2",
+   "raw": 0.9251,
+   "n": 49,
+   "label": "measured (automated)",
+   "line": "Curriculum mapping: how well the term plan matches the CAPS items for each week."
+  },
+  "real_words": {
+   "value": 9.55,
+   "display": "9.5",
+   "raw": 0.6395,
+   "n": 2868,
+   "label": "measured (automated)",
+   "line": "Real words: share of the lesson's words found in published texts in the language."
+  },
+  "wb_structure": {
+   "value": 9.78,
+   "display": "9.7",
+   "raw": 0.9778,
+   "n": 3,
+   "label": "AI-judged (proxy)",
+   "line": "Lesson structure against the World Bank teacher-guide checklist, scored by two AI judges. Shown beside the lesson-plan score, not in it.",
+   "in_q1": false
+  }
+ },
+ "backtranslation": [
+  {
+   "line": "ingxenye yekilasi ingakwazi ukuhlanganisa",
+   "says": "part of the class may be able to blend",
+   "should": "half the class cannot blend"
+  },
+  {
+   "line": "Manje sizofunda sonke kanyekanye, senze nezenzo. Bese sicula kancane, bese siyashesha!",
+   "says": "Now we will all read together, and do the actions. Then we sing slowly, then we go fast!",
+   "should": "Now we will all read together and do the actions. First slowly, then fast!"
+  },
+  {
+   "line": "Phezulu, yehla phansi, jika kancane; bese umugqa ngaphesheya.",
+   "says": "Top, go down, turn a little; then a line across.",
+   "should": "Top, come down, curve a little; then a line across."
+  }
+ ],
+ "backtranslation_label": "AI-judged (proxy) — a native speaker decides",
+ "footer": "Rumi draft — not yet reviewed by a native speaker",
+ "sources": [
+  "fn-caps-zu",
+  "fn-wb-tool"
+ ]
+}

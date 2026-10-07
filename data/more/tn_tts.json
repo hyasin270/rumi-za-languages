@@ -1,0 +1,377 @@
+{
+ "lang": "tn",
+ "engine": "ElevenLabs eleven_v4",
+ "voice": "Katlego (South African English voice, reading cross-lingually)",
+ "timing": "provider word timings (ElevenLabs)",
+ "score": {
+  "value": 9.139414802065405,
+  "display": "9.1",
+  "label": "measured (automated) · native ear pending",
+  "line": "ElevenLabs eleven_v4: text → speech → text came back with a character error rate of 0.043 (6 sentences, measured); English control through the same pipeline 0.000; native ear pending. A second listener engine disagreed by more than 0.10, so intelligibility is uncertain until a native speaker listens."
+ },
+ "conversation": [
+  {
+   "from": "teacher",
+   "text": "Dumela Rumi! Ke sa tswa go fetsa thuto ya medumo le Mophato wa 1.",
+   "en": "Hello Rumi! I have just finished the phonics lesson with Grade 1."
+  },
+  {
+   "from": "rumi",
+   "text": "Dumela morutabana! Ke itumelela go utlwa go wena. Thuto ya medumo e tsamaile jang gompieno?",
+   "en": "Hello, teacher! I am happy to hear from you. How did today's phonics lesson go?",
+   "mp3": "assets/audio/tn_tts_1.mp3",
+   "words": [
+    {
+     "w": "Dumela",
+     "s": 0.0,
+     "e": 0.48
+    },
+    {
+     "w": "morutabana!",
+     "s": 0.6,
+     "e": 1.44
+    },
+    {
+     "w": "Ke",
+     "s": 1.84,
+     "e": 1.92
+    },
+    {
+     "w": "itumelela",
+     "s": 2.0,
+     "e": 2.56
+    },
+    {
+     "w": "go",
+     "s": 2.64,
+     "e": 2.88
+    },
+    {
+     "w": "utlwa",
+     "s": 3.0,
+     "e": 3.2
+    },
+    {
+     "w": "go",
+     "s": 3.28,
+     "e": 3.36
+    },
+    {
+     "w": "wena.",
+     "s": 3.4,
+     "e": 3.76
+    },
+    {
+     "w": "Thuto",
+     "s": 4.28,
+     "e": 4.56
+    },
+    {
+     "w": "ya",
+     "s": 4.6,
+     "e": 4.64
+    },
+    {
+     "w": "medumo",
+     "s": 4.8,
+     "e": 5.2
+    },
+    {
+     "w": "e",
+     "s": 5.28,
+     "e": 5.36
+    },
+    {
+     "w": "tsamaile",
+     "s": 5.4,
+     "e": 5.84
+    },
+    {
+     "w": "jang",
+     "s": 6.0,
+     "e": 6.16
+    },
+    {
+     "w": "gompieno?",
+     "s": 6.24,
+     "e": 6.72
+    }
+   ],
+   "dur": 6.96
+  },
+  {
+   "from": "teacher",
+   "text": "E tsamaile sentle, mme barutwana bangwe ba sa ntse ba tlhakatlhakanya modumo o mošwa 'tlh' le modumo 'tl'.",
+   "en": "It went well, but some learners still mix up the new sound 'tlh' with the sound 'tl'."
+  },
+  {
+   "from": "rumi",
+   "text": "Ka moso, simolola ka metsotso e le metlhano ya go boeletsa medumo: o re modumo, barutwana ba o boeletsa, morago ba o kwale mo moweng.",
+   "en": "Tomorrow, start with five minutes of sound revision: you say the sound, the learners repeat it, then they write it in the air.",
+   "mp3": "assets/audio/tn_tts_2.mp3",
+   "words": [
+    {
+     "w": "Ka",
+     "s": 0.0,
+     "e": 0.12
+    },
+    {
+     "w": "moso,",
+     "s": 0.16,
+     "e": 0.48
+    },
+    {
+     "w": "simolola",
+     "s": 0.96,
+     "e": 1.68
+    },
+    {
+     "w": "ka",
+     "s": 1.72,
+     "e": 1.76
+    },
+    {
+     "w": "metsotso",
+     "s": 1.84,
+     "e": 2.32
+    },
+    {
+     "w": "e",
+     "s": 2.4,
+     "e": 2.48
+    },
+    {
+     "w": "le",
+     "s": 2.52,
+     "e": 2.56
+    },
+    {
+     "w": "metlhano",
+     "s": 2.68,
+     "e": 3.12
+    },
+    {
+     "w": "ya",
+     "s": 3.2,
+     "e": 3.28
+    },
+    {
+     "w": "go",
+     "s": 3.36,
+     "e": 3.44
+    },
+    {
+     "w": "boeletsa",
+     "s": 3.52,
+     "e": 3.92
+    },
+    {
+     "w": "medumo:",
+     "s": 4.08,
+     "e": 4.56
+    },
+    {
+     "w": "o",
+     "s": 5.16,
+     "e": 5.2
+    },
+    {
+     "w": "re",
+     "s": 5.28,
+     "e": 5.36
+    },
+    {
+     "w": "modumo,",
+     "s": 5.52,
+     "e": 6.0
+    },
+    {
+     "w": "barutwana",
+     "s": 6.4,
+     "e": 6.88
+    },
+    {
+     "w": "ba",
+     "s": 6.96,
+     "e": 7.04
+    },
+    {
+     "w": "o",
+     "s": 7.08,
+     "e": 7.12
+    },
+    {
+     "w": "boeletsa,",
+     "s": 7.2,
+     "e": 7.76
+    },
+    {
+     "w": "morago",
+     "s": 8.16,
+     "e": 8.72
+    },
+    {
+     "w": "ba",
+     "s": 8.88,
+     "e": 8.96
+    },
+    {
+     "w": "o",
+     "s": 9.04,
+     "e": 9.12
+    },
+    {
+     "w": "kwale",
+     "s": 9.2,
+     "e": 9.52
+    },
+    {
+     "w": "mo",
+     "s": 9.6,
+     "e": 9.68
+    },
+    {
+     "w": "moweng.",
+     "s": 9.72,
+     "e": 10.32
+    }
+   ],
+   "dur": 10.48
+  },
+  {
+   "from": "teacher",
+   "text": "Ke a leboga, ke tla leka seo ka moso.",
+   "en": "Thank you, I will try that tomorrow."
+  },
+  {
+   "from": "rumi",
+   "text": "O dira tiro e ntle thata, morutabana. Go boeletsa ka metlha go a thusa. O tla ruta modumo ofe mo bekeng e e tlang?",
+   "en": "You are doing very good work, teacher. Regular revision helps. Which sound will you teach next week?",
+   "mp3": "assets/audio/tn_tts_3.mp3",
+   "words": [
+    {
+     "w": "O",
+     "s": 0.0,
+     "e": 0.16
+    },
+    {
+     "w": "dira",
+     "s": 0.28,
+     "e": 0.48
+    },
+    {
+     "w": "tiro",
+     "s": 0.56,
+     "e": 0.96
+    },
+    {
+     "w": "e",
+     "s": 1.0,
+     "e": 1.04
+    },
+    {
+     "w": "ntle",
+     "s": 1.12,
+     "e": 1.36
+    },
+    {
+     "w": "thata,",
+     "s": 1.44,
+     "e": 1.92
+    },
+    {
+     "w": "morutabana.",
+     "s": 2.28,
+     "e": 2.88
+    },
+    {
+     "w": "Go",
+     "s": 3.4,
+     "e": 3.44
+    },
+    {
+     "w": "boeletsa",
+     "s": 3.52,
+     "e": 3.84
+    },
+    {
+     "w": "ka",
+     "s": 3.92,
+     "e": 4.0
+    },
+    {
+     "w": "metlha",
+     "s": 4.12,
+     "e": 4.32
+    },
+    {
+     "w": "go",
+     "s": 4.4,
+     "e": 4.48
+    },
+    {
+     "w": "a",
+     "s": 4.56,
+     "e": 4.64
+    },
+    {
+     "w": "thusa.",
+     "s": 4.72,
+     "e": 5.2
+    },
+    {
+     "w": "O",
+     "s": 5.76,
+     "e": 5.84
+    },
+    {
+     "w": "tla",
+     "s": 5.88,
+     "e": 6.0
+    },
+    {
+     "w": "ruta",
+     "s": 6.16,
+     "e": 6.32
+    },
+    {
+     "w": "modumo",
+     "s": 6.44,
+     "e": 6.8
+    },
+    {
+     "w": "ofe",
+     "s": 6.88,
+     "e": 7.2
+    },
+    {
+     "w": "mo",
+     "s": 7.28,
+     "e": 7.36
+    },
+    {
+     "w": "bekeng",
+     "s": 7.48,
+     "e": 7.76
+    },
+    {
+     "w": "e",
+     "s": 7.8,
+     "e": 7.84
+    },
+    {
+     "w": "e",
+     "s": 7.88,
+     "e": 7.92
+    },
+    {
+     "w": "tlang?",
+     "s": 7.96,
+     "e": 8.32
+    }
+   ],
+   "dur": 8.56
+  }
+ ],
+ "sources": []
+}

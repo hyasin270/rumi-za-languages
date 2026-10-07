@@ -1,0 +1,340 @@
+{
+ "lang": "zu",
+ "youtube_id": "U5GLqE4Ox1U",
+ "lesson": {
+  "strand": "phonics",
+  "focus": "No new sound is named in the clip; the warm-up chants the vowels a, e, i, o, u",
+  "grade": "Grade 1"
+ },
+ "summary_en": "The clip opens with a short 'open your mind' settling chant and a class song, then a whole-class vowel chant (a, e, i, o, u). The teacher reads a short story about Themba sentence by sentence with learners echoing, and asks who the story is about. The class then does a hand warm-up rhyme before writing, and the teacher models writing the name and the date after a calendar question about the day and month. The edit does not show a named target sound being introduced, any blending or segmenting, word building with letter cards, or learners' written work being checked; the teacher's account of linking warm-ups to new sounds is interview narration, not classroom footage.",
+ "scope_en": "Rumi coached only the classroom moments (teacher and learners). The teacher's interview to camera is in the transcript but is not treated as evidence that a step happened.",
+ "steps": [
+  {
+   "id": "P1",
+   "name": "Ukufudumeza ngomsindo",
+   "name_en": "Oral warm-up that foregrounds the sound",
+   "status": "partly",
+   "note_en": "A vowel chant and a song are shown and the whole class takes part, but no target sound is drawn out of them; the link to new sounds is only described in the interview.",
+   "evidence": [
+    {
+     "t": 69.0,
+     "quote": "That is why I use to do the warm-ups where they they act, recite.",
+     "en": "(Interview, not observed) That is why I do warm-ups where they act and recite."
+    },
+    {
+     "t": 94.0,
+     "quote": "Ayofund' u-a, ayofund' u-e, ayofund' u-i, ayofund' u-o, ayofund' u-u, sizwe.",
+     "en": "Go and learn a, go and learn e, go and learn i, go and learn o, go and learn u, so we hear."
+    }
+   ],
+   "from_run": "r2"
+  },
+  {
+   "id": "P2",
+   "name": "Ukwethula umsindo omusha",
+   "name_en": "Introduce the sound and its letters",
+   "status": "not_observed",
+   "note_en": "The clip never shows the teacher naming a new sound or showing its letters; 'new phonics and new sounds' is mentioned only in the interview.",
+   "evidence": [],
+   "from_run": "r2"
+  },
+  {
+   "id": "P3",
+   "name": "Ukuhlanganisa nokuhlukanisa",
+   "name_en": "Blending and segmenting",
+   "status": "not_observed",
+   "note_en": "No clapping, counting of syllables, or sounding-out of words appears in the edited footage.",
+   "evidence": [],
+   "from_run": "r2"
+  },
+  {
+   "id": "P4",
+   "name": "Ukufunda nokwakha amagama anomsindo",
+   "name_en": "Read and build words with the sound",
+   "status": "partly",
+   "note_en": "Learners echo-read whole story sentences in chorus after the teacher; no words with a named target sound are read or built by individuals.",
+   "evidence": [
+    {
+     "t": 110.0,
+     "quote": "Ngizofunda ke mina, wena ufunde emva kwa...",
+     "en": "I will read, and you read after me..."
+    },
+    {
+     "t": 136.0,
+     "quote": "UThemba umfana wakwaLanga othunyiwe endaweni.",
+     "en": "Themba is the boy from the Langa family who was sent to the place."
+    }
+   ],
+   "from_run": "r2"
+  },
+  {
+   "id": "P5",
+   "name": "Ukuzijwayeza nokuhlola",
+   "name_en": "Practice and checking",
+   "status": "partly",
+   "note_en": "Writing practice is set up (hand warm-up, name, date, one line) but it is copying the date, not words with the new sound, and no checking of books is shown.",
+   "evidence": [
+    {
+     "t": 284.0,
+     "quote": "Umuntu ubhala igama lakhe. Syezwana?",
+     "en": "Each person writes their name. Do we understand each other?"
+    },
+    {
+     "t": 301.0,
+     "quote": "Uzobe seuyabhala lapha emgqeni kanye, njengoba nami ngibhale kanye.",
+     "en": "Then you will write here on one line, just as I have written once."
+    }
+   ],
+   "from_run": "r2"
+  }
+ ],
+ "culture": [
+  {
+   "id": "C1",
+   "name": "Ukubamba iqhaza kwabafundi bonke",
+   "name_en": "Participation of all learners",
+   "status": "partly",
+   "note_en": "Choral responses dominate (chants, echo reading, 'Yebo'); three individual learners answer recall questions by name.",
+   "evidence": [
+    {
+     "t": 157.0,
+     "quote": "Ubani umuntu okukhulunywa ngaye laphaya endabeni?",
+     "en": "Who is the person being talked about there in the story?"
+    },
+    {
+     "t": 271.0,
+     "quote": "Kanje, kuyiphi ke inyanga? [learner]?",
+     "en": "Now, which month is it? [learner]?"
+    }
+   ],
+   "from_run": "r2"
+  },
+  {
+   "id": "C2",
+   "name": "Ukuncoma umzamo nokucabanga",
+   "name_en": "Praise of effort and thinking",
+   "status": "partly",
+   "note_en": "Praise is generic: the class is asked to confirm a correct answer and clap; no praise of thinking or strategy is heard.",
+   "evidence": [
+    {
+     "t": 165.0,
+     "quote": "UThemba. Uqinisile [learner]?",
+     "en": "Themba. Is [learner] right?"
+    },
+    {
+     "t": 169.0,
+     "quote": "Mshayeleni izandla.",
+     "en": "Clap hands for them."
+    }
+   ],
+   "from_run": "r2"
+  },
+  {
+   "id": "C3",
+   "name": "Ukuphatha amaphutha",
+   "name_en": "Handling errors as learning",
+   "status": "partly",
+   "note_en": "When a learner gives the wrong date, the teacher repeats it as a question and the class supplies the right one; the learner who erred is not re-checked.",
+   "evidence": [
+    {
+     "t": 258.0,
+     "quote": "Amashumi amabili nantathu.",
+     "en": "Twenty-three."
+    },
+    {
+     "t": 261.0,
+     "quote": "Amashumi amabili nantathu. Zingaki, zikhona namhlanje izinsuku namhlanje enyangeni?",
+     "en": "Twenty-three. How many days of the month are there today?"
+    },
+    {
+     "t": 267.0,
+     "quote": "Amashumi amabili nane.",
+     "en": "Twenty-four."
+    }
+   ],
+   "from_run": "r2"
+  },
+  {
+   "id": "C4",
+   "name": "Isivinini nokusebenzisa isikhathi",
+   "name_en": "Pace and time on task",
+   "status": "not_observed",
+   "note_en": "The documentary edit compresses the lesson, so the time spent on each step and dead time cannot be judged.",
+   "evidence": [],
+   "from_run": "r2"
+  },
+  {
+   "id": "C5",
+   "name": "Ukuhlola ukuqonda komfundi ngamunye",
+   "name_en": "Checking individual understanding",
+   "status": "partly",
+   "note_en": "A few individuals are asked recall questions (story character, date, month), but no individual is checked on the sound or reading skill being taught.",
+   "evidence": [
+    {
+     "t": 163.0,
+     "quote": "UThemba.",
+     "en": "Themba."
+    },
+    {
+     "t": 249.0,
+     "quote": "Wumuhla kabani namhlanje? Zingaki izinsuku namhlanje enyangeni? Yazi, [learner]?",
+     "en": "What is today's date? How many days of the month are there today? Do you know, [learner]?"
+    }
+   ],
+   "from_run": "r2"
+  }
+ ],
+ "positives": [
+  {
+   "en": "The vowel chant gets every learner saying the vowel sounds aloud before any print appears, so no one is left out of the oral rehearsal.",
+   "t": 94.0
+  },
+  {
+   "en": "The teacher sets a clear echo-reading routine ('I read, you read after me'), giving learners a model of fluent reading before they say each sentence themselves.",
+   "t": 110.0
+  },
+  {
+   "en": "After the story, the teacher checks recall with a question to one learner, invites the class to confirm the answer, and has them applaud, which keeps the class listening to each other.",
+   "t": 157.0
+  },
+  {
+   "en": "The teacher prepares hands for writing with a rhyme and models the exact layout on the board ('as I have written once'), so learners know what their page should look like.",
+   "t": 301.0
+  }
+ ],
+ "blockages": [
+  {
+   "en": "The warm-up chant is not linked to a named target sound: learners never pick out the day's sound or see its letters. Effect: learners may not know which sound the lesson is about and cannot carry it into reading and writing. Catch-up: end the chant with 'Yimuphi umsindo esiwuzwe kakhulu?', write its letters on the board, and have learners say it.",
+   "t": 94.0
+  },
+  {
+   "en": "Story reading is echo reading in chorus only; no learner reads a word alone. Effect: weaker readers can repeat the teacher's voice without decoding, and the teacher cannot tell who can read the words. Catch-up: after the echo read, point to three or four words with the target sound and ask individual learners to read them.",
+   "t": 136.0
+  },
+  {
+   "en": "The writing task is copying the name and date, not words with the new sound, and no checking of books is shown. Effect: learners practise layout but not the sound, and misspellings go unnoticed. Catch-up: add three short words with the sound to the writing task and walk around to check a few books while they write.",
+   "t": 301.0
+  }
+ ],
+ "level_of_change": {
+  "level": 2,
+  "en": "Focus skill: drawing the target sound out of the warm-up and introducing it explicitly (P1 to P2). In the interview the teacher says warm-ups should prepare learners for new sounds, so they know what to aim for, but the clip does not show how the sound is drawn out and named; that fits level 2 (knows what, not yet how). One edited observation is thin evidence, so confidence is low. Matching coach move: demonstrate step by step - model a warm-up that ends with learners naming the sound and seeing its letters, then go through the lesson steps together."
+ },
+ "grow": {
+  "goal": {
+   "lang": "Ngesonto elizayo, ngemuva komlolozelo, abafundi bazosho umsindo omusha ngokwabo bese bewubona ezinhlamvini ebhodini.",
+   "en": "Next week, after the warm-up, learners will name the new sound themselves and then see its letters on the board."
+  },
+  "reality": {
+   "lang": "Okwamanje umlolozelo wonkamisa umnandi futhi bonke bayahlanganyela, kodwa awusho ukuthi umsindo wanamuhla yimuphi.",
+   "en": "Right now the vowel chant is lively and everyone joins in, but it does not say which sound is today's sound."
+  },
+  "options": {
+   "lang": "Ungabuza ngemuva komlolozelo uthi 'Yimuphi umsindo enizwe kakhulu?'; ungabhala izinhlamvu zawo ebhodini; ungacela abafundi abambalwa ukuthi bafunde igama elinalo msindo bebodwa.",
+   "en": "You could ask after the chant 'Which sound did you hear most?'; write its letters on the board; ask a few learners to read a word with that sound on their own."
+  },
+  "way_forward": {
+   "lang": "Sizohlela ndawonye isifundo esisodwa, ngikubonise isinyathelo ngesinyathelo, bese ngibuya ngibuke ingxenye yokuqala yesifundo sakho.",
+   "en": "We will plan one lesson together, I will show you step by step, and then I will come back to watch the first part of your lesson."
+  }
+ },
+ "questions": [
+  {
+   "lang": "Ngemuva komlolozelo wonkamisa, ubufuna abafundi baqaphele muphi umsindo, futhi ubungabona kanjani ukuthi bawuzwile?",
+   "en": "After the vowel chant, which sound did you want learners to notice, and how could you see that they had heard it?",
+   "t": 94.0
+  },
+  {
+   "lang": "Lapho nifunda indaba ngokuphindaphinda emva kwakho, ubungazi kanjani ukuthi ngubani ofunda amagama ngempela nokuthi ngubani olandela izwi lakho kuphela?",
+   "en": "When you read the story and they repeated after you, how could you tell who was really reading the words and who was following your voice?",
+   "t": 110.0
+  },
+  {
+   "lang": "Lapho abafundi bebhala emgqeni, yini obungathanda ukuyibona emabhukwini abo ukuze wazi ukuthi umsindo omusha ubambekile?",
+   "en": "When learners were writing on the line, what would you like to see in their books to know the new sound has stuck?",
+   "t": 301.0
+  }
+ ],
+ "debrief_plan": [
+  {
+   "step": 1,
+   "step_en": "Ask permission",
+   "coach_says": "Ngiyabonga ngokungivumela ekilasini lakho. Ngingakwabelana yini nalokho engikubonile namuhla?",
+   "en": "Thank you for letting me into your class. May I share what I saw today?"
+  },
+  {
+   "step": 2,
+   "step_en": "Observation: positives and blockages",
+   "coach_says": "Umlolozelo wonkamisa wenze bonke abafundi bahlanganyele, futhi ufunde indaba bese bephinda emva kwakho. Kodwa angizange ngizwe umsindo wanamuhla ushiwo noma ubhalwa ebhodini, futhi indaba ifundwe ngezwi elilodwa sonke.",
+   "en": "The vowel chant got every learner involved, and you read the story with them repeating after you. But I did not hear today's sound named or see it written on the board, and the story was read only in chorus."
+  },
+  {
+   "step": 3,
+   "step_en": "Effect on learners",
+   "coach_says": "Uma umsindo ungashiwo, abanye abafundi abazi ukuthi bafundani. Uma befunda bonke ndawonye, abangakwazi ukufunda bayakwazi ukufihla emazwini abanye.",
+   "en": "If the sound is not named, some learners do not know what they are learning. When they all read together, those who cannot yet read can hide in the others' voices."
+  },
+  {
+   "step": 4,
+   "step_en": "Pause and dialogue",
+   "coach_says": "Ngingathanda ukuzwa umbono wakho. Ngemuva komlolozelo, yimuphi umsindo obuwuhlosile, futhi wena ubuzwa ukuthi abafundi bawuzwile?",
+   "en": "I would like to hear your view. After the chant, which sound were you aiming for, and did you feel the learners heard it?"
+  },
+  {
+   "step": 5,
+   "step_en": "Opportunity and contracting",
+   "coach_says": "Ake sivumelane: ngemuva komlolozelo uzobuza ukuthi yimuphi umsindo abawuzwile, ubhale izinhlamvu ebhodini, bese abafundi abathathu befunda igama bebodwa. Ngizobuya ngesonto elizayo sibheke ndawonye.",
+   "en": "Let us agree: after the chant you will ask which sound they heard, write the letters on the board, and then three learners will read a word on their own. I will come back next week and we will look at it together."
+  }
+ ],
+ "next_step": {
+  "lang": "Qeda umlolozelo ngombuzo othi 'Yimuphi umsindo esiwuzwe kakhulu?', bhala izinhlamvu zawo ebhodini, bese abafundi abambalwa befunda igama ngalinye bebodwa.",
+  "en": "End the warm-up with 'Which sound did we hear most?', write its letters on the board, and have a few learners each read one word on their own."
+ },
+ "voice": {
+  "mp3": "assets/audio/zu_debrief.mp3",
+  "words": "data/zu/debrief_words.json",
+  "script": "Sawubona, ngiyabonga kakhulu ngokungivumela ukuthi ngibe sekilasini lakho namuhla. Ngibone izinto ezimbili ezinhle kakhulu. Okokuqala, umlolozelo wonkamisa wenze bonke abafundi bacule futhi basho imisindo ngamazwi abo, akekho obesele ngaphandle. Okwesibili, indlela ofunda ngayo indaba, wena uqala bese bona bephinda emva kwakho, inika abafundi isibonelo esicacile sokufunda kahle. Kukhona into eyodwa engifuna sikhulume ngayo. Ngemuva komlolozelo, umsindo wanamuhla awushiwongo ngokusobala futhi abafundi abazange bawubone ebhodini. Lokhu kungenza ukuthi abanye bangazi ukuthi bafundani, futhi kube nzima kubo ukufunda nokubhala amagama analowo msindo. Isinyathelo esilandelayo ukuthi ngemuva komlolozelo ubuze ukuthi yimuphi umsindo abawuzwe kakhulu, ubhale izinhlamvu zawo ebhodini, bese abafundi abambalwa befunda igama ngalinye bebodwa. Ngiyazi ukuthi uyakwazi lokhu, ngoba isisekelo esihle sesivele sikhona ekilasini lakho. Ngiyakubonga futhi ngiyakukhuthaza, qhubeka kanjalo.",
+  "en": "Hello, thank you very much for letting me be in your class today. I saw two very good things. First, the vowel chant made all the learners sing and say the sounds in their own voices; no one was left out. Second, the way you read the story, you first and then they repeat after you, gives learners a clear model of reading well. There is one thing I would like us to talk about. After the warm-up, today's sound was not named clearly and the learners did not see it on the board. This can mean some do not know what they are learning, and it becomes hard for them to read and write words with that sound. The next step is that after the warm-up you ask which sound they heard most, write its letters on the board, and then a few learners each read one word on their own. I know you can do this, because the good foundation is already there in your class. Thank you, and I encourage you to keep going.",
+  "engine": "ElevenLabs eleven_v4",
+  "voice": "Katlego (en-ZA, cross-lingual)",
+  "seconds": 69.9,
+  "note_en": "Generated voice (cross-lingual, English-accented). A native ear has not rated it yet."
+ },
+ "accuracy": {
+  "grounding": {
+   "value": 1.0,
+   "found": 10,
+   "n": 10,
+   "label": "measured",
+   "display": "10 of 10 quotes found in the transcript",
+   "against": "the working transcript",
+   "all_quotes": null
+  },
+  "coverage": {
+   "value": 1.0,
+   "found": 16,
+   "n": 16,
+   "label": "measured",
+   "display": "16 of 16 report items filled with evidence or a reason"
+  },
+  "stability": {
+   "sd": 2.06,
+   "runs": 3,
+   "label": "measured",
+   "status_agreement_all3": "10 of 10",
+   "status_agreement_pairwise": 1.0,
+   "display": "Three runs: same status on 10 of 10 items; Rumi's private working score (0–100) moved by SD 2.1 points"
+  },
+  "score": 10.0,
+  "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
+  "label": "measured",
+  "line": "These numbers measure Rumi — whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."
+ },
+ "model": "Lesson-step and classroom-culture judgements by Claude Opus 5.5 — the stricter reader: in round 1 the production model (gpt-5-mini) was lenient on the same lessons. Three independent runs on the same transcript; the report shows the median run, with each item's status taken from the majority of the three runs.",
+ "sources": [
+  "fn-video-zu",
+  "fn-coaching-course",
+  "fn-caps-zu"
+ ]
+}

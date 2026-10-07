@@ -1,0 +1,53 @@
+{
+ "lang": "zu",
+ "title_en": "Partner videos, analysed privately",
+ "text_en": [
+  "We also ran Rumi's coaching analysis on three isiZulu classroom videos from VVOB's coaching course; they are training material, so we report the numbers here and do not show the videos.",
+  "Rumi quoted the classroom accurately (72 of 74 quotes found in the transcript), covered 42 of 45 report items with evidence, and gave nearly the same result on three independent runs.",
+  "These lessons are rehearsed demonstrations, which flatter the lesson: on real, unrehearsed isiZulu lessons the same instrument found far fewer lesson steps in place, so it can tell the two apart."
+ ],
+ "numbers": [
+  {
+   "name": "Grounding",
+   "value": 0.973,
+   "display": "72 of 74 quotes found (97.3%)",
+   "n": 74,
+   "label": "measured",
+   "line": "Share of Rumi's evidence quotes (4+ words) found in the transcript. Measures Rumi, not the teacher."
+  },
+  {
+   "name": "Coverage",
+   "value": 0.933,
+   "display": "42 of 45 items (93.3%)",
+   "n": 45,
+   "label": "measured",
+   "line": "Share of report items Rumi filled with evidence or a reason it was not observed."
+  },
+  {
+   "name": "Stability",
+   "value": 3.54,
+   "display": "SD 3.5 points across 3 runs",
+   "n": 9,
+   "label": "measured",
+   "line": "How much Rumi's private working score moved between three independent runs per video (lower is steadier)."
+  },
+  {
+   "name": "Spoken debrief round trip",
+   "value": 0.008,
+   "display": "0.8% character error",
+   "n": 3,
+   "label": "measured",
+   "line": "The spoken isiZulu debrief, transcribed back by machine, matched its script to 99.2%. A native ear has not rated it yet."
+  },
+  {
+   "name": "Language of the written feedback",
+   "value": 5.0,
+   "display": "5.0 / 10",
+   "n": 6,
+   "label": "AI-judged",
+   "line": "Two AI judges rate the isiZulu feedback understandable but not native. Native ear pending."
+  }
+ ],
+ "measures": "Rumi's coaching analysis (round 1, 7 Oct 2026). The teacher is not graded.",
+ "sources": []
+}

@@ -1,0 +1,297 @@
+{
+ "lang": "zu",
+ "engine": "ElevenLabs eleven_v4",
+ "voice": "Katlego (South African English voice, reading cross-lingually)",
+ "timing": "provider word timings (ElevenLabs)",
+ "score": {
+  "value": 9.674267100977199,
+  "display": "9.6",
+  "label": "measured (automated) · native ear pending",
+  "line": "ElevenLabs eleven_v4: text → speech → text came back with a character error rate of 0.016 (6 sentences, measured); English control through the same pipeline 0.000; native ear pending."
+ },
+ "conversation": [
+  {
+   "from": "teacher",
+   "text": "Sawubona Rumi! Ngisanda kuqeda isifundo semisindo neBanga loku-1.",
+   "en": "Hello Rumi! I have just finished the phonics lesson with Grade 1."
+  },
+  {
+   "from": "rumi",
+   "text": "Sawubona thisha! Ngiyajabula ukuzwa kuwe. Sihambe kanjani isifundo semisindo namuhla?",
+   "en": "Hello, teacher! I am happy to hear from you. How did today's phonics lesson go?",
+   "mp3": "assets/audio/zu_tts_1.mp3",
+   "words": [
+    {
+     "w": "Sawubona",
+     "s": 0.0,
+     "e": 0.56
+    },
+    {
+     "w": "thisha!",
+     "s": 0.64,
+     "e": 1.2
+    },
+    {
+     "w": "Ngiyajabula",
+     "s": 1.56,
+     "e": 2.24
+    },
+    {
+     "w": "ukuzwa",
+     "s": 2.32,
+     "e": 2.56
+    },
+    {
+     "w": "kuwe.",
+     "s": 2.64,
+     "e": 2.96
+    },
+    {
+     "w": "Sihambe",
+     "s": 3.44,
+     "e": 3.84
+    },
+    {
+     "w": "kanjani",
+     "s": 3.96,
+     "e": 4.4
+    },
+    {
+     "w": "isifundo",
+     "s": 4.52,
+     "e": 4.96
+    },
+    {
+     "w": "semisindo",
+     "s": 5.04,
+     "e": 5.6
+    },
+    {
+     "w": "namuhla?",
+     "s": 5.72,
+     "e": 6.16
+    }
+   ],
+   "dur": 6.32
+  },
+  {
+   "from": "teacher",
+   "text": "Sihambe kahle, kodwa abanye abafundi basadida umsindo omusha 'hl' nomsindo 'l'.",
+   "en": "It went well, but some learners still mix up the new sound 'hl' with the sound 'l'."
+  },
+  {
+   "from": "rumi",
+   "text": "Lokho kuvamile. Kusasa, qala ngemizuzu emihlanu yokuphinda imisindo: wena usho umsindo, abafundi baphinde, bese bewubhala emoyeni. Bese nihlanganisa amagama amafushane afana nelithi hlala.",
+   "en": "That is common. Tomorrow, start with five minutes of sound revision: you say the sound, the learners repeat it, then they write it in the air. Then blend short words such as 'hlala'.",
+   "mp3": "assets/audio/zu_tts_2.mp3",
+   "words": [
+    {
+     "w": "Lokho",
+     "s": 0.0,
+     "e": 0.4
+    },
+    {
+     "w": "kuvamile.",
+     "s": 0.48,
+     "e": 1.12
+    },
+    {
+     "w": "Kusasa,",
+     "s": 1.64,
+     "e": 2.24
+    },
+    {
+     "w": "qala",
+     "s": 2.68,
+     "e": 2.88
+    },
+    {
+     "w": "ngemizuzu",
+     "s": 2.96,
+     "e": 3.6
+    },
+    {
+     "w": "emihlanu",
+     "s": 3.68,
+     "e": 4.187
+    },
+    {
+     "w": "yokuphinda",
+     "s": 4.213,
+     "e": 4.72
+    },
+    {
+     "w": "imisindo:",
+     "s": 4.8,
+     "e": 5.36
+    },
+    {
+     "w": "wena",
+     "s": 5.88,
+     "e": 6.16
+    },
+    {
+     "w": "usho",
+     "s": 6.24,
+     "e": 6.52
+    },
+    {
+     "w": "umsindo,",
+     "s": 6.56,
+     "e": 7.2
+    },
+    {
+     "w": "abafundi",
+     "s": 7.6,
+     "e": 8.0
+    },
+    {
+     "w": "baphinde,",
+     "s": 8.08,
+     "e": 8.72
+    },
+    {
+     "w": "bese",
+     "s": 9.08,
+     "e": 9.28
+    },
+    {
+     "w": "bewubhala",
+     "s": 9.4,
+     "e": 9.92
+    },
+    {
+     "w": "emoyeni.",
+     "s": 10.0,
+     "e": 10.56
+    },
+    {
+     "w": "Bese",
+     "s": 11.08,
+     "e": 11.28
+    },
+    {
+     "w": "nihlanganisa",
+     "s": 11.4,
+     "e": 12.0
+    },
+    {
+     "w": "amagama",
+     "s": 12.08,
+     "e": 12.56
+    },
+    {
+     "w": "amafushane",
+     "s": 12.64,
+     "e": 13.36
+    },
+    {
+     "w": "afana",
+     "s": 13.52,
+     "e": 14.0
+    },
+    {
+     "w": "nelithi",
+     "s": 14.08,
+     "e": 14.4
+    },
+    {
+     "w": "hlala.",
+     "s": 14.52,
+     "e": 14.88
+    }
+   ],
+   "dur": 15.04
+  },
+  {
+   "from": "teacher",
+   "text": "Ngiyabonga, ngizozama lokho kusasa.",
+   "en": "Thank you, I will try that tomorrow."
+  },
+  {
+   "from": "rumi",
+   "text": "Wenza umsebenzi omuhle kakhulu, thisha. Ukuphinda nsuku zonke kuyasiza. Uzofundisa muphi umsindo olandelayo ngesonto elizayo?",
+   "en": "You are doing very good work, teacher. Revising every day helps. Which sound will you teach next week?",
+   "mp3": "assets/audio/zu_tts_3.mp3",
+   "words": [
+    {
+     "w": "Wenza",
+     "s": 0.0,
+     "e": 0.4
+    },
+    {
+     "w": "umsebenzi",
+     "s": 0.52,
+     "e": 1.04
+    },
+    {
+     "w": "omuhle",
+     "s": 1.12,
+     "e": 1.44
+    },
+    {
+     "w": "kakhulu,",
+     "s": 1.48,
+     "e": 2.16
+    },
+    {
+     "w": "thisha.",
+     "s": 2.48,
+     "e": 2.96
+    },
+    {
+     "w": "Ukuphinda",
+     "s": 3.48,
+     "e": 3.92
+    },
+    {
+     "w": "nsuku",
+     "s": 4.0,
+     "e": 4.32
+    },
+    {
+     "w": "zonke",
+     "s": 4.4,
+     "e": 4.88
+    },
+    {
+     "w": "kuyasiza.",
+     "s": 4.933,
+     "e": 5.6
+    },
+    {
+     "w": "Uzofundisa",
+     "s": 6.16,
+     "e": 6.8
+    },
+    {
+     "w": "muphi",
+     "s": 6.88,
+     "e": 7.28
+    },
+    {
+     "w": "umsindo",
+     "s": 7.4,
+     "e": 7.76
+    },
+    {
+     "w": "olandelayo",
+     "s": 7.92,
+     "e": 8.48
+    },
+    {
+     "w": "ngesonto",
+     "s": 8.52,
+     "e": 8.96
+    },
+    {
+     "w": "elizayo?",
+     "s": 9.0,
+     "e": 9.44
+    }
+   ],
+   "dur": 9.68
+  }
+ ],
+ "sources": []
+}

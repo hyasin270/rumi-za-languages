@@ -1,0 +1,387 @@
+{
+ "lang": "st",
+ "youtube_id": "H_EDt8PyOM8",
+ "lesson": {
+  "strand": "phonics",
+  "focus": "ng (letters n and g)",
+  "grade": "Grade 2 (as the teacher says in the video)"
+ },
+ "summary_en": "The clip opens with an alphabet song and a hand chant, then the teacher asks for the new sound; learners name its two letters, n and g, and the teacher anchors each letter to a known word (n of ntate, g of Gauteng). The class spells lengau and ngaka letter by letter in chorus, writes ngaka in the air, and blends the letters of lengolo back into the word; one learner offers a word when asked for another word with the sound. Narration says learners then copy the day's words into their books and take them home. The edit does not show any learner reading a ng word alone, the written work being checked, or how long each step took.",
+ "scope_en": "Rumi coached only the classroom moments (teacher and learners). The teacher's interview to camera is in the transcript but is not treated as evidence that a step happened.",
+ "steps": [
+  {
+   "id": "P1",
+   "name": "Ho futhumatsa ka modumo",
+   "name_en": "Oral warm-up that foregrounds the sound",
+   "status": "partly",
+   "note_en": "Learners sing the alphabet song and a hand-action chant before the teacher asks for the new sound; the songs are not shown drawing out ng itself (the teacher's interview says a second song combines the letters of the day's sound, but that is described, not shown).",
+   "evidence": [
+    {
+     "t": 55.0,
+     "quote": "a, b, c, d, e, f, g, h, i, j, k",
+     "en": "the class sings the alphabet song"
+    },
+    {
+     "t": 137.0,
+     "quote": "Re tshela ka tsoho la ho ngola.",
+     "en": "we cross with the writing hand (action chant)"
+    },
+    {
+     "t": 155.0,
+     "quote": "Modimo wa rona o motjha ke?",
+     "en": "Our new sound is...?"
+    }
+   ],
+   "from_run": "r2"
+  },
+  {
+   "id": "P2",
+   "name": "Ho tsebisa modumo o motjha",
+   "name_en": "Introduce the sound and its letters",
+   "status": "seen",
+   "note_en": "The teacher asks for the new sound and its letters; learners correctly name n and g, and the teacher repeats the answer and anchors each letter to a known word (n of ntate, g of Gauteng). No sound/letter chart is visible and articulation is not modelled in detail.",
+   "evidence": [
+    {
+     "t": 162.0,
+     "quote": "M le kh.",
+     "en": "n and g (the transcript hears 'm le kh')."
+    },
+    {
+     "t": 163.0,
+     "quote": "[learner] a re ke m le kh. Ke m...",
+     "en": "[learner] says it is n and g (the transcript hears 'm le kh'). It is n..."
+    },
+    {
+     "t": 171.0,
+     "quote": "Le \"g\" wa Gauteng. \"G\" wa eng?",
+     "en": "And g as in Gauteng. G as in what?"
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "P3",
+   "name": "Ho kopanya le ho arola medumo",
+   "name_en": "Blending and segmenting",
+   "status": "partly",
+   "note_en": "Words with ng are segmented into letters (lengau, ngaka) and blended back (lengolo), but always teacher-led and in chorus; no individual learner segments or blends.",
+   "evidence": [
+    {
+     "t": 187.0,
+     "quote": "A ke le ntshwareng ho ngola lentswe lengau le qala ka eng?",
+     "en": "Help me write the word lengau: what does it start with?"
+    },
+    {
+     "t": 239.0,
+     "quote": "Ng-a-k-a.",
+     "en": "Ng-a-k-a (learners spell in chorus)."
+    },
+    {
+     "t": 276.0,
+     "quote": "Tsohle ha di kopana ke eng?",
+     "en": "When they all join together, what is it?"
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "P4",
+   "name": "Ho bala le ho aha mantswe a nang le modumo",
+   "name_en": "Read and build words with the sound",
+   "status": "partly",
+   "note_en": "ng words (lengau, ngaka) are read in chorus with pictures; one learner offers a word when asked for another word with the sound, but no learner reads or builds a ng word on their own with feedback.",
+   "evidence": [
+    {
+     "t": 220.0,
+     "quote": "Ngaka. Ngaka. Ke eng?",
+     "en": "Ngaka (doctor). Ngaka. What is it?"
+    },
+    {
+     "t": 292.0,
+     "quote": "Ke lefe le leng lentswe le nang le modumo \"m\"?",
+     "en": "What is another word that has the sound (the transcript writes 'm')?"
+    },
+    {
+     "t": 295.0,
+     "quote": "Mame.",
+     "en": "One learner answers 'Mame'."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "P5",
+   "name": "Ho ikwetlisa le ho hlahloba",
+   "name_en": "Practice and checking",
+   "status": "not_observed",
+   "note_en": "Only the narration describes learners copying the day's words into their books and taking them home as homework; no in-class practice or checking of individual work is heard in the clip.",
+   "evidence": [
+    {
+     "t": 310.0,
+     "quote": "Ke moo ba tla ngola kapa ba kopulle mantswe a seng a ngotswe letlapeng",
+     "en": "that is where they write or copy the words already written on the board (narration, not shown)"
+    }
+   ],
+   "from_run": "r2"
+  }
+ ],
+ "culture": [
+  {
+   "id": "C1",
+   "name": "Ho nka karolo ha baithuti bohle",
+   "name_en": "Participation of all learners",
+   "status": "partly",
+   "note_en": "Choral answers dominate; the teacher invites learners at the back to raise their hands and takes a few individual answers, but most turns are whole-class.",
+   "evidence": [
+    {
+     "t": 96.0,
+     "quote": "Phahamisa re bone. Re bone ba saletseng morao.",
+     "en": "Raise them so we can see. Let's see the ones at the back."
+    },
+    {
+     "t": 261.0,
+     "quote": "Ke lebala.",
+     "en": "It is a ball (one learner answers)."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C2",
+   "name": "Ho babatsa boiteko le monahano",
+   "name_en": "Praise of effort and thinking",
+   "status": "partly",
+   "note_en": "No explicit praise is heard; the teacher credits one learner's correct answer by repeating it with the learner's name, which acknowledges the thinking but does not praise effort or strategy.",
+   "evidence": [
+    {
+     "t": 163.0,
+     "quote": "[learner] a re ke m le kh. Ke m...",
+     "en": "[learner] says it is n and g (the transcript hears 'm le kh'). It is n..."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C3",
+   "name": "Ho sebetsana le diphoso",
+   "name_en": "Handling errors as learning",
+   "status": "partly",
+   "note_en": "When the chorus answers 'Lengau' instead of the next letter, the question is simply repeated and the answer 'Ng' then comes on a line labelled Narrator; no learner is helped to find it by saying the word slowly.",
+   "evidence": [
+    {
+     "t": 194.0,
+     "quote": "Lengau.",
+     "en": "Lengau (learners answer the whole word when asked for the next letter)."
+    },
+    {
+     "t": 195.0,
+     "quote": "Latela eng?",
+     "en": "What follows?"
+    },
+    {
+     "t": 196.0,
+     "quote": "Ng",
+     "en": "Ng (line labelled Narrator)."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C4",
+   "name": "Lebelo le tshebediso ya nako",
+   "name_en": "Pace and time on task",
+   "status": "seen",
+   "note_en": "Within the shown segments the question-and-answer turns are quick and purposeful; the edit hides transitions and total time, so CAPS time allocation cannot be judged.",
+   "evidence": [
+    {
+     "t": 187.0,
+     "quote": "A ke le ntshwareng ho ngola lentswe lengau le qala ka eng?",
+     "en": "Help me write the word lengau: what does it start with?"
+    },
+    {
+     "t": 191.0,
+     "quote": "Ebe ho latela?",
+     "en": "Then what follows?"
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C5",
+   "name": "Ho hlahloba kutlwisiso ya moithuti ka mong",
+   "name_en": "Checking individual understanding",
+   "status": "partly",
+   "note_en": "One or two individual learners answer (the letters of ng, a word with the sound), but there is no systematic check of who can read ng words and no visible adjustment.",
+   "evidence": [
+    {
+     "t": 257.0,
+     "quote": "Ke eng e re tshwereng ka letsogo?",
+     "en": "What is it that we are holding in the hand?"
+    },
+    {
+     "t": 292.0,
+     "quote": "Ke lefe le leng lentswe le nang le modumo \"m\"?",
+     "en": "What is another word that has the sound (the transcript writes 'm')?"
+    }
+   ],
+   "from_run": "r1"
+  }
+ ],
+ "positives": [
+  {
+   "en": "When the teacher asked for the new sound, learners named its two letters, n and g, and the teacher repeated the answer and anchored each letter to a word the children already know (n of ntate, g of Gauteng), giving them a memory hook for both letters of the digraph.",
+   "t": 162.0
+  },
+  {
+   "en": "The teacher built lengau letter by letter with the class, asking what it starts with and what follows, so learners had to attend to where ng sits inside a word.",
+   "t": 187.0
+  },
+  {
+   "en": "Learners spelled ngaka aloud while writing it in the air, with a picture of the word, combining sound, letter shape and meaning in one activity.",
+   "t": 239.0
+  },
+  {
+   "en": "After spelling lengolo letter by letter, the teacher asked what the letters make when they join, so learners blended the sounds back into a whole word.",
+   "t": 276.0
+  },
+  {
+   "en": "The teacher actively invited learners at the back of the room to raise their hands and take part.",
+   "t": 96.0
+  }
+ ],
+ "blockages": [
+  {
+   "en": "All spelling and reading of ng words is done in chorus (ngaka, lengolo); no learner reads a ng word alone. Effect: learners who cannot yet read ng can follow the group's voice, so the teacher cannot see who needs help. Catch-up: after each chorus round, call four or five learners by name to read one word card each and note who struggles for a small-group re-teach.",
+   "t": 239.0
+  },
+  {
+   "en": "Asked for the next letter in lengau, the class answered with the whole word; the question was repeated and the answer ng came without a learner working it out. Effect: the confusion between a letter and a word is covered over, and the learners who were lost stay lost. Catch-up: when the chorus goes wrong, ask one learner to say the word slowly, stop after le-, and find the next sound, then let the class check.",
+   "t": 194.0
+  },
+  {
+   "en": "Writing practice (air-writing, copying the day's words) is shown or described, but no work is checked in class. Effect: letter-order mistakes such as gn for ng can go home as homework and be practised wrongly. Catch-up: walk the rows during copying and check the ng words of a few named learners before books close.",
+   "t": 310.0
+  }
+ ],
+ "level_of_change": {
+  "level": 3,
+  "en": "Focus skill: checking individual learners' reading of ng words instead of relying on the chorus. The teacher does take individual answers at times (a learner's letters, a learner's word) and builds words step by step, so they can do it with effort but not yet systematically, which suggests level 3. This is one edited clip, so it is thin evidence; confirm in a live visit. Coach move: encourage persistence and practice, agreeing a small routine (a few named learners read alone after each chorus round) and following up on it."
+ },
+ "grow": {
+  "goal": {
+   "lang": "Ka mora ho bala hammoho, bana ba bane kapa ba bahlano ba bale lentswe le nang le modumo wa ng ka bobona, mme o ngole hore ke bafe ba sa ntseng ba hloka thuso.",
+   "en": "After chorus reading, four or five learners each read a word with ng on their own, and you note who still needs help."
+  },
+  "reality": {
+   "lang": "Thutong ena bana ba ile ba peleta lengau le ngaka hammoho. Ha ba ne ba re lengau sebakeng sa tlhaku e latelang, karabo ya ng ya hlaha pele ngwana a e batla. Ha re a bona ngwana a bala lentswe a le mong.",
+   "en": "In this lesson learners spelled lengau and ngaka together. When they said lengau instead of the next letter, the answer ng came before a learner could find it. We did not see a learner read a word alone."
+  },
+  "options": {
+   "lang": "O ka sebedisa dikarete tsa mantswe wa bitsa bana ka mabitso hore ba bale karete e le nngwe ka mong; kapa wa kopa ngwana a bue lentswe butle hore a fumane modumo o latelang; kapa bana ba balane ka bobedi o ntse o mamela.",
+   "en": "You could use word cards and call learners by name to read one card each; or ask a learner to say the word slowly to find the next sound; or have learners read to each other in pairs while you listen."
+  },
+  "way_forward": {
+   "lang": "Bekeng ena, thutong e nngwe le e nngwe ya medumo, ka mora ho bala hammoho, bitsa bana ba bahlano ka mabitso ba bale lentswe le le leng ka mong, mme o ngole lenaneng hore ke bafe ba hlokang thuso hape.",
+   "en": "This week, in every phonics lesson, after chorus reading call five learners by name to read one word each, and write down who needs more help."
+  }
+ },
+ "questions": [
+  {
+   "lang": "Ha bana ba bolela ditlhaku n le g, mme wa di hokahanya le ntate le Gauteng, o ne o batla hore ba hopole eng ka mokgwa oo?",
+   "en": "When learners named the letters n and g and you linked them to ntate and Gauteng, what did you want them to remember through that?",
+   "t": 162.0
+  },
+  {
+   "lang": "Ha bana ba araba ka lentswe lengau sebakeng sa tlhaku e latelang, o nahana hore ba ne ba utlwisisa eng, le hore ba ne ba sa utlwisise eng motsotsong oo?",
+   "en": "When learners answered with the word lengau instead of the next letter, what do you think they understood, and what did they not understand at that moment?",
+   "t": 194.0
+  },
+  {
+   "lang": "Ha bana ba peleta ngaka hammoho, o tseba jwang hore ke mang ya kgonang ho e bala a le mong, le hore ke mang ya ntseng a latela ba bang?",
+   "en": "When learners spelled ngaka together, how do you know who can read it alone and who is following the others?",
+   "t": 239.0
+  }
+ ],
+ "debrief_plan": [
+  {
+   "step": 1,
+   "step_en": "Ask permission",
+   "coach_says": "Ke a leboha ka ho re amohela phaposing ya hao. Na nka arolelana le wena seo ke se boneng thutong ya modumo wa ng?",
+   "en": "Thank you for welcoming us into your classroom. May I share with you what I saw in the lesson on the ng sound?"
+  },
+  {
+   "step": 2,
+   "step_en": "Observation: positives and blockages",
+   "coach_says": "Ke bone ha o botsa modumo o motjha, bana ba bolela ditlhaku n le g, mme wa di hokahanya le ntate le Gauteng. Ke bone hape ba ngola ngaka moyeng ba ntse ba e peleta. Empa ho peleta le ho bala ho ne ho etswa hammoho feela, mme ha ba re lengau sebakeng sa tlhaku e latelang, karabo ya hlaha pele ngwana a e batla.",
+   "en": "I saw that when you asked for the new sound, learners named the letters n and g, and you linked them to ntate and Gauteng. I also saw them write ngaka in the air while spelling it. But spelling and reading were only done together, and when they said lengau instead of the next letter, the answer came before a learner could find it."
+  },
+  {
+   "step": 3,
+   "step_en": "Effect on learners",
+   "coach_says": "Ha bana ba bala hammoho feela, ba thatafallwang ba ipata kahara lentswe la sehlopha. Ka hona ha re tsebe hore ke bafe ba ka balang lentswe le nang le ng ba le bang.",
+   "en": "When learners only read together, those who struggle hide inside the group's voice. So we do not know who can read a word with ng alone."
+  },
+  {
+   "step": 4,
+   "step_en": "Pause and dialogue",
+   "coach_says": "Ke kopa ho utlwa maikutlo a hao. O bona jwang motsotso oo ha bana ba ne ba re lengau? Ho etsahetseng ka mora moo, ntle le seo khamera e se bontshitseng?",
+   "en": "I would like to hear your view. How do you see that moment when learners said lengau? What happened after that, beyond what the camera showed?"
+  },
+  {
+   "step": 5,
+   "step_en": "Opportunity and contracting",
+   "coach_says": "Ha re lumellane hore thutong e tlang, ka mora ho bala hammoho, o tla bitsa bana ba bahlano ka mabitso ba bale lentswe ka mong, mme o ngole ba hlokang thuso. Ke tla tla ke shebe, mme re buisane hape.",
+   "en": "Let us agree that in the next lesson, after chorus reading, you will call five learners by name to read a word each and note who needs help. I will come and observe, and we will talk again."
+  }
+ ],
+ "next_step": {
+  "lang": "Ka mora ho bala mantswe a nang le ng hammoho, bitsa bana ba bahlano ka mabitso hore e mong le e mong a bale lentswe le le leng a le mong, mme o ngole ba hlokang thuso.",
+  "en": "After reading ng words together, call five learners by name to each read one word on their own, and note who needs help."
+ },
+ "voice": {
+  "mp3": "assets/audio/st_debrief.mp3",
+  "words": "data/st/debrief_words.json",
+  "script": "Ke a leboha haholo ka ho re bulela phaposi ya hao ya borutelo. Ke thabetse thuto ya hao ya modumo wa ng. Sa pele, ha o botsa modumo o motjha, bana ba bolela ditlhaku tsa ona tse pedi, mme wa hokahanya tlhaku ka nngwe le lentswe leo ba le tsebang, jwaloka ntate le Gauteng. Sa bobedi, bana ba ile ba peleta lentswe ngaka ba ntse ba le ngola moyeng ba shebile setshwantsho. Ntho e le nngwe eo ke e boneng ke hore ho bala le ho peleta ho ne ho etswa hammoho feela. Ha bana ba bala hammoho, ba thatafallwang ba ipata, mme ha o tsebe hore ke mang ya hlokang thuso. Thutong e tlang, ka mora ho bala hammoho, bitsa bana ba mmalwa ka mabitso ba bale lentswe ka mong. Ke a tseba hore o tla e kgona. Tswela pele ka matla ana a matle.",
+  "en": "Thank you very much for opening your classroom to us. I enjoyed your lesson on the ng sound. First, when you asked for the new sound, learners named its two letters, and you linked each letter to a word they know, like ntate and Gauteng. Second, learners spelled the word ngaka while writing it in the air and looking at the picture. One thing I noticed is that reading and spelling were done only together. When children read only together, those who struggle hide, and you cannot tell who needs help. In the next lesson, after reading together, call a few learners by name to read a word on their own. I know you can do it. Keep going with this good energy.",
+  "engine": "Soniox tts-rt-v2",
+  "voice": "Grace (cross-lingual, language=en)",
+  "seconds": 49.8,
+  "note_en": "Generated voice (cross-lingual, English-accented). A native ear has not rated it yet."
+ },
+ "accuracy": {
+  "grounding": {
+   "value": 1.0,
+   "found": 15,
+   "n": 15,
+   "label": "measured",
+   "display": "15 of 15 quotes found in the transcript",
+   "against": "the working transcript",
+   "all_quotes": null
+  },
+  "coverage": {
+   "value": 1.0,
+   "found": 16,
+   "n": 16,
+   "label": "measured",
+   "display": "16 of 16 report items filled with evidence or a reason"
+  },
+  "stability": {
+   "sd": 1.53,
+   "runs": 3,
+   "label": "measured",
+   "status_agreement_all3": "7 of 10",
+   "status_agreement_pairwise": 0.8,
+   "display": "Three runs: same status on 7 of 10 items; Rumi's private working score (0–100) moved by SD 1.5 points"
+  },
+  "score": 10.0,
+  "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
+  "label": "measured",
+  "line": "These numbers measure Rumi — whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."
+ },
+ "model": "Lesson-step and classroom-culture judgements by Claude Opus 5.5 — the stricter reader: in round 1 the production model (gpt-5-mini) was lenient on the same lessons. Three independent runs on the same transcript; the report shows the median run, with each item's status taken from the majority of the three runs.",
+ "sources": [
+  "fn-video-st",
+  "fn-coaching-course",
+  "fn-caps-st"
+ ]
+}

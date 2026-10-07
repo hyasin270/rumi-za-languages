@@ -1,0 +1,52 @@
+{
+ "lang": "zu",
+ "page": {
+  "image": "assets/img/zu_wb_p4.png",
+  "book": "DBE Rainbow Workbook, Grade 1 Home Language (isiZulu), Book 1, Term 1 Week 1: \"Umzimba\"",
+  "printed_page": 4,
+  "pdf_page": 8,
+  "source": "fn-wb-zu"
+ },
+ "text_layer": "Ithemu 1 – Isonto 1\n2\nUmzimba\nMasenze lokhu\nLalela uthisha bese\nukhomba ingxenye\nefanele yomzimba.\nikhanda\nizinwele\nizindlebe\namehlo\namazinyo\nikhala\nulimi\numlomo\nintamo\nihlombe\nindololwane\nisifuba\ningalo\nisisu\nithanga\nidolo\nisitho\numunwe\nunyawo\nisandla\numlenze\nizinzwane\n4\nZUL HL Gr1 B1 TH1.indd 4\n2019/04/02 11:32:26",
+ "vision_text": "2 Umzimba\nIthemu 1 – Isonto 1\nMasenze lokhu\nLalela uthisha bese ukhomba ingxenye efanele yomzimba.\nikhanda\nizinwele\nizindlebe\namehlo\nikhala\numlomo\nihlombe\nisifuba\ningalo\nisisu\numunwe\nisandla\namazinyo\nulimi\nintamo\nindololwane\nithanga\nidolo\nisitho\nunyawo\numlenze\nizinzwane\n4\nZUL HL Gr1 B1 CSN.indd 4 [?]",
+ "diff": [
+  {
+   "type": "same",
+   "text": "2 Umzimba Ithemu 1 – Isonto 1 Masenze lokhu Lalela uthisha bese ukhomba ingxenye efanele yomzimba. ikhanda izinwele izindlebe amehlo ikhala umlomo ihlombe isifuba ingalo isisu umunwe isandla amazinyo ulimi intamo indololwane ithanga idolo isitho unyawo umlenze izinzwane 4 ZUL HL Gr1 B1"
+  },
+  {
+   "type": "del",
+   "text": "TH1.indd"
+  },
+  {
+   "type": "ins",
+   "text": "CSN.indd"
+  },
+  {
+   "type": "same",
+   "text": "4"
+  },
+  {
+   "type": "del",
+   "text": "2019/04/02 11:32:26"
+  }
+ ],
+ "cer": 0.0892,
+ "score": 5.54,
+ "score_label": "measured (automated)",
+ "cer_line": "This page: 8.9% of characters differ from the PDF's own text layer (order-free) → 5.5/10.",
+ "cer_without_stamp": 0.0,
+ "score_without_stamp": 10.0,
+ "without_stamp_line": "Leaving out the printer's margin stamp (file name, print date and time): 0.0% → 10.0/10.",
+ "overall": {
+  "cer": 0.0217,
+  "score": 8.91,
+  "n_pages": 22,
+  "label": "measured (automated)",
+  "line": "All 22 test pages in isiZulu (curriculum, a storybook and six workbook pages): 2.2% of characters differ → 8.9/10 for page reading."
+ },
+ "why_en": "Rumi read every isiZulu word on this page correctly: the title, the instruction and all 22 body-part labels. The only differences are in the printer's margin stamp, which a learner never sees: Rumi misread the file code \"TH1\" as \"CSN\" (and marked that line as unsure) and left out the print date and time. The PDF's text layer lists the labels in a scrambled order around the drawing, so the comparison ignores word order and counts only wrong, missing or extra words.",
+ "sources": [
+  "fn-wb-zu"
+ ]
+}

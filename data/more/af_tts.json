@@ -1,0 +1,337 @@
+{
+ "lang": "af",
+ "engine": "ElevenLabs eleven_v4",
+ "voice": "Anneke (native Afrikaans voice)",
+ "timing": "provider word timings (ElevenLabs)",
+ "score": {
+  "value": 9.696048632218845,
+  "display": "9.6",
+  "label": "measured (automated) · native ear pending",
+  "line": "ElevenLabs eleven_v4: text → speech → text came back with a character error rate of 0.015 (6 sentences, measured); English control through the same pipeline 0.000; native ear pending."
+ },
+ "conversation": [
+  {
+   "from": "teacher",
+   "text": "Hallo Rumi! Ek het pas die klankles met Graad 1 klaargemaak.",
+   "en": "Hello Rumi! I have just finished the phonics lesson with Grade 1."
+  },
+  {
+   "from": "rumi",
+   "text": "Hallo! Dis lekker om van jou te hoor. Hoe het vandag se klankles met die leerders gegaan?",
+   "en": "Hello! It is lovely to hear from you. How did today's phonics lesson with the learners go?",
+   "mp3": "assets/audio/af_tts_1.mp3",
+   "words": [
+    {
+     "w": "Hallo!",
+     "s": 0.0,
+     "e": 0.48
+    },
+    {
+     "w": "Dis",
+     "s": 0.8,
+     "e": 0.96
+    },
+    {
+     "w": "lekker",
+     "s": 1.04,
+     "e": 1.36
+    },
+    {
+     "w": "om",
+     "s": 1.4,
+     "e": 1.44
+    },
+    {
+     "w": "van",
+     "s": 1.52,
+     "e": 1.6
+    },
+    {
+     "w": "jou",
+     "s": 1.68,
+     "e": 1.76
+    },
+    {
+     "w": "te",
+     "s": 1.84,
+     "e": 1.92
+    },
+    {
+     "w": "hoor.",
+     "s": 2.0,
+     "e": 2.24
+    },
+    {
+     "w": "Hoe",
+     "s": 2.76,
+     "e": 2.84
+    },
+    {
+     "w": "het",
+     "s": 2.88,
+     "e": 2.96
+    },
+    {
+     "w": "vandag",
+     "s": 3.04,
+     "e": 3.28
+    },
+    {
+     "w": "se",
+     "s": 3.36,
+     "e": 3.52
+    },
+    {
+     "w": "klankles",
+     "s": 3.56,
+     "e": 4.08
+    },
+    {
+     "w": "met",
+     "s": 4.12,
+     "e": 4.16
+    },
+    {
+     "w": "die",
+     "s": 4.2,
+     "e": 4.24
+    },
+    {
+     "w": "leerders",
+     "s": 4.32,
+     "e": 4.72
+    },
+    {
+     "w": "gegaan?",
+     "s": 4.8,
+     "e": 5.12
+    }
+   ],
+   "dur": 5.36
+  },
+  {
+   "from": "teacher",
+   "text": "Dit het goed gegaan, maar party leerders verwar nog die nuwe klank 'ui' met die klank 'ei'.",
+   "en": "It went well, but some learners still mix up the new sound 'ui' with the sound 'ei'."
+  },
+  {
+   "from": "rumi",
+   "text": "Dis normaal. Begin môre met vyf minute klankhersiening: jy sê die klank, die leerders sê dit na en skryf dit in die lug.",
+   "en": "That is normal. Tomorrow, start with five minutes of sound revision: you say the sound, the learners repeat it and write it in the air.",
+   "mp3": "assets/audio/af_tts_2.mp3",
+   "words": [
+    {
+     "w": "Dis",
+     "s": 0.0,
+     "e": 0.24
+    },
+    {
+     "w": "normaal.",
+     "s": 0.4,
+     "e": 0.88
+    },
+    {
+     "w": "Begin",
+     "s": 1.44,
+     "e": 1.76
+    },
+    {
+     "w": "môre",
+     "s": 1.8,
+     "e": 2.16
+    },
+    {
+     "w": "met",
+     "s": 2.24,
+     "e": 2.32
+    },
+    {
+     "w": "vyf",
+     "s": 2.48,
+     "e": 2.72
+    },
+    {
+     "w": "minute",
+     "s": 2.92,
+     "e": 3.12
+    },
+    {
+     "w": "klankhersiening:",
+     "s": 3.2,
+     "e": 4.0
+    },
+    {
+     "w": "jy",
+     "s": 4.56,
+     "e": 4.72
+    },
+    {
+     "w": "sê",
+     "s": 4.8,
+     "e": 4.96
+    },
+    {
+     "w": "die",
+     "s": 5.04,
+     "e": 5.12
+    },
+    {
+     "w": "klank,",
+     "s": 5.16,
+     "e": 5.52
+    },
+    {
+     "w": "die",
+     "s": 5.92,
+     "e": 6.0
+    },
+    {
+     "w": "leerders",
+     "s": 6.08,
+     "e": 6.48
+    },
+    {
+     "w": "sê",
+     "s": 6.52,
+     "e": 6.64
+    },
+    {
+     "w": "dit",
+     "s": 6.72,
+     "e": 6.8
+    },
+    {
+     "w": "na",
+     "s": 6.88,
+     "e": 7.2
+    },
+    {
+     "w": "en",
+     "s": 7.44,
+     "e": 7.6
+    },
+    {
+     "w": "skryf",
+     "s": 7.68,
+     "e": 8.0
+    },
+    {
+     "w": "dit",
+     "s": 8.08,
+     "e": 8.16
+    },
+    {
+     "w": "in",
+     "s": 8.2,
+     "e": 8.24
+    },
+    {
+     "w": "die",
+     "s": 8.32,
+     "e": 8.4
+    },
+    {
+     "w": "lug.",
+     "s": 8.56,
+     "e": 8.72
+    }
+   ],
+   "dur": 8.88
+  },
+  {
+   "from": "teacher",
+   "text": "Dankie, ek sal dit môre probeer.",
+   "en": "Thank you, I will try that tomorrow."
+  },
+  {
+   "from": "rumi",
+   "text": "Jy doen baie goeie werk. Daaglikse herhaling help regtig. Watter klank gaan jy volgende week onderrig?",
+   "en": "You are doing very good work. Daily revision really helps. Which sound will you teach next week?",
+   "mp3": "assets/audio/af_tts_3.mp3",
+   "words": [
+    {
+     "w": "Jy",
+     "s": 0.0,
+     "e": 0.2
+    },
+    {
+     "w": "doen",
+     "s": 0.24,
+     "e": 0.48
+    },
+    {
+     "w": "baie",
+     "s": 0.56,
+     "e": 0.88
+    },
+    {
+     "w": "goeie",
+     "s": 0.92,
+     "e": 1.2
+    },
+    {
+     "w": "werk.",
+     "s": 1.4,
+     "e": 1.6
+    },
+    {
+     "w": "Daaglikse",
+     "s": 2.0,
+     "e": 2.56
+    },
+    {
+     "w": "herhaling",
+     "s": 2.68,
+     "e": 3.2
+    },
+    {
+     "w": "help",
+     "s": 3.36,
+     "e": 3.52
+    },
+    {
+     "w": "regtig.",
+     "s": 3.6,
+     "e": 4.24
+    },
+    {
+     "w": "Watter",
+     "s": 4.72,
+     "e": 5.04
+    },
+    {
+     "w": "klank",
+     "s": 5.08,
+     "e": 5.28
+    },
+    {
+     "w": "gaan",
+     "s": 5.36,
+     "e": 5.52
+    },
+    {
+     "w": "jy",
+     "s": 5.56,
+     "e": 5.68
+    },
+    {
+     "w": "volgende",
+     "s": 5.76,
+     "e": 6.16
+    },
+    {
+     "w": "week",
+     "s": 6.28,
+     "e": 6.4
+    },
+    {
+     "w": "onderrig?",
+     "s": 6.48,
+     "e": 6.96
+    }
+   ],
+   "dur": 7.12
+  }
+ ],
+ "sources": []
+}

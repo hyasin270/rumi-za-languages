@@ -1,0 +1,566 @@
+{
+ "lang": "xh",
+ "lesson": {
+  "title": "isiXhosa HL Ibanga 1 · Iveki 7 Usuku 1 — isandi esitsha c",
+  "title_en": "isiXhosa HL Grade 1 · Week 7 Day 1 — new sound c",
+  "topic": "Abahlobo bam nemidlalo · isandi esitsha c (c + a = ca)",
+  "topic_en": "My friends and games · new sound c (c + a = ca)",
+  "grade": 1,
+  "term": 1,
+  "week": 7,
+  "day": 1,
+  "minutes": 88,
+  "caps_ref": "CAPS isiXhosa HL Gr R-3, printed pages 9, 56, 57, 58, 60",
+  "caps_items": [
+   "p9: ixesha ngeveki, Ibanga 1",
+   "p56: LS-02 iindaba; LS-09 'ewe' okanye 'hayi'",
+   "p57: RP-14 u-c; RP-19/21 imifanekiso, uqweqwe",
+   "p58: RP-33 ukufunda ngamaqela",
+   "p60: W-42 unobumba c"
+  ]
+ },
+ "pages": [
+  "assets/img/xh_lp_p1.png",
+  "assets/img/xh_lp_p2.png",
+  "assets/img/xh_lp_p3.png",
+  "assets/img/xh_lp_p4.png"
+ ],
+ "pdf": "assets/pdf/xh_lp.pdf",
+ "reviewer_pdf": "assets/pdf/xh_lp_reviewer_en.pdf",
+ "voice_note": {
+  "mp3": "assets/audio/xh_lp_voicenote.mp3",
+  "script": "Molo, titshala. Namhlanje sifundisa isandi esitsha esibhalwa ngonobumba c. Esi sisandi esenziwa ngolwimi: incam yolwimi ibekwa emva kwamazinyo aphezulu, iqhwakraze ngokukhawuleza. Akukho moya uphumayo. Into enye ebalulekileyo namhlanje yile: yenza isandi kanye, uze uvumele abafundi basenze ngokwabo, iklasi yonke, emva koko ubize abafundi abambalwa ngabanye, intombazana emva koko inkwenkwe. Musa ukusenza endaweni yabo. Emva koko sidibanisa nezikhamiso: ca, ce, ci, co, cu. Amagama anamhlanje ngala: cela, cula, iculo, cima. Eqeleni, abafundi bafunda ibali elifutshane elithi Iculo. Ekuqaleni kwesifundo, abantwana babalisa iindaba ngomdlalo abawudlale nomhlobo, baze baphendule ngo-ewe okanye hayi. Kuyavuyisa ukusebenza nawe. Hamba kakuhle.",
+  "script_en": "Hello, teacher. Today we teach a new sound, written with the letter c. This is a sound made with the tongue: the tip of the tongue goes behind the top teeth and clicks away quickly. No breath comes out. The one important thing today is this: make the sound once, then let the learners make it themselves, the whole class, then call a few learners one by one, a girl and then a boy. Do not make it for them. Then we join it with the vowels: ca, ce, ci, co, cu. Today's words are: cela, cula, iculo, cima. In the group, learners read a short story called Iculo, The Song. At the start of the lesson, the children tell news about a game they played with a friend, and answer with yes or no. It is a joy to work with you. Go well.",
+  "words": [
+   {
+    "w": "Molo,",
+    "s": 0.0,
+    "e": 0.9
+   },
+   {
+    "w": "titshala.",
+    "s": 1.42,
+    "e": 2.32
+   },
+   {
+    "w": "Namhlanje",
+    "s": 3.1,
+    "e": 3.66
+   },
+   {
+    "w": "sifundisa",
+    "s": 3.66,
+    "e": 4.8
+   },
+   {
+    "w": "isandi",
+    "s": 4.8,
+    "e": 5.54
+   },
+   {
+    "w": "esitsha",
+    "s": 5.54,
+    "e": 6.36
+   },
+   {
+    "w": "esibhalwa",
+    "s": 6.36,
+    "e": 7.3
+   },
+   {
+    "w": "ngonobumba",
+    "s": 7.3,
+    "e": 8.4
+   },
+   {
+    "w": "c.",
+    "s": 8.693,
+    "e": 8.84
+   },
+   {
+    "w": "Esi",
+    "s": 9.9,
+    "e": 10.18
+   },
+   {
+    "w": "sisandi",
+    "s": 10.18,
+    "e": 10.96
+   },
+   {
+    "w": "esenziwa",
+    "s": 10.96,
+    "e": 11.683
+   },
+   {
+    "w": "ngolwimi:",
+    "s": 11.683,
+    "e": 12.38
+   },
+   {
+    "w": "incam",
+    "s": 13.28,
+    "e": 13.6
+   },
+   {
+    "w": "yolwimi",
+    "s": 13.6,
+    "e": 14.46
+   },
+   {
+    "w": "ibekwa",
+    "s": 15.0,
+    "e": 15.46
+   },
+   {
+    "w": "emva",
+    "s": 15.46,
+    "e": 16.08
+   },
+   {
+    "w": "kwamazinyo",
+    "s": 16.08,
+    "e": 16.92
+   },
+   {
+    "w": "aphezulu,",
+    "s": 16.92,
+    "e": 17.74
+   },
+   {
+    "w": "iqhwakraze",
+    "s": 18.2,
+    "e": 19.202
+   },
+   {
+    "w": "ngokukhawuleza.",
+    "s": 19.202,
+    "e": 20.9
+   },
+   {
+    "w": "Akukho",
+    "s": 20.9,
+    "e": 21.6
+   },
+   {
+    "w": "moya",
+    "s": 21.6,
+    "e": 22.24
+   },
+   {
+    "w": "uphumayo.",
+    "s": 22.24,
+    "e": 23.02
+   },
+   {
+    "w": "Into",
+    "s": 23.88,
+    "e": 24.18
+   },
+   {
+    "w": "enye",
+    "s": 24.18,
+    "e": 24.52
+   },
+   {
+    "w": "ebalulekileyo",
+    "s": 24.52,
+    "e": 25.7
+   },
+   {
+    "w": "namhlanje",
+    "s": 25.7,
+    "e": 26.4
+   },
+   {
+    "w": "yile:",
+    "s": 26.72,
+    "e": 27.14
+   },
+   {
+    "w": "yenza",
+    "s": 28.08,
+    "e": 28.08
+   },
+   {
+    "w": "isandi",
+    "s": 28.08,
+    "e": 28.8
+   },
+   {
+    "w": "kanye,",
+    "s": 28.8,
+    "e": 29.12
+   },
+   {
+    "w": "uze",
+    "s": 29.88,
+    "e": 30.04
+   },
+   {
+    "w": "uvumele",
+    "s": 30.04,
+    "e": 30.8
+   },
+   {
+    "w": "abafundi",
+    "s": 30.8,
+    "e": 31.7
+   },
+   {
+    "w": "basenze",
+    "s": 31.7,
+    "e": 32.427
+   },
+   {
+    "w": "ngokwabo,",
+    "s": 32.427,
+    "e": 33.34
+   },
+   {
+    "w": "iklasi",
+    "s": 33.86,
+    "e": 34.5
+   },
+   {
+    "w": "yonke,",
+    "s": 34.5,
+    "e": 34.96
+   },
+   {
+    "w": "emva",
+    "s": 35.6,
+    "e": 35.9
+   },
+   {
+    "w": "koko",
+    "s": 35.9,
+    "e": 36.22
+   },
+   {
+    "w": "ubize",
+    "s": 36.22,
+    "e": 36.82
+   },
+   {
+    "w": "abafundi",
+    "s": 36.82,
+    "e": 37.7
+   },
+   {
+    "w": "abambalwa",
+    "s": 37.7,
+    "e": 38.36
+   },
+   {
+    "w": "ngabanye,",
+    "s": 38.36,
+    "e": 38.92
+   },
+   {
+    "w": "intombazana",
+    "s": 39.6,
+    "e": 40.34
+   },
+   {
+    "w": "emva",
+    "s": 40.34,
+    "e": 40.78
+   },
+   {
+    "w": "koko",
+    "s": 40.78,
+    "e": 41.12
+   },
+   {
+    "w": "inkwenkwe.",
+    "s": 41.12,
+    "e": 41.96
+   },
+   {
+    "w": "Musa",
+    "s": 42.82,
+    "e": 43.04
+   },
+   {
+    "w": "ukusenza",
+    "s": 43.04,
+    "e": 43.72
+   },
+   {
+    "w": "endaweni",
+    "s": 43.72,
+    "e": 44.38
+   },
+   {
+    "w": "yabo.",
+    "s": 44.38,
+    "e": 44.82
+   },
+   {
+    "w": "Emva",
+    "s": 44.82,
+    "e": 45.92
+   },
+   {
+    "w": "koko",
+    "s": 45.92,
+    "e": 46.08
+   },
+   {
+    "w": "sidibanisa",
+    "s": 46.08,
+    "e": 47.28
+   },
+   {
+    "w": "nezikhamiso:",
+    "s": 47.28,
+    "e": 48.24
+   },
+   {
+    "w": "ca,",
+    "s": 48.96,
+    "e": 48.98
+   },
+   {
+    "w": "ce,",
+    "s": 49.54,
+    "e": 49.54
+   },
+   {
+    "w": "ci,",
+    "s": 49.98,
+    "e": 50.12
+   },
+   {
+    "w": "co,",
+    "s": 50.66,
+    "e": 50.7
+   },
+   {
+    "w": "cu.",
+    "s": 51.16,
+    "e": 51.26
+   },
+   {
+    "w": "Amagama",
+    "s": 52.0,
+    "e": 52.28
+   },
+   {
+    "w": "anamhlanje",
+    "s": 52.28,
+    "e": 53.08
+   },
+   {
+    "w": "ngala:",
+    "s": 53.08,
+    "e": 53.52
+   },
+   {
+    "w": "cela,",
+    "s": 54.12,
+    "e": 54.22
+   },
+   {
+    "w": "cula,",
+    "s": 54.74,
+    "e": 54.9
+   },
+   {
+    "w": "iculo,",
+    "s": 55.28,
+    "e": 55.68
+   },
+   {
+    "w": "cima.",
+    "s": 56.34,
+    "e": 56.5
+   },
+   {
+    "w": "Eqeleni,",
+    "s": 57.12,
+    "e": 57.72
+   },
+   {
+    "w": "abafundi",
+    "s": 58.18,
+    "e": 58.82
+   },
+   {
+    "w": "bafunda",
+    "s": 58.82,
+    "e": 59.42
+   },
+   {
+    "w": "ibali",
+    "s": 59.42,
+    "e": 59.96
+   },
+   {
+    "w": "elifutshane",
+    "s": 59.96,
+    "e": 60.78
+   },
+   {
+    "w": "elithi",
+    "s": 60.78,
+    "e": 61.8
+   },
+   {
+    "w": "Iculo.",
+    "s": 61.8,
+    "e": 62.14
+   },
+   {
+    "w": "Ekuqaleni",
+    "s": 62.14,
+    "e": 63.42
+   },
+   {
+    "w": "kwesifundo,",
+    "s": 63.42,
+    "e": 64.22
+   },
+   {
+    "w": "abantwana",
+    "s": 64.7,
+    "e": 65.2
+   },
+   {
+    "w": "babalisa",
+    "s": 65.2,
+    "e": 65.9
+   },
+   {
+    "w": "iindaba",
+    "s": 65.9,
+    "e": 66.48
+   },
+   {
+    "w": "ngomdlalo",
+    "s": 66.48,
+    "e": 67.46
+   },
+   {
+    "w": "abawudlale",
+    "s": 67.46,
+    "e": 68.278
+   },
+   {
+    "w": "nomhlobo,",
+    "s": 68.278,
+    "e": 68.86
+   },
+   {
+    "w": "baze",
+    "s": 69.52,
+    "e": 69.62
+   },
+   {
+    "w": "baphendule",
+    "s": 69.62,
+    "e": 70.49
+   },
+   {
+    "w": "ngo-ewe",
+    "s": 70.49,
+    "e": 71.1
+   },
+   {
+    "w": "okanye",
+    "s": 71.1,
+    "e": 71.924
+   },
+   {
+    "w": "hayi.",
+    "s": 71.924,
+    "e": 72.28
+   },
+   {
+    "w": "Kuyavuyisa",
+    "s": 72.75,
+    "e": 73.338
+   },
+   {
+    "w": "ukusebenza",
+    "s": 73.338,
+    "e": 73.926
+   },
+   {
+    "w": "nawe.",
+    "s": 73.926,
+    "e": 74.162
+   },
+   {
+    "w": "Hamba",
+    "s": 74.162,
+    "e": 74.397
+   },
+   {
+    "w": "kakuhle.",
+    "s": 74.397,
+    "e": 74.75
+   }
+  ]
+ },
+ "scores": {
+  "q1": {
+   "value": 9.25,
+   "display": "9.2",
+   "label": "measured (automated)",
+   "line": "Lesson-plan score: the mean of page reading, curriculum mapping and real-word use."
+  },
+  "page_truth": {
+   "value": 7.8,
+   "display": "7.8",
+   "raw": 0.044,
+   "n": 25,
+   "label": "measured (automated)",
+   "line": "Page reading: how exactly Rumi reads the government books (order-free character error rate)."
+  },
+  "segmentation": {
+   "value": 9.93,
+   "display": "9.9",
+   "raw": 0.9934,
+   "n": 48,
+   "label": "measured (automated)",
+   "line": "Curriculum mapping: how well the term plan matches the CAPS items for each week."
+  },
+  "real_words": {
+   "value": 10.0,
+   "display": "10.0",
+   "raw": 0.6445,
+   "n": 2433,
+   "label": "measured (automated)",
+   "line": "Real words: share of the lesson's words found in published texts in the language."
+  },
+  "wb_structure": {
+   "value": 9.89,
+   "display": "9.8",
+   "raw": 0.9889,
+   "n": 3,
+   "label": "AI-judged (proxy)",
+   "line": "Lesson structure against the World Bank teacher-guide checklist, scored by two AI judges. Shown beside the lesson-plan score, not in it.",
+   "in_q1": false
+  }
+ },
+ "backtranslation": [
+  {
+   "line": "Ngaba uyadlala nomhlobo wakho? Phendula ngo-ewe okanye hayi.",
+   "says": "Are you playing with your friend? Answer with yes or no.",
+   "should": "Do you play with your friend? Answer yes or no."
+  },
+  {
+   "line": "Qala phezulu ngasekunene, jikela ngasekhohlo, uhle, uphele phantsi ngasekunene.",
+   "says": "Start at the top on the right, turn to the left, go down, finish at the bottom on the right.",
+   "should": "Start at the top on the right, curve to the left, go down, finish at the bottom on the right."
+  }
+ ],
+ "backtranslation_label": "AI-judged (proxy) — a native speaker decides",
+ "footer": "Rumi draft — not yet reviewed by a native speaker",
+ "sources": [
+  "fn-caps-xh",
+  "fn-wb-tool"
+ ]
+}

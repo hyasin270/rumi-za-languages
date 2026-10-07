@@ -1,0 +1,95 @@
+{
+ "label_note": "page reading and lesson-plan score: measured (automated); lesson structure: AI-judged (proxy), shown beside, not in, the lesson-plan score",
+ "languages": [
+  {
+   "lang": "nso",
+   "name": "Sepedi",
+   "page_truth": {
+    "cer": 0.0085,
+    "value": 9.58,
+    "display": "9.5",
+    "n_pages": 22,
+    "label": "measured (automated)"
+   },
+   "q1": {
+    "value": 9.86,
+    "display": "9.8",
+    "label": "measured (automated)",
+    "parts": {
+     "page_truth": "9.5",
+     "segmentation": "10.0",
+     "real_words": "10.0"
+    },
+    "note": "Curriculum mapping is an upper bound for this language: an audit found no wrong mappings."
+   },
+   "wb_structure": {
+    "value": 10.0,
+    "display": "10.0",
+    "n_lessons": 1,
+    "label": "AI-judged (proxy)"
+   },
+   "sample": "one sample lesson (Week 3 Day 1), built on our own term plan from the language's CAPS document"
+  },
+  {
+   "lang": "af",
+   "name": "Afrikaans",
+   "page_truth": {
+    "cer": 0.013,
+    "value": 9.35,
+    "display": "9.3",
+    "n_pages": 26,
+    "label": "measured (automated)"
+   },
+   "q1": {
+    "value": 9.78,
+    "display": "9.7",
+    "label": "measured (automated)",
+    "parts": {
+     "page_truth": "9.3",
+     "segmentation": "10.0",
+     "real_words": "10.0"
+    },
+    "note": "Curriculum mapping is an upper bound for this language: an audit found no wrong mappings."
+   },
+   "wb_structure": {
+    "value": 9.67,
+    "display": "9.6",
+    "n_lessons": 1,
+    "label": "AI-judged (proxy)"
+   },
+   "sample": "one sample lesson (Week 3 Day 1), built on our own term plan from the language's CAPS document"
+  },
+  {
+   "lang": "tn",
+   "name": "Setswana",
+   "page_truth": {
+    "cer": 0.0057,
+    "value": 9.71,
+    "display": "9.7",
+    "n_pages": 26,
+    "label": "measured (automated)"
+   },
+   "q1": {
+    "value": 9.9,
+    "display": "9.9",
+    "label": "measured (automated)",
+    "parts": {
+     "page_truth": "9.7",
+     "segmentation": "10.0",
+     "real_words": "10.0"
+    },
+    "note": "Curriculum mapping is an upper bound for this language: an audit found no wrong mappings."
+   },
+   "wb_structure": {
+    "value": 10.0,
+    "display": "10.0",
+    "n_lessons": 1,
+    "label": "AI-judged (proxy)"
+   },
+   "sample": "one sample lesson (Week 3 Day 1), built on our own term plan from the language's CAPS document"
+  }
+ ],
+ "sources": [
+  "fn-wb-tool"
+ ]
+}

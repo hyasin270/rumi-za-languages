@@ -1,0 +1,876 @@
+{
+ "lang": "st",
+ "lesson": {
+  "title": "Sesotho HL Kereite 1 · Beke 4 Letsatsi 1 — modumo o motjha u",
+  "title_en": "Sesotho HL Grade 1 · Week 4 Day 1 — new sound u",
+  "topic": "Dijo tseo re di jang · modumo o motjha u (m + u = mu)",
+  "topic_en": "The food we eat · new sound u (m + u = mu)",
+  "grade": 1,
+  "term": 1,
+  "week": 4,
+  "day": 1,
+  "minutes": 88,
+  "caps_ref": "CAPS Sesotho HL Gr R-3, printed pages 9, 56, 57, 58, 60",
+  "caps_items": [
+   "p9: kabo ya nako",
+   "p56: LS-02 ditaba; LS-06 araba dipotso",
+   "p57: RP-13/14 u; m + u = mu; RP-20 di-logo; RP-30 ho bala ka kopanelo",
+   "p58: RP-31 ho bala ka tataiso ya sehlopha",
+   "p60: W-38 dipaterone tsa disekele"
+  ]
+ },
+ "pages": [
+  "assets/img/st_lp_p1.png",
+  "assets/img/st_lp_p2.png",
+  "assets/img/st_lp_p3.png",
+  "assets/img/st_lp_p4.png"
+ ],
+ "pdf": "assets/pdf/st_lp.pdf",
+ "reviewer_pdf": "assets/pdf/st_lp_reviewer_en.pdf",
+ "voice_note": {
+  "mp3": "assets/audio/st_lp_voicenote.mp3",
+  "script": "Dumela titjhere. Kajeno ke letsatsi la pele la beke ya bone, mme sehlooho sa rona ke dijo tseo re di jang. Baithuti ba tla bua ka seo ba se jeleng hoseng, ba ithute modumo o motjha, ba bale mantswe dipaketeng tsa dijo, mme ba bale buka e ntjha ka dihlopha. Ntho e le nngwe eo ke kopang o e etse hantle kajeno ke ena: tlohela baithuti ba tswake dinoko ka bobona. Ha o bolela modumo wa m le modumo wa u, o se ke wa ba bolella noko. Ba tlohele ba fumane mu ka bobona. Modumo wa kajeno ke u, jwaloka kgomo ha e re muu. Bontsha baithuti hore molomo o monyane o chitja. Mantswe a bohlokwa kajeno ke mu, muu, mama, mme le mema. Bukeng ya sehlopha ba tla bala polelo e reng Mme o a mema. Ha ba thatafallwa, hosane qala hape ka ma le mu feela. Ke o lakaletsa thuto e monate!",
+  "script_en": "Hello, teacher. Today is the first day of week four, and our theme is the food we eat. Learners will talk about what they ate this morning, learn a new sound, read words on food packets, and read a new book in groups. The one thing I ask you to get right today is this: let the learners blend the syllables themselves. When you say the sound m and the sound u, do not tell them the syllable. Let them find mu on their own. Today's sound is u, like the cow when it says muu. Show the learners that the lips are small and round. The important words today are mu, muu, mama, mme and mema. In the group book they will read the sentence Mme o a mema, mother invites us. If they struggle, start again tomorrow with ma and mu only. I wish you a lovely lesson!",
+  "words": [
+   {
+    "w": "Dumela",
+    "s": 0.135,
+    "e": 0.641
+   },
+   {
+    "w": "titjhere.",
+    "s": 0.641,
+    "e": 1.86
+   },
+   {
+    "w": "Kajeno",
+    "s": 1.86,
+    "e": 2.366
+   },
+   {
+    "w": "ke",
+    "s": 2.366,
+    "e": 2.535
+   },
+   {
+    "w": "letsatsi",
+    "s": 2.535,
+    "e": 3.041
+   },
+   {
+    "w": "la",
+    "s": 3.041,
+    "e": 3.21
+   },
+   {
+    "w": "pele",
+    "s": 3.21,
+    "e": 3.548
+   },
+   {
+    "w": "la",
+    "s": 3.548,
+    "e": 3.717
+   },
+   {
+    "w": "beke",
+    "s": 3.717,
+    "e": 4.054
+   },
+   {
+    "w": "ya",
+    "s": 4.054,
+    "e": 4.672
+   },
+   {
+    "w": "bone,",
+    "s": 4.672,
+    "e": 5.009
+   },
+   {
+    "w": "mme",
+    "s": 5.009,
+    "e": 5.178
+   },
+   {
+    "w": "sehlooho",
+    "s": 5.178,
+    "e": 5.684
+   },
+   {
+    "w": "sa",
+    "s": 5.684,
+    "e": 5.853
+   },
+   {
+    "w": "rona",
+    "s": 5.853,
+    "e": 6.191
+   },
+   {
+    "w": "ke",
+    "s": 6.191,
+    "e": 6.36
+   },
+   {
+    "w": "dijo",
+    "s": 6.36,
+    "e": 6.697
+   },
+   {
+    "w": "tseo",
+    "s": 6.697,
+    "e": 6.866
+   },
+   {
+    "w": "re",
+    "s": 6.866,
+    "e": 7.035
+   },
+   {
+    "w": "di",
+    "s": 7.035,
+    "e": 7.204
+   },
+   {
+    "w": "jang.",
+    "s": 7.204,
+    "e": 7.373
+   },
+   {
+    "w": "Baithuti",
+    "s": 7.373,
+    "e": 8.573
+   },
+   {
+    "w": "ba",
+    "s": 8.573,
+    "e": 8.741
+   },
+   {
+    "w": "tla",
+    "s": 8.741,
+    "e": 8.91
+   },
+   {
+    "w": "bua",
+    "s": 8.91,
+    "e": 9.079
+   },
+   {
+    "w": "ka",
+    "s": 9.079,
+    "e": 9.248
+   },
+   {
+    "w": "seo",
+    "s": 9.248,
+    "e": 9.417
+   },
+   {
+    "w": "ba",
+    "s": 9.417,
+    "e": 9.586
+   },
+   {
+    "w": "se",
+    "s": 9.586,
+    "e": 9.754
+   },
+   {
+    "w": "jeleng",
+    "s": 9.754,
+    "e": 10.092
+   },
+   {
+    "w": "hoseng,",
+    "s": 10.092,
+    "e": 10.43
+   },
+   {
+    "w": "ba",
+    "s": 10.43,
+    "e": 10.598
+   },
+   {
+    "w": "ithute",
+    "s": 10.598,
+    "e": 11.629
+   },
+   {
+    "w": "modumo",
+    "s": 11.629,
+    "e": 12.135
+   },
+   {
+    "w": "o",
+    "s": 12.135,
+    "e": 12.304
+   },
+   {
+    "w": "motjha,",
+    "s": 12.304,
+    "e": 12.641
+   },
+   {
+    "w": "ba",
+    "s": 12.641,
+    "e": 12.81
+   },
+   {
+    "w": "bale",
+    "s": 12.81,
+    "e": 13.656
+   },
+   {
+    "w": "mantswe",
+    "s": 13.656,
+    "e": 13.994
+   },
+   {
+    "w": "dipaketeng",
+    "s": 13.994,
+    "e": 14.669
+   },
+   {
+    "w": "tsa",
+    "s": 14.669,
+    "e": 14.838
+   },
+   {
+    "w": "dijo,",
+    "s": 14.838,
+    "e": 15.175
+   },
+   {
+    "w": "mme",
+    "s": 15.175,
+    "e": 15.344
+   },
+   {
+    "w": "ba",
+    "s": 15.344,
+    "e": 15.513
+   },
+   {
+    "w": "bale",
+    "s": 15.513,
+    "e": 16.303
+   },
+   {
+    "w": "buka",
+    "s": 16.303,
+    "e": 16.64
+   },
+   {
+    "w": "e",
+    "s": 16.64,
+    "e": 16.809
+   },
+   {
+    "w": "ntjha",
+    "s": 16.809,
+    "e": 16.978
+   },
+   {
+    "w": "ka",
+    "s": 16.978,
+    "e": 17.147
+   },
+   {
+    "w": "dihlopha.",
+    "s": 17.147,
+    "e": 17.653
+   },
+   {
+    "w": "Ntho",
+    "s": 17.653,
+    "e": 17.822
+   },
+   {
+    "w": "e",
+    "s": 17.822,
+    "e": 17.991
+   },
+   {
+    "w": "le",
+    "s": 17.991,
+    "e": 18.16
+   },
+   {
+    "w": "nngwe",
+    "s": 18.16,
+    "e": 18.329
+   },
+   {
+    "w": "eo",
+    "s": 18.329,
+    "e": 19.154
+   },
+   {
+    "w": "ke",
+    "s": 19.154,
+    "e": 19.323
+   },
+   {
+    "w": "kopang",
+    "s": 19.323,
+    "e": 19.66
+   },
+   {
+    "w": "o",
+    "s": 19.66,
+    "e": 19.829
+   },
+   {
+    "w": "e",
+    "s": 19.829,
+    "e": 19.998
+   },
+   {
+    "w": "etse",
+    "s": 19.998,
+    "e": 20.336
+   },
+   {
+    "w": "hantle",
+    "s": 20.336,
+    "e": 20.673
+   },
+   {
+    "w": "kajeno",
+    "s": 20.673,
+    "e": 21.317
+   },
+   {
+    "w": "ke",
+    "s": 21.317,
+    "e": 21.486
+   },
+   {
+    "w": "ena:",
+    "s": 21.486,
+    "e": 21.824
+   },
+   {
+    "w": "tlohela",
+    "s": 21.824,
+    "e": 22.33
+   },
+   {
+    "w": "baithuti",
+    "s": 22.33,
+    "e": 23.533
+   },
+   {
+    "w": "ba",
+    "s": 23.533,
+    "e": 23.702
+   },
+   {
+    "w": "tswake",
+    "s": 23.702,
+    "e": 24.039
+   },
+   {
+    "w": "dinoko",
+    "s": 24.039,
+    "e": 24.546
+   },
+   {
+    "w": "ka",
+    "s": 24.546,
+    "e": 24.714
+   },
+   {
+    "w": "bobona.",
+    "s": 24.714,
+    "e": 25.221
+   },
+   {
+    "w": "Ha",
+    "s": 25.221,
+    "e": 25.39
+   },
+   {
+    "w": "o",
+    "s": 25.39,
+    "e": 25.559
+   },
+   {
+    "w": "bolela",
+    "s": 25.559,
+    "e": 26.698
+   },
+   {
+    "w": "modumo",
+    "s": 26.698,
+    "e": 27.204
+   },
+   {
+    "w": "wa",
+    "s": 27.204,
+    "e": 27.373
+   },
+   {
+    "w": "m",
+    "s": 27.373,
+    "e": 27.542
+   },
+   {
+    "w": "le",
+    "s": 27.542,
+    "e": 27.711
+   },
+   {
+    "w": "modumo",
+    "s": 27.711,
+    "e": 28.351
+   },
+   {
+    "w": "wa",
+    "s": 28.351,
+    "e": 28.52
+   },
+   {
+    "w": "u,",
+    "s": 28.52,
+    "e": 28.689
+   },
+   {
+    "w": "o",
+    "s": 28.689,
+    "e": 28.858
+   },
+   {
+    "w": "se",
+    "s": 28.858,
+    "e": 29.32
+   },
+   {
+    "w": "ke",
+    "s": 29.32,
+    "e": 29.489
+   },
+   {
+    "w": "wa",
+    "s": 29.489,
+    "e": 29.657
+   },
+   {
+    "w": "ba",
+    "s": 29.657,
+    "e": 29.826
+   },
+   {
+    "w": "bolella",
+    "s": 29.826,
+    "e": 30.333
+   },
+   {
+    "w": "noko.",
+    "s": 30.333,
+    "e": 30.67
+   },
+   {
+    "w": "Ba",
+    "s": 31.18,
+    "e": 31.376
+   },
+   {
+    "w": "tlohele",
+    "s": 31.376,
+    "e": 32.06
+   },
+   {
+    "w": "ba",
+    "s": 32.06,
+    "e": 32.21
+   },
+   {
+    "w": "fumane",
+    "s": 32.21,
+    "e": 32.66
+   },
+   {
+    "w": "mu",
+    "s": 32.66,
+    "e": 32.808
+   },
+   {
+    "w": "ka",
+    "s": 32.808,
+    "e": 32.956
+   },
+   {
+    "w": "bobona.",
+    "s": 32.956,
+    "e": 33.4
+   },
+   {
+    "w": "Modumo",
+    "s": 34.34,
+    "e": 34.48
+   },
+   {
+    "w": "wa",
+    "s": 34.48,
+    "e": 34.554
+   },
+   {
+    "w": "kajeno",
+    "s": 34.554,
+    "e": 35.0
+   },
+   {
+    "w": "ke",
+    "s": 35.0,
+    "e": 35.44
+   },
+   {
+    "w": "u,",
+    "s": 35.44,
+    "e": 35.66
+   },
+   {
+    "w": "jwaloka",
+    "s": 35.878,
+    "e": 36.14
+   },
+   {
+    "w": "kgomo",
+    "s": 36.14,
+    "e": 36.44
+   },
+   {
+    "w": "ha",
+    "s": 36.44,
+    "e": 36.64
+   },
+   {
+    "w": "e",
+    "s": 36.64,
+    "e": 36.74
+   },
+   {
+    "w": "re",
+    "s": 36.74,
+    "e": 36.94
+   },
+   {
+    "w": "muu.",
+    "s": 36.94,
+    "e": 37.14
+   },
+   {
+    "w": "Bontsha",
+    "s": 38.02,
+    "e": 38.16
+   },
+   {
+    "w": "baithuti",
+    "s": 38.16,
+    "e": 38.64
+   },
+   {
+    "w": "hore",
+    "s": 38.64,
+    "e": 38.94
+   },
+   {
+    "w": "molomo",
+    "s": 39.16,
+    "e": 39.54
+   },
+   {
+    "w": "o",
+    "s": 39.74,
+    "e": 39.81
+   },
+   {
+    "w": "monyane",
+    "s": 39.81,
+    "e": 40.3
+   },
+   {
+    "w": "o",
+    "s": 40.44,
+    "e": 40.62
+   },
+   {
+    "w": "chitja.",
+    "s": 40.62,
+    "e": 40.92
+   },
+   {
+    "w": "Mantswe",
+    "s": 41.78,
+    "e": 41.98
+   },
+   {
+    "w": "a",
+    "s": 41.98,
+    "e": 42.033
+   },
+   {
+    "w": "bohlokwa",
+    "s": 42.033,
+    "e": 42.523
+   },
+   {
+    "w": "kajeno",
+    "s": 42.523,
+    "e": 42.9
+   },
+   {
+    "w": "ke",
+    "s": 42.9,
+    "e": 43.12
+   },
+   {
+    "w": "mu,",
+    "s": 43.12,
+    "e": 43.34
+   },
+   {
+    "w": "muu,",
+    "s": 43.88,
+    "e": 43.9
+   },
+   {
+    "w": "mama,",
+    "s": 44.34,
+    "e": 44.72
+   },
+   {
+    "w": "mme",
+    "s": 45.32,
+    "e": 45.44
+   },
+   {
+    "w": "le",
+    "s": 45.44,
+    "e": 45.52
+   },
+   {
+    "w": "mema.",
+    "s": 45.52,
+    "e": 45.82
+   },
+   {
+    "w": "Bukeng",
+    "s": 46.74,
+    "e": 46.94
+   },
+   {
+    "w": "ya",
+    "s": 46.94,
+    "e": 47.02
+   },
+   {
+    "w": "sehlopha",
+    "s": 47.02,
+    "e": 47.54
+   },
+   {
+    "w": "ba",
+    "s": 47.54,
+    "e": 47.716
+   },
+   {
+    "w": "tla",
+    "s": 47.716,
+    "e": 47.98
+   },
+   {
+    "w": "bala",
+    "s": 47.98,
+    "e": 48.3
+   },
+   {
+    "w": "polelo",
+    "s": 48.3,
+    "e": 48.78
+   },
+   {
+    "w": "e",
+    "s": 48.78,
+    "e": 48.878
+   },
+   {
+    "w": "reng",
+    "s": 48.878,
+    "e": 49.27
+   },
+   {
+    "w": "Mme",
+    "s": 49.27,
+    "e": 49.76
+   },
+   {
+    "w": "o",
+    "s": 49.76,
+    "e": 49.84
+   },
+   {
+    "w": "a",
+    "s": 49.84,
+    "e": 49.92
+   },
+   {
+    "w": "mema.",
+    "s": 49.92,
+    "e": 50.24
+   },
+   {
+    "w": "Ha",
+    "s": 51.04,
+    "e": 51.12
+   },
+   {
+    "w": "ba",
+    "s": 51.12,
+    "e": 51.2
+   },
+   {
+    "w": "thatafallwa,",
+    "s": 51.2,
+    "e": 51.86
+   },
+   {
+    "w": "hosane",
+    "s": 52.44,
+    "e": 52.72
+   },
+   {
+    "w": "qala",
+    "s": 52.72,
+    "e": 53.02
+   },
+   {
+    "w": "hape",
+    "s": 53.02,
+    "e": 53.32
+   },
+   {
+    "w": "ka",
+    "s": 53.32,
+    "e": 53.46
+   },
+   {
+    "w": "ma",
+    "s": 53.46,
+    "e": 53.6
+   },
+   {
+    "w": "le",
+    "s": 53.6,
+    "e": 53.74
+   },
+   {
+    "w": "mu",
+    "s": 53.74,
+    "e": 53.88
+   },
+   {
+    "w": "feela.",
+    "s": 53.88,
+    "e": 54.26
+   },
+   {
+    "w": "Ke",
+    "s": 54.96,
+    "e": 55.04
+   },
+   {
+    "w": "o",
+    "s": 55.04,
+    "e": 55.08
+   },
+   {
+    "w": "lakaletsa",
+    "s": 55.08,
+    "e": 55.64
+   },
+   {
+    "w": "thuto",
+    "s": 55.64,
+    "e": 55.98
+   },
+   {
+    "w": "e",
+    "s": 55.98,
+    "e": 56.14
+   },
+   {
+    "w": "monate!",
+    "s": 56.14,
+    "e": 56.56
+   }
+  ]
+ },
+ "scores": {
+  "q1": {
+   "value": 9.85,
+   "display": "9.8",
+   "label": "measured (automated)",
+   "line": "Lesson-plan score: the mean of page reading, curriculum mapping and real-word use."
+  },
+  "page_truth": {
+   "value": 9.56,
+   "display": "9.5",
+   "raw": 0.0088,
+   "n": 22,
+   "label": "measured (automated)",
+   "line": "Page reading: how exactly Rumi reads the government books (order-free character error rate)."
+  },
+  "segmentation": {
+   "value": 10.0,
+   "display": "10.0",
+   "raw": 1.0,
+   "n": 46,
+   "label": "measured (automated)",
+   "line": "Curriculum mapping: how well the term plan matches the CAPS items for each week."
+  },
+  "real_words": {
+   "value": 10.0,
+   "display": "10.0",
+   "raw": 0.8857,
+   "n": 3150,
+   "label": "measured (automated)",
+   "line": "Real words: share of the lesson's words found in published texts in the language."
+  },
+  "wb_structure": {
+   "value": 9.89,
+   "display": "9.8",
+   "raw": 0.9889,
+   "n": 3,
+   "label": "AI-judged (proxy)",
+   "line": "Lesson structure against the World Bank teacher-guide checklist, scored by two AI judges. Shown beside the lesson-plan score, not in it.",
+   "in_q1": false
+  }
+ },
+ "backtranslation": [
+  {
+   "line": "Bitsa baithuti ba babedi ba babedi (banana le bashanyana ka ho fapanyetsana) hore ba botsane ka pela phaposi.",
+   "says": "Call learners two by two (girls and boys alternately) so that they ask each other in front of the classroom.",
+   "should": "Call up two pairs (girls and boys taking turns) to ask each other in front of the class."
+  },
+  {
+   "line": "Ba fumane ditlhaku tsohle tsa m leqepheng, ba di bale.",
+   "says": "Let them find all the letters of m on the page, and read them.",
+   "should": "They find every letter m on the page and count them."
+  },
+  {
+   "line": "Pele ho thuto, kgomaretsa dipakete tse 4 tsa dijo phoustareng, mme o ngole lebitso la dijo ka tlase ho e nngwe le e nngwe ka ditlhaku tse kgolo.",
+   "says": "Before the lesson, stick 4 food packages on the poster, and write the name of the food under each one in capital letters.",
+   "should": "Before the lesson, stick 4 food packets on the poster and write the name of the food under each one in large letters."
+  }
+ ],
+ "backtranslation_label": "AI-judged (proxy) — a native speaker decides",
+ "footer": "Rumi draft — not yet reviewed by a native speaker",
+ "sources": [
+  "fn-caps-st",
+  "fn-wb-tool"
+ ]
+}
