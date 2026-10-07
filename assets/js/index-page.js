@@ -1,5 +1,5 @@
 /* index-page.js — renders index.html from data/summary.json, data/scheme.json and data/copy.json ("index.*").
- * summary.json (ED): { governing_thought, conditions:[…], legend:{measured, "AI-judged", "native ear pending", verdict},
+ * summary.json: { governing_thought, conditions:[…], legend:{measured, "AI-judged", "native ear pending", verdict},
  *   columns:[{key,title}], rows:[{code,name,page,cells:{Q1..Q4:{value,label,href,note?}, verdict:{value,label,href}}}],
  *   also_tested:{title, href, rows:[same shape]} }
  * copy.json "index.*": meta, answer, method (diagram_lp / diagram_coach = step lists), languages.cards.<c>.{name,line,cta},
@@ -65,8 +65,8 @@
 
   /* 4b. also tested */
   if (also && (also.rows || []).length) {
-    $("also-table").innerHTML = `<table class="summary">${head}<tbody>${also.rows.map((r) => rowHtml(r)).join("")}</tbody></table>` +
-      `<ul class="bullets" style="margin-top:14px">${also.rows.map((r) => RZ.has(`index.also_tested.lines.${r.code}`) ? `<li>${RZ.html(`index.also_tested.lines.${r.code}`)}</li>` : "").join("")}</ul>`;
+    // the scores already sit in the summary table's "also tested" row group; here only one line per language
+    $("also-table").innerHTML = `<ul class="bullets">${also.rows.map((r) => RZ.has(`index.also_tested.lines.${r.code}`) ? `<li>${RZ.html(`index.also_tested.lines.${r.code}`)}</li>` : "").join("")}</ul>`;
   } else $("also-table").innerHTML = RZ.soon(RZ.ui("soon_also", "the other three languages"));
   // one spoken sample per also-tested language (data/more/<code>_tts.json, same shape as tts.json)
   if (window.Karaoke && also && (also.rows || []).length) {

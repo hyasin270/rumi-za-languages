@@ -1,4 +1,4 @@
-/* components.js — Chat, Report, VisionDiff, LPViewer. Each renders straight from one §3 data file.
+/* components.js — Chat, Report, VisionDiff, LPViewer. Each renders straight from one data file.
  *
  * Chat.mount(host, tts)            WhatsApp-like thread: teacher text bubbles (right); Rumi voice-note bubbles (left) that play as Karaoke.
  * Report.mount(host, coach, lang)  the coach's report: steps grouped seen / partly / not observed, verbatim evidence with timestamp
@@ -200,7 +200,7 @@
         const det = el("details", {}, el("summary", {}, L("text_layer", "What the PDF's hidden text layer says")), el("div", { class: "layer", lang: v.lang }, v.text_layer));
         right.append(det);
       }
-      // chip order (COS): learner-visible text first, then with the printer's stamp, then the language overall
+      // chip order: learner-visible text first, then with the printer's stamp, then the language overall
       const ch = o.chips || {};
       const chips = [];
       if (v.score_without_stamp !== undefined && v.score_without_stamp !== null)

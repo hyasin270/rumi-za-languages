@@ -622,7 +622,7 @@
   "line": "Gemini 2.5 Pro on 32 FLEURS test recordings: 5.8% of characters wrong (CER 0.058); English control OpenAI gpt-4o-transcribe CER 0.016"
  },
  "agreement": {
-  "value": 0.163,
+  "value": 0.1634,
   "label": "AI-judged (proxy)",
   "line": "On this classroom video, two engines (Gemini 2.5 Pro, Gemini 3.5 Flash) differ on 16% of characters; no human reference transcript exists for classroom audio, so this is a proxy, not an accuracy score."
  },

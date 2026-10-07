@@ -136,7 +136,7 @@
   };
 
   /* ---------- ScoreChip ---------- */
-  /** Normalise a score from any lane's shape: number | "9.2" | {value, display, label, line, note}. */
+  /** Normalise a score from any data file's shape: number | "9.2" | {value, display, label, line, note}. */
   RZ.score = function (x) {
     if (x === null || x === undefined) return { value: null };
     if (typeof x !== "object") return { value: x };

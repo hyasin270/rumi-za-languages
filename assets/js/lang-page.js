@@ -1,11 +1,12 @@
 /* lang-page.js — renders zu.html / xh.html / st.html (identical layout; <body data-lang="…">).
- * Data: data/<lang>/{vision,lp,stt,coach,tts}.json (+ zu/partner_note.json) and data/summary.json.
+ * Data: data/<lang>/{vision,lp,stt,coach,tts}.json (+ partner_note.json where a page has partner results) and data/summary.json.
  * Copy keys resolve "<lang>.<key>" first (e.g. "zu.listening.lead"), then "lang.<key>", then "<key>".
  * A missing data file renders a "coming shortly" panel in its place; nothing else breaks.
  */
 (async function () {
   // The three public demo lessons (title + channel credit only).
   const VIDEOS = { zu: { title: "Phonics - isiZulu" }, xh: { title: 'Phonics "tsh" - isiXhosa' }, st: { title: 'Phonics "ng" - seSotho' } };
+  const PARTNER = ["zu"];
   const RZ = window.RZ, lang = document.body.dataset.lang, $ = (id) => document.getElementById(id), esc = RZ.esc;
   await RZ.boot({ lang });
   const name = RZ.langName(lang);
@@ -14,7 +15,9 @@
   // optional copy: hide empty notes rather than showing placeholders for them
   document.querySelectorAll("p.note[data-copy], .vmaterial[data-copy]").forEach((n) => { if (!RZ.has(n.getAttribute("data-copy"))) n.hidden = true; });
 
-  const files = ["data/summary.json", `data/${lang}/vision.json`, `data/${lang}/lp.json`, `data/${lang}/stt.json`, `data/${lang}/coach.json`, `data/${lang}/tts.json`, `data/${lang}/partner_note.json`];
+  const files = ["data/summary.json", `data/${lang}/vision.json`, `data/${lang}/lp.json`, `data/${lang}/stt.json`, `data/${lang}/coach.json`, `data/${lang}/tts.json`];
+  // partner results exist for isiZulu only; fetching the file elsewhere would log a 404
+  if (PARTNER.includes(lang)) files.push(`data/${lang}/partner_note.json`);
   const [summary, vision, lp, stt, coach, tts, partner] = await Promise.all(files.map(RZ.load));
   // word timings may be inline arrays or paths to JSON files
   if (lp && lp.voice_note) lp.voice_note.words = await RZ.words(lp.voice_note.words);
