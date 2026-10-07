@@ -864,7 +864,7 @@
  "agreement": {
   "value": 0.1509,
   "label": "AI-judged (proxy)",
-  "line": "On this classroom video, two engines (Gemini 2.5 Pro, Gemini 3.5 Flash) differ on 15% of characters; no human reference transcript exists for classroom audio, so this is a proxy, not an accuracy score."
+  "line": "On this classroom video the two best engines (Gemini 2.5 Pro, Gemini 3.5 Flash) disagree on 15.1% of characters; no human transcript exists for classroom audio, so this is a proxy, not an accuracy score."
  },
  "sources": [
   "fn-video-xh",

@@ -827,12 +827,12 @@
  "score": {
   "value": "7.8",
   "label": "measured (automated)",
-  "line": "Gemini 3.5 Flash on 70 NCHLT test recordings: 10.8% of characters wrong (CER 0.108); English control OpenAI gpt-4o-transcribe CER 0.016"
+  "line": "Gemini 3.5 Flash on 70 NCHLT test recordings: 10.9% of characters wrong (CER 0.108); English control OpenAI gpt-4o-transcribe CER 0.016"
  },
  "agreement": {
   "value": 0.2571,
   "label": "AI-judged (proxy)",
-  "line": "On this classroom video, two engines (Gemini 2.5 Pro, Gemini 3.5 Flash) differ on 26% of characters; no human reference transcript exists for classroom audio, so this is a proxy, not an accuracy score."
+  "line": "On this classroom video the two best engines (Gemini 2.5 Pro, Gemini 3.5 Flash) disagree on 25.8% of characters; no human transcript exists for classroom audio, so this is a proxy, not an accuracy score."
  },
  "sources": [
   "fn-video-st",

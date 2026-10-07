@@ -29,7 +29,7 @@
    "display": "SD 3.5 points across 3 runs",
    "n": 9,
    "label": "measured",
-   "line": "How much Rumi's private working score moved between three independent runs per video (lower is steadier)."
+   "line": "Spread of Rumi's result across three independent runs per video (lower is steadier). Measures Rumi, not the teacher."
   },
   {
    "name": "Spoken debrief round trip",
@@ -48,6 +48,6 @@
    "line": "Two AI judges rate the isiZulu feedback understandable but not native. Native ear pending."
   }
  ],
- "measures": "Rumi's coaching analysis (round 1, 7 Oct 2026). The teacher is not graded.",
+ "measures": "Rumi's coaching analysis (7 October 2026). The teacher is not graded.",
  "sources": []
 }

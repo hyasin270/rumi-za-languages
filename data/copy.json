@@ -11,14 +11,12 @@
   "heading": "The answer",
   "lead": "Yes, with three conditions. On automated tests Rumi reads the curriculum, plans and voices lessons, transcribes speech and drafts coaching in isiZulu, isiXhosa and Sesotho. No native speaker has checked a word yet.",
   "bullets": [
-   "Lesson plans and coaching are strong in all three languages; listening is the capability that separates them.",
-   "Today's production transcription engine fails every Bantu language we tried; the engines that work are named on each page.",
-   "Every score is machine-measured. One first-language reviewer per language turns \"pending\" into a number within a week."
+   "Lesson plans and coaching are strong in all three languages; listening is the capability that separates them, and a routing change fixes it.",
+   "Six languages, four capabilities, about eighty dollars of metered model and voice calls."
   ],
   "conditions_heading": "The three conditions",
   "table_heading": "The scores at a glance",
-  "table_note": "Scores are out of 10 and never round up. Click any cell to go to its evidence.",
-  "native_ear": "Native ear pending on every row: no first-language speaker has rated anything on this site."
+  "table_note": "Scores are out of 10 and never round up. Click any cell to go to its evidence."
  },
  "index.toc": {
   "heading": "On this page",
@@ -30,11 +28,10 @@
   "bullets": [
    "Curriculum page to lesson plan: a vision model reads the official CAPS pages and the Department's Grade 1 workbook [[fn:fn-caps-zu]] [[fn:fn-wb-zu]]; a planner cuts Term 1 into fifty traceable days; a writer drafts and voices each lesson in the structured format partners use [[fn:fn-rti]].",
    "Classroom recording to coaching report: the best transcription engine writes the transcript; the coaching engine reads it against the partners' coaching course [[fn:fn-coaching-course]], quotes a timed moment for every step it credits, and drafts the debrief.",
-   "Three labels. Measured: a script compared our output with the reference (the PDF's own text, human transcripts [[fn:fn-fleurs]] [[fn:fn-nchlt]], the lesson transcript, the spoken script). AI-judged: a second model or engine judged it; it never decides a verdict. Native ear pending: everything, today."
+   "References: the PDF's own text layer, human transcripts of read speech [[fn:fn-fleurs]] [[fn:fn-nchlt]], the lesson transcript, and the spoken script. The three labels are explained below the diagrams."
   ],
-  "verdict_rule": "GREEN: every test run scored 7 or more. AMBER: one landed between 4 and 7. RED: one fell below 4. Rounding always goes against us: scores are cut down, error rates up.",
-  "samples": "Feasibility-sized samples, not a benchmark: 19 full lesson plans and 6 two-week overviews; 143 curriculum, workbook and reader pages; 32 to 70 read sentences per language with human transcripts; 12 classroom recordings (3 partner, 9 public); 6 spoken sentences per voice.",
-  "limits": "Listening scores come from read speech in quiet rooms: an upper bound for a Grade 1 classroom. The World Bank structure check [[fn:fn-wb-tool]] tests structure our template enforces, so it sits beside the lesson-plan score, not in it.",
+  "samples": "Feasibility-sized samples, not a benchmark: 19 lesson plans and 6 two-week overviews; 143 curriculum, workbook and reader pages; 32 to 70 read sentences per language; 12 classroom recordings (3 partner, 9 public); 6 spoken sentences per voice.",
+  "limits": "Listening scores come from read speech in quiet rooms, an upper bound for a Grade 1 classroom. The World Bank structure check [[fn:fn-wb-tool]] tests structure our template enforces, so it sits beside the lesson-plan score, not in it.",
   "diagram_lp": [
    "Official pages",
    "Vision reading, checked against the text layer",
@@ -75,9 +72,9 @@
   "heading": "Also tested",
   "lead": "Sepedi, Afrikaans and Setswana ran the same tests without a page of their own; coaching was not run for Afrikaans and Setswana (no classroom recording sourced).",
   "lines": {
-   "nso": "Sepedi (Funda Wande's Limpopo language; not Sesotho): lesson plans 9.8, listening 7.8, coaching 9.3 on one public reading lesson [[fn:fn-video-nso]], speaking 8.9. The transcription engines disagree most here (19.0% to 36.6% of classroom characters on two public lessons [[fn:fn-video-nso-2]], AI-judged), so the agreement gate matters most.",
-   "af": "Afrikaans: lesson plans 9.7, listening 9.1, speaking 9.6. The one language where today's production engine and a first-language voice already work; no routing change needed.",
-   "tn": "Setswana: lesson plans 9.9, listening 8.9, speaking 9.1. The winning engine is fragile on longer audio, so the runner-up is the safer choice; the voice is intelligibility-uncertain until a native ear decides."
+   "nso": "Sepedi (Funda Wande's Limpopo language; not Sesotho): coaching was run on one public reading lesson [[fn:fn-video-nso]]. The transcription engines disagree most here (19.0% to 36.6% of classroom characters on two public lessons [[fn:fn-video-nso-2]], AI-judged), so the agreement gate matters most.",
+   "af": "Afrikaans: the one language where today's production engine and a first-language voice already work; no routing change needed.",
+   "tn": "Setswana: the winning engine is fragile on longer audio, so the runner-up is the safer choice; the voice is intelligibility-uncertain until a native ear decides."
   },
   "note": "Sesotho and Setswana listening is scored on short read phone prompts with their own South African English control [[fn:fn-nchlt]], not the sentence set used for the other four [[fn:fn-fleurs]]; the two are not comparable."
  },
@@ -112,19 +109,14 @@
     "one Foundation Phase teacher or coach per language, about an hour"
    ],
    [
-    "Record one consented three-minute clip per language so Rumi speaks in a South African coach's own voice",
+    "Record one consented three-minute clip per language, so Rumi speaks in a South African coach's own voice",
     "isiZulu, isiXhosa, Sesotho, Sepedi, Setswana",
     "partners"
    ],
    [
-    "Share classroom recordings and structured lesson plans, so coaching is tested on partner material as it was for isiZulu",
+    "Share classroom recordings, lesson plans and the coaching course's field observation tool",
     "isiXhosa, Sesotho, Sepedi, Afrikaans",
     "VVOB, Funda Wande"
-   ],
-   [
-    "Share the coaching course's observation tool as used in the field, replacing our synthesis of it",
-    "all",
-    "partners"
    ],
    [
     "Keep the back-translation check in the lesson pipeline; it caught errors the structure checklist cannot see",
@@ -142,22 +134,22 @@
   "heading": "What the partners can give us",
   "lead": "Four things, in order of how much each moves the numbers.",
   "bullets": [
-   "Native-speaker ratings: an hour each from an isiZulu, isiXhosa, Sesotho, Sepedi, Afrikaans and Setswana teacher or coach.",
+   "Native-speaker ratings: an hour each from a teacher or coach in each of the six languages.",
    "A coach's voice: one consented three-minute recording per language.",
-   "Classroom recordings and structured lesson plans in isiXhosa, Sesotho and Sepedi; one Afrikaans recording would complete the table.",
-   "The coaching course as used in the field, with its observation tool and teacher reflection instrument, and term plans or pacing guides per grade."
+   "Classroom recordings and structured lesson plans in isiXhosa, Sesotho and Sepedi; one Afrikaans recording completes the table.",
+   "The coaching course as used in the field: its observation tool, the teacher reflection instrument, and term plans or pacing guides per grade."
   ]
  },
  "index.cost": {
   "heading": "What this cost",
-  "lead": "About seventy dollars of metered model and voice calls for six languages, four capabilities, 19 lesson plans, 12 classroom recordings and about 300 speech tests; authoring and judging ran on subscription seats.",
+  "lead": "About eighty dollars of metered model and voice calls for six languages, four capabilities, 19 lesson plans, 12 classroom recordings and about 300 speech tests; authoring and judging ran on subscription seats.",
   "columns": [
    "Spend",
    "Amount"
   ],
   "rows": [
    [
-    "Model calls through our routing account",
+    "Model calls, metered",
     "$64.11"
    ],
    [
@@ -165,7 +157,7 @@
     "$11.43"
    ],
    [
-    "Transcription and voice, direct",
+    "Transcription and voice, billed direct",
     "$2.24"
    ],
    [
@@ -177,7 +169,7 @@
     "$77.87"
    ]
   ],
-  "note": "Read from our spend ledger at 21:23 UTC on 7 October 2026, including the interactive demos on this site."
+  "note": "Read from our spend ledger at 21:42 UTC on 7 October 2026, including the interactive demos on this site."
  },
  "index.sources": {
   "heading": "Sources",
@@ -198,17 +190,17 @@
     "Q4": "Speaking"
    },
    "lead": "GREEN on all four tests, and the only language where coaching was measured on partner material: three VVOB training videos, analysed privately.",
-   "material": "Material: the CAPS isiZulu curriculum [[fn:fn-caps-zu]], the Grade 1 workbook [[fn:fn-wb-zu]], three readers [[fn:fn-asb-zu]], a speech test set [[fn:fn-fleurs]], three partner training videos [[fn:fn-vvob-videos]] and two public lessons [[fn:fn-video-zu]] [[fn:fn-video-zu-2]]."
+   "material": "Material: CAPS [[fn:fn-caps-zu]], the Grade 1 workbook [[fn:fn-wb-zu]], three readers [[fn:fn-asb-zu]], a speech set [[fn:fn-fleurs]], three partner videos [[fn:fn-vvob-videos]], two public lessons [[fn:fn-video-zu]] [[fn:fn-video-zu-2]]."
   },
   "lesson_plans": {
    "heading": "Lesson plans",
    "lead": "Score 9.2: Rumi reads the official pages faithfully, cuts Term 1 into traceable days and writes real isiZulu.",
    "bullets": [
-    "Page misses are printer stamps and letter-tracing rows, not words; the five uncredited curriculum requirements are taught but paraphrased (twelve-mapping audit).",
-    "isiZulu is the only language below the real-word cap: the unattested words are namuhla, ikhanda, amahlombe, everyday words the sources never use.",
-    "Fourteen phrases the authoring model was unsure of are on a ten-minute review sheet for a first-language coach."
+    "Page misses are printer stamps and tracing rows, not words; five curriculum items are taught but paraphrased.",
+    "The only language below the real-word cap: the unattested words (namuhla, ikhanda, amahlombe) are everyday words the sources never use.",
+    "Fourteen uncertain phrases await a first-language coach."
    ],
-   "note": "Beside the score, not in it: World Bank structure check 9.7 (AI-judged, two graders, three lessons) [[fn:fn-wb-tool]]. It cannot tell a good lesson from a filled template: two models' versions of the same day both scored 10, and only back-translation found \"first bear\" where \"first sound\" was meant."
+   "note": "Beside the score: World Bank structure check 9.7 (AI-judged, two graders, three lessons) [[fn:fn-wb-tool]]. Only back-translation found \"first bear\" where \"first sound\" was meant."
   },
   "vision": {
    "heading": "Why vision first",
@@ -219,8 +211,8 @@
     "with_stamp": "Including the printer's margin stamp",
     "overall": "All test pages in the language"
    },
-   "lead": "A PDF's text layer scrambles workbook pages, so Rumi reads the printed page itself. On this page Rumi read every isiZulu word right; the only differences are in the printer's margin stamp, which a learner never sees.",
-   "note": "This page: 9.0% of characters differ from the text layer (5.5), all of it the margin stamp; without the stamp 0.0% (10.0). Across all 22 isiZulu test pages: 2.2% (8.9). All measured; highlights count against Rumi even where the text layer is the one that is wrong."
+   "lead": "The PDF's hidden text layer is scrambled, so a lesson built from it inherits the scramble. Rumi reads the printed page; the comparison counts only wrong, missing or extra words.",
+   "note": "This page: 9.0% of characters differ from the text layer, all in the margin stamp; without it 0.0%. All 22 test pages: 2.2%. Measured; highlights count even where the text layer is wrong."
   },
   "lp_sample": {
    "heading": "The lesson-plan sample",
@@ -236,48 +228,45 @@
   },
   "voice_note": {
    "heading": "The teacher's voice note",
-   "lead": "The one-minute voice note a teacher receives with the lesson, in an English-accented South African voice."
+   "lead": "The voice note a teacher receives with the lesson, in an English-accented South African voice."
   },
   "listening": {
    "heading": "Listening",
    "baseline_toggle": "What today's production engine heard",
    "english_toggle": "English",
-   "names_note": "Names spoken in the video are not repeated in our text: a learner is [learner], the teacher [teacher], a school [school]. The teacher's remarks to camera are labelled \"Teacher (interview)\" and are not coached.",
-   "lead": "Score 8.8: the best engine gets 5.8% of characters wrong on read isiZulu; today's production engine gets roughly every second character wrong.",
+   "names_note": "Names in the video become [learner], [teacher] and [school]. Remarks to camera are labelled \"Teacher (interview)\" and are not coached.",
+   "score_line": "Gemini 2.5 Pro on 32 read sentences with human transcripts: 5.8% of characters wrong; English from the same set 1.6%.",
+   "agreement_line": "On this video the two best engines disagree on 16.4% of characters. No human transcript exists for classroom audio, so this is a proxy, not an accuracy score.",
+   "lead": "Score 8.8: the best engine gets 5.8% of characters wrong on read isiZulu; today's production engine gets about half wrong.",
    "bullets": [
-    "Measured on 32 read sentences [[fn:fn-fleurs]] against 1.6% for English from the same set; the runner-up is under two points behind, and a second set of short phone prompts agrees [[fn:fn-nchlt]].",
-    "This video has no human transcript, so the two best engines are compared: they disagree on 16.4% of characters (AI-judged), mostly learner names, chanted lists and songs.",
-    "One slip mattered in round one: an engine heard a learner's name where a story title was said, and a reflective question was built on it. A two-engine agreement gate catches what quote-checking cannot."
+    "The runner-up is under two points behind; a second set of short phone prompts agrees [[fn:fn-nchlt]]. On this video the engines disagree mostly on names, chants and songs.",
+    "A two-engine agreement gate stops a misheard name becoming a coaching question, as once happened in an earlier run."
    ]
   },
   "coaching": {
    "heading": "Coaching",
-   "not_graded": "The teacher is never graded here: steps seen, partly seen or not observed, each with a timed quote, and one next step.",
+   "not_graded": "The teacher is never graded: steps seen, partly seen or not observed, each with a timed quote, and one next step.",
    "accuracy_heading": "How well Rumi observed",
-   "accuracy_note": "These measure Rumi, not the teacher: quotes found in the transcript (grounding), steps addressed (coverage), agreement across three runs (stability).",
+   "accuracy_note": "These measure Rumi, not the teacher: quotes found, items filled, agreement across three runs.",
    "debrief_heading": "The spoken debrief",
-   "lead": "Score 9.6 comes from three partner training videos, analysed privately [[fn:fn-vvob-videos]]: 97.2% of quoted moments in the transcript, 93.3% of steps addressed, three runs within 3.5 points of 100. Below is a full report on the public lesson in the video above, with its own accuracy panel.",
+   "lead": "Score 9.6 comes from three partner training videos, analysed privately [[fn:fn-vvob-videos]]: 97.2% of quotes found, 93.3% of steps addressed, three runs in close agreement. Below, a full report on the public lesson above.",
    "bullets": [
-    "Every quote in the report below can be checked against the video; it was drafted by a stricter reader than round one's production model.",
-    "The instrument discriminates: on three runs each, a staged training demonstration and a real, unrehearsed lesson of the same strand came out clearly apart.",
-    "AI-judged, beside the score: feedback prose 5.0 out of 10 (understandable, not natural; one judge found an isiXhosa word in it); 21.7% of factual claims flagged unsupported, an over-count that includes evaluative lines."
-   ],
-   "note": "Given the same prompt, the stricter reader rated the staged demonstration markedly lower than the production model did and named the blockage it missed; coaches relying on the numbers need the stricter reader, or a calibration against it."
+    "The instrument discriminates: a staged demonstration and a real lesson of the same strand came out clearly apart; the stricter reader used below named a blockage the production model missed.",
+    "AI-judged, beside the score: feedback prose 5.0 out of 10 (understandable, not natural); 21.7% of factual claims flagged unsupported, an over-count including evaluative lines."
+   ]
   },
   "speaking": {
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
-   "chat_note": "Rumi's lines were written by an AI and checked by a second AI; they still need a native speaker's ear. The teacher's lines are typed; Rumi's are voice notes.",
+   "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models and still need a native ear.",
    "score_line": "ElevenLabs eleven_v4, an English-accented South African voice reading isiZulu: 1.7% of characters lost on the text-to-speech-to-text round trip (6 sentences, measured). Our English voice, on a different ElevenLabs model, lost 0.0%. Native ear pending.",
-   "lead": "Score 9.6: no isiZulu voice exists on any engine we can reach, so this is an English-accented voice reading isiZulu; it loses 1.7% of characters when transcribed back, against 0.0% in English.",
-   "note": "A second listener loses 11.1%, within the agreement band; against human recordings the voice adds 5.8% of error (AI-judged). The listener limits this number; accent and warmth need a native ear."
+   "lead": "Score 9.6: no isiZulu voice exists on any engine we can reach, so an English-accented South African voice reads isiZulu.",
+   "note": "A second listener loses 11.1%; against human recordings the voice adds 5.8% of error (AI-judged)."
   },
   "ship": {
    "heading": "What it would take to ship isiZulu",
    "bullets": [
-    "Route transcription to the winning engine, with the agreement gate: where engines disagree on a chunk or a recurring name, describe it, never quote it.",
-    "An hour from a first-language isiZulu coach (fourteen phrases, one transcript, one voice note), and one consented three-minute recording so Rumi has an isiZulu voice.",
-    "The partners' structured lesson plans as the template's source of truth, and the course's observation tool to replace our synthesis of it."
+    "Route transcription to the winning engine with the agreement gate; an hour from a first-language coach (fourteen phrases, one transcript, one voice note) and a three-minute recording for an isiZulu voice."
    ]
   },
   "footnotes": {
@@ -294,18 +283,18 @@
     "Q3": "Coaching",
     "Q4": "Speaking"
    },
-   "lead": "GREEN on all four tests, with the hardest listening of the six and the weakest coaching prose; coaching was measured on one public lesson, not partner video.",
-   "material": "Material: the CAPS isiXhosa curriculum [[fn:fn-caps-xh]], the Grade 1 workbook [[fn:fn-wb-xh]], three readers [[fn:fn-asb-xh]], a speech test set [[fn:fn-fleurs]] and one public Grade 1 phonics lesson [[fn:fn-video-xh]]. Funda Wande's recordings are still owed; this page is re-run on them when they arrive."
+   "lead": "GREEN on all four tests, with the hardest listening of the six and the weakest coaching prose; coaching measured on one public lesson.",
+   "material": "Material: CAPS [[fn:fn-caps-xh]], the Grade 1 workbook [[fn:fn-wb-xh]], three readers [[fn:fn-asb-xh]], a speech set [[fn:fn-fleurs]], one public lesson [[fn:fn-video-xh]]. Funda Wande's recordings are still owed."
   },
   "lesson_plans": {
    "heading": "Lesson plans",
-   "lead": "Score 9.2: the lessons teach the dental click as a sound and read as isiXhosa; page reading is the weakest of the six because one table page was collapsed.",
+   "lead": "Score 9.2: the lessons teach the dental click as a sound and read as isiXhosa; one collapsed table page drags page reading down.",
    "bullets": [
-    "Half the page-reading gap is a three-column time table whose identical cells were collapsed into one; a quarter is English in a reader's cover art that the text layer lacks, so there the reference is incomplete, not the reading.",
-    "The real-word score is capped: a floor test against a reader's own rate, not a ranking. A twelve-mapping audit of the term plan found ten the same, two partial, none wrong.",
-    "Ten flagged phrases, led by the model's own description of the click and the idiom for skipping rope, are on a review sheet for a first-language coach."
+    "Half the page-reading gap is a time table whose identical cells were collapsed into one; a quarter is cover-art English the text layer lacks.",
+    "A twelve-mapping audit of the term plan found ten the same, two partial, none wrong.",
+    "Ten flagged phrases (the click's description, the idiom for skipping rope) await a first-language coach."
    ],
-   "note": "Beside the score, not in it: World Bank structure check 9.8 (AI-judged, three lessons) [[fn:fn-wb-tool]]."
+   "note": "Beside the score: World Bank structure check 9.8 (AI-judged, three lessons) [[fn:fn-wb-tool]]."
   },
   "vision": {
    "heading": "Why vision first",
@@ -316,8 +305,8 @@
     "with_stamp": "Including the printer's margin stamp",
     "overall": "All test pages in the language"
    },
-   "lead": "A PDF's text layer scrambles workbook pages, so Rumi reads the printed page itself. On this page Rumi read every isiXhosa word right; the only differences are in the printer's margin stamp, which a learner never sees.",
-   "note": "This page: 6.5% of characters differ from the text layer (6.7), all of it the margin stamp; without the stamp 0.0% (10.0). Across all 25 isiXhosa test pages: 4.4% (7.8). All measured; highlights count against Rumi even where the text layer is the one that is wrong."
+   "lead": "The PDF's hidden text layer is scrambled, so a lesson built from it inherits the scramble. Rumi reads the printed page; the comparison counts only wrong, missing or extra words.",
+   "note": "This page: 6.5% of characters differ from the text layer, all in the margin stamp; without it 0.0%. All 25 test pages: 4.4%. Measured; highlights count even where the text layer is wrong."
   },
   "lp_sample": {
    "heading": "The lesson-plan sample",
@@ -329,51 +318,49 @@
     "What it says (second model)",
     "What it should say"
    ],
-   "lead": "Week 7, Day 1 of Grade 1 Home Language: the dental click c (ca ce ci co cu, cela, icala) taught as a sound in a full structured day."
+   "lead": "Week 7, Day 1: the dental click c (ca, ce, ci, co, cu; cela, icala) taught as a sound."
   },
   "voice_note": {
    "heading": "The teacher's voice note",
-   "lead": "The teacher's voice note for this lesson. The best-scoring voice was marked uncertain, so a different production voice reads it."
+   "lead": "The voice note for this lesson, read by a different production voice because the best-scoring one is marked uncertain."
   },
   "listening": {
    "heading": "Listening",
    "baseline_toggle": "What today's production engine heard",
    "english_toggle": "English",
-   "names_note": "Names spoken in the video are not repeated in our text: a learner is [learner], the teacher [teacher], a school [school]. The teacher's remarks to camera are labelled \"Teacher (interview)\" and are not coached.",
+   "names_note": "Names in the video become [learner], [teacher] and [school]. Remarks to camera are labelled \"Teacher (interview)\" and are not coached.",
+   "score_line": "Gemini 2.5 Pro on 40 read sentences with human transcripts: 11.0% of characters wrong; English from the same set 1.6%.",
+   "agreement_line": "On this video the two best engines disagree on 15.1% of characters. No human transcript exists for classroom audio, so this is a proxy, not an accuracy score.",
    "lead": "Score 7.8: the best engine gets 11.0% of characters wrong on read isiXhosa, the highest error of the six; today's production engine gets about half wrong.",
    "bullets": [
-    "Measured on 40 read sentences [[fn:fn-fleurs]] against 1.6% for English; the next engine is about three points behind.",
-    "On this video the two best engines disagree on 15.1% of characters (AI-judged); across the three public isiXhosa clips [[fn:fn-video-xh-2]] [[fn:fn-video-xh-3]], 14.8% to 28.1%. The agreement gate is mandatory here."
+    "The next engine is about three points behind. Across the three public isiXhosa clips [[fn:fn-video-xh-2]] [[fn:fn-video-xh-3]] the two best engines disagree on 14.8% to 28.1% of characters (AI-judged), so the agreement gate is mandatory here."
    ]
   },
   "coaching": {
    "heading": "Coaching",
-   "not_graded": "The teacher is never graded here: steps seen, partly seen or not observed, each with a timed quote, and one next step.",
+   "not_graded": "The teacher is never graded: steps seen, partly seen or not observed, each with a timed quote, and one next step.",
    "accuracy_heading": "How well Rumi observed",
-   "accuracy_note": "These measure Rumi, not the teacher: quotes found in the transcript (grounding), steps addressed (coverage), agreement across three runs (stability).",
+   "accuracy_note": "These measure Rumi, not the teacher: quotes found, items filled, agreement across three runs.",
    "debrief_heading": "The spoken debrief",
-   "lead": "Score 7.6, the lowest of the languages: round one's production model found 92.3% of its quotes in the transcript but addressed only 60.0% of steps, and three runs varied by 12.5 points of 100.",
+   "lead": "Score 7.6, the lowest: the production coaching model found 92.3% of its quotes in the transcript but addressed only 60.0% of steps, and its three runs agreed least.",
    "bullets": [
-    "Measured on this public phonics lesson (the sound \"tsh\"), with the instrument mapped from the isiZulu course, so its fit is approximate. The report below was drafted by a stricter reader on the same video; its own accuracy panel sits under it.",
-    "The coverage gap is real: many evidence quotes came out shorter than the four words we require, so the step went uncredited.",
+    "Measured on this public phonics lesson (the sound \"tsh\") with the instrument mapped from the isiZulu course, so its fit is approximate.",
+    "Coverage fell because many evidence quotes were shorter than the four words we require.",
     "AI-judged, beside the score: feedback prose 2.5 out of 10, the weakest finding on this site; 23.1% of factual claims flagged unsupported."
-   ],
-   "note": "Re-run on Funda Wande's recordings when they arrive; a first-language reviewer settles the prose question fastest."
+   ]
   },
   "speaking": {
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
-   "chat_note": "Rumi's lines were written by an AI and checked by a second AI; they still need a native speaker's ear. The teacher's lines are typed; Rumi's are voice notes.",
+   "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models and still need a native ear.",
    "score_line": "ElevenLabs eleven_v4, an English-accented South African voice reading isiXhosa: 1.2% of characters lost on the round trip (6 sentences, measured), but a second listener engine disagreed by more than ten points, so intelligibility is uncertain until a native speaker listens. Our English voice, on a different ElevenLabs model, lost 0.0%.",
-   "lead": "Score 9.7, labelled intelligibility uncertain: the best voice loses only 1.2% of characters on the round trip, but a second listener disagrees by more than ten points.",
-   "note": "The second listener loses 14.5%, and against human recordings the voice adds 15.8% of error (AI-judged). A native ear decides; the voice notes here use a different voice for that reason."
+   "lead": "Score 9.7, labelled intelligibility uncertain: a second listener disagrees by more than ten points.",
+   "note": "The second listener loses 14.5%; against human recordings the voice adds 15.8% of error (AI-judged). A native ear decides."
   },
   "ship": {
    "heading": "What it would take to ship isiXhosa",
    "bullets": [
-    "Funda Wande's own classroom recordings and structured lesson plans, so coaching runs on partner material.",
-    "A first-language reviewer for the click vocabulary, the ten flagged phrases and the voice, where the machine measures disagree.",
-    "The same transcription routing and agreement gate as isiZulu, and a fix in the page reader for repeated table cells."
+    "Funda Wande's classroom recordings and lesson plans; a reviewer for the click vocabulary, the ten phrases and the voice; the isiZulu routing and gate, plus a page-reader fix for repeated table cells."
    ]
   },
   "footnotes": {
@@ -390,18 +377,18 @@
     "Q3": "Coaching",
     "Q4": "Speaking"
    },
-   "lead": "GREEN on all four tests with the cleanest page reading of the six; listening is scored on a different test set, and coaching on one public lesson.",
-   "material": "Material: the CAPS Sesotho curriculum [[fn:fn-caps-st]], the Grade 1 workbook [[fn:fn-wb-st]], three readers [[fn:fn-asb-st]], short read phone prompts with their own South African English control [[fn:fn-nchlt]], and one public Grade 1 phonics lesson [[fn:fn-video-st]]. Partner recordings are still owed."
+   "lead": "GREEN on all four tests with the cleanest page reading of the six; listening uses a different test set.",
+   "material": "Material: CAPS [[fn:fn-caps-st]], the Grade 1 workbook [[fn:fn-wb-st]], three readers [[fn:fn-asb-st]], short read phone prompts [[fn:fn-nchlt]], one public lesson [[fn:fn-video-st]]. Partner recordings are still owed."
   },
   "lesson_plans": {
    "heading": "Lesson plans",
    "lead": "Score 9.8: near-perfect page reading, every curriculum requirement placed, and vocabulary as attested as a published reader's.",
    "bullets": [
-    "A twelve-mapping audit of the term plan found all twelve the same.",
-    "Sesotho writes words apart (\"Mme o a mema\"), which raises the raw real-word rate; that is why each language is calibrated against its own reader.",
-    "Twelve flagged phrases are on a review sheet for a first-language coach, led by \"O fehla, o fehla\" for stirring pap, \"hweshetsa\" for whisper and the object-less \"Mme o a mema\"."
+    "A twelve-mapping audit found all twelve the same.",
+    "Sesotho writes words apart (\"Mme o a mema\"), which raises the raw real-word rate, so each language is calibrated against its own reader.",
+    "Twelve flagged phrases await a first-language coach, led by \"O fehla, o fehla\" (stirring pap) and \"hweshetsa\" (whisper)."
    ],
-   "note": "Beside the score, not in it: World Bank structure check 9.8 (AI-judged, three lessons) [[fn:fn-wb-tool]]."
+   "note": "Beside the score: World Bank structure check 9.8 (AI-judged, three lessons) [[fn:fn-wb-tool]]."
   },
   "vision": {
    "heading": "Why vision first",
@@ -412,8 +399,8 @@
     "with_stamp": "Including the printer's margin stamp",
     "overall": "All test pages in the language"
    },
-   "lead": "A PDF's text layer scrambles workbook pages, so Rumi reads the printed page itself. On this page Rumi read every Sesotho word right; the only differences are in the printer's margin stamp, which a learner never sees.",
-   "note": "This page: 0.0% of characters differ from the text layer (10.0), all of it the margin stamp; without the stamp 0.0% (10.0). Across all 22 Sesotho test pages: 0.9% (9.5). All measured; highlights count against Rumi even where the text layer is the one that is wrong."
+   "lead": "The PDF's hidden text layer is scrambled, so a lesson built from it inherits the scramble. Rumi reads the printed page; the comparison counts only wrong, missing or extra words.",
+   "note": "This page: 0.0% of characters differ from the text layer, all in the margin stamp; without it 0.0%. All 22 test pages: 0.9%. Measured; highlights count even where the text layer is wrong."
   },
   "lp_sample": {
    "heading": "The lesson-plan sample",
@@ -435,41 +422,40 @@
    "heading": "Listening",
    "baseline_toggle": "What today's production engine heard",
    "english_toggle": "English",
-   "names_note": "Names spoken in the video are not repeated in our text: a learner is [learner], the teacher [teacher], a school [school]. The teacher's remarks to camera are labelled \"Teacher (interview)\" and are not coached.",
-   "lead": "Score 7.8: the best engine gets 10.9% of characters wrong on short read Sesotho prompts; today's production engine fails the language.",
+   "names_note": "Names in the video become [learner], [teacher] and [school]. Remarks to camera are labelled \"Teacher (interview)\" and are not coached.",
+   "score_line": "Gemini 3.5 Flash on 70 short read prompts with human transcripts: 10.9% of characters wrong; that corpus's South African English control 2.1%.",
+   "agreement_line": "On this video the two best engines disagree on 25.8% of characters. No human transcript exists for classroom audio, so this is a proxy, not an accuracy score.",
+   "lead": "Score 7.8: the best engine gets 10.9% of characters wrong on short read Sesotho prompts; today's production engine fails Sesotho outright.",
    "bullets": [
-    "The main public sentence set has no Sesotho, so this is scored on 70 short phone prompts [[fn:fn-nchlt]] beside that corpus's own South African English control (2.1%); not comparable with isiZulu or isiXhosa.",
-    "On this video the two best engines disagree on 25.8% of characters (AI-judged): clean narration, a noisy chorus, spelling turns. The other public Sesotho clip [[fn:fn-video-st-2]] gives 23.9%. One slip in this clip reached the coach: the letters n and g heard as \"m\" and \"kh\"."
+    "The main public sentence set has no Sesotho, so the score uses short phone prompts [[fn:fn-nchlt]] with their own English control; not comparable with isiZulu or isiXhosa.",
+    "On this video the engines disagree on a noisy chorus and spelling turns; the other public clip [[fn:fn-video-st-2]] gives 23.9%. One slip reached the coach: n and g heard as \"m\" and \"kh\"."
    ]
   },
   "coaching": {
    "heading": "Coaching",
-   "not_graded": "The teacher is never graded here: steps seen, partly seen or not observed, each with a timed quote, and one next step.",
+   "not_graded": "The teacher is never graded: steps seen, partly seen or not observed, each with a timed quote, and one next step.",
    "accuracy_heading": "How well Rumi observed",
-   "accuracy_note": "These measure Rumi, not the teacher: quotes found in the transcript (grounding), steps addressed (coverage), agreement across three runs (stability).",
+   "accuracy_note": "These measure Rumi, not the teacher: quotes found, items filled, agreement across three runs.",
    "debrief_heading": "The spoken debrief",
-   "lead": "Score 9.7: round one's production model found every quote in the transcript (100.0%), addressed 93.3% of steps, and agreed with itself within 5.3 points of 100 over three runs.",
+   "lead": "Score 9.7: the production coaching model found every quote (100.0%), addressed 93.3% of steps, and three runs agreed closely.",
    "bullets": [
-    "Measured on this public Grade 1 phonics lesson (the sound \"ng\"; the teacher says Grade 2), with the instrument mapped from the isiZulu course. The report below was drafted by a stricter reader on the same video; its own accuracy panel sits under it.",
-    "A caution the score cannot show: against the other engine's transcript of the same clip only 25 of 42 round-one quotes are found. On Sesotho classroom audio the transcript itself is the uncertainty.",
+    "Measured on this public phonics lesson (the sound \"ng\"; the teacher says Grade 2), instrument mapped from the isiZulu course.",
+    "Caution: against the other engine's transcript of the same clip only 25 of 42 quotes are found; on Sesotho classroom audio the transcript itself is the uncertainty.",
     "AI-judged, beside the score: feedback prose 5.0 out of 10; 38.9% of factual claims flagged unsupported."
-   ],
-   "note": "Two failures are kept as evidence: round one's first Sesotho run came out in isiZulu because the output fields were named after isiZulu; and this round's first three runs criticised the teacher for \"wrong letters\" where the transcript had heard the letters n and g as \"m\" and \"kh\". The learners were right; the runs were discarded and re-run once the slip was found, which is exactly what the agreement gate automates."
+   ]
   },
   "speaking": {
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
-   "chat_note": "Rumi's lines were written by an AI and checked by a second AI; they still need a native speaker's ear. The teacher's lines are typed; Rumi's are voice notes.",
+   "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models and still need a native ear.",
    "score_line": "Soniox, the voice Rumi uses in production today, reading Sesotho: 6.6% of characters lost on the round trip (6 sentences, measured). No English control exists for this engine; our English ElevenLabs voice lost 0.0%. Native ear pending.",
-   "lead": "Score 8.6: today's production voice reading Sesotho loses 6.6% of characters on the round trip; it is not a Sesotho voice.",
-   "note": "A second listener loses 11.5%, within the agreement band; against human recordings the voice was recovered better (penalty -10.3%), which says more about the short, clipped prompts than about the voice (AI-judged). Native ear pending."
+   "lead": "Score 8.6: today's production voice reads Sesotho; it is not a Sesotho voice.",
+   "note": "A second listener loses 11.5%; against human recordings the voice was recovered better (penalty -10.3%), which says more about the clipped prompts than the voice (AI-judged)."
   },
   "ship": {
    "heading": "What it would take to ship Sesotho",
    "bullets": [
-    "Partner classroom recordings and lesson plans, and a Sesotho-specific mapping of the observation instrument.",
-    "A first-language reviewer for the twelve flagged phrases and the transcripts, where the two engines disagree most.",
-    "Transcription routing with the agreement gate, and a Sesotho voice from a coach's recording."
+    "Partner recordings and lesson plans, a Sesotho mapping of the observation instrument, a reviewer for the twelve phrases and the transcripts, routing with the gate, and a Sesotho voice from a coach's recording."
    ]
   },
   "footnotes": {

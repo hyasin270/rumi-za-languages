@@ -150,7 +150,7 @@
    "name": "Ho sebetsana le diphoso",
    "name_en": "Handling errors as learning",
    "status": "partly",
-   "note_en": "When the chorus answers 'Lengau' instead of the next letter, the question is simply repeated and the answer 'Ng' then comes on a line labelled Narrator; no learner is helped to find it by saying the word slowly.",
+   "note_en": "When the chorus answers 'Lengau' instead of the next letter, the question is simply repeated and the answer 'Ng' then comes from the learners (3:18); no learner is helped to find it by saying the word slowly.",
    "evidence": [
     {
      "t": 195.73,
@@ -1093,7 +1093,7 @@
    "label": "measured",
    "status_agreement_all3": "7 of 10",
    "status_agreement_pairwise": 0.8,
-   "display": "Three runs: same status on 7 of 10 items; Rumi's private working score (0–100) moved by SD 1.5 points"
+   "display": "Three runs gave the same status on 7 of 10 items"
   },
   "n_runs": 3,
   "against": "the classroom turns of the transcript on this page (the teacher's interview excluded)",
@@ -1102,7 +1102,7 @@
   "label": "measured",
   "line": "These numbers measure Rumi — whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."
  },
- "model": "Lesson-step and classroom-culture judgements by Claude Opus 5.5 — the stricter reader: in round 1 the production model (gpt-5-mini) was lenient on the same lessons. Three independent runs on the same transcript; the report shows the median run, with each item's status taken from the majority of the three runs.",
+ "model": "Lesson-step and classroom-culture judgements by Claude Opus 5.5 — the stricter reader: the production coaching model was lenient on the same lessons. Three independent runs on the same transcript; the report shows the median run, with each item's status taken from the majority of the three runs.",
  "sources": [
   "fn-video-st",
   "fn-coaching-course",
