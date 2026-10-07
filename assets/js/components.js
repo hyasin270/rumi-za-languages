@@ -39,7 +39,11 @@
     const { el, fmt } = RZ();
     if (t === null || t === undefined || t === "") return el("span", {});
     return el("button", { class: "ts", type: "button", "aria-label": `${L("play_at", "Play the video at")} ${fmt(t)}`,
-      onclick: () => { const p = window.SyncPlayer && window.SyncPlayer.byLang[lang]; if (p) p.seekPlay(Number(t)); } }, "▶ " + fmt(t));
+      onclick: () => {
+        const p = window.SyncPlayer && window.SyncPlayer.byLang[lang];
+        if (p) p.seekPlay(Number(t));
+        else if (Report.youtubeId) window.open(`https://www.youtube.com/watch?v=${Report.youtubeId}&t=${Math.floor(t)}s`, "_blank", "noopener");
+      } }, "▶ " + fmt(t));
   }
   function bil(o, lang) {
     const { el } = RZ();
@@ -52,6 +56,7 @@
   const Report = {
     mount(host, c, lang, o) {
       o = o || {};
+      Report.youtubeId = c.youtube_id;
       const { el, esc, chip, cite } = RZ();
       const card = el("div", { class: "card report" });
       const meta = el("div", { class: "meta" });

@@ -50,11 +50,6 @@
      "t": 100.0,
      "quote": "Isandi sethu esingu-tsh.",
      "en": "Our sound is tsh."
-    },
-    {
-     "t": 103.0,
-     "quote": "Kusohlulwa kathathu ngezandi ezintathu, sakhiwa ngezandi ezintathu. U-t...",
-     "en": "It is split three times into three sounds, it is built from three sounds. t..."
     }
    ],
    "from_run": "r2"
@@ -64,13 +59,8 @@
    "name": "Ukudibanisa nokwahlula izandi",
    "name_en": "Blending and segmenting",
    "status": "partly",
-   "note_en": "The only segmenting shown is teacher-led and inaccurate: tsh is presented as three sounds rather than one sound written with three letters; learners are not seen segmenting or blending words.",
+   "note_en": "The only segmenting shown is teacher-led: tsh is taken apart into its letters t, s, h and not blended back into one sound; learners are not seen segmenting or blending words themselves.",
    "evidence": [
-    {
-     "t": 103.0,
-     "quote": "Kusohlulwa kathathu ngezandi ezintathu, sakhiwa ngezandi ezintathu.",
-     "en": "It is split three times into three sounds, it is built from three sounds."
-    },
     {
      "t": 113.0,
      "quote": "Esesithathu ngu-h...",
@@ -230,8 +220,8 @@
  ],
  "blockages": [
   {
-   "en": "The teacher says tsh is 'built from three sounds' (t, s, h). It is one sound written with three letters. Effect: learners may sound out t-s-h separately and misread words like 'umtshato'. Catch-up: say 'one sound, three letters', point to the three letters together while saying the sound once, and have learners do the same.",
-   "t": 103.0
+   "en": "In class the sound tsh is named, then taken apart letter by letter (t, then s, then h: 'Esesithathu ngu-h') and not put back together as one sound before words are read. In the interview the teacher calls tsh 'three sounds'; it is one sound written with three letters. Effect: learners may sound out t-s-h separately and misread words like 'umtshato'. Catch-up: say 'one sound, three letters', point to the three letters together while saying the sound once, and have learners do the same.",
+   "t": 113.0
   },
   {
    "en": "The sound check is answered in chorus ('Ewe' twice), so the teacher cannot tell which learners actually hear tsh in the word. Effect: learners who are unsure follow the loudest voices and their gap stays hidden. Catch-up: every learner holds up a card at the same time, the teacher scans, then asks two or three individuals to point to the letters.",
@@ -239,8 +229,8 @@
   }
  ],
  "level_of_change": {
-  "level": 1,
-  "en": "Focus skill: explaining a multi-letter sound accurately (tsh is one sound, three letters) during the introduction and segmenting. The teacher presents it as three sounds with confidence and no sign of doubt, which fits level 1 (does not yet know what they do not know). One edited observation is thin evidence and it could be a slip of speech in the cut, so confidence is low. Matching coach move: shift perspective - watch a strong colleague (or a short video) teaching a digraph or trigraph as one sound, then talk about what was different."
+  "level": 2,
+  "en": "Focus skill: teaching a multi-letter sound as one sound (tsh = one sound, three letters) and blending it back. In class the letters are taken apart but the sound is not put back together; in the interview the teacher calls tsh 'three sounds'. The teacher clearly plans the sound step by step but has not yet got a way to treat a three-letter sound, which fits level 2 (knows what, not yet how). One edited observation is thin evidence, so confidence is low. Matching coach move: demonstrate step by step: model 'one sound, three letters' with a letter card, then plan the next tsh lesson together."
  },
  "grow": {
   "goal": {
@@ -248,8 +238,8 @@
    "en": "Next week, when you teach the day's sound, learners will say it as one sound and know it is written with three letters."
   },
   "reality": {
-   "lang": "Okwangoku abafundi bayasibiza kakuhle isandi, kodwa sichazwa njengezandi ezithathu.",
-   "en": "Right now learners say the sound well, but it is explained as three sounds."
+   "lang": "Okwangoku abafundi bayasibiza kakuhle isandi, kodwa sahlulwa ngoonobumba asiphindi sidityaniswe.",
+   "en": "Right now learners say the sound well, but it is taken apart into letters and not put back together."
   },
   "options": {
    "lang": "Ungabukela isifundo somnye utitshala ofundisa isandi esinoonobumba abaninzi; ungasebenzisa ikhadi elinoonobumba abathathu bedityanisiwe; abafundi bangakhomba oonobumba bonke ngaxeshanye besitsho isandi kanye.",
@@ -262,9 +252,9 @@
  },
  "questions": [
   {
-   "lang": "Xa ubuchaza ukuba isandi sakhiwa ngezandi ezithathu, ufuna ukuba abafundi basibize njani xa befunda igama elithi umtshato?",
-   "en": "When you explained that the sound is built from three sounds, how did you want learners to say it when they read the word 'umtshato'?",
-   "t": 103.0
+   "lang": "Xa uthe 'esesithathu ngu-h', ubufuna abafundi basibize njani isandi xa befunda igama elithi umtshato?",
+   "en": "When you said 'the third is h', how did you want learners to say the sound when they read the word 'umtshato'?",
+   "t": 113.0
   },
   {
    "lang": "Xa wabuza ukuba abafundi bafumane amagama ebalini anesandi sanamhlanje, yintoni eyakubonisayo ukuba bayasiva isandi?",
@@ -287,20 +277,20 @@
   {
    "step": 2,
    "step_en": "Observation: positives and blockages",
-   "coach_says": "Unopopi uNontshaba wabatsala abantwana, kwaye bafumana igama elithi umtshato ebalini ngokwabo. Kodwa xa ubuchaza isandi, uthe sakhiwa ngezandi ezithathu, kwaye xa ubuza ukuba sikhona na egameni, baphendula bonke bathi ewe.",
-   "en": "The puppet Nontshaba drew the children in, and they found the word 'umtshato' in the story themselves. But when you explained the sound, you said it is built from three sounds, and when you asked if it was in a word, they all answered 'yes' together."
+   "coach_says": "Unopopi uNontshaba wabatsala abantwana, kwaye bafumana igama elithi umtshato ebalini ngokwabo. Kodwa xa ubuchaza isandi, wasahlula ngoonobumba, t, s, h, kodwa asiphindanga sadityaniswa sabizwa njengesandi esinye. Kwaye xa ubuza ukuba sikhona na egameni, baphendula bonke bathi ewe.",
+   "en": "The puppet Nontshaba drew the children in, and they found the word 'umtshato' in the story themselves. But when you explained the sound, you took it apart into its letters, t, s, h, and it was not put back together and said as one sound. And when you asked if it was in a word, they all answered 'yes' together."
   },
   {
    "step": 3,
    "step_en": "Effect on learners",
-   "coach_says": "Ukuba abantwana bacinga ukuba zizandi ezithathu, banokulifunda igama ngokwahlula t, s, h, balifunde kakubi. Kwaye xa bephendula bonke, asazi ukuba ngubani osaphazamisekayo.",
-   "en": "If children think it is three sounds, they may read a word by splitting t, s, h and read it wrongly. And when they all answer together, we do not know who is still confused."
+   "coach_says": "Ukuba abantwana beva u-t, u-s no-h ngokwahlukeneyo, banokulifunda igama ngokwahlula izandi, balifunde kakubi. Kwaye xa bephendula bonke, asazi ukuba ngubani osaphazamisekayo.",
+   "en": "If children hear t, s and h separately, they may read a word by splitting the sounds and read it wrongly. And when they all answer together, we do not know who is still confused."
   },
   {
    "step": 4,
    "step_en": "Pause and dialogue",
-   "coach_says": "Ndingathanda ukuva umbono wakho. Uyibona njani le nto yezandi ezithathu, kwaye abantwana bayifunda njani?",
-   "en": "I would like to hear your view. How do you see this 'three sounds' idea, and how do the children read it?"
+   "coach_says": "Ndingathanda ukuva umbono wakho. Xa wawusahlula u-tsh ngoonobumba, ubufuna abantwana basibize njani?",
+   "en": "I would like to hear your view. When you split tsh into its letters, how did you want the children to say it?"
   },
   {
    "step": 5,
@@ -316,11 +306,11 @@
  "voice": {
   "mp3": "assets/audio/xh_debrief.mp3",
   "words": "data/xh/debrief_words.json",
-  "script": "Molo, enkosi kakhulu ngokundivumela ukuba ndibe seklasini lakho namhlanje. Ndibone izinto ezimbini ezintle kakhulu. Okokuqala, unopopi wakho wenze abantwana bonwabe baphulaphula, kwaye bonke baphendula ngovuyo. Okwesibini, xa ubacelile ukuba bafumane amagama ebalini anesandi sanamhlanje, umntwana wafumana igama elithi umtshato ngokwakhe, kwaye umdlalo wamakhadi wabanika ithuba lokucinga ngesandi. Kukho into enye endifuna sithethe ngayo. Xa ubuchaza isandi sanamhlanje, uthe sakhiwa ngezandi ezithathu. Eneneni sisandi esinye esibhalwa ngoonobumba abathathu. Oku kunokwenza abanye abantwana bafunde igama ngokwahlula izandi, baze balifunde kakubi. Inyathelo elilandelayo kukuba uthi kubo isandi esinye, oonobumba abathathu, ukhombe oonobumba bonke ngaxeshanye, uze ucele abantwana abambalwa ukuba benze okufanayo bodwa. Ndiyakholelwa kuwe, kuba iklasi lakho sele linomoya omhle wokufunda. Qhubeka ngamandla.",
-  "en": "Hello, thank you very much for letting me be in your class today. I saw two very good things. First, your puppet made the children happy and listening, and they all answered with joy. Second, when you asked them to find words in the story with today's sound, a child found the word 'umtshato' by themselves, and the card game gave them a chance to think about the sound. There is one thing I would like us to talk about. When you explained today's sound, you said it is built from three sounds. In fact it is one sound written with three letters. This can make some children read a word by splitting the sounds, and then read it wrongly. The next step is to tell them 'one sound, three letters', point to all the letters together, and ask a few children to do the same on their own. I believe in you, because your class already has a good spirit of learning. Keep going strongly.",
+  "script": "Molo, enkosi kakhulu ngokundivumela ukuba ndibe seklasini lakho namhlanje. Ndibone izinto ezimbini ezintle kakhulu. Okokuqala, unopopi wakho wenze abantwana bonwabe baphulaphula, kwaye bonke baphendula ngovuyo. Okwesibini, xa ubacelile ukuba bafumane amagama ebalini anesandi sanamhlanje, umntwana wafumana igama elithi umtshato ngokwakhe, kwaye umdlalo wamakhadi wabanika ithuba lokucinga ngesandi. Kukho into enye endifuna sithethe ngayo. Xa ubuchaza isandi sanamhlanje, wasahlula ngoonobumba, t, s, h, kodwa asiphindanga sadityaniswa sabizwa njengesandi esinye. Eneneni sisandi esinye esibhalwa ngoonobumba abathathu. Oku kunokwenza abanye abantwana bafunde igama ngokwahlula izandi, baze balifunde kakubi. Inyathelo elilandelayo kukuba uthi kubo isandi esinye, oonobumba abathathu, ukhombe oonobumba bonke ngaxeshanye, uze ucele abantwana abambalwa ukuba benze okufanayo bodwa. Ndiyakholelwa kuwe, kuba iklasi lakho sele linomoya omhle wokufunda. Qhubeka ngamandla.",
+  "en": "Hello, thank you very much for letting me be in your class today. I saw two very good things. First, your puppet made the children happy and listening, and they all answered with joy. Second, when you asked them to find words in the story with today's sound, a child found the word 'umtshato' by themselves, and the card game gave them a chance to think about the sound. There is one thing I would like us to talk about. When you explained today's sound, you took it apart into its letters, t, s, h, but it was not put back together and said as one sound. In fact it is one sound written with three letters. This can make some children read a word by splitting the sounds, and then read it wrongly. The next step is to tell them 'one sound, three letters', point to all the letters together, and ask a few children to do the same on their own. I believe in you, because your class already has a good spirit of learning. Keep going strongly.",
   "engine": "OpenAI gpt-4o-mini-tts",
   "voice": "sage (cross-lingual)",
-  "seconds": 81.5,
+  "seconds": 87.1,
   "note_en": "Generated voice (cross-lingual, English-accented). A native ear has not rated it yet."
  },
  "accuracy": {

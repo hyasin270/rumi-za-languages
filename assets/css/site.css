@@ -326,3 +326,4 @@ a.chip:hover { border-color: var(--coral); }
 .pipeline li .n { display: block; }
 #scheme-host img { width: 100%; max-height: 560px; object-fit: cover; object-position: top left; }
 .k-text.idle .k-word.on { background: none; color: inherit; }
+.sync .tcol { min-height: 380px; }

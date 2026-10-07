@@ -46,7 +46,7 @@
         `${RZ.ui("video", "Video")}: `, el("a", { href: v.url || `https://www.youtube.com/watch?v=${v.youtube_id}`, target: "_blank", rel: "noopener" }, v.title || ""),
         v.channel ? ` · ${v.channel}` : "");
       this.list = el("ol", { class: "turns", "aria-live": "off", "aria-label": RZ.ui("transcript", "Transcript") });
-      this.hint = el("li", { class: "hint" }, RZ.ui("press_play", "Press play — the transcript appears as the lesson is spoken."));
+      this.hint = el("li", { class: "hint" }, this.turns.length ? RZ.ui("press_play", "Press play — the transcript appears as the lesson is spoken.") : RZ.ui("coming_transcript", "The transcript is coming shortly."));
       this.list.append(this.hint);
       this.rows = this.turns.map((tu, i) => {
         const txt = el("span", { class: "txt-inner" });
@@ -123,6 +123,7 @@
     }
 
     update(t) {
+      if (!this.turns.length) { this.hint.hidden = false; return; }
       let cur = -1;
       const anyShown = this.showAll || t >= (this.turns[0] ? this.turns[0].start : 0) - 0.05 && t > 0.2;
       this.hint.hidden = !!anyShown;

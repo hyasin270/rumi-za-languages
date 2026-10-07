@@ -4,6 +4,8 @@
  * A missing data file renders a "coming shortly" panel in its place; nothing else breaks.
  */
 (async function () {
+  // The three public demo lessons (title + channel credit only).
+  const VIDEOS = { zu: { title: "Phonics - isiZulu" }, xh: { title: 'Phonics "tsh" - isiXhosa' }, st: { title: 'Phonics "ng" - seSotho' } };
   const RZ = window.RZ, lang = document.body.dataset.lang, $ = (id) => document.getElementById(id), esc = RZ.esc;
   await RZ.boot({ lang });
   const name = RZ.langName(lang);
@@ -39,6 +41,11 @@
     $("stt-score").innerHTML = (stt.score ? line(stt.score, RZ.t("verdict.chips.Q2") || "Listening") : "") +
       (stt.agreement ? line(stt.agreement, RZ.ui("stt_agreement", "Two-engine agreement")) : "") +
       ((stt.sources || []).length ? `<p class="note" style="margin-top:6px">${esc(RZ.ui("sources_label", "Sources"))} ${RZ.cite(stt.sources)}</p>` : "");
+  } else if (coach && coach.youtube_id) {
+    // transcript not delivered yet: still show the video so the report's timestamps can play it
+    const v = VIDEOS[lang] || {};
+    new SyncPlayer($("sync-host"), { lang, video: { youtube_id: coach.youtube_id, title: v.title || "", channel: "Mindset Teach", url: `https://www.youtube.com/watch?v=${coach.youtube_id}` }, turns: [] });
+    $("stt-score").innerHTML = RZ.soon(RZ.ui("soon_stt_text", "the synced transcript"));
   } else $("sync-host").innerHTML = RZ.soon(RZ.ui("soon_stt", "the video with its synced transcript"));
 
   /* 3. coaching (+ partner videos, isiZulu only) */
