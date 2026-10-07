@@ -247,7 +247,7 @@
     (root || document).querySelectorAll("[data-copy]").forEach((n) => {
       const k = n.getAttribute("data-copy");
       // optional lines (notes, captions) stay empty and hidden when there is no copy for them
-      if (!RZ.has(k) && n.matches(".note, .vmaterial, .pending-ear, .site-footer *")) { n.textContent = ""; n.hidden = true; return; }
+      if (!RZ.has(k) && n.matches(".note, .note *, .vmaterial, .pending-ear, .site-footer *")) { n.textContent = ""; n.hidden = true; return; }
       n.innerHTML = RZ.html(k);
     });
     (root || document).querySelectorAll("[data-copy-block]").forEach((n) => { n.innerHTML = RZ.block(n.getAttribute("data-copy-block")); });
