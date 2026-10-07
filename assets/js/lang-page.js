@@ -16,6 +16,10 @@
 
   const files = ["data/summary.json", `data/${lang}/vision.json`, `data/${lang}/lp.json`, `data/${lang}/stt.json`, `data/${lang}/coach.json`, `data/${lang}/tts.json`, `data/${lang}/partner_note.json`];
   const [summary, vision, lp, stt, coach, tts, partner] = await Promise.all(files.map(RZ.load));
+  // word timings may be inline arrays or paths to JSON files
+  if (lp && lp.voice_note) lp.voice_note.words = await RZ.words(lp.voice_note.words);
+  if (coach && coach.voice) coach.voice.words = await RZ.words(coach.voice.words);
+  if (tts) for (const m of tts.conversation || []) if (m.words) m.words = await RZ.words(m.words);
 
   /* 0. verdict strip: the four scores (from summary.json) + verdict */
   const row = summary && (summary.rows || []).find((r) => (r.code || r.lang) === lang);
@@ -72,7 +76,7 @@
     $("tts-score").innerHTML = `<div class="score-line">${RZ.chip(s, { key: RZ.t("verdict.chips.Q4") || "Speaking" })} <span class="note">${esc(s.line || "")}${RZ.cite(tts.sources)}</span></div>`;
   } else $("chat-host").innerHTML = RZ.soon(RZ.ui("soon_tts", "the conversation"));
 
-  RZ.renderFootnotes($("footnotes"));
+  RZ.renderFootnotes($("fn-host"));
   RZ.buildToc();
   RZ.settleHash();
 })();

@@ -247,6 +247,6 @@
   "measured": "a script compared Rumi's output with a known-good reference",
   "AI-judged": "a second AI model judged it, or two engines were compared where no human reference exists; never decides a verdict",
   "native ear pending": "no first-language speaker has checked it yet; true of every number on this site",
-  "verdict": "GREEN: every test run scored 7 or more out of 10. AMBER: one landed between 4 and 7. RED: one fell below 4. Scores never round up."
+  "verdict": "GREEN: every test run scored 7 or more out of 10. AMBER: one landed between 4 and 7. RED: one fell below 4. Rounding always goes against us: scores are cut down, error rates up."
  }
 }

@@ -327,3 +327,6 @@ a.chip:hover { border-color: var(--coral); }
 #scheme-host img { width: 100%; max-height: 560px; object-fit: cover; object-position: top left; }
 .k-text.idle .k-word.on { background: none; color: inherit; }
 .sync .tcol { min-height: 380px; }
+.turn.interview { background: #F6F7F9; }
+.turn.interview .txt { color: var(--muted); }
+.turn .who .tag { font-size: .65rem; font-weight: 600; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 0 6px; text-transform: none; letter-spacing: 0; }

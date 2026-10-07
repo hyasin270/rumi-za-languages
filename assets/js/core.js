@@ -199,17 +199,24 @@
     return n;
   };
 
+  /** A word-timing list may be inline [{w,s,e}] or a path to a JSON file holding one. */
+  RZ.words = async function (x) {
+    if (Array.isArray(x)) return x;
+    if (typeof x === "string" && x) { const w = await RZ.load(x); return Array.isArray(w) ? w : (w && w.words) || []; }
+    return [];
+  };
+
   /* ---------- TOC (sticky sidebar on desktop, collapsible on phone) ---------- */
   RZ.buildToc = function () {
     const items = [...document.querySelectorAll("main [data-toc]")].map((s) => ({
       id: s.id, label: s.getAttribute("data-toc-label") || (s.querySelector("h2,h3") || {}).textContent || s.id, sub: s.hasAttribute("data-toc-sub"),
     }));
     const list = () => `<ol>${items.map((i) => `<li class="${i.sub ? "sub" : ""}"><a href="#${i.id}" data-id="${i.id}">${esc(i.label)}</a></li>`).join("")}</ol>`;
-    const title = esc(RZ.ui("toc", "On this page"));
+    const title = esc(RZ.t("index.toc.heading") || RZ.ui("toc", "On this page"));
     const d = document.getElementById("toc-desktop"), m = document.getElementById("toc-mobile");
     if (d) d.innerHTML = `<p class="toc-title">${title}</p><nav class="toc" aria-label="${title}">${list()}</nav>`;
     if (m) {
-      m.innerHTML = `<summary>${title}</summary><nav class="toc" aria-label="${title} (compact)">${list()}</nav>`;
+      m.innerHTML = `<summary>${esc(RZ.t("index.toc.toggle") || RZ.t("index.toc.heading") || "On this page")}</summary><nav class="toc" aria-label="${title} (compact)">${list()}</nav>`;
       m.querySelectorAll("a").forEach((a) => a.addEventListener("click", () => m.removeAttribute("open")));
     }
     const links = document.querySelectorAll(".toc a");

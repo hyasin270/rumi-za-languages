@@ -64,6 +64,7 @@
       [ls.grade, ls.strand, ls.focus].filter(Boolean).forEach((x) => meta.append(el("span", {}, x)));
       card.append(meta);
       if (c.summary_en) card.append(el("p", { class: "summary-en" }, c.summary_en));
+      if (c.scope_en) card.append(el("p", { class: "note" }, c.scope_en));
       card.append(el("div", { class: "legend", html:
         `${statusChip("seen")} ${statusChip("partly")} ${statusChip("not_observed")} <span>${esc(L("legend_ts", "Every timestamp plays that moment in the video above."))}</span>` }));
 
@@ -120,7 +121,7 @@
       if (c.next_step) card.append(el("div", { class: "card", style: "border-left:4px solid var(--coral)" }, el("p", { class: "subcard-title" }, L("next_step", "One next step")), bil(c.next_step, lang)));
       if (c.voice && c.voice.mp3) {
         const v = el("div", { class: "card" }, el("p", { class: "subcard-title" }, o.debriefHeading || L("spoken_debrief", "The spoken debrief")));
-        window.Karaoke.mount(v, { mp3: c.voice.mp3, words: c.voice.words, lang, label: L("spoken_debrief", "The spoken debrief") });
+        window.Karaoke.mount(v, { mp3: c.voice.mp3, words: c.voice.words, text: c.voice.script, en: c.voice.en || c.voice.script_en, lang, label: L("spoken_debrief", "The spoken debrief") });
         card.append(v);
       }
       const a = c.accuracy;

@@ -55,12 +55,13 @@
         const enBtn = tu.en ? el("button", { class: "btn small en-t", type: "button", "aria-pressed": "false",
           "aria-label": `${RZ.ui("english", "English")} — ${RZ.fmt(tu.start)}`,
           onclick: (e) => { e.stopPropagation(); const on = en.hidden; en.hidden = !on; enBtn.setAttribute("aria-pressed", String(on)); } }, (this.opts.english || RZ.ui("english", "English"))) : null;
-        const spk = String(tu.speaker || "").toLowerCase();
-        const li = el("li", { class: `turn spk-${spk}`, hidden: true, tabindex: "0", role: "button",
+        const spk = String(tu.speaker || "").toLowerCase().replace(/[^a-z]+/g, "-").replace(/-+$/, "");
+        const interview = tu.kind === "interview" || /interview/i.test(tu.speaker || "");
+        const li = el("li", { class: `turn spk-${spk}${interview ? " interview" : ""}`, hidden: true, tabindex: "0", role: "button",
           "aria-label": `${tu.speaker} ${RZ.fmt(tu.start)} — ${RZ.ui("seek", "play from here")}`,
           onclick: () => this.seek(tu.start, true),
           onkeydown: (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); this.seek(tu.start, true); } } },
-          el("div", { class: "who" }, el("span", {}, this.speakerLabel(tu.speaker)), el("span", { class: "time" }, RZ.fmt(tu.start)), enBtn),
+          el("div", { class: "who" }, el("span", {}, this.speakerLabel(tu.speaker)), interview && !/interview/i.test(tu.speaker || "") ? el("span", { class: "tag" }, RZ.ui("interview", "interview")) : "", el("span", { class: "time" }, RZ.fmt(tu.start)), enBtn),
           el("div", { class: "txt" }, txt, caret), en);
         this.list.append(li);
         return { li, txt, caret, tu, shown: -1 };

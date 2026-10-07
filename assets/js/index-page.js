@@ -89,7 +89,7 @@
   $("ship-table").innerHTML = table("index.ship.columns", "index.ship.rows");
   $("cost-table").innerHTML = table("index.cost.columns", "index.cost.rows");
 
-  RZ.renderFootnotes($("footnotes"));
+  RZ.renderFootnotes($("fn-host"));
   RZ.buildToc();
   RZ.settleHash();
 })();
