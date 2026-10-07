@@ -17,17 +17,17 @@
    "note_en": "The puppet and the echoed tsh sentences act as an oral warm-up that is rich in the sound, but the teacher names the sound before asking for it, so learners do not pick it out themselves.",
    "evidence": [
     {
-     "t": 69.0,
+     "t": 70.15,
      "quote": "Umtshana wakhe uPriscilla uzakucula.",
      "en": "Her niece Priscilla is going to sing."
     },
     {
-     "t": 84.0,
+     "t": 84.44,
      "quote": "Umtshato kaNonthlanthla.",
      "en": "Nonthlanthla's wedding."
     },
     {
-     "t": 93.0,
+     "t": 91.14,
      "quote": "Isandi sethu esingu-tsh. Isandi sethu esingubani?",
      "en": "Our sound is tsh. Our sound is which one?"
     }
@@ -39,15 +39,15 @@
    "name": "Ukwazisa isandi esitsha",
    "name_en": "Introduce the sound and its letters",
    "status": "seen",
-   "note_en": "The sound is named, learners repeat it, and its letters t, s, h are named one by one; a chart is not mentioned and the articulation is not modelled on its own.",
+   "note_en": "The sound is named, learners repeat it, and its letters t, s, h are named one by one; a chart is not mentioned and the articulation is not modelled on its own. Context (the teacher's interview to camera, not evidence): \"It is split three times into three sounds, it is built from three sounds. t...\".",
    "evidence": [
     {
-     "t": 95.0,
+     "t": 95.77,
      "quote": "U-tsh.",
      "en": "tsh."
     },
     {
-     "t": 100.0,
+     "t": 99.27,
      "quote": "Isandi sethu esingu-tsh.",
      "en": "Our sound is tsh."
     }
@@ -59,10 +59,10 @@
    "name": "Ukudibanisa nokwahlula izandi",
    "name_en": "Blending and segmenting",
    "status": "partly",
-   "note_en": "The only segmenting shown is teacher-led: tsh is taken apart into its letters t, s, h and not blended back into one sound; learners are not seen segmenting or blending words themselves.",
+   "note_en": "The only segmenting shown is teacher-led: tsh is taken apart into its letters t, s, h and not blended back into one sound; learners are not seen segmenting or blending words themselves. Context (the teacher's interview to camera, not evidence): \"It is split three times into three sounds, it is built from three sounds.\".",
    "evidence": [
     {
-     "t": 113.0,
+     "t": 117.29,
      "quote": "Esesithathu ngu-h...",
      "en": "The third is h..."
     }
@@ -77,17 +77,17 @@
    "note_en": "One learner finds a tsh word from the story and learners name and judge words in the card game, but reading is mostly chorus and no word building with letter cards is shown.",
    "evidence": [
     {
-     "t": 134.0,
+     "t": 134.13,
      "quote": "Ubani onondipha amagama amatsha awafumene kwibali lethu anesandi esiqala ngo-tsh?",
      "en": "Who can give me new words they found in our story that have the sound beginning with tsh?"
     },
     {
-     "t": 145.0,
+     "t": 145.88,
      "quote": "Umtshato.",
      "en": "Wedding."
     },
     {
-     "t": 274.0,
+     "t": 275.87,
      "quote": "Itshokolethi. Ndolathele igama elithi itshokolethi. Eke, nesandi.",
      "en": "Chocolate. Point out the word 'chocolate' for me. Yes, and the sound."
     }
@@ -99,14 +99,8 @@
    "name": "Ukuziqhelisa nokuhlola",
    "name_en": "Practice and checking",
    "status": "not_observed",
-   "note_en": "Group work at different levels is described in the interview only; the edit does not show learners practising in books or the teacher checking them.",
-   "evidence": [
-    {
-     "t": 249.0,
-     "quote": "Abanye ndibanike umsebenzi wokubhala, babhal' ok'ke, abanye ndibanike umsebenzi wokukopa amagama",
-     "en": "(Interview, not observed) Some I give writing work, others I give work copying words."
-    }
-   ],
+   "note_en": "Group work at different levels is described in the interview only; the edit does not show learners practising in books or the teacher checking them. Context (the teacher's interview to camera, not evidence): \"(Interview, not observed) Some I give writing work, others I give work copying words.\".",
+   "evidence": [],
    "from_run": "r2"
   }
  ],
@@ -119,17 +113,17 @@
    "note_en": "Choral responses dominate; a handful of individuals answer (a tsh word, opposites, a playground word) and one learner is called forward.",
    "evidence": [
     {
-     "t": 23.0,
+     "t": 23.81,
      "quote": "NguNontshaba!",
      "en": "It's Nontshaba!"
     },
     {
-     "t": 187.0,
+     "t": 188.2,
      "quote": "Ibala lebholo.",
      "en": "A ball field."
     },
     {
-     "t": 280.0,
+     "t": 284.1,
      "quote": "Yiza [learner], aphakamise ikhadi elibomvu.",
      "en": "Come [learner], to raise the red card."
     }
@@ -144,12 +138,12 @@
    "note_en": "No praise is heard; the teacher only echoes correct answers back, which acknowledges but does not praise effort or thinking.",
    "evidence": [
     {
-     "t": 146.0,
+     "t": 145.88,
      "quote": "Umtshato.",
      "en": "Wedding."
     },
     {
-     "t": 157.0,
+     "t": 160.26,
      "quote": "Yinto endala.",
      "en": "It is an old thing."
     }
@@ -182,17 +176,17 @@
    "note_en": "The red/green card game and 'show me where' ask individuals to show the sound, but answers shown are mostly chorus 'Ewe' and no adjustment is seen.",
    "evidence": [
     {
-     "t": 280.0,
+     "t": 284.1,
      "quote": "Ubani ondibize elinye igama elingenaso- elingenaso esisandi singu-tsh, uzophakamisa ikhadi eliluhlaza.",
      "en": "Whoever calls me another word without this tsh sound will raise the green card."
     },
     {
-     "t": 309.0,
+     "t": 311.67,
      "quote": "Siphi? Siyasibona esisandi singu-tsh?",
      "en": "Where is it? Do we see this tsh sound?"
     },
     {
-     "t": 313.0,
+     "t": 315.35,
      "quote": "Ewe.",
      "en": "Yes."
     }
@@ -203,29 +197,29 @@
  "positives": [
   {
    "en": "The puppet Nontshaba, whose name itself carries the target sound, gets every learner's attention and an eager chorus reply before the sound is even named.",
-   "t": 23.0
+   "t": 21.47
   },
   {
    "en": "Learners hear and repeat many sentences packed with tsh words (umtshana, umtshato), so they meet the sound in meaningful language before it is isolated.",
-   "t": 69.0
+   "t": 67.82
   },
   {
    "en": "The teacher asks learners to find tsh words in the story they heard, and a learner offers 'Umtshato', so learners search for the sound themselves.",
-   "t": 134.0
+   "t": 134.13
   },
   {
    "en": "The red/green card game turns sound detection into a decision each learner can show, and the teacher asks 'Siphi? Khawundolathele' to make a learner point to where the sound is.",
-   "t": 307.0
+   "t": 305.88
   }
  ],
  "blockages": [
   {
    "en": "In class the sound tsh is named, then taken apart letter by letter (t, then s, then h: 'Esesithathu ngu-h') and not put back together as one sound before words are read. In the interview the teacher calls tsh 'three sounds'; it is one sound written with three letters. Effect: learners may sound out t-s-h separately and misread words like 'umtshato'. Catch-up: say 'one sound, three letters', point to the three letters together while saying the sound once, and have learners do the same.",
-   "t": 117.5
+   "t": 117.29
   },
   {
    "en": "The sound check is answered in chorus ('Ewe' twice), so the teacher cannot tell which learners actually hear tsh in the word. Effect: learners who are unsure follow the loudest voices and their gap stays hidden. Catch-up: every learner holds up a card at the same time, the teacher scans, then asks two or three individuals to point to the letters.",
-   "t": 313.0
+   "t": 312.95
   }
  ],
  "level_of_change": {
@@ -254,17 +248,17 @@
   {
    "lang": "Xa uthe 'esesithathu ngu-h', ubufuna abafundi basibize njani isandi xa befunda igama elithi umtshato?",
    "en": "When you said 'the third is h', how did you want learners to say the sound when they read the word 'umtshato'?",
-   "t": 117.5
+   "t": 117.29
   },
   {
    "lang": "Xa wabuza ukuba abafundi bafumane amagama ebalini anesandi sanamhlanje, yintoni eyakubonisayo ukuba bayasiva isandi?",
    "en": "When you asked learners to find words from the story with today's sound, what showed you that they could hear the sound?",
-   "t": 134.0
+   "t": 134.13
   },
   {
    "lang": "Xa abafundi baphendula bonke bathi ewe, ubunokwazi njani ukuba ngubani oqinisekileyo nongaqinisekanga?",
    "en": "When all the learners answered 'yes' together, how could you know who was sure and who was not?",
-   "t": 313.0
+   "t": 312.95
   }
  ],
  "debrief_plan": [
@@ -305,7 +299,594 @@
  },
  "voice": {
   "mp3": "assets/audio/xh_debrief.mp3",
-  "words": "data/xh/debrief_words.json",
+  "words": [
+   {
+    "w": "Molo,",
+    "s": 0.0,
+    "e": 0.64
+   },
+   {
+    "w": "enkosi",
+    "s": 1.4,
+    "e": 2.253
+   },
+   {
+    "w": "kakhulu",
+    "s": 2.38,
+    "e": 3.1
+   },
+   {
+    "w": "ngokundivumela",
+    "s": 3.1,
+    "e": 4.52
+   },
+   {
+    "w": "ukuba",
+    "s": 4.52,
+    "e": 5.0
+   },
+   {
+    "w": "ndibe",
+    "s": 5.0,
+    "e": 5.94
+   },
+   {
+    "w": "seklasini",
+    "s": 5.94,
+    "e": 6.7
+   },
+   {
+    "w": "lakho",
+    "s": 6.7,
+    "e": 7.22
+   },
+   {
+    "w": "namhlanje.",
+    "s": 7.22,
+    "e": 8.3
+   },
+   {
+    "w": "Ndibone",
+    "s": 9.44,
+    "e": 9.8
+   },
+   {
+    "w": "izinto",
+    "s": 9.8,
+    "e": 10.4
+   },
+   {
+    "w": "ezimbini",
+    "s": 10.4,
+    "e": 11.12
+   },
+   {
+    "w": "ezintle",
+    "s": 11.12,
+    "e": 11.8
+   },
+   {
+    "w": "kakhulu.",
+    "s": 11.8,
+    "e": 12.4
+   },
+   {
+    "w": "Okokuqala,",
+    "s": 12.94,
+    "e": 13.812
+   },
+   {
+    "w": "unopopi",
+    "s": 14.42,
+    "e": 15.04
+   },
+   {
+    "w": "wakho",
+    "s": 15.04,
+    "e": 15.44
+   },
+   {
+    "w": "wenze",
+    "s": 15.44,
+    "e": 16.14
+   },
+   {
+    "w": "abantwana",
+    "s": 16.14,
+    "e": 16.72
+   },
+   {
+    "w": "bonwabe",
+    "s": 16.72,
+    "e": 17.48
+   },
+   {
+    "w": "baphulaphula,",
+    "s": 17.48,
+    "e": 18.307
+   },
+   {
+    "w": "kwaye",
+    "s": 18.96,
+    "e": 19.38
+   },
+   {
+    "w": "bonke",
+    "s": 19.38,
+    "e": 19.794
+   },
+   {
+    "w": "baphendula",
+    "s": 19.794,
+    "e": 20.504
+   },
+   {
+    "w": "ngovuyo.",
+    "s": 20.504,
+    "e": 21.104
+   },
+   {
+    "w": "Okwesibini,",
+    "s": 21.76,
+    "e": 22.54
+   },
+   {
+    "w": "xa",
+    "s": 23.24,
+    "e": 23.34
+   },
+   {
+    "w": "ubacelile",
+    "s": 23.34,
+    "e": 24.06
+   },
+   {
+    "w": "ukuba",
+    "s": 24.06,
+    "e": 24.52
+   },
+   {
+    "w": "bafumane",
+    "s": 24.52,
+    "e": 25.24
+   },
+   {
+    "w": "amagama",
+    "s": 25.24,
+    "e": 25.88
+   },
+   {
+    "w": "ebalini",
+    "s": 25.88,
+    "e": 26.54
+   },
+   {
+    "w": "anesandi",
+    "s": 26.54,
+    "e": 27.516
+   },
+   {
+    "w": "sanamhlanje,",
+    "s": 27.516,
+    "e": 28.46
+   },
+   {
+    "w": "umntwana",
+    "s": 28.46,
+    "e": 29.72
+   },
+   {
+    "w": "wafumana",
+    "s": 29.72,
+    "e": 30.42
+   },
+   {
+    "w": "igama",
+    "s": 30.42,
+    "e": 30.9
+   },
+   {
+    "w": "elithi",
+    "s": 30.9,
+    "e": 31.42
+   },
+   {
+    "w": "umtshato",
+    "s": 31.42,
+    "e": 31.938
+   },
+   {
+    "w": "ngokwakhe,",
+    "s": 31.938,
+    "e": 32.668
+   },
+   {
+    "w": "kwaye",
+    "s": 33.4,
+    "e": 33.6
+   },
+   {
+    "w": "umdlalo",
+    "s": 33.6,
+    "e": 34.04
+   },
+   {
+    "w": "wamakhadi",
+    "s": 34.04,
+    "e": 34.72
+   },
+   {
+    "w": "wabanika",
+    "s": 35.14,
+    "e": 35.62
+   },
+   {
+    "w": "ithuba",
+    "s": 35.62,
+    "e": 36.06
+   },
+   {
+    "w": "lokucinga",
+    "s": 36.06,
+    "e": 36.72
+   },
+   {
+    "w": "ngesandi.",
+    "s": 36.72,
+    "e": 37.36
+   },
+   {
+    "w": "Kukho",
+    "s": 38.76,
+    "e": 38.92
+   },
+   {
+    "w": "into",
+    "s": 38.92,
+    "e": 39.38
+   },
+   {
+    "w": "enye",
+    "s": 39.38,
+    "e": 39.68
+   },
+   {
+    "w": "endifuna",
+    "s": 39.68,
+    "e": 40.3
+   },
+   {
+    "w": "sithethe",
+    "s": 40.3,
+    "e": 40.88
+   },
+   {
+    "w": "ngayo.",
+    "s": 40.88,
+    "e": 41.268
+   },
+   {
+    "w": "Xa",
+    "s": 42.18,
+    "e": 42.26
+   },
+   {
+    "w": "ubuchaza",
+    "s": 42.26,
+    "e": 42.82
+   },
+   {
+    "w": "isandi",
+    "s": 42.82,
+    "e": 43.3
+   },
+   {
+    "w": "sanamhlanje,",
+    "s": 43.3,
+    "e": 44.2
+   },
+   {
+    "w": "wasahlula",
+    "s": 44.2,
+    "e": 45.34
+   },
+   {
+    "w": "ngoonobumba,",
+    "s": 45.34,
+    "e": 45.94
+   },
+   {
+    "w": "t,",
+    "s": 45.94,
+    "e": 46.567
+   },
+   {
+    "w": "s,",
+    "s": 46.567,
+    "e": 47.193
+   },
+   {
+    "w": "h,",
+    "s": 47.193,
+    "e": 47.82
+   },
+   {
+    "w": "kodwa",
+    "s": 48.44,
+    "e": 48.68
+   },
+   {
+    "w": "asiphindanga",
+    "s": 48.68,
+    "e": 49.48
+   },
+   {
+    "w": "sadityaniswa",
+    "s": 49.48,
+    "e": 50.454
+   },
+   {
+    "w": "sabizwa",
+    "s": 51.04,
+    "e": 51.42
+   },
+   {
+    "w": "njengesandi",
+    "s": 51.42,
+    "e": 52.18
+   },
+   {
+    "w": "esinye.",
+    "s": 52.18,
+    "e": 52.72
+   },
+   {
+    "w": "Eneneni",
+    "s": 53.88,
+    "e": 54.362
+   },
+   {
+    "w": "sisandi",
+    "s": 54.362,
+    "e": 54.94
+   },
+   {
+    "w": "esinye",
+    "s": 54.94,
+    "e": 55.42
+   },
+   {
+    "w": "esibhalwa",
+    "s": 55.42,
+    "e": 55.969
+   },
+   {
+    "w": "ngoonobumba",
+    "s": 55.969,
+    "e": 56.72
+   },
+   {
+    "w": "abathathu.",
+    "s": 56.72,
+    "e": 57.46
+   },
+   {
+    "w": "Oku",
+    "s": 57.46,
+    "e": 57.514
+   },
+   {
+    "w": "kunokwenza",
+    "s": 58.177,
+    "e": 59.16
+   },
+   {
+    "w": "abanye",
+    "s": 59.16,
+    "e": 59.72
+   },
+   {
+    "w": "abantwana",
+    "s": 59.72,
+    "e": 60.42
+   },
+   {
+    "w": "bafunde",
+    "s": 60.42,
+    "e": 61.32
+   },
+   {
+    "w": "igama",
+    "s": 61.32,
+    "e": 61.84
+   },
+   {
+    "w": "ngokwahlula",
+    "s": 61.84,
+    "e": 62.56
+   },
+   {
+    "w": "izandi,",
+    "s": 62.56,
+    "e": 63.14
+   },
+   {
+    "w": "baze",
+    "s": 63.74,
+    "e": 63.9
+   },
+   {
+    "w": "balifunde",
+    "s": 63.9,
+    "e": 64.48
+   },
+   {
+    "w": "kakubi.",
+    "s": 64.48,
+    "e": 65.146
+   },
+   {
+    "w": "Inyathelo",
+    "s": 66.14,
+    "e": 66.66
+   },
+   {
+    "w": "elilandelayo",
+    "s": 66.66,
+    "e": 67.76
+   },
+   {
+    "w": "kukuba",
+    "s": 68.087,
+    "e": 68.36
+   },
+   {
+    "w": "uthi",
+    "s": 68.36,
+    "e": 68.677
+   },
+   {
+    "w": "kubo",
+    "s": 68.677,
+    "e": 69.1
+   },
+   {
+    "w": "isandi",
+    "s": 69.1,
+    "e": 69.54
+   },
+   {
+    "w": "esinye,",
+    "s": 69.54,
+    "e": 70.172
+   },
+   {
+    "w": "oonobumba",
+    "s": 70.826,
+    "e": 71.42
+   },
+   {
+    "w": "abathathu,",
+    "s": 71.42,
+    "e": 72.22
+   },
+   {
+    "w": "ukhombe",
+    "s": 72.76,
+    "e": 73.24
+   },
+   {
+    "w": "oonobumba",
+    "s": 73.24,
+    "e": 73.84
+   },
+   {
+    "w": "bonke",
+    "s": 73.84,
+    "e": 74.285
+   },
+   {
+    "w": "ngaxeshanye,",
+    "s": 74.285,
+    "e": 75.206
+   },
+   {
+    "w": "uze",
+    "s": 75.96,
+    "e": 76.08
+   },
+   {
+    "w": "ucele",
+    "s": 76.08,
+    "e": 76.52
+   },
+   {
+    "w": "abantwana",
+    "s": 76.52,
+    "e": 77.14
+   },
+   {
+    "w": "abambalwa",
+    "s": 77.14,
+    "e": 77.98
+   },
+   {
+    "w": "ukuba",
+    "s": 77.98,
+    "e": 78.3
+   },
+   {
+    "w": "benze",
+    "s": 78.3,
+    "e": 78.8
+   },
+   {
+    "w": "okufanayo",
+    "s": 78.8,
+    "e": 79.64
+   },
+   {
+    "w": "bodwa.",
+    "s": 79.64,
+    "e": 80.08
+   },
+   {
+    "w": "Ndiyakholelwa",
+    "s": 80.08,
+    "e": 82.1
+   },
+   {
+    "w": "kuwe,",
+    "s": 82.1,
+    "e": 82.38
+   },
+   {
+    "w": "kuba",
+    "s": 82.807,
+    "e": 83.08
+   },
+   {
+    "w": "iklasi",
+    "s": 83.08,
+    "e": 83.656
+   },
+   {
+    "w": "lakho",
+    "s": 83.656,
+    "e": 84.031
+   },
+   {
+    "w": "sele",
+    "s": 84.26,
+    "e": 84.493
+   },
+   {
+    "w": "linomoya",
+    "s": 84.533,
+    "e": 84.902
+   },
+   {
+    "w": "omhle",
+    "s": 84.942,
+    "e": 85.175
+   },
+   {
+    "w": "wokufunda.",
+    "s": 85.215,
+    "e": 85.721
+   },
+   {
+    "w": "Qhubeka",
+    "s": 85.761,
+    "e": 86.131
+   },
+   {
+    "w": "ngamandla.",
+    "s": 86.171,
+    "e": 86.54
+   }
+  ],
+  "words_file": "data/xh/debrief_words.json",
   "script": "Molo, enkosi kakhulu ngokundivumela ukuba ndibe seklasini lakho namhlanje. Ndibone izinto ezimbini ezintle kakhulu. Okokuqala, unopopi wakho wenze abantwana bonwabe baphulaphula, kwaye bonke baphendula ngovuyo. Okwesibini, xa ubacelile ukuba bafumane amagama ebalini anesandi sanamhlanje, umntwana wafumana igama elithi umtshato ngokwakhe, kwaye umdlalo wamakhadi wabanika ithuba lokucinga ngesandi. Kukho into enye endifuna sithethe ngayo. Xa ubuchaza isandi sanamhlanje, wasahlula ngoonobumba, t, s, h, kodwa asiphindanga sadityaniswa sabizwa njengesandi esinye. Eneneni sisandi esinye esibhalwa ngoonobumba abathathu. Oku kunokwenza abanye abantwana bafunde igama ngokwahlula izandi, baze balifunde kakubi. Inyathelo elilandelayo kukuba uthi kubo isandi esinye, oonobumba abathathu, ukhombe oonobumba bonke ngaxeshanye, uze ucele abantwana abambalwa ukuba benze okufanayo bodwa. Ndiyakholelwa kuwe, kuba iklasi lakho sele linomoya omhle wokufunda. Qhubeka ngamandla.",
   "en": "Hello, thank you very much for letting me be in your class today. I saw two very good things. First, your puppet made the children happy and listening, and they all answered with joy. Second, when you asked them to find words in the story with today's sound, a child found the word 'umtshato' by themselves, and the card game gave them a chance to think about the sound. There is one thing I would like us to talk about. When you explained today's sound, you took it apart into its letters, t, s, h, but it was not put back together and said as one sound. In fact it is one sound written with three letters. This can make some children read a word by splitting the sounds, and then read it wrongly. The next step is to tell them 'one sound, three letters', point to all the letters together, and ask a few children to do the same on their own. I believe in you, because your class already has a good spirit of learning. Keep going strongly.",
   "engine": "OpenAI gpt-4o-mini-tts",
@@ -315,13 +896,19 @@
  },
  "accuracy": {
   "grounding": {
-   "value": 1.0,
-   "found": 10,
+   "value": 0.7,
+   "found": 7,
    "n": 10,
    "label": "measured",
-   "display": "10 of 10 quotes found in the transcript",
-   "against": "the working transcript",
-   "all_quotes": null
+   "display": "7 of 10 of Rumi's longer quotes (4+ words) found word for word in a classroom turn",
+   "against": "classroom turns of the transcript shown on this page",
+   "all_quotes": {
+    "kept": 17,
+    "moved": 3,
+    "fixed": 0,
+    "dropped": 0,
+    "n": 20
+   }
   },
   "coverage": {
    "value": 1.0,
@@ -338,7 +925,9 @@
    "status_agreement_pairwise": 0.933,
    "display": "Three runs: same status on 9 of 10 items; Rumi's private working score (0–100) moved by SD 5.5 points"
   },
-  "score": 9.94,
+  "n_runs": 3,
+  "against": "the classroom turns of the transcript on this page (the teacher's interview excluded)",
+  "score": 8.44,
   "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
   "label": "measured",
   "line": "These numbers measure Rumi — whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."

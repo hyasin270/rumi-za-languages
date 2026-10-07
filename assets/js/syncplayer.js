@@ -145,6 +145,18 @@
         const b = this.stt.baseline;
         r.li.classList.toggle("in-window", !!(this.baseOn && b && r.tu.start < b.to && r.tu.end > b.from));
       });
+      // the turn to keep in view: the one being spoken, else the last one revealed (a pause between turns)
+      let last = -1;
+      if (!this.showAll) for (let i = 0; i < this.rows.length; i++) if (t >= this.rows[i].tu.start) last = i;
+      const focus = cur >= 0 ? cur : last;
+      if (focus !== this.focus) {
+        this.focus = focus;
+        if (focus >= 0) {
+          const li = this.rows[focus].li;
+          const top = li.offsetTop - this.list.offsetTop - 12;
+          if (top < this.list.scrollTop || top + li.offsetHeight > this.list.scrollTop + this.list.clientHeight - 24) this.list.scrollTop = Math.max(0, top - 40);
+        }
+      }
       if (cur !== this.cur) {
         if (this.cur >= 0 && this.rows[this.cur]) this.rows[this.cur].li.classList.remove("now");
         if (cur >= 0) {
@@ -182,6 +194,8 @@
       this.allBtn.setAttribute("aria-pressed", String(this.showAll));
       this.allBtn.textContent = this.showAll ? window.RZ.ui("show_live", "Follow the video") : window.RZ.ui("show_all", "Show full transcript");
       this.rows.forEach((r) => (r.shown = -2));
+      this.focus = undefined;
+      if (this.showAll) this.list.scrollTop = 0;
       this.update(this.t);
     }
     toggleBase() {

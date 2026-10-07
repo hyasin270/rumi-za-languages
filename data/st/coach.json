@@ -17,17 +17,12 @@
    "note_en": "Learners sing the alphabet song and a hand-action chant before the teacher asks for the new sound; the songs are not shown drawing out ng itself (the teacher's interview says a second song combines the letters of the day's sound, but that is described, not shown).",
    "evidence": [
     {
-     "t": 55.0,
-     "quote": "a, b, c, d, e, f, g, h, i, j, k",
-     "en": "the class sings the alphabet song"
+     "t": 138.67,
+     "quote": "O leke ho bala ka tlhoko o utlwe, o seke wa etsa ka sohong o utlwe.",
+     "en": "Try to read carefully, you hear, don't do it with haste, you hear."
     },
     {
-     "t": 137.0,
-     "quote": "Re tshela ka tsoho la ho ngola.",
-     "en": "we cross with the writing hand (action chant)"
-    },
-    {
-     "t": 155.0,
+     "t": 157.56,
      "quote": "Modimo wa rona o motjha ke?",
      "en": "Our new sound is...?"
     }
@@ -42,19 +37,19 @@
    "note_en": "The teacher asks for the new sound and its letters; learners correctly name n and g, and the teacher repeats the answer and anchors each letter to a known word (n of ntate, g of Gauteng). No sound/letter chart is visible and articulation is not modelled in detail.",
    "evidence": [
     {
-     "t": 162.0,
+     "t": 167.77,
      "quote": "M le kh.",
      "en": "n and g (the transcript hears 'm le kh')."
     },
     {
-     "t": 163.0,
+     "t": 167.77,
      "quote": "[learner] a re ke m le kh. Ke m...",
      "en": "[learner] says it is n and g (the transcript hears 'm le kh'). It is n..."
     },
     {
-     "t": 171.0,
-     "quote": "Le \"g\" wa Gauteng. \"G\" wa eng?",
-     "en": "And g as in Gauteng. G as in what?"
+     "t": 169.97,
+     "quote": "le kh wa Gauteng. Ke m wa eng?",
+     "en": "and g of Gauteng. It's n of what? [letters n and g, heard as 'm' and 'kh']"
     }
    ],
    "from_run": "r1"
@@ -67,17 +62,17 @@
    "note_en": "Words with ng are segmented into letters (lengau, ngaka) and blended back (lengolo), but always teacher-led and in chorus; no individual learner segments or blends.",
    "evidence": [
     {
-     "t": 187.0,
+     "t": 189.02,
      "quote": "A ke le ntshwareng ho ngola lentswe lengau le qala ka eng?",
      "en": "Help me write the word lengau: what does it start with?"
     },
     {
-     "t": 239.0,
+     "t": 241.86,
      "quote": "Ng-a-k-a.",
      "en": "Ng-a-k-a (learners spell in chorus)."
     },
     {
-     "t": 276.0,
+     "t": 277.55,
      "quote": "Tsohle ha di kopana ke eng?",
      "en": "When they all join together, what is it?"
     }
@@ -92,17 +87,17 @@
    "note_en": "ng words (lengau, ngaka) are read in chorus with pictures; one learner offers a word when asked for another word with the sound, but no learner reads or builds a ng word on their own with feedback.",
    "evidence": [
     {
-     "t": 220.0,
-     "quote": "Ngaka. Ngaka. Ke eng?",
-     "en": "Ngaka (doctor). Ngaka. What is it?"
+     "t": 220.89,
+     "quote": "Ngaka. Ke eng?",
+     "en": "Doctor. What is it?"
     },
     {
-     "t": 292.0,
+     "t": 297.99,
      "quote": "Ke lefe le leng lentswe le nang le modumo \"m\"?",
      "en": "What is another word that has the sound (the transcript writes 'm')?"
     },
     {
-     "t": 295.0,
+     "t": 301.87,
      "quote": "Mame.",
      "en": "One learner answers 'Mame'."
     }
@@ -114,14 +109,8 @@
    "name": "Ho ikwetlisa le ho hlahloba",
    "name_en": "Practice and checking",
    "status": "not_observed",
-   "note_en": "Only the narration describes learners copying the day's words into their books and taking them home as homework; no in-class practice or checking of individual work is heard in the clip.",
-   "evidence": [
-    {
-     "t": 310.0,
-     "quote": "Ke moo ba tla ngola kapa ba kopulle mantswe a seng a ngotswe letlapeng",
-     "en": "that is where they write or copy the words already written on the board (narration, not shown)"
-    }
-   ],
+   "note_en": "Only the narration describes learners copying the day's words into their books and taking them home as homework; no in-class practice or checking of individual work is heard in the clip. Context (the teacher's interview to camera, not evidence): \"that is where they write or copy the words already written on the board (narration, not shown)\".",
+   "evidence": [],
    "from_run": "r2"
   }
  ],
@@ -134,14 +123,14 @@
    "note_en": "Choral answers dominate; the teacher invites learners at the back to raise their hands and takes a few individual answers, but most turns are whole-class.",
    "evidence": [
     {
-     "t": 96.0,
+     "t": 96.68,
      "quote": "Phahamisa re bone. Re bone ba saletseng morao.",
      "en": "Raise them so we can see. Let's see the ones at the back."
     },
     {
-     "t": 261.0,
-     "quote": "Ke lebala.",
-     "en": "It is a ball (one learner answers)."
+     "t": 270.92,
+     "quote": "E latela?",
+     "en": "What follows?"
     }
    ],
    "from_run": "r1"
@@ -154,7 +143,7 @@
    "note_en": "No explicit praise is heard; the teacher credits one learner's correct answer by repeating it with the learner's name, which acknowledges the thinking but does not praise effort or strategy.",
    "evidence": [
     {
-     "t": 163.0,
+     "t": 167.77,
      "quote": "[learner] a re ke m le kh. Ke m...",
      "en": "[learner] says it is n and g (the transcript hears 'm le kh'). It is n..."
     }
@@ -169,19 +158,19 @@
    "note_en": "When the chorus answers 'Lengau' instead of the next letter, the question is simply repeated and the answer 'Ng' then comes on a line labelled Narrator; no learner is helped to find it by saying the word slowly.",
    "evidence": [
     {
-     "t": 194.0,
+     "t": 195.73,
      "quote": "Lengau.",
      "en": "Lengau (learners answer the whole word when asked for the next letter)."
     },
     {
-     "t": 195.0,
-     "quote": "Latela eng?",
-     "en": "What follows?"
-    },
-    {
-     "t": 196.0,
+     "t": 195.73,
      "quote": "Ng",
      "en": "Ng (line labelled Narrator)."
+    },
+    {
+     "t": 197.73,
+     "quote": "Latela eng?",
+     "en": "What follows?"
     }
    ],
    "from_run": "r1"
@@ -194,12 +183,12 @@
    "note_en": "Within the shown segments the question-and-answer turns are quick and purposeful; the edit hides transitions and total time, so CAPS time allocation cannot be judged.",
    "evidence": [
     {
-     "t": 187.0,
+     "t": 189.02,
      "quote": "A ke le ntshwareng ho ngola lentswe lengau le qala ka eng?",
      "en": "Help me write the word lengau: what does it start with?"
     },
     {
-     "t": 191.0,
+     "t": 193.53,
      "quote": "Ebe ho latela?",
      "en": "Then what follows?"
     }
@@ -214,12 +203,12 @@
    "note_en": "One or two individual learners answer (the letters of ng, a word with the sound), but there is no systematic check of who can read ng words and no visible adjustment.",
    "evidence": [
     {
-     "t": 257.0,
+     "t": 260.06,
      "quote": "Ke eng e re tshwereng ka letsogo?",
      "en": "What is it that we are holding in the hand?"
     },
     {
-     "t": 292.0,
+     "t": 297.99,
      "quote": "Ke lefe le leng lentswe le nang le modumo \"m\"?",
      "en": "What is another word that has the sound (the transcript writes 'm')?"
     }
@@ -230,37 +219,37 @@
  "positives": [
   {
    "en": "When the teacher asked for the new sound, learners named its two letters, n and g, and the teacher repeated the answer and anchored each letter to a word the children already know (n of ntate, g of Gauteng), giving them a memory hook for both letters of the digraph.",
-   "t": 162.0
+   "t": 162.04
   },
   {
    "en": "The teacher built lengau letter by letter with the class, asking what it starts with and what follows, so learners had to attend to where ng sits inside a word.",
-   "t": 187.0
+   "t": 186.82
   },
   {
    "en": "Learners spelled ngaka aloud while writing it in the air, with a picture of the word, combining sound, letter shape and meaning in one activity.",
-   "t": 239.0
+   "t": 238.99
   },
   {
    "en": "After spelling lengolo letter by letter, the teacher asked what the letters make when they join, so learners blended the sounds back into a whole word.",
-   "t": 276.0
+   "t": 277.09
   },
   {
    "en": "The teacher actively invited learners at the back of the room to raise their hands and take part.",
-   "t": 96.0
+   "t": 89.98
   }
  ],
  "blockages": [
   {
    "en": "All spelling and reading of ng words is done in chorus (ngaka, lengolo); no learner reads a ng word alone. Effect: learners who cannot yet read ng can follow the group's voice, so the teacher cannot see who needs help. Catch-up: after each chorus round, call four or five learners by name to read one word card each and note who struggles for a small-group re-teach.",
-   "t": 239.0
+   "t": 238.99
   },
   {
    "en": "Asked for the next letter in lengau, the class answered with the whole word; the question was repeated and the answer ng came without a learner working it out. Effect: the confusion between a letter and a word is covered over, and the learners who were lost stay lost. Catch-up: when the chorus goes wrong, ask one learner to say the word slowly, stop after le-, and find the next sound, then let the class check.",
-   "t": 194.0
+   "t": 193.53
   },
   {
    "en": "Air-writing is shown ('Le ngole hape') and copying the day's words is described in the interview, but no learner's work is checked in class. Effect: letter-order mistakes such as gn for ng can go home as homework and be practised wrongly. Catch-up: walk the rows during copying and check the ng words of a few named learners before books close.",
-   "t": 239.9
+   "t": 239.86
   }
  ],
  "level_of_change": {
@@ -289,17 +278,17 @@
   {
    "lang": "Ha bana ba bolela ditlhaku n le g, mme wa di hokahanya le ntate le Gauteng, o ne o batla hore ba hopole eng ka mokgwa oo?",
    "en": "When learners named the letters n and g and you linked them to ntate and Gauteng, what did you want them to remember through that?",
-   "t": 162.0
+   "t": 162.04
   },
   {
    "lang": "Ha bana ba araba ka lentswe lengau sebakeng sa tlhaku e latelang, o nahana hore ba ne ba utlwisisa eng, le hore ba ne ba sa utlwisise eng motsotsong oo?",
    "en": "When learners answered with the word lengau instead of the next letter, what do you think they understood, and what did they not understand at that moment?",
-   "t": 194.0
+   "t": 193.53
   },
   {
    "lang": "Ha bana ba peleta ngaka hammoho, o tseba jwang hore ke mang ya kgonang ho e bala a le mong, le hore ke mang ya ntseng a latela ba bang?",
    "en": "When learners spelled ngaka together, how do you know who can read it alone and who is following the others?",
-   "t": 239.0
+   "t": 238.99
   }
  ],
  "debrief_plan": [
@@ -340,7 +329,739 @@
  },
  "voice": {
   "mp3": "assets/audio/st_debrief.mp3",
-  "words": "data/st/debrief_words.json",
+  "words": [
+   {
+    "w": "Ke",
+    "s": 0.0,
+    "e": 0.194
+   },
+   {
+    "w": "a",
+    "s": 0.194,
+    "e": 0.291
+   },
+   {
+    "w": "leboha",
+    "s": 0.291,
+    "e": 0.83
+   },
+   {
+    "w": "haholo",
+    "s": 0.83,
+    "e": 1.28
+   },
+   {
+    "w": "ka",
+    "s": 1.28,
+    "e": 1.433
+   },
+   {
+    "w": "ho",
+    "s": 1.433,
+    "e": 1.587
+   },
+   {
+    "w": "re",
+    "s": 1.587,
+    "e": 1.74
+   },
+   {
+    "w": "bulela",
+    "s": 1.74,
+    "e": 2.2
+   },
+   {
+    "w": "phaposi",
+    "s": 2.2,
+    "e": 2.72
+   },
+   {
+    "w": "ya",
+    "s": 2.72,
+    "e": 2.92
+   },
+   {
+    "w": "hao",
+    "s": 2.92,
+    "e": 3.06
+   },
+   {
+    "w": "ya",
+    "s": 3.06,
+    "e": 3.26
+   },
+   {
+    "w": "borutelo.",
+    "s": 3.26,
+    "e": 3.8
+   },
+   {
+    "w": "Ke",
+    "s": 4.64,
+    "e": 4.74
+   },
+   {
+    "w": "thabetse",
+    "s": 4.74,
+    "e": 5.14
+   },
+   {
+    "w": "thuto",
+    "s": 5.14,
+    "e": 5.44
+   },
+   {
+    "w": "ya",
+    "s": 5.44,
+    "e": 5.62
+   },
+   {
+    "w": "hao",
+    "s": 5.62,
+    "e": 5.88
+   },
+   {
+    "w": "ya",
+    "s": 5.88,
+    "e": 6.18
+   },
+   {
+    "w": "modumo",
+    "s": 6.18,
+    "e": 6.4
+   },
+   {
+    "w": "wa",
+    "s": 6.4,
+    "e": 6.535
+   },
+   {
+    "w": "ng.",
+    "s": 6.535,
+    "e": 6.805
+   },
+   {
+    "w": "Sa",
+    "s": 7.74,
+    "e": 7.873
+   },
+   {
+    "w": "pele,",
+    "s": 7.873,
+    "e": 8.14
+   },
+   {
+    "w": "ha",
+    "s": 8.38,
+    "e": 8.532
+   },
+   {
+    "w": "o",
+    "s": 8.532,
+    "e": 8.608
+   },
+   {
+    "w": "botsa",
+    "s": 8.608,
+    "e": 8.94
+   },
+   {
+    "w": "modumo",
+    "s": 8.94,
+    "e": 9.36
+   },
+   {
+    "w": "o",
+    "s": 9.36,
+    "e": 9.62
+   },
+   {
+    "w": "motjha,",
+    "s": 9.62,
+    "e": 9.98
+   },
+   {
+    "w": "bana",
+    "s": 10.66,
+    "e": 10.7
+   },
+   {
+    "w": "ba",
+    "s": 10.7,
+    "e": 10.845
+   },
+   {
+    "w": "bolela",
+    "s": 10.845,
+    "e": 11.28
+   },
+   {
+    "w": "ditlhaku",
+    "s": 11.28,
+    "e": 11.84
+   },
+   {
+    "w": "tsa",
+    "s": 11.84,
+    "e": 12.1
+   },
+   {
+    "w": "ona",
+    "s": 12.1,
+    "e": 12.36
+   },
+   {
+    "w": "tse",
+    "s": 12.36,
+    "e": 12.591
+   },
+   {
+    "w": "pedi,",
+    "s": 12.591,
+    "e": 12.894
+   },
+   {
+    "w": "mme",
+    "s": 13.369,
+    "e": 13.69
+   },
+   {
+    "w": "wa",
+    "s": 13.69,
+    "e": 13.76
+   },
+   {
+    "w": "hokahanya",
+    "s": 13.76,
+    "e": 14.3
+   },
+   {
+    "w": "tlhaku",
+    "s": 14.3,
+    "e": 14.9
+   },
+   {
+    "w": "ka",
+    "s": 14.9,
+    "e": 15.047
+   },
+   {
+    "w": "nngwe",
+    "s": 15.047,
+    "e": 15.413
+   },
+   {
+    "w": "le",
+    "s": 15.413,
+    "e": 15.56
+   },
+   {
+    "w": "lentswe",
+    "s": 15.56,
+    "e": 15.96
+   },
+   {
+    "w": "leo",
+    "s": 15.96,
+    "e": 16.24
+   },
+   {
+    "w": "ba",
+    "s": 16.24,
+    "e": 16.37
+   },
+   {
+    "w": "le",
+    "s": 16.37,
+    "e": 16.5
+   },
+   {
+    "w": "tsebang,",
+    "s": 16.5,
+    "e": 16.94
+   },
+   {
+    "w": "jwaloka",
+    "s": 17.48,
+    "e": 17.877
+   },
+   {
+    "w": "ntate",
+    "s": 17.877,
+    "e": 18.22
+   },
+   {
+    "w": "le",
+    "s": 18.22,
+    "e": 18.41
+   },
+   {
+    "w": "Gauteng.",
+    "s": 18.41,
+    "e": 18.94
+   },
+   {
+    "w": "Sa",
+    "s": 19.72,
+    "e": 19.885
+   },
+   {
+    "w": "bobedi,",
+    "s": 19.885,
+    "e": 20.38
+   },
+   {
+    "w": "bana",
+    "s": 20.76,
+    "e": 20.86
+   },
+   {
+    "w": "ba",
+    "s": 20.86,
+    "e": 20.996
+   },
+   {
+    "w": "ile",
+    "s": 20.996,
+    "e": 21.2
+   },
+   {
+    "w": "ba",
+    "s": 21.2,
+    "e": 21.4
+   },
+   {
+    "w": "peleta",
+    "s": 21.4,
+    "e": 21.78
+   },
+   {
+    "w": "lentswe",
+    "s": 21.78,
+    "e": 22.26
+   },
+   {
+    "w": "ngaka",
+    "s": 22.26,
+    "e": 22.62
+   },
+   {
+    "w": "ba",
+    "s": 22.62,
+    "e": 22.74
+   },
+   {
+    "w": "ntse",
+    "s": 22.74,
+    "e": 23.076
+   },
+   {
+    "w": "ba",
+    "s": 23.076,
+    "e": 23.26
+   },
+   {
+    "w": "le",
+    "s": 23.26,
+    "e": 23.369
+   },
+   {
+    "w": "ngola",
+    "s": 23.369,
+    "e": 23.64
+   },
+   {
+    "w": "moyeng",
+    "s": 23.64,
+    "e": 24.06
+   },
+   {
+    "w": "ba",
+    "s": 24.06,
+    "e": 24.2
+   },
+   {
+    "w": "shebile",
+    "s": 24.2,
+    "e": 24.58
+   },
+   {
+    "w": "setshwantsho.",
+    "s": 24.58,
+    "e": 25.3
+   },
+   {
+    "w": "Ntho",
+    "s": 25.949,
+    "e": 26.21
+   },
+   {
+    "w": "e",
+    "s": 26.21,
+    "e": 26.34
+   },
+   {
+    "w": "le",
+    "s": 26.34,
+    "e": 26.46
+   },
+   {
+    "w": "nngwe",
+    "s": 26.46,
+    "e": 26.7
+   },
+   {
+    "w": "eo",
+    "s": 26.7,
+    "e": 26.91
+   },
+   {
+    "w": "ke",
+    "s": 26.91,
+    "e": 27.12
+   },
+   {
+    "w": "e",
+    "s": 27.12,
+    "e": 27.213
+   },
+   {
+    "w": "boneng",
+    "s": 27.213,
+    "e": 27.68
+   },
+   {
+    "w": "ke",
+    "s": 27.68,
+    "e": 27.85
+   },
+   {
+    "w": "hore",
+    "s": 27.85,
+    "e": 28.19
+   },
+   {
+    "w": "ho",
+    "s": 28.19,
+    "e": 28.36
+   },
+   {
+    "w": "bala",
+    "s": 28.62,
+    "e": 28.88
+   },
+   {
+    "w": "le",
+    "s": 28.88,
+    "e": 29.027
+   },
+   {
+    "w": "ho",
+    "s": 29.027,
+    "e": 29.1
+   },
+   {
+    "w": "peleta",
+    "s": 29.1,
+    "e": 29.62
+   },
+   {
+    "w": "ho",
+    "s": 29.62,
+    "e": 29.776
+   },
+   {
+    "w": "ne",
+    "s": 29.776,
+    "e": 29.932
+   },
+   {
+    "w": "ho",
+    "s": 29.932,
+    "e": 30.01
+   },
+   {
+    "w": "etswa",
+    "s": 30.01,
+    "e": 30.4
+   },
+   {
+    "w": "hammoho",
+    "s": 30.4,
+    "e": 30.92
+   },
+   {
+    "w": "feela.",
+    "s": 30.92,
+    "e": 31.25
+   },
+   {
+    "w": "Ha",
+    "s": 32.16,
+    "e": 32.193
+   },
+   {
+    "w": "bana",
+    "s": 32.193,
+    "e": 32.26
+   },
+   {
+    "w": "ba",
+    "s": 32.26,
+    "e": 32.373
+   },
+   {
+    "w": "bala",
+    "s": 32.373,
+    "e": 32.6
+   },
+   {
+    "w": "hammoho,",
+    "s": 32.6,
+    "e": 33.275
+   },
+   {
+    "w": "ba",
+    "s": 33.56,
+    "e": 33.66
+   },
+   {
+    "w": "thatafallwang",
+    "s": 33.66,
+    "e": 34.447
+   },
+   {
+    "w": "ba",
+    "s": 34.447,
+    "e": 34.6
+   },
+   {
+    "w": "ipata,",
+    "s": 34.6,
+    "e": 35.06
+   },
+   {
+    "w": "mme",
+    "s": 35.467,
+    "e": 35.79
+   },
+   {
+    "w": "ha",
+    "s": 35.79,
+    "e": 35.96
+   },
+   {
+    "w": "o",
+    "s": 35.96,
+    "e": 36.067
+   },
+   {
+    "w": "tsebe",
+    "s": 36.067,
+    "e": 36.6
+   },
+   {
+    "w": "hore",
+    "s": 36.6,
+    "e": 36.86
+   },
+   {
+    "w": "ke",
+    "s": 36.86,
+    "e": 37.003
+   },
+   {
+    "w": "mang",
+    "s": 37.003,
+    "e": 37.217
+   },
+   {
+    "w": "ya",
+    "s": 37.217,
+    "e": 37.36
+   },
+   {
+    "w": "hlokang",
+    "s": 37.36,
+    "e": 37.882
+   },
+   {
+    "w": "thuso.",
+    "s": 37.882,
+    "e": 38.18
+   },
+   {
+    "w": "Thutong",
+    "s": 39.12,
+    "e": 39.4
+   },
+   {
+    "w": "e",
+    "s": 39.4,
+    "e": 39.447
+   },
+   {
+    "w": "tlang,",
+    "s": 39.447,
+    "e": 39.68
+   },
+   {
+    "w": "ka",
+    "s": 39.9,
+    "e": 40.0
+   },
+   {
+    "w": "mora",
+    "s": 40.0,
+    "e": 40.2
+   },
+   {
+    "w": "ho",
+    "s": 40.2,
+    "e": 40.3
+   },
+   {
+    "w": "bala",
+    "s": 40.3,
+    "e": 40.66
+   },
+   {
+    "w": "hammoho,",
+    "s": 40.66,
+    "e": 41.233
+   },
+   {
+    "w": "bitsa",
+    "s": 41.76,
+    "e": 42.004
+   },
+   {
+    "w": "bana",
+    "s": 42.004,
+    "e": 42.2
+   },
+   {
+    "w": "ba",
+    "s": 42.2,
+    "e": 42.349
+   },
+   {
+    "w": "mmalwa",
+    "s": 42.349,
+    "e": 42.72
+   },
+   {
+    "w": "ka",
+    "s": 42.72,
+    "e": 42.889
+   },
+   {
+    "w": "mabitso",
+    "s": 42.889,
+    "e": 43.48
+   },
+   {
+    "w": "ba",
+    "s": 43.48,
+    "e": 43.64
+   },
+   {
+    "w": "bale",
+    "s": 43.64,
+    "e": 43.96
+   },
+   {
+    "w": "lentswe",
+    "s": 43.96,
+    "e": 44.38
+   },
+   {
+    "w": "ka",
+    "s": 44.38,
+    "e": 44.5
+   },
+   {
+    "w": "mong.",
+    "s": 44.5,
+    "e": 44.74
+   },
+   {
+    "w": "Ke",
+    "s": 45.46,
+    "e": 45.595
+   },
+   {
+    "w": "a",
+    "s": 45.595,
+    "e": 45.662
+   },
+   {
+    "w": "tseba",
+    "s": 45.662,
+    "e": 46.0
+   },
+   {
+    "w": "hore",
+    "s": 46.0,
+    "e": 46.26
+   },
+   {
+    "w": "o",
+    "s": 46.26,
+    "e": 46.364
+   },
+   {
+    "w": "tla",
+    "s": 46.364,
+    "e": 46.676
+   },
+   {
+    "w": "e",
+    "s": 46.676,
+    "e": 46.78
+   },
+   {
+    "w": "kgona.",
+    "s": 46.78,
+    "e": 47.16
+   },
+   {
+    "w": "Tswela",
+    "s": 47.825,
+    "e": 48.14
+   },
+   {
+    "w": "pele",
+    "s": 48.14,
+    "e": 48.44
+   },
+   {
+    "w": "ka",
+    "s": 48.44,
+    "e": 48.576
+   },
+   {
+    "w": "matla",
+    "s": 48.576,
+    "e": 48.916
+   },
+   {
+    "w": "ana",
+    "s": 48.916,
+    "e": 49.12
+   },
+   {
+    "w": "a",
+    "s": 49.12,
+    "e": 49.207
+   },
+   {
+    "w": "matle.",
+    "s": 49.207,
+    "e": 49.64
+   }
+  ],
+  "words_file": "data/st/debrief_words.json",
   "script": "Ke a leboha haholo ka ho re bulela phaposi ya hao ya borutelo. Ke thabetse thuto ya hao ya modumo wa ng. Sa pele, ha o botsa modumo o motjha, bana ba bolela ditlhaku tsa ona tse pedi, mme wa hokahanya tlhaku ka nngwe le lentswe leo ba le tsebang, jwaloka ntate le Gauteng. Sa bobedi, bana ba ile ba peleta lentswe ngaka ba ntse ba le ngola moyeng ba shebile setshwantsho. Ntho e le nngwe eo ke e boneng ke hore ho bala le ho peleta ho ne ho etswa hammoho feela. Ha bana ba bala hammoho, ba thatafallwang ba ipata, mme ha o tsebe hore ke mang ya hlokang thuso. Thutong e tlang, ka mora ho bala hammoho, bitsa bana ba mmalwa ka mabitso ba bale lentswe ka mong. Ke a tseba hore o tla e kgona. Tswela pele ka matla ana a matle.",
   "en": "Thank you very much for opening your classroom to us. I enjoyed your lesson on the ng sound. First, when you asked for the new sound, learners named its two letters, and you linked each letter to a word they know, like ntate and Gauteng. Second, learners spelled the word ngaka while writing it in the air and looking at the picture. One thing I noticed is that reading and spelling were done only together. When children read only together, those who struggle hide, and you cannot tell who needs help. In the next lesson, after reading together, call a few learners by name to read a word on their own. I know you can do it. Keep going with this good energy.",
   "engine": "Soniox tts-rt-v2",
@@ -350,13 +1071,19 @@
  },
  "accuracy": {
   "grounding": {
-   "value": 1.0,
-   "found": 15,
+   "value": 0.6667,
+   "found": 10,
    "n": 15,
    "label": "measured",
-   "display": "15 of 15 quotes found in the transcript",
-   "against": "the working transcript",
-   "all_quotes": null
+   "display": "10 of 15 of Rumi's longer quotes (4+ words) found word for word in a classroom turn",
+   "against": "classroom turns of the transcript shown on this page",
+   "all_quotes": {
+    "kept": 17,
+    "moved": 1,
+    "fixed": 4,
+    "dropped": 1,
+    "n": 23
+   }
   },
   "coverage": {
    "value": 1.0,
@@ -373,7 +1100,9 @@
    "status_agreement_pairwise": 0.8,
    "display": "Three runs: same status on 7 of 10 items; Rumi's private working score (0–100) moved by SD 1.5 points"
   },
-  "score": 10.0,
+  "n_runs": 3,
+  "against": "the classroom turns of the transcript on this page (the teacher's interview excluded)",
+  "score": 8.33,
   "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
   "label": "measured",
   "line": "These numbers measure Rumi — whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."
