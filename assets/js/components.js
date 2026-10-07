@@ -200,12 +200,19 @@
         const det = el("details", {}, el("summary", {}, L("text_layer", "What the PDF's hidden text layer says")), el("div", { class: "layer", lang: v.lang }, v.text_layer));
         right.append(det);
       }
-      const score = el("div", { class: "score-line", html:
-        chip({ value: v.score, label: v.score_label || "measured" }, { key: L("page_truth_this", "This page") }) +
-        ` <span class="note">${esc(v.cer_line || (v.cer !== undefined && v.cer !== null ? `${L("cer", "character error rate")} ${trunc(Number(v.cer) * 100, 1)}%` : ""))}</span>` });
-      right.append(score);
-      if (v.without_stamp_line) right.append(el("p", { class: "note", style: "margin:6px 0 0" }, v.without_stamp_line));
-      if (v.overall) right.append(el("div", { class: "score-line", html: chip({ value: v.overall.score, label: v.overall.label }, { key: L("page_truth_all", "All pages") }) + ` <span class="note">${esc(v.overall.line || "")}</span>` }));
+      // chip order (COS): learner-visible text first, then with the printer's stamp, then the language overall
+      const ch = o.chips || {};
+      const chips = [];
+      if (v.score_without_stamp !== undefined && v.score_without_stamp !== null)
+        chips.push(chip({ value: v.score_without_stamp, label: v.score_label || "measured" }, { key: ch.learner_visible || L("learner_visible", "Learner-visible text") }));
+      chips.push(chip({ value: v.score, label: v.score_label || "measured" }, { key: v.score_without_stamp !== undefined ? (ch.with_stamp || L("with_stamp", "Including the printer's margin stamp")) : L("page_truth_this", "This page") }));
+      if (v.overall) chips.push(chip({ value: v.overall.score, label: v.overall.label }, { key: ch.overall || L("page_truth_all", "All test pages") }));
+      right.append(el("div", { class: "chip-row vchips", html: chips.join(" ") }));
+      if (!o.hasNote) {
+        // the data owner's own lines, only when the page copy does not already say it
+        [v.cer_line || (v.cer !== undefined && v.cer !== null ? `${L("cer", "character error rate")} ${(Math.ceil(Number(v.cer) * 1000 - 1e-9) / 10).toFixed(1)}%` : ""), v.without_stamp_line, v.overall && v.overall.line]
+          .filter(Boolean).forEach((t) => right.append(el("p", { class: "note", style: "margin:6px 0 0" }, t)));
+      }
       if (v.why_en) right.append(el("p", { class: "note", style: "margin-top:10px" }, v.why_en));
       host.append(el("div", { class: "vdiff" }, fig, right));
     },

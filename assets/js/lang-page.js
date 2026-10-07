@@ -29,7 +29,7 @@
     (cells.verdict ? " " + RZ.chip(cells.verdict, { noLabel: true }) : "");
 
   /* 1. lesson plans */
-  if (vision) VisionDiff.mount($("vision-host"), vision, { left: RZ.html("vision.caption_left"), right: RZ.t("vision.caption_right") });
+  if (vision) VisionDiff.mount($("vision-host"), vision, { left: RZ.html("vision.caption_left"), right: RZ.t("vision.caption_right"), chips: RZ.raw("vision.chips"), hasNote: RZ.has("vision.note") });
   else $("vision-host").innerHTML = RZ.soon(RZ.ui("soon_vision", "the page-reading comparison"));
   if (lp) {
     LPViewer.mount($("lp-host"), lp, { pdf: RZ.t("lp_sample.pdf"), reviewer: RZ.t("lp_sample.reviewer_pdf"), btHeading: RZ.t("lp_sample.backtranslation_heading"), btCols: RZ.raw("lp_sample.backtranslation_columns") });

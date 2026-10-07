@@ -111,6 +111,18 @@
   };
   RZ.renderFootnotes = function (host) {
     if (!host) return;
+    // Renumber by FIRST APPEARANCE in the document (async panels render out of reading order).
+    const markers = [...document.querySelectorAll("sup.fn a[href^='#fn-']")];
+    fnOrder.length = 0; for (const k in fnRefs) delete fnRefs[k];
+    markers.forEach((a) => {
+      const id = decodeURIComponent(a.getAttribute("href").slice(4));
+      if (!fnOrder.includes(id)) fnOrder.push(id);
+      fnRefs[id] = (fnRefs[id] || 0) + 1;
+      const n = fnOrder.indexOf(id) + 1, f = RZ.footnote(id);
+      a.textContent = `[${n}]`;
+      a.id = `ref-${id}-${fnRefs[id]}`;
+      a.setAttribute("aria-label", `Source ${n}: ${f ? f.label : id}`);
+    });
     if (!fnOrder.length) { host.innerHTML = `<p class="note">${esc(RZ.ui("no_sources", "No sources cited on this page yet."))}</p>`; return; }
     host.innerHTML = `<ol class="footnotes">${fnOrder.map((id) => {
       const f = RZ.footnote(id);

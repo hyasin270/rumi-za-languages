@@ -158,15 +158,15 @@
   "rows": [
    [
     "Model calls through our routing account",
-    "$57.85"
+    "$64.11"
    ],
    [
     "Voice synthesis",
-    "$10.72"
+    "$11.43"
    ],
    [
     "Transcription and voice, direct",
-    "$1.82"
+    "$2.24"
    ],
    [
     "Image generation",
@@ -174,10 +174,10 @@
    ],
    [
     "Total",
-    "$70.48"
+    "$77.87"
    ]
   ],
-  "note": "From our spend ledger at 17:16 UTC on 7 October 2026. The interactive demos on this site were added afterwards and are not in this total."
+  "note": "Read from our spend ledger at 21:23 UTC on 7 October 2026, including the interactive demos on this site."
  },
  "index.sources": {
   "heading": "Sources",
@@ -267,6 +267,7 @@
   "speaking": {
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
+   "chat_note": "Rumi's lines were written by an AI and checked by a second AI; they still need a native speaker's ear. The teacher's lines are typed; Rumi's are voice notes.",
    "lead": "Score 9.6: no isiZulu voice exists on any engine we can reach, so this is an English-accented voice reading isiZulu; it loses 1.7% of characters when transcribed back, against 0.0% in English.",
    "note": "A second listener loses 11.1%, within the agreement band; against human recordings the voice adds 5.8% of error (AI-judged). The listener limits this number; accent and warmth need a native ear."
   },
@@ -361,6 +362,7 @@
   "speaking": {
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
+   "chat_note": "Rumi's lines were written by an AI and checked by a second AI; they still need a native speaker's ear. The teacher's lines are typed; Rumi's are voice notes.",
    "lead": "Score 9.7, labelled intelligibility uncertain: the best voice loses only 1.2% of characters on the round trip, but a second listener disagrees by more than ten points.",
    "note": "The second listener loses 14.5%, and against human recordings the voice adds 15.8% of error (AI-judged). A native ear decides; the voice notes here use a different voice for that reason."
   },
@@ -455,6 +457,7 @@
   "speaking": {
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
+   "chat_note": "Rumi's lines were written by an AI and checked by a second AI; they still need a native speaker's ear. The teacher's lines are typed; Rumi's are voice notes.",
    "lead": "Score 8.6: today's production voice reading Sesotho loses 6.6% of characters on the round trip; it is not a Sesotho voice.",
    "note": "A second listener loses 11.5%, within the agreement band; against human recordings the voice was recovered better (penalty -10.3%), which says more about the short, clipped prompts than about the voice (AI-judged). Native ear pending."
   },
