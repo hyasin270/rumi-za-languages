@@ -14,7 +14,7 @@
    "name": "Ukufudumeza ngomsindo",
    "name_en": "Oral warm-up that foregrounds the sound",
    "status": "partly",
-   "note_en": "A vowel chant and a song are shown and the whole class takes part, but no target sound is drawn out of them; the link to new sounds is only described in the interview. Context (the teacher's interview to camera, not evidence): \"(Interview, not observed) That is why I do warm-ups where they act and recite.\".",
+   "note_en": "A vowel chant and a song are shown and the whole class takes part, but no target sound is drawn out of them; the link to new sounds is only described in the interview. Context (the teacher's interview to camera, not evidence): \"That is why I do warm-ups where they act and recite.\".",
    "evidence": [
     {
      "t": 97.08,
@@ -128,25 +128,9 @@
    "id": "C3",
    "name": "Ukuphatha amaphutha",
    "name_en": "Handling errors as learning",
-   "status": "partly",
-   "note_en": "When a learner gives the wrong date, the teacher repeats it as a question and the class supplies the right one; the learner who erred is not re-checked.",
-   "evidence": [
-    {
-     "t": 262.03,
-     "quote": "Amashumi amabili nantathu.",
-     "en": "Twenty-three."
-    },
-    {
-     "t": 263.93,
-     "quote": "Amashumi amabili nantathu. Zingaki, zikhona namhlanje izinsuku namhlanje enyangeni?",
-     "en": "Twenty-three. How many days of the month are there today?"
-    },
-    {
-     "t": 268.1,
-     "quote": "Amashumi amabili nantathu.",
-     "en": "Twenty and three."
-    }
-   ],
+   "status": "not_observed",
+   "note_en": "No learner error is shown in the clip. In the date exchange (about 4:22) a learner answers 'twenty-three', the teacher repeats it and the class agrees. An earlier transcript heard 'twenty-four' in the class's answer, which looked like an error being corrected; the transcript on this page does not, so Rumi does not coach on it.",
+   "evidence": [],
    "from_run": "r2"
   },
   {
@@ -894,15 +878,20 @@
    "found": 9,
    "n": 10,
    "label": "measured",
-   "display": "9 of 10 of Rumi's longer quotes (4+ words) found word for word in a classroom turn",
+   "display": "9 of 10 of Rumi's longer quotes (4+ words) found word for word in a classroom turn (10 of 10 are somewhere in the transcript)",
    "against": "classroom turns of the transcript shown on this page",
-   "all_quotes": {
-    "kept": 13,
+   "in_transcript_any_turn": {
+    "found": 10,
+    "n": 10
+   },
+   "evidence_handling": {
+    "kept": 11,
     "moved": 1,
-    "fixed": 1,
-    "dropped": 0,
+    "fixed": 0,
+    "dropped": 3,
     "n": 15
-   }
+   },
+   "note_en": "Counted on Rumi's own quotes before any fix. A quote the teacher said only in the interview to camera is real but is not classroom evidence, so it does not count here; it is shown as context in the step's note."
   },
   "coverage": {
    "value": 1.0,

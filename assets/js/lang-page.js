@@ -55,13 +55,6 @@
 
   /* 3. coaching (+ partner videos, isiZulu only) */
   if (coach) {
-    if (!coach.voice || !coach.voice.mp3) {
-      // the debrief audio + timings can land before coach.json links them
-      const words = await RZ.load(`data/${lang}/debrief_words.json`);
-      const mp3 = `assets/audio/${lang}_debrief.mp3`;
-      const ok = words && (await fetch(mp3, { method: "HEAD" }).then((r) => r.ok).catch(() => false));
-      if (ok) coach.voice = { mp3, words };
-    }
     Report.mount($("report-host"), coach, lang, { accuracyHeading: RZ.t("coaching.accuracy_heading"), accuracyNote: RZ.html("coaching.accuracy_note"), debriefHeading: RZ.t("coaching.debrief_heading") });
   } else $("report-host").innerHTML = RZ.soon(RZ.ui("soon_coach", "the coach's report"));
   if (partner) {

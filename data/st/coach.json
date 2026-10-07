@@ -6,7 +6,7 @@
   "focus": "ng (letters n and g)",
   "grade": "Grade 2 (as the teacher says in the video)"
  },
- "summary_en": "The clip opens with an alphabet song and a hand chant, then the teacher asks for the new sound; learners name its two letters, n and g, and the teacher anchors each letter to a known word (n of ntate, g of Gauteng). The class spells lengau and ngaka letter by letter in chorus, writes ngaka in the air, and blends the letters of lengolo back into the word; one learner offers a word when asked for another word with the sound. Narration says learners then copy the day's words into their books and take them home. The edit does not show any learner reading a ng word alone, the written work being checked, or how long each step took.",
+ "summary_en": "The clip opens with a class song and a hand-action chant, then the teacher asks for the new sound; learners name its two letters, n and g, and the teacher anchors each letter to a known word (n of ntate, g of Gauteng). The class spells lengau and ngaka letter by letter in chorus, writes ngaka in the air, and blends the letters of lengolo back into the word; one learner offers a word when asked for another word with the sound. Narration says learners then copy the day's words into their books and take them home. The edit does not show any learner reading a ng word alone, the written work being checked, or how long each step took.",
  "scope_en": "Rumi coached only the classroom moments (teacher and learners). The teacher's interview to camera is in the transcript but is not treated as evidence that a step happened.",
  "steps": [
   {
@@ -14,12 +14,17 @@
    "name": "Ho futhumatsa ka modumo",
    "name_en": "Oral warm-up that foregrounds the sound",
    "status": "partly",
-   "note_en": "Learners sing the alphabet song and a hand-action chant before the teacher asks for the new sound; the songs are not shown drawing out ng itself (the teacher's interview says a second song combines the letters of the day's sound, but that is described, not shown).",
+   "note_en": "Learners sing a class song and a hand-action chant before the teacher asks for the new sound; the songs are not shown drawing out ng itself (the teacher's interview says a second song combines the letters of the day's sound, but that is described, not shown). The alphabet song the interview mentions is not in the classroom transcript.",
    "evidence": [
     {
-     "t": 138.67,
-     "quote": "O leke ho bala ka tlhoko o utlwe, o seke wa etsa ka sohong o utlwe.",
-     "en": "Try to read carefully, you hear, don't do it with haste, you hear."
+     "t": 23.71,
+     "quote": "Ha o batla o ithuta, ha o batla o ithuta, o tla ithuta hantle.",
+     "en": "If you want to learn, if you want to learn, you will learn well."
+    },
+    {
+     "t": 89.98,
+     "quote": "Re keka tshu, wa re o mmm, re keka yo, wa re o yoo",
+     "en": "A hand-action chant the class says together."
     },
     {
      "t": 157.56,
@@ -36,11 +41,6 @@
    "status": "seen",
    "note_en": "The teacher asks for the new sound and its letters; learners correctly name n and g, and the teacher repeats the answer and anchors each letter to a known word (n of ntate, g of Gauteng). No sound/letter chart is visible and articulation is not modelled in detail.",
    "evidence": [
-    {
-     "t": 167.77,
-     "quote": "M le kh.",
-     "en": "n and g (the transcript hears 'm le kh')."
-    },
     {
      "t": 167.77,
      "quote": "[learner] a re ke m le kh. Ke m...",
@@ -109,7 +109,7 @@
    "name": "Ho ikwetlisa le ho hlahloba",
    "name_en": "Practice and checking",
    "status": "not_observed",
-   "note_en": "Only the narration describes learners copying the day's words into their books and taking them home as homework; no in-class practice or checking of individual work is heard in the clip. Context (the teacher's interview to camera, not evidence): \"that is where they write or copy the words already written on the board (narration, not shown)\".",
+   "note_en": "Only the narration describes learners copying the day's words into their books and taking them home as homework; no in-class practice or checking of individual work is heard in the clip. Context (the teacher's interview to camera, not evidence): \"that is where they write or copy the words already written on the board\".",
    "evidence": [],
    "from_run": "r2"
   }
@@ -126,11 +126,6 @@
      "t": 96.68,
      "quote": "Phahamisa re bone. Re bone ba saletseng morao.",
      "en": "Raise them so we can see. Let's see the ones at the back."
-    },
-    {
-     "t": 270.92,
-     "quote": "E latela?",
-     "en": "What follows?"
     }
    ],
    "from_run": "r1"
@@ -161,11 +156,6 @@
      "t": 195.73,
      "quote": "Lengau.",
      "en": "Lengau (learners answer the whole word when asked for the next letter)."
-    },
-    {
-     "t": 195.73,
-     "quote": "Ng",
-     "en": "Ng (line labelled Narrator)."
     },
     {
      "t": 197.73,
@@ -1075,15 +1065,20 @@
    "found": 10,
    "n": 15,
    "label": "measured",
-   "display": "10 of 15 of Rumi's longer quotes (4+ words) found word for word in a classroom turn",
+   "display": "10 of 15 of Rumi's longer quotes (4+ words) found word for word in a classroom turn (11 of 15 are somewhere in the transcript)",
    "against": "classroom turns of the transcript shown on this page",
-   "all_quotes": {
-    "kept": 17,
+   "in_transcript_any_turn": {
+    "found": 11,
+    "n": 15
+   },
+   "evidence_handling": {
+    "kept": 19,
     "moved": 1,
-    "fixed": 4,
-    "dropped": 1,
+    "fixed": 2,
+    "dropped": 3,
     "n": 23
-   }
+   },
+   "note_en": "Counted on Rumi's own quotes before any fix. A quote the teacher said only in the interview to camera is real but is not classroom evidence, so it does not count here; it is shown as context in the step's note."
   },
   "coverage": {
    "value": 1.0,
