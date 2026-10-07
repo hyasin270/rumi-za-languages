@@ -345,3 +345,6 @@ a.chip:hover { border-color: var(--coral); }
 .vchips { margin-top: 12px; }
 .baseline { max-height: 42%; overflow-y: auto; flex: 0 0 auto; }
 @media (max-width: 899px) { .baseline { max-height: 140px; } }
+.chip { max-width: 100%; flex-wrap: wrap; white-space: normal; row-gap: 0; }
+.chip .k { white-space: normal; }
+.chip .v, .chip .of, .chip .l { white-space: nowrap; }
