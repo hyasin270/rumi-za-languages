@@ -106,127 +106,127 @@
   },
   {
    "from": "rumi",
-   "text": "Gosasa, thoma ka metsotso ye mehlano ya go boeletša medumo: o re modumo, barutwana ba o boeletša, ke moka ba o ngwala moyeng.",
+   "text": "Gosasa, thoma ka metsotso ye mehlano ya go boeletša medumo: o bitša modumo, barutwana ba o boeletša, ke moka ba o ngwala moyeng.",
    "en": "Tomorrow, start with five minutes of sound revision: you say the sound, the learners repeat it, then they write it in the air.",
    "mp3": "assets/audio/nso_tts_2.mp3",
    "words": [
     {
      "w": "Gosasa,",
      "s": 0.0,
-     "e": 0.887
+     "e": 0.888
     },
     {
      "w": "thoma",
-     "s": 1.621,
-     "e": 2.3
+     "s": 1.28,
+     "e": 1.78
     },
     {
      "w": "ka",
-     "s": 2.3,
-     "e": 2.48
+     "s": 1.78,
+     "e": 1.92
     },
     {
      "w": "metsotso",
-     "s": 2.48,
-     "e": 3.2
+     "s": 1.92,
+     "e": 2.48
     },
     {
      "w": "ye",
-     "s": 3.2,
-     "e": 3.42
+     "s": 2.48,
+     "e": 2.62
     },
     {
      "w": "mehlano",
-     "s": 3.42,
-     "e": 4.02
+     "s": 2.62,
+     "e": 3.2
     },
     {
      "w": "ya",
-     "s": 4.02,
-     "e": 4.42
+     "s": 3.2,
+     "e": 3.48
     },
     {
      "w": "go",
-     "s": 4.42,
-     "e": 4.82
+     "s": 3.48,
+     "e": 3.66
     },
     {
      "w": "boeletša",
-     "s": 4.82,
-     "e": 5.46
+     "s": 3.66,
+     "e": 4.26
     },
     {
      "w": "medumo:",
-     "s": 5.46,
-     "e": 6.02
+     "s": 4.26,
+     "e": 4.7
     },
     {
      "w": "o",
-     "s": 7.0,
-     "e": 7.053
+     "s": 5.54,
+     "e": 5.61
     },
     {
-     "w": "re",
-     "s": 7.053,
-     "e": 7.16
+     "w": "bitša",
+     "s": 5.61,
+     "e": 5.96
     },
     {
      "w": "modumo,",
-     "s": 7.16,
-     "e": 7.72
+     "s": 5.96,
+     "e": 6.44
     },
     {
      "w": "barutwana",
-     "s": 7.72,
-     "e": 8.82
+     "s": 7.0,
+     "e": 7.54
     },
     {
      "w": "ba",
-     "s": 8.82,
-     "e": 9.02
+     "s": 7.54,
+     "e": 7.84
     },
     {
      "w": "o",
-     "s": 9.02,
-     "e": 9.12
+     "s": 7.84,
+     "e": 7.947
     },
     {
      "w": "boeletša,",
-     "s": 9.12,
-     "e": 9.799
+     "s": 7.947,
+     "e": 8.615
     },
     {
      "w": "ke",
-     "s": 10.44,
-     "e": 10.62
+     "s": 9.2,
+     "e": 9.26
     },
     {
      "w": "moka",
-     "s": 10.62,
-     "e": 10.98
+     "s": 9.26,
+     "e": 9.5
     },
     {
      "w": "ba",
-     "s": 10.98,
-     "e": 11.22
+     "s": 9.5,
+     "e": 9.86
     },
     {
      "w": "o",
-     "s": 11.22,
-     "e": 11.34
+     "s": 9.86,
+     "e": 9.94
     },
     {
      "w": "ngwala",
-     "s": 11.34,
-     "e": 11.94
+     "s": 9.94,
+     "e": 10.42
     },
     {
      "w": "moyeng.",
-     "s": 11.94,
-     "e": 12.38
+     "s": 10.42,
+     "e": 10.78
     }
    ],
-   "dur": 12.55
+   "dur": 10.97
   },
   {
    "from": "teacher",

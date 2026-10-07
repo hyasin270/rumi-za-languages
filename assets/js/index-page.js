@@ -68,6 +68,22 @@
     $("also-table").innerHTML = `<table class="summary">${head}<tbody>${also.rows.map((r) => rowHtml(r)).join("")}</tbody></table>` +
       `<ul class="bullets" style="margin-top:14px">${also.rows.map((r) => RZ.has(`index.also_tested.lines.${r.code}`) ? `<li>${RZ.html(`index.also_tested.lines.${r.code}`)}</li>` : "").join("")}</ul>`;
   } else $("also-table").innerHTML = RZ.soon(RZ.ui("soon_also", "the other three languages"));
+  // one spoken sample per also-tested language (data/more/<code>_tts.json, same shape as tts.json)
+  if (window.Karaoke && also && (also.rows || []).length) {
+    const grid = RZ.el("div", { class: "grid-3", style: "margin-top:16px" });
+    for (const r of also.rows) {
+      const t = await RZ.load(`data/more/${r.code}_tts.json`);
+      const m = t && (t.conversation || []).find((x) => x.from === "rumi" && x.mp3);
+      if (!m) continue;
+      m.words = await RZ.words(m.words);
+      const card = RZ.el("div", { class: "card" }, RZ.el("p", { class: "subcard-title" }, `${r.name || RZ.langName(r.code)} · ${RZ.ui("hear_rumi", "Rumi speaking")}`));
+      Karaoke.mount(card, { mp3: m.mp3, words: m.words, text: m.text, en: m.en, lang: r.code, label: `${r.name} voice note`, compact: true });
+      const sc = RZ.score(t.score);
+      if (sc.value !== null && sc.value !== undefined) card.insertAdjacentHTML("beforeend", `<div class="score-line">${RZ.chip(sc, { key: (cols.find((c) => c.key === "Q4") || {}).title || "Speaking" })}</div>`);
+      grid.append(card);
+    }
+    if (grid.children.length) $("also-table").after(grid);
+  }
 
   /* 5. scheme of studies */
   if (scheme) {

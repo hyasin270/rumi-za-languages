@@ -17,8 +17,8 @@
   },
   {
    "from": "rumi",
-   "text": "Dumela morutabana! Ke itumelela go utlwa go wena. Thuto ya medumo e tsamaile jang gompieno?",
-   "en": "Hello, teacher! I am happy to hear from you. How did today's phonics lesson go?",
+   "text": "Dumela morutabana! Ke itumelela molaetsa wa gago. Thuto ya medumo e tsamaile jang gompieno?",
+   "en": "Hello, teacher! I am glad to get your message. How did today's phonics lesson go?",
    "mp3": "assets/audio/tn_tts_1.mp3",
    "words": [
     {
@@ -28,76 +28,71 @@
     },
     {
      "w": "morutabana!",
-     "s": 0.6,
-     "e": 1.44
+     "s": 0.56,
+     "e": 1.28
     },
     {
      "w": "Ke",
-     "s": 1.84,
-     "e": 1.92
+     "s": 1.68,
+     "e": 1.76
     },
     {
      "w": "itumelela",
-     "s": 2.0,
-     "e": 2.56
+     "s": 1.88,
+     "e": 2.48
     },
     {
-     "w": "go",
-     "s": 2.64,
-     "e": 2.88
+     "w": "molaetsa",
+     "s": 2.52,
+     "e": 2.96
     },
     {
-     "w": "utlwa",
+     "w": "wa",
      "s": 3.0,
-     "e": 3.2
+     "e": 3.04
     },
     {
-     "w": "go",
-     "s": 3.28,
-     "e": 3.36
-    },
-    {
-     "w": "wena.",
-     "s": 3.4,
-     "e": 3.76
+     "w": "gago.",
+     "s": 3.12,
+     "e": 3.6
     },
     {
      "w": "Thuto",
-     "s": 4.28,
-     "e": 4.56
+     "s": 4.08,
+     "e": 4.32
     },
     {
      "w": "ya",
-     "s": 4.6,
-     "e": 4.64
+     "s": 4.36,
+     "e": 4.4
     },
     {
      "w": "medumo",
-     "s": 4.8,
-     "e": 5.2
+     "s": 4.48,
+     "e": 4.96
     },
     {
      "w": "e",
-     "s": 5.28,
-     "e": 5.36
+     "s": 5.04,
+     "e": 5.12
     },
     {
      "w": "tsamaile",
-     "s": 5.4,
-     "e": 5.84
+     "s": 5.16,
+     "e": 5.6
     },
     {
      "w": "jang",
-     "s": 6.0,
-     "e": 6.16
+     "s": 5.72,
+     "e": 5.84
     },
     {
      "w": "gompieno?",
-     "s": 6.24,
-     "e": 6.72
+     "s": 5.96,
+     "e": 6.4
     }
    ],
-   "dur": 6.96
+   "dur": 6.64
   },
   {
    "from": "teacher",
@@ -106,7 +101,7 @@
   },
   {
    "from": "rumi",
-   "text": "Ka moso, simolola ka metsotso e le metlhano ya go boeletsa medumo: o re modumo, barutwana ba o boeletsa, morago ba o kwale mo moweng.",
+   "text": "Ka moso, simolola ka metsotso e le metlhano ya go boeletsa medumo: o bitse modumo, barutwana ba o boeletse, morago ba o kwale mo moweng.",
    "en": "Tomorrow, start with five minutes of sound revision: you say the sound, the learners repeat it, then they write it in the air.",
    "mp3": "assets/audio/tn_tts_2.mp3",
    "words": [
@@ -122,121 +117,121 @@
     },
     {
      "w": "simolola",
-     "s": 0.96,
-     "e": 1.68
+     "s": 0.84,
+     "e": 1.6
     },
     {
      "w": "ka",
-     "s": 1.72,
-     "e": 1.76
+     "s": 1.64,
+     "e": 1.68
     },
     {
      "w": "metsotso",
-     "s": 1.84,
-     "e": 2.32
+     "s": 1.72,
+     "e": 2.16
     },
     {
      "w": "e",
-     "s": 2.4,
-     "e": 2.48
+     "s": 2.24,
+     "e": 2.32
     },
     {
      "w": "le",
-     "s": 2.52,
-     "e": 2.56
+     "s": 2.36,
+     "e": 2.4
     },
     {
      "w": "metlhano",
-     "s": 2.68,
-     "e": 3.12
+     "s": 2.48,
+     "e": 3.04
     },
     {
      "w": "ya",
-     "s": 3.2,
-     "e": 3.28
+     "s": 3.12,
+     "e": 3.2
     },
     {
      "w": "go",
-     "s": 3.36,
-     "e": 3.44
+     "s": 3.28,
+     "e": 3.36
     },
     {
      "w": "boeletsa",
-     "s": 3.52,
-     "e": 3.92
+     "s": 3.44,
+     "e": 3.84
     },
     {
      "w": "medumo:",
-     "s": 4.08,
-     "e": 4.56
+     "s": 4.0,
+     "e": 4.48
     },
     {
      "w": "o",
-     "s": 5.16,
-     "e": 5.2
+     "s": 5.08,
+     "e": 5.12
     },
     {
-     "w": "re",
-     "s": 5.28,
-     "e": 5.36
+     "w": "bitse",
+     "s": 5.2,
+     "e": 5.44
     },
     {
      "w": "modumo,",
-     "s": 5.52,
-     "e": 6.0
+     "s": 5.6,
+     "e": 6.08
     },
     {
      "w": "barutwana",
-     "s": 6.4,
-     "e": 6.88
+     "s": 6.48,
+     "e": 6.96
     },
     {
      "w": "ba",
-     "s": 6.96,
-     "e": 7.04
-    },
-    {
-     "w": "o",
-     "s": 7.08,
+     "s": 7.04,
      "e": 7.12
     },
     {
-     "w": "boeletsa,",
+     "w": "o",
      "s": 7.2,
-     "e": 7.76
+     "e": 7.28
+    },
+    {
+     "w": "boeletse,",
+     "s": 7.36,
+     "e": 7.84
     },
     {
      "w": "morago",
-     "s": 8.16,
-     "e": 8.72
+     "s": 8.24,
+     "e": 8.8
     },
     {
      "w": "ba",
-     "s": 8.88,
-     "e": 8.96
+     "s": 8.96,
+     "e": 9.04
     },
     {
      "w": "o",
-     "s": 9.04,
-     "e": 9.12
+     "s": 9.12,
+     "e": 9.2
     },
     {
      "w": "kwale",
-     "s": 9.2,
-     "e": 9.52
-    },
-    {
-     "w": "mo",
-     "s": 9.6,
+     "s": 9.28,
      "e": 9.68
     },
     {
+     "w": "mo",
+     "s": 9.76,
+     "e": 9.84
+    },
+    {
      "w": "moweng.",
-     "s": 9.72,
-     "e": 10.32
+     "s": 9.88,
+     "e": 10.4
     }
    ],
-   "dur": 10.48
+   "dur": 10.56
   },
   {
    "from": "teacher",
