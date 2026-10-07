@@ -268,6 +268,7 @@
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
    "chat_note": "Rumi's lines were written by an AI and checked by a second AI; they still need a native speaker's ear. The teacher's lines are typed; Rumi's are voice notes.",
+   "score_line": "ElevenLabs eleven_v4, an English-accented South African voice reading isiZulu: 1.7% of characters lost on the text-to-speech-to-text round trip (6 sentences, measured). Our English voice, on a different ElevenLabs model, lost 0.0%. Native ear pending.",
    "lead": "Score 9.6: no isiZulu voice exists on any engine we can reach, so this is an English-accented voice reading isiZulu; it loses 1.7% of characters when transcribed back, against 0.0% in English.",
    "note": "A second listener loses 11.1%, within the agreement band; against human recordings the voice adds 5.8% of error (AI-judged). The listener limits this number; accent and warmth need a native ear."
   },
@@ -363,6 +364,7 @@
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
    "chat_note": "Rumi's lines were written by an AI and checked by a second AI; they still need a native speaker's ear. The teacher's lines are typed; Rumi's are voice notes.",
+   "score_line": "ElevenLabs eleven_v4, an English-accented South African voice reading isiXhosa: 1.2% of characters lost on the round trip (6 sentences, measured), but a second listener engine disagreed by more than ten points, so intelligibility is uncertain until a native speaker listens. Our English voice, on a different ElevenLabs model, lost 0.0%.",
    "lead": "Score 9.7, labelled intelligibility uncertain: the best voice loses only 1.2% of characters on the round trip, but a second listener disagrees by more than ten points.",
    "note": "The second listener loses 14.5%, and against human recordings the voice adds 15.8% of error (AI-judged). A native ear decides; the voice notes here use a different voice for that reason."
   },
@@ -458,6 +460,7 @@
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
    "chat_note": "Rumi's lines were written by an AI and checked by a second AI; they still need a native speaker's ear. The teacher's lines are typed; Rumi's are voice notes.",
+   "score_line": "Soniox, the voice Rumi uses in production today, reading Sesotho: 6.6% of characters lost on the round trip (6 sentences, measured). No English control exists for this engine; our English ElevenLabs voice lost 0.0%. Native ear pending.",
    "lead": "Score 8.6: today's production voice reading Sesotho loses 6.6% of characters on the round trip; it is not a Sesotho voice.",
    "note": "A second listener loses 11.5%, within the agreement band; against human recordings the voice was recovered better (penalty -10.3%), which says more about the short, clipped prompts than about the voice (AI-judged). Native ear pending."
   },

@@ -61,7 +61,7 @@
           "aria-label": `${tu.speaker} ${RZ.fmt(tu.start)} — ${RZ.ui("seek", "play from here")}`,
           onclick: () => this.seek(tu.start, true),
           onkeydown: (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); this.seek(tu.start, true); } } },
-          el("div", { class: "who" }, el("span", {}, this.speakerLabel(tu.speaker)), interview && !/interview/i.test(tu.speaker || "") ? el("span", { class: "tag" }, RZ.ui("interview", "interview")) : "", el("span", { class: "time" }, RZ.fmt(tu.start)), enBtn),
+          el("div", { class: "who" }, el("span", {}, this.speakerLabel(tu.speaker) + (interview && !/interview/i.test(tu.speaker || "") ? ` (${RZ.ui("interview", "interview")})` : "")), el("span", { class: "time" }, RZ.fmt(tu.start)), enBtn),
           el("div", { class: "txt" }, txt, caret), en);
         this.list.append(li);
         return { li, txt, caret, tu, shown: -1 };

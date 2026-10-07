@@ -55,7 +55,7 @@
     }
     return get(COPY, key);
   };
-  RZ.has = (key) => RZ.raw(key) !== undefined && RZ.raw(key) !== "";
+  RZ.has = (key) => { const v = RZ.raw(key); return v !== undefined && v !== null && v !== "" && !(Array.isArray(v) && !v.length); };
   RZ.t = function (key) {
     const v = RZ.raw(key);
     return typeof v === "string" ? v.replace(/\s*\[\[fn:[^\]]+\]\]/g, "").replace(/\[\^[^\]]+\]/g, "").replace(/\*\*/g, "") : "";
@@ -78,7 +78,7 @@
   RZ.placeholder = (key) => `<span class="ph" title="copy pending">[copy: ${esc(key)}]</span>`;
   RZ.html = function (key) {
     const v = RZ.raw(key);
-    if (v === undefined || v === "") return RZ.placeholder(key);
+    if (!RZ.has(key)) return RZ.placeholder(key);
     if (Array.isArray(v)) return v.map((x) => RZ.inline(typeof x === "string" ? x : JSON.stringify(x))).join(" ");
     return RZ.inline(typeof v === "string" ? v : String(v));
   };
@@ -176,6 +176,7 @@
     }
     let vs, of = "";
     if (kind === "pct") vs = RZ.trunc(n * 100, 0) + "%";
+    else if (kind === "pct-up") vs = (Math.ceil(n * 1000 - 1e-9) / 10).toFixed(1) + "%"; // an error/disagreement rate: round UP
     else if (kind === "raw") vs = String(v);
     else if (/^\d+(\.\d)?$/.test(disp)) { vs = disp; of = "/10"; }
     else { vs = RZ.trunc(n, 1); of = "/10"; }
