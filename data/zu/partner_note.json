@@ -26,10 +26,10 @@
   {
    "name": "Stability",
    "value": 3.54,
-   "display": "SD 3.5 points across 3 runs",
+   "display": "Steady across 3 runs per video (stability 10.0/10)",
    "n": 9,
    "label": "measured",
-   "line": "Spread of Rumi's result across three independent runs per video (lower is steadier). Measures Rumi, not the teacher."
+   "line": "How much Rumi's own judgement moved between three independent runs on the same video; 10/10 means it barely moved. Measures Rumi, not the teacher."
   },
   {
    "name": "Spoken debrief round trip",
