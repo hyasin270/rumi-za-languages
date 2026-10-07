@@ -343,3 +343,5 @@ a.chip:hover { border-color: var(--coral); }
 }
 .card .karaoke.compact { border: 0; padding: 0; }
 .vchips { margin-top: 12px; }
+.baseline { max-height: 42%; overflow-y: auto; flex: 0 0 auto; }
+@media (max-width: 899px) { .baseline { max-height: 140px; } }
