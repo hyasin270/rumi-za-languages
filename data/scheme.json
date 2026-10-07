@@ -1,0 +1,65 @@
+{
+ "sheet_url": "https://docs.google.com/spreadsheets/d/1D1pONpjV3qp3Lw_sdClzPzmCRrC0BxGQSp-0Fpm9NmE/edit?usp=sharing",
+ "screenshot": "assets/img/scheme_zu.png",
+ "book": "DBE Rainbow Workbook, Grade 1 Home Language, Book 1 (Terms 1–2), 2026 edition — 142 pages, 64 worksheets",
+ "language": "isiZulu",
+ "weeks": 20,
+ "rows": 191,
+ "sources": [
+  "fn-wb-zu",
+  "fn-caps-zu",
+  "fn-wb-xh",
+  "fn-caps-xh",
+  "fn-wb-st",
+  "fn-caps-st"
+ ],
+ "screenshot_about": "assets/img/scheme_about.png",
+ "tabs": [
+  {
+   "label": "About",
+   "url": "https://docs.google.com/spreadsheets/d/1D1pONpjV3qp3Lw_sdClzPzmCRrC0BxGQSp-0Fpm9NmE/edit?gid=644757226#gid=644757226"
+  },
+  {
+   "label": "isiZulu",
+   "url": "https://docs.google.com/spreadsheets/d/1D1pONpjV3qp3Lw_sdClzPzmCRrC0BxGQSp-0Fpm9NmE/edit?gid=1473596050#gid=1473596050"
+  },
+  {
+   "label": "isiXhosa",
+   "url": "https://docs.google.com/spreadsheets/d/1D1pONpjV3qp3Lw_sdClzPzmCRrC0BxGQSp-0Fpm9NmE/edit?gid=1401886200#gid=1401886200"
+  },
+  {
+   "label": "Sesotho",
+   "url": "https://docs.google.com/spreadsheets/d/1D1pONpjV3qp3Lw_sdClzPzmCRrC0BxGQSp-0Fpm9NmE/edit?gid=894449419#gid=894449419"
+  }
+ ],
+ "facts": {
+  "workbook_weeks_per_term": 8,
+  "caps_weeks_per_term": 10,
+  "worksheets": 64,
+  "worksheets_per_week": 4,
+  "daily_lessons": "Term 1 only: 50 days (10 weeks × 5) per language",
+  "languages": [
+   "isiZulu",
+   "isiXhosa",
+   "Sesotho"
+  ],
+  "per_language": {
+   "isiZulu": {
+    "weeks": 20,
+    "days": 50,
+    "rows": 191
+   },
+   "isiXhosa": {
+    "weeks": 20,
+    "days": 50,
+    "rows": 190
+   },
+   "Sesotho": {
+    "weeks": 20,
+    "days": 50,
+    "rows": 190
+   }
+  }
+ },
+ "note": "Week rows follow the workbook; day rows follow Rumi's CAPS-first Term-1 plan, so the order of new sounds can differ (isiZulu workbook Term 1 letters: a, i, e, o, m, u, n, c, b, f)."
+}

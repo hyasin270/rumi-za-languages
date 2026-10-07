@@ -81,7 +81,7 @@
   },
   {
    "from": "rumi",
-   "text": "Oko kuqhelekile. Ngomso, qala ngemizuzu emihlanu yokuphinda izandi: wena uthi isandi, abafundi baphinde, emva koko basibhale emoyeni. Emva koko hlanganisani amagama amafutshane afana nelithi tshona.",
+   "text": "Oko kuqhelekile. Ngomso, qala ngemizuzu emihlanu yokuphinda izandi: biza isandi, abafundi basiphinde, emva koko basibhale emoyeni. Emva koko hlanganisa amagama amafutshane afana nelithi tshona.",
    "en": "That is common. Tomorrow, start with five minutes of sound revision: you say the sound, the learners repeat it, then they write it in the air. Then blend short words such as 'tshona'.",
    "mp3": "assets/audio/xh_tts_2.mp3",
    "words": [
@@ -92,7 +92,7 @@
     },
     {
      "w": "kuqhelekile.",
-     "s": 0.4,
+     "s": 0.44,
      "e": 1.28
     },
     {
@@ -102,116 +102,111 @@
     },
     {
      "w": "qala",
-     "s": 2.84,
+     "s": 2.88,
      "e": 3.12
     },
     {
      "w": "ngemizuzu",
      "s": 3.16,
-     "e": 3.84
+     "e": 3.76
     },
     {
      "w": "emihlanu",
-     "s": 3.92,
-     "e": 4.427
+     "s": 3.84,
+     "e": 4.32
     },
     {
      "w": "yokuphinda",
-     "s": 4.453,
-     "e": 4.96
+     "s": 4.373,
+     "e": 4.8
     },
     {
      "w": "izandi:",
-     "s": 5.08,
-     "e": 5.6
+     "s": 4.92,
+     "e": 5.36
     },
     {
-     "w": "wena",
-     "s": 6.16,
-     "e": 6.56
-    },
-    {
-     "w": "uthi",
-     "s": 6.68,
-     "e": 6.84
+     "w": "biza",
+     "s": 5.92,
+     "e": 6.16
     },
     {
      "w": "isandi,",
-     "s": 6.88,
-     "e": 7.52
+     "s": 6.24,
+     "e": 6.88
     },
     {
      "w": "abafundi",
-     "s": 7.92,
-     "e": 8.4
+     "s": 7.28,
+     "e": 7.76
     },
     {
-     "w": "baphinde,",
-     "s": 8.44,
-     "e": 9.04
+     "w": "basiphinde,",
+     "s": 7.84,
+     "e": 8.56
     },
     {
      "w": "emva",
-     "s": 9.44,
-     "e": 9.68
+     "s": 8.96,
+     "e": 9.2
     },
     {
      "w": "koko",
-     "s": 9.76,
-     "e": 10.16
+     "s": 9.28,
+     "e": 9.6
     },
     {
      "w": "basibhale",
+     "s": 9.72,
+     "e": 10.16
+    },
+    {
+     "w": "emoyeni.",
      "s": 10.24,
      "e": 10.8
     },
     {
-     "w": "emoyeni.",
-     "s": 10.88,
-     "e": 11.52
-    },
-    {
      "w": "Emva",
-     "s": 12.08,
-     "e": 12.32
+     "s": 11.36,
+     "e": 11.6
     },
     {
      "w": "koko",
-     "s": 12.4,
-     "e": 12.72
+     "s": 11.64,
+     "e": 11.92
     },
     {
-     "w": "hlanganisani",
-     "s": 12.8,
-     "e": 13.44
+     "w": "hlanganisa",
+     "s": 12.0,
+     "e": 12.56
     },
     {
      "w": "amagama",
-     "s": 13.48,
-     "e": 14.0
+     "s": 12.6,
+     "e": 12.96
     },
     {
      "w": "amafutshane",
-     "s": 14.08,
-     "e": 14.8
+     "s": 13.0,
+     "e": 13.68
     },
     {
      "w": "afana",
-     "s": 14.88,
-     "e": 15.36
+     "s": 13.76,
+     "e": 14.16
     },
     {
      "w": "nelithi",
-     "s": 15.48,
-     "e": 15.8
+     "s": 14.28,
+     "e": 14.6
     },
     {
      "w": "tshona.",
-     "s": 15.84,
-     "e": 16.32
+     "s": 14.64,
+     "e": 15.12
     }
    ],
-   "dur": 16.56
+   "dur": 15.28
   },
   {
    "from": "teacher",

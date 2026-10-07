@@ -75,7 +75,8 @@
     const shot = scheme.screenshot ? `<a href="${esc(scheme.sheet_url)}" target="_blank" rel="noopener"><img src="${esc(scheme.screenshot)}" alt="${esc(alt)}" style="border:1px solid var(--line);border-radius:10px;display:block"></a>` : "";
     const facts = [scheme.book, scheme.language, scheme.weeks ? `${scheme.weeks} ${RZ.ui("weeks", "weeks")}` : "", scheme.rows ? `${scheme.rows} ${RZ.ui("rows", "rows")}` : ""].filter(Boolean).map(esc).join(" · ");
     $("scheme-host").innerHTML = `<div class="card">${shot}<p class="note" style="margin:10px 0">${facts}${RZ.cite(scheme.sources)}</p>${
-      scheme.sheet_url ? `<a class="btn primary" href="${esc(scheme.sheet_url)}" target="_blank" rel="noopener">${esc(RZ.t("index.scheme.cta") || "Open the full sheet")} ↗</a>` : ""}</div>`;
+      `<div class="chip-row">${scheme.sheet_url ? `<a class="btn primary" href="${esc(scheme.sheet_url)}" target="_blank" rel="noopener">${esc(RZ.t("index.scheme.cta") || "Open the full sheet")} ↗</a>` : ""}${
+      (scheme.tabs || []).map((t) => `<a class="btn small" href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.label)} ↗</a>`).join("")}</div>`}</div>`;
   } else $("scheme-host").innerHTML = RZ.soon(RZ.ui("soon_scheme", "the scheme-of-studies sheet"));
 
   /* 6. ship + cost tables (rows are arrays matching columns) */

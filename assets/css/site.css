@@ -330,3 +330,14 @@ a.chip:hover { border-color: var(--coral); }
 .turn.interview { background: #F6F7F9; }
 .turn.interview .txt { color: var(--muted); }
 .turn .who .tag { font-size: .65rem; font-weight: 600; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 0 6px; text-transform: none; letter-spacing: 0; }
+.ts { white-space: nowrap; }
+@media (max-width: 600px) {
+  .card { padding: 16px; }
+  .report.card { padding: 14px 12px; border-radius: 12px; }
+  .report .card { padding: 12px; box-shadow: none; }
+  .step { padding: 10px; }
+  .site-header .inner { gap: 8px; padding: 0 12px; }
+  .brand img { height: 18px; }
+  .lang-switch { gap: 2px; }
+  .lang-switch a { padding: 6px 8px; font-size: .82rem; }
+}

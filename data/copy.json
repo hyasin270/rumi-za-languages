@@ -26,7 +26,7 @@
  },
  "index.method": {
   "heading": "How we tested",
-  "lead": "Two pipelines, six languages, English alongside as the control; every score compares Rumi's output with a known-good reference by script.",
+  "lead": "Two pipelines, six languages, English as the control; every score compares Rumi's output with a known-good reference by script.",
   "bullets": [
    "Curriculum page to lesson plan: a vision model reads the official CAPS pages and the Department's Grade 1 workbook [[fn:fn-caps-zu]] [[fn:fn-wb-zu]]; a planner cuts Term 1 into fifty traceable days; a writer drafts and voices each lesson in the structured format partners use [[fn:fn-rti]].",
    "Classroom recording to coaching report: the best transcription engine writes the transcript; the coaching engine reads it against the partners' coaching course [[fn:fn-coaching-course]], quotes a timed moment for every step it credits, and drafts the debrief.",
@@ -52,7 +52,7 @@
  },
  "index.languages": {
   "heading": "The three languages",
-  "lead": "Each page shows the same four things: a lesson plan, a classroom video being transcribed, the coach's report on that video, and a conversation with Rumi speaking.",
+  "lead": "Each page shows a lesson plan, a classroom video being transcribed, the coach's report on that video, and a conversation with Rumi speaking.",
   "cards": {
    "zu": {
     "name": "isiZulu",
@@ -73,9 +73,9 @@
  },
  "index.also_tested": {
   "heading": "Also tested",
-  "lead": "Sepedi, Afrikaans and Setswana ran the same tests without a page of their own; coaching was not run for Afrikaans and Setswana because no classroom recording was sourced.",
+  "lead": "Sepedi, Afrikaans and Setswana ran the same tests without a page of their own; coaching was not run for Afrikaans and Setswana (no classroom recording sourced).",
   "lines": {
-   "nso": "Sepedi (Funda Wande's Limpopo language; not Sesotho): lesson plans 9.8, listening 7.8, coaching 9.3 on one public reading lesson [[fn:fn-video-nso]], speaking 8.9. The two transcription engines disagree most here (19.0% to 36.6% of classroom characters across two public lessons [[fn:fn-video-nso]] [[fn:fn-video-nso-2]], AI-judged), so the agreement gate matters most.",
+   "nso": "Sepedi (Funda Wande's Limpopo language; not Sesotho): lesson plans 9.8, listening 7.8, coaching 9.3 on one public reading lesson [[fn:fn-video-nso]], speaking 8.9. The transcription engines disagree most here (19.0% to 36.6% of classroom characters on two public lessons [[fn:fn-video-nso-2]], AI-judged), so the agreement gate matters most.",
    "af": "Afrikaans: lesson plans 9.7, listening 9.1, speaking 9.6. The one language where today's production engine and a first-language voice already work; no routing change needed.",
    "tn": "Setswana: lesson plans 9.9, listening 8.9, speaking 9.1. The winning engine is fragile on longer audio, so the runner-up is the safer choice; the voice is intelligibility-uncertain until a native ear decides."
   },
@@ -83,18 +83,18 @@
  },
  "index.scheme": {
   "heading": "Scheme of studies for one book",
-  "lead": "The planner turned one Department of Basic Education workbook into a week-by-week scheme that traces every lesson to its curriculum requirement; the full sheet is open to anyone.",
+  "lead": "One Department of Basic Education workbook, turned into a week-by-week scheme that traces every lesson to its curriculum requirement; the sheet is open to anyone.",
   "bullets": [
    "The six CAPS Home Language editions are one document in six languages (same sections, same Term 1 tables, same time tables); one configuration per language turned all six into requirement lists.",
-   "Where the official PDFs contain arithmetic slips, such as a group-reading allocation that exceeds the day, the sheet flags them instead of inheriting them.",
-   "The workbook introduces its first letter in week 4; our plans start single sounds in week 1, within the curriculum's one-to-two new sounds a week. The sheet shows the workbook page on every week so the gap is visible."
+   "Book 1: 142 pages, 64 worksheets, four a week, eight workbook weeks a term; CAPS has ten, so weeks 9 and 10 carry no workbook pages. Arithmetic slips in the official PDFs are flagged, not inherited.",
+   "The workbook's order of new sounds differs from our CAPS-first plan (isiZulu workbook a, i, e, o, m, u…; our days a, e, i, o, u, m…); the sheet shows both, so the gap is visible."
   ],
   "cta": "Open the full sheet",
   "screenshot_alt": "Screenshot of the scheme-of-studies sheet"
  },
  "index.ship": {
   "heading": "What it would take to ship",
-  "lead": "The infrastructure work is small and known. The expensive part is human: one first-language reviewer per language for about an hour.",
+  "lead": "The infrastructure work is small and known; the expensive part is one first-language reviewer per language for about an hour.",
   "columns": [
    "Action",
    "Languages",
@@ -150,7 +150,7 @@
  },
  "index.cost": {
   "heading": "What this cost",
-  "lead": "About seventy dollars of metered model and voice calls for six languages, four capabilities, 19 lesson plans, 12 classroom recordings and about 300 speech tests. Authoring and judging ran on subscription seats.",
+  "lead": "About seventy dollars of metered model and voice calls for six languages, four capabilities, 19 lesson plans, 12 classroom recordings and about 300 speech tests; authoring and judging ran on subscription seats.",
   "columns": [
    "Spend",
    "Amount"
@@ -214,6 +214,11 @@
    "heading": "Why vision first",
    "caption_left": "The Department's workbook page [[fn:fn-wb-zu]]",
    "caption_right": "What Rumi read from it",
+   "chips": {
+    "learner_visible": "Learner-visible text: 0 errors on this page",
+    "with_stamp": "Including the printer's margin stamp",
+    "overall": "All test pages in the language"
+   },
    "lead": "A PDF's text layer scrambles workbook pages, so Rumi reads the printed page itself. On this page Rumi read every isiZulu word right; the only differences are in the printer's margin stamp, which a learner never sees.",
    "note": "This page: 9.0% of characters differ from the text layer (5.5), all of it the margin stamp; without the stamp 0.0% (10.0). Across all 22 isiZulu test pages: 2.2% (8.9). All measured; highlights count against Rumi even where the text layer is the one that is wrong."
   },
@@ -251,9 +256,9 @@
    "accuracy_heading": "How well Rumi observed",
    "accuracy_note": "These measure Rumi, not the teacher: quotes found in the transcript (grounding), steps addressed (coverage), agreement across three runs (stability).",
    "debrief_heading": "The spoken debrief",
-   "lead": "Score 9.6, on three partner training videos [[fn:fn-vvob-videos]]: 97.2% of quoted moments are in the transcript, 93.3% of steps are addressed, three runs agree within 3.5 points of 100.",
+   "lead": "Score 9.6 comes from three partner training videos, analysed privately [[fn:fn-vvob-videos]]: 97.2% of quoted moments in the transcript, 93.3% of steps addressed, three runs within 3.5 points of 100. Below is a full report on the public lesson in the video above, with its own accuracy panel.",
    "bullets": [
-    "The report below is on the public phonics lesson above, so every quote can be checked against the video. It was drafted by a stricter reader than round one's production model, and its own accuracy panel sits under it.",
+    "Every quote in the report below can be checked against the video; it was drafted by a stricter reader than round one's production model.",
     "The instrument discriminates: on three runs each, a staged training demonstration and a real, unrehearsed lesson of the same strand came out clearly apart.",
     "AI-judged, beside the score: feedback prose 5.0 out of 10 (understandable, not natural; one judge found an isiXhosa word in it); 21.7% of factual claims flagged unsupported, an over-count that includes evaluative lines."
    ],
@@ -304,6 +309,11 @@
    "heading": "Why vision first",
    "caption_left": "The Department's workbook page [[fn:fn-wb-xh]]",
    "caption_right": "What Rumi read from it",
+   "chips": {
+    "learner_visible": "Learner-visible text: 0 errors on this page",
+    "with_stamp": "Including the printer's margin stamp",
+    "overall": "All test pages in the language"
+   },
    "lead": "A PDF's text layer scrambles workbook pages, so Rumi reads the printed page itself. On this page Rumi read every isiXhosa word right; the only differences are in the printer's margin stamp, which a learner never sees.",
    "note": "This page: 6.5% of characters differ from the text layer (6.7), all of it the margin stamp; without the stamp 0.0% (10.0). Across all 25 isiXhosa test pages: 4.4% (7.8). All measured; highlights count against Rumi even where the text layer is the one that is wrong."
   },
@@ -393,6 +403,11 @@
    "heading": "Why vision first",
    "caption_left": "The Department's workbook page [[fn:fn-wb-st]]",
    "caption_right": "What Rumi read from it",
+   "chips": {
+    "learner_visible": "Learner-visible text: 0 errors on this page",
+    "with_stamp": "Including the printer's margin stamp",
+    "overall": "All test pages in the language"
+   },
    "lead": "A PDF's text layer scrambles workbook pages, so Rumi reads the printed page itself. On this page Rumi read every Sesotho word right; the only differences are in the printer's margin stamp, which a learner never sees.",
    "note": "This page: 0.0% of characters differ from the text layer (10.0), all of it the margin stamp; without the stamp 0.0% (10.0). Across all 22 Sesotho test pages: 0.9% (9.5). All measured; highlights count against Rumi even where the text layer is the one that is wrong."
   },

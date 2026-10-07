@@ -1,5 +1,5 @@
 {
- "source": "final/scorecard.json · scorecard.py@v1 · 2026-10-07T17:16:52+00:00",
+ "source": "Numbers copied from the evaluation scorecard computed at 2026-10-07T17:16 UTC; nothing typed by hand.",
  "governing_thought": "Yes, with three conditions. On automated tests Rumi reads the curriculum, plans and voices lessons, transcribes speech and drafts coaching in isiZulu, isiXhosa and Sesotho. No native speaker has checked a word yet.",
  "columns": [
   {

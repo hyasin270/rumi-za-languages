@@ -17,62 +17,62 @@
   },
   {
    "from": "rumi",
-   "text": "Sawubona thisha! Ngiyajabula ukuzwa kuwe. Sihambe kanjani isifundo semisindo namuhla?",
-   "en": "Hello, teacher! I am happy to hear from you. How did today's phonics lesson go?",
+   "text": "Sawubona thisha! Ngiyajabula ukuxhumana nawe. Sihambe kanjani isifundo semisindo namuhla?",
+   "en": "Hello, teacher! I am glad to connect with you. How did today's phonics lesson go?",
    "mp3": "assets/audio/zu_tts_1.mp3",
    "words": [
     {
      "w": "Sawubona",
      "s": 0.0,
-     "e": 0.56
+     "e": 0.64
     },
     {
      "w": "thisha!",
-     "s": 0.64,
+     "s": 0.72,
      "e": 1.2
     },
     {
      "w": "Ngiyajabula",
-     "s": 1.56,
-     "e": 2.24
+     "s": 1.64,
+     "e": 2.4
     },
     {
-     "w": "ukuzwa",
-     "s": 2.32,
-     "e": 2.56
-    },
-    {
-     "w": "kuwe.",
-     "s": 2.64,
+     "w": "ukuxhumana",
+     "s": 2.52,
      "e": 2.96
     },
     {
+     "w": "nawe.",
+     "s": 3.04,
+     "e": 3.44
+    },
+    {
      "w": "Sihambe",
-     "s": 3.44,
-     "e": 3.84
+     "s": 3.92,
+     "e": 4.24
     },
     {
      "w": "kanjani",
-     "s": 3.96,
-     "e": 4.4
+     "s": 4.36,
+     "e": 4.8
     },
     {
      "w": "isifundo",
-     "s": 4.52,
-     "e": 4.96
+     "s": 4.92,
+     "e": 5.36
     },
     {
      "w": "semisindo",
-     "s": 5.04,
-     "e": 5.6
+     "s": 5.44,
+     "e": 6.0
     },
     {
      "w": "namuhla?",
-     "s": 5.72,
-     "e": 6.16
+     "s": 6.12,
+     "e": 6.48
     }
    ],
-   "dur": 6.32
+   "dur": 6.72
   },
   {
    "from": "teacher",
