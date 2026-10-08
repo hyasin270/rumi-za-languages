@@ -1,13 +1,13 @@
 {
  "lang": "st",
- "engine": "Soniox tts-rt-v2 (the voice Rumi uses in production today)",
+ "engine": "Soniox tts-rt-v2",
  "voice": "Grace (English voice, reading cross-lingually)",
  "timing": "word timings from our aligner (speech recogniser times mapped onto the script)",
  "score": {
   "value": 8.680555555555555,
   "display": "8.6",
   "label": "measured (automated) · native ear pending",
-  "line": "Soniox tts-rt-v2 (the voice Rumi uses in production today): text → speech → text came back with a character error rate of 0.066 (6 sentences, measured); English control through the same pipeline 0.000; native ear pending."
+  "line": "Soniox tts-rt-v2: text → speech → text came back with a character error rate of 0.066 (6 sentences, measured); English control through the same pipeline 0.000; native ear pending."
  },
  "conversation": [
   {

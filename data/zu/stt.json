@@ -610,12 +610,6 @@
    "en": "They want to see, touch, practice, do."
   }
  ],
- "baseline": {
-  "engine": "Soniox stt-async-v5 — today's production speech-to-text (no language setting exists for this language)",
-  "from": 157.0,
-  "to": 187.0,
-  "text": "Ubali umundu e ukudu nywangae lapaya endabeo. [learner]. Utemba. Utemba. Uko inzendo [learner]? Yes. Ushayeleni sana. Utemba mtu ako room 7. Aye wenza emko sina. Hapo mchana wote mtu. Tembani. Juu saa isi ngomo. Ile ako enda bayetu bangalimanga. Siz"
- },
  "score": {
   "value": "8.8",
   "label": "measured (automated)",

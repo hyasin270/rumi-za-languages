@@ -43,7 +43,7 @@
 
   /* 2. listening */
   if (stt) {
-    new SyncPlayer($("sync-host"), stt, { english: RZ.t("listening.english_toggle"), baseline: RZ.t("listening.baseline_toggle") });
+    new SyncPlayer($("sync-host"), stt, { english: RZ.t("listening.english_toggle") });
     const line = (s, key) => `<div class="score-line">${RZ.chip(s, { key })} <span class="note">${esc(RZ.score(s).line || "")}</span></div>`;
     $("stt-score").innerHTML = (stt.score ? (RZ.has("listening.score_line") ? `<div class="score-line">${RZ.chip(stt.score, { key: RZ.t("verdict.chips.Q2") || "Listening" })} <span class="note">${RZ.html("listening.score_line")}</span></div>` : line(stt.score, RZ.t("verdict.chips.Q2") || "Listening")) : "") +
       (stt.agreement ? `<div class="score-line">${RZ.chip(stt.agreement, { key: RZ.ui("stt_disagree", "Engines disagree on"), kind: Number(RZ.score(stt.agreement).value) <= 1 ? "pct-up" : "10" })} <span class="note">${

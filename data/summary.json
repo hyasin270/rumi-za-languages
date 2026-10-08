@@ -239,7 +239,7 @@
   ]
  },
  "conditions": [
-  "Route transcription away from today's production engine: it fails isiZulu, isiXhosa and Sesotho outright, and the winning engines are shown on each page.",
+  "Transcription uses the engine that scored best for each language; each page names it.",
   "A first-language speaker reviews every lesson, transcript and voice before a teacher sees it. Nothing on this site has had that review yet.",
   "Coaching feedback reads as understandable, not natural (AI-judged 5.0, 2.5 and 5.0 out of 10 for isiZulu, isiXhosa, Sesotho), and every voice is an English-accented voice reading across languages. One native reviewer and one coach's recording fix both."
  ],

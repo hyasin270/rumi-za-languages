@@ -4,7 +4,7 @@
  *   - polls player.getCurrentTime() ~4×/s and interpolates between polls with requestAnimationFrame, so typing is smooth;
  *   - a turn is hidden until the video reaches turn.start, then typed in over (end − start) and highlighted while current;
  *   - scrubbing backwards re-hides later turns; clicking a turn seeks to it;
- *   - per-turn "English" toggle; a "today's production engine heard…" toggle shows the baseline text for its window;
+ *   - per-turn "English" toggle; an optional comparison toggle shows an alternative transcript for one window (stt.baseline, when present);
  *   - "Show full transcript" reveals every turn at once (for reading without the video, and for screen readers).
  * SyncPlayer.byLang[lang].seekPlay(t)  used by the coach report's timestamp buttons: scrolls here, seeks, plays.
  */
@@ -73,10 +73,10 @@
       const b = this.stt.baseline;
       if (b && b.text) {
         this.baseBox = el("div", { class: "baseline", hidden: true },
-          el("span", { class: "lab" }, `${this.opts.baseline || RZ.ui("baseline_heard", "Today's production engine heard")} (${RZ.fmt(b.from)}–${RZ.fmt(b.to)})`),
+          el("span", { class: "lab" }, `${this.opts.baseline || RZ.ui("baseline_heard", "Another engine heard")} (${RZ.fmt(b.from)}–${RZ.fmt(b.to)})`),
           b.text);
         this.baseBtn = el("button", { class: "btn small", type: "button", "aria-pressed": "false", onclick: () => this.toggleBase() },
-          this.opts.baseline || RZ.ui("baseline_toggle", "Today's production engine heard…"));
+          this.opts.baseline || RZ.ui("baseline_toggle", "Another engine heard…"));
         bar.append(this.baseBtn);
       }
       const pane = el("div", { class: "transcript", role: "region", "aria-label": RZ.ui("transcript", "Transcript") }, bar, this.list, this.baseBox || "");

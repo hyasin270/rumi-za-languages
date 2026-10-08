@@ -850,12 +850,6 @@
    "en": "We are going to do our pattern."
   }
  ],
- "baseline": {
-  "engine": "Soniox stt-async-v5 — today's production speech-to-text (no language setting exists for this language)",
-  "from": 84.0,
-  "to": 114.0,
-  "text": "za kutula. Umcha toka nontanta. Umcha toka nontanta. Mv nikogo naevaa tazeli, ndio ma isandi isiwe nguuchi. Isandi setu isiwe nguuchi. Isandi setu isiwe ngubani. Isandi setu isiwe ngubani. Isandi setu isiwe nguuchi. Kusokula katatu. Ngeza ndizi ndatu. Saa hiki hewa ngeza ndizi ndatu. Good. SSB ni?"
- },
  "score": {
   "value": "7.8",
   "label": "measured (automated)",
