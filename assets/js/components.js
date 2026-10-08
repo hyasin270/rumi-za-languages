@@ -5,7 +5,7 @@
  *                                  buttons that seek+play that page's SyncPlayer; positives, blockages, level of change, GROW,
  *                                  reflective questions (language + English), 5-step debrief plan, next step, spoken debrief
  *                                  (Karaoke), and the "how well Rumi observed" accuracy panel.
- * VisionDiff.mount(host, vision)   the workbook page image beside the text Rumi read, with differences highlighted.
+ * VisionDiff.mount(host, vision)   the workbook page image beside Rumi's full reconstruction of it (vision.pagetruth).
  * LPViewer.mount(host, lp)         page thumbnails → lightbox, PDF + English reviewer copy, score parts, back-translation.
  */
 (function () {
@@ -187,33 +187,47 @@
       }
       fig.append(el("figcaption", { html: `${o.left && !/class="ph"/.test(o.left) ? o.left + "<br>" : ""}${esc(p.book || "")}${p.printed_page ? `, ${esc(L("page", "page"))} ${esc(p.printed_page)}` : ""}${cite(p.source ? [p.source] : v.sources)}` }));
       const right = el("div", {});
-      right.append(el("p", { class: "subcard-title" }, o.right || L("vision_read", "What Rumi read from the page image")));
-      const dt = el("div", { class: "difftext", lang: v.lang });
-      (v.diff || []).forEach((d) => {
-        const tag = d.type === "ins" ? "ins" : d.type === "del" ? "del" : "span";
-        dt.append(el(tag, {}, d.text));
-      });
-      if (!(v.diff || []).length && v.vision_text) dt.textContent = v.vision_text;
-      right.append(dt);
-      right.append(el("div", { class: "legend", html: `<ins style="background:var(--ins-bg);text-decoration:none;border-bottom:2px solid var(--seen);padding:0 4px">${esc(L("diff_ins", "recovered by reading the image"))}</ins> <del style="background:var(--del-bg);padding:0 4px">${esc(L("diff_del", "wrong in the PDF's text layer"))}</del>` }));
-      if (v.text_layer) {
-        const det = el("details", {}, el("summary", {}, L("text_layer", "What the PDF's hidden text layer says")), el("div", { class: "layer", lang: v.lang }, v.text_layer));
-        right.append(det);
+      right.append(el("p", { class: "subcard-title" }, o.right || L("vision_read", "Rumi's reconstruction of the page")));
+      // the page as Rumi rebuilt it from the image: worksheet + title, week, activity + instruction, pictures + labels,
+      // printed page number, and the printer's margin stamp (which learners never see)
+      const pt = v.pagetruth || {};
+      const page = el("div", { class: "ptpage", lang: v.lang });
+      page.append(el("div", { class: "pt-top" }, pt.worksheet ? el("span", { class: "pt-ws" }, pt.worksheet) : "", el("span", { class: "pt-title" }, pt.title || "")));
+      if (pt.week) page.append(el("div", { class: "pt-week" }, pt.week));
+      if (pt.activity && (pt.activity.label || pt.activity.instruction)) {
+        page.append(el("div", { class: "pt-activity" },
+          pt.activity.label ? el("span", { class: "pt-act-label" }, pt.activity.label) : "",
+          pt.activity.instruction ? el("p", { class: "pt-instr" }, pt.activity.instruction) : ""));
       }
-      // chip order: learner-visible text first, then with the printer's stamp, then the language overall
+      (pt.pictures || []).forEach((pic) => {
+        const box = el("div", { class: "pt-pic" },
+          el("div", { class: "pt-pic-desc", lang: "en" }, el("span", { class: "pt-pic-tag" }, L("picture", "Picture")), " ", pic.description || ""));
+        if ((pic.labels || []).length) {
+          const row = el("div", { class: "pt-labels" });
+          pic.labels.forEach((w) => row.append(el("span", { class: "pt-label" }, w)));
+          box.append(row);
+        }
+        page.append(box);
+      });
+      if (pt.printed_page !== undefined && pt.printed_page !== null) page.append(el("div", { class: "pt-pageno" }, String(pt.printed_page)));
+      if ((pt.margin_stamp || []).length) {
+        page.append(el("div", { class: "pt-stamp", lang: "en" },
+          el("span", {}, L("stamp", "Printer's margin stamp (learners never see it): ")),
+          el("code", {}, pt.margin_stamp.join(" · ")),
+          pt.stamp_unsure ? el("span", { class: "pt-unsure" }, L("unsure", "Rumi marked this line as unsure")) : ""));
+      }
+      right.append(page);
+      const meta = [pt.labels && pt.labels.length ? `${pt.labels.length} ${L("labels", "labels")}` : "", pt.pictures && pt.pictures.length ? `${pt.pictures.length} ${L("pictures", "pictures")}` : "", pt.captured || ""].filter(Boolean).join(" · ");
+      if (meta) right.append(el("p", { class: "note pt-meta" }, meta));
+      // chips: every word a learner sees on this page, then the language overall
       const ch = o.chips || {};
       const chips = [];
       if (v.score_without_stamp !== undefined && v.score_without_stamp !== null)
-        chips.push(chip({ value: v.score_without_stamp, label: v.score_label || "measured" }, { key: ch.learner_visible || L("learner_visible", "Learner-visible text") }));
-      chips.push(chip({ value: v.score, label: v.score_label || "measured" }, { key: v.score_without_stamp !== undefined ? (ch.with_stamp || L("with_stamp", "Including the printer's margin stamp")) : L("page_truth_this", "This page") }));
-      if (v.overall) chips.push(chip({ value: v.overall.score, label: v.overall.label }, { key: ch.overall || L("page_truth_all", "All test pages") }));
+        chips.push(chip({ value: v.score_without_stamp, label: v.score_label || "measured" }, { key: ch.learner_visible || L("learner_visible", "Every word a learner sees, this page") }));
+      if (v.overall) chips.push(chip({ value: v.overall.score, label: v.overall.label }, { key: ch.overall || L("page_truth_all", "Page reading, all test pages") }));
       right.append(el("div", { class: "chip-row vchips", html: chips.join(" ") }));
-      if (!o.hasNote) {
-        // the data owner's own lines, only when the page copy does not already say it
-        [v.cer_line || (v.cer !== undefined && v.cer !== null ? `${L("cer", "character error rate")} ${(Math.ceil(Number(v.cer) * 1000 - 1e-9) / 10).toFixed(1)}%` : ""), v.without_stamp_line, v.overall && v.overall.line]
-          .filter(Boolean).forEach((t) => right.append(el("p", { class: "note", style: "margin:6px 0 0" }, t)));
-      }
       if (v.why_en) right.append(el("p", { class: "note", style: "margin-top:10px" }, v.why_en));
+      if (v.overall && v.overall.line) right.append(el("p", { class: "note", style: "margin:6px 0 0" }, v.overall.line));
       host.append(el("div", { class: "vdiff" }, fig, right));
     },
   };

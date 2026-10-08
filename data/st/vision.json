@@ -7,30 +7,106 @@
   "pdf_page": 8,
   "source": "fn-wb-st"
  },
- "text_layer": "Kotara ya 1 – Beke ya 1\n2\nMmele\nHa re etseng\nMamela titjhere.\nSupa setho sa mmele se nepahetseng.\nleihlo\nhlooho\nmoriri\ntsebe\nmeno\nnko\nleleme\nmolomo\nmolala\nlehetla\nsefuba\nsetsu\nsephaka\nmpa\nlengwele\nmmomo\nmenwana ya\nmatsoho\nleoto\nletsoho\nmonwana\no motona\nmenwana\nya maoto\n4\nGr1_HL_SES_B1_TH 1.indd 4\n2019/04/30 11:29:53",
- "vision_text": "2 Mmele\nKotara ya 1 – Beke ya 1\nHa re etseng\nMamela titjhere.\nSupa setho sa mmele se nepahetseng.\nleihlo\nnko\nmolomo\nlehetla\nsefuba\nsephaka\nmpa\nhlooho\nmoriri\ntsebe\nmeno\nleleme\nmolala\nsetsu\nlengwele\nmmomo\nleoto\nmenwana ya matsoho\nletsoho\nmonwana o motona\nmenwana ya maoto\n4\nGr1_HL_SES_B1_TH 1.indd 4\n2019/04/30 11:29:53",
- "diff": [
-  {
-   "type": "same",
-   "text": "2 Mmele Kotara ya 1 – Beke ya 1 Ha re etseng Mamela titjhere. Supa setho sa mmele se nepahetseng. leihlo nko molomo lehetla sefuba sephaka mpa hlooho moriri tsebe meno leleme molala setsu lengwele mmomo leoto menwana ya matsoho letsoho monwana o motona menwana ya maoto 4 Gr1_HL_SES_B1_TH 1.indd 4 2019/04/30 11:29:53"
-  }
- ],
  "cer": 0.0,
  "score": 10.0,
  "score_label": "measured (automated)",
- "cer_line": "This page: 0.0% of characters differ from the PDF's own text layer (order-free) → 10.0/10.",
  "cer_without_stamp": 0.0,
  "score_without_stamp": 10.0,
- "without_stamp_line": "Leaving out the printer's margin stamp (file name, print date and time): 0.0% → 10.0/10.",
  "overall": {
   "cer": 0.0088,
   "score": 9.56,
   "n_pages": 22,
   "label": "measured (automated)",
-  "line": "All 22 test pages in Sesotho (curriculum, a storybook and six workbook pages): 0.9% of characters differ → 9.5/10 for page reading."
+  "line": "All 22 test pages in Sesotho (the curriculum, a storybook and six workbook pages), each rebuilt the same way."
  },
- "why_en": "Rumi read every Sesotho word on this page exactly as printed: the title, the instruction and all the body-part labels, including the margin stamp. The PDF's text layer lists the labels in a scrambled order around the drawing, so the comparison ignores word order and counts only wrong, missing or extra words.",
+ "why_en": "Every word on the page is right, down to the printer's margin stamp.",
  "sources": [
   "fn-wb-st"
- ]
+ ],
+ "pagetruth": {
+  "worksheet": "2",
+  "title": "Mmele",
+  "week": "Kotara ya 1 – Beke ya 1",
+  "page_type": "exercise",
+  "activity": {
+   "label": "Ha re etseng",
+   "instruction": "Mamela titjhere. Supa setho sa mmele se nepahetseng."
+  },
+  "labels": [
+   "hlooho",
+   "moriri",
+   "tsebe",
+   "leihlo",
+   "nko",
+   "molomo",
+   "lehetla",
+   "sefuba",
+   "sephaka",
+   "mpa",
+   "menwana ya matsoho",
+   "letsoho",
+   "monwana o motona",
+   "meno",
+   "leleme",
+   "molala",
+   "setsu",
+   "lengwele",
+   "mmomo",
+   "leoto",
+   "menwana ya maoto"
+  ],
+  "pictures": [
+   {
+    "description": "Cartoon monkey in green top waving, beside the 'Ha re etseng' speech tag",
+    "role": "activity mascot",
+    "labels": []
+   },
+   {
+    "description": "Front view of a smiling boy in teal shorts with ten coloured word labels (leihlo, nko, molomo, lehetla, sefuba, sephaka, mpa, menwana ya matsoho, letsoho, monwana o motona) joined by lines",
+    "role": "body-part vocabulary",
+    "labels": [
+     "leihlo",
+     "nko",
+     "molomo",
+     "lehetla",
+     "sefuba",
+     "sephaka",
+     "mpa",
+     "menwana ya matsoho",
+     "letsoho",
+     "monwana o motona"
+    ]
+   },
+   {
+    "description": "Side view of a boy in teal shorts with labelled head and body parts",
+    "role": "body-part vocabulary",
+    "labels": [
+     "hlooho",
+     "moriri",
+     "tsebe",
+     "meno",
+     "leleme",
+     "molala",
+     "setsu",
+     "lengwele",
+     "mmomo",
+     "leoto"
+    ]
+   },
+   {
+    "description": "Bare feet with toes labelled",
+    "role": "vocabulary",
+    "labels": [
+     "menwana ya maoto"
+    ]
+   }
+  ],
+  "printed_page": 4,
+  "margin_stamp": [
+   "Gr1_HL_SES_B1_TH 1.indd 4",
+   "2019/04/30 11:29:53"
+  ],
+  "stamp_unsure": false,
+  "captured": "Captured blind by a vision model from the page image; no text was copied from the PDF."
+ }
 }

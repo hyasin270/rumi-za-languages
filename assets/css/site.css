@@ -348,3 +348,23 @@ a.chip:hover { border-color: var(--coral); }
 .chip { max-width: 100%; flex-wrap: wrap; white-space: normal; row-gap: 0; }
 .chip .k { white-space: normal; }
 .chip .v, .chip .of, .chip .l { white-space: nowrap; }
+
+/* Page-truth reconstruction (Rumi's rebuild of the workbook page, beside the page image) */
+.ptpage { background: var(--white, #fff); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; box-shadow: 0 1px 2px rgba(0,31,63,.05); }
+.pt-top { display: flex; align-items: center; gap: 10px; background: #1EA3E0; color: #fff; border-radius: 8px 8px 0 0; margin: -16px -18px 12px; padding: 10px 14px; }
+.pt-ws { display: inline-grid; place-items: center; min-width: 28px; height: 28px; border-radius: 50%; background: #fff; color: #1EA3E0; font-weight: 700; font-size: .95rem; }
+.pt-title { font-weight: 700; font-size: 1.25rem; letter-spacing: .01em; }
+.pt-week { font-size: .85rem; color: var(--muted); margin: -4px 0 10px; }
+.pt-activity { border-left: 3px solid var(--coral); background: var(--coral-soft); border-radius: 0 8px 8px 0; padding: 8px 12px; margin-bottom: 12px; }
+.pt-act-label { display: inline-block; font-weight: 700; color: var(--navy); font-size: .9rem; margin-bottom: 2px; }
+.pt-instr { margin: 0; color: var(--ink); }
+.pt-pic { border: 1px dashed var(--line); border-radius: 8px; padding: 8px 10px; margin-bottom: 8px; }
+.pt-pic-desc { font-size: .88rem; color: var(--muted); }
+.pt-pic-tag { display: inline-block; font-size: .7rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--navy); background: var(--paper); border: 1px solid var(--line); border-radius: 999px; padding: 1px 8px; margin-right: 4px; }
+.pt-labels { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.pt-label { background: var(--paper); border: 1px solid var(--line); border-radius: 6px; padding: 2px 8px; font-size: .9rem; color: var(--ink); }
+.pt-pageno { text-align: left; font-size: .8rem; color: var(--muted); margin-top: 6px; }
+.pt-stamp { margin-top: 10px; padding-top: 8px; border-top: 1px dotted var(--line); font-size: .78rem; color: var(--muted); }
+.pt-stamp code { font-size: .78rem; background: var(--paper); padding: 1px 4px; border-radius: 4px; overflow-wrap: anywhere; }
+.pt-unsure { display: inline-block; margin-left: 6px; color: #9A5B00; background: #FFF4DE; border-radius: 999px; padding: 0 8px; }
+.pt-meta { margin: 8px 0 0; }

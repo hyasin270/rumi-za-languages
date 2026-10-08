@@ -28,13 +28,13 @@
   "bullets": [
    "Curriculum page to lesson plan: a vision model reads the official CAPS pages and the Department's Grade 1 workbook [[fn:fn-caps-zu]] [[fn:fn-wb-zu]]; a planner cuts Term 1 into fifty traceable days; a writer drafts and voices each lesson in the structured format partners use [[fn:fn-rti]].",
    "Classroom recording to coaching report: the best transcription engine writes the transcript; the coaching engine reads it against the partners' coaching course [[fn:fn-coaching-course]], quotes a timed moment for every step it credits, and drafts the debrief.",
-   "References: the PDF's own text layer, human transcripts of read speech [[fn:fn-fleurs]] [[fn:fn-nchlt]], the lesson transcript, and the spoken script. The three labels are explained below the diagrams."
+   "References: the official file's own text, human transcripts of read speech [[fn:fn-fleurs]] [[fn:fn-nchlt]], the lesson transcript, and the spoken script. The three labels are explained below the diagrams."
   ],
   "samples": "Feasibility-sized samples, not a benchmark: 19 lesson plans and 6 two-week overviews; 143 curriculum, workbook and reader pages; 32 to 70 read sentences per language; 12 classroom recordings (3 partner, 9 public); 6 spoken sentences per voice.",
   "limits": "Listening scores come from read speech in quiet rooms, an upper bound for a Grade 1 classroom. The World Bank structure check [[fn:fn-wb-tool]] tests structure our template enforces, so it sits beside the lesson-plan score, not in it.",
   "diagram_lp": [
    "Official pages",
-   "Vision reading, checked against the text layer",
+   "Vision reading, checked letter by letter against the official file",
    "Term plan: 50 days traced to the curriculum",
    "Lesson draft + voice note",
    "Structure check · real-word check · back-translation"
@@ -205,14 +205,12 @@
   "vision": {
    "heading": "Why vision first",
    "caption_left": "The Department's workbook page [[fn:fn-wb-zu]]",
-   "caption_right": "What Rumi read from it",
+   "caption_right": "Rumi's reconstruction of the page",
    "chips": {
-    "learner_visible": "Learner-visible text: 0 errors on this page",
-    "with_stamp": "Including the printer's margin stamp",
-    "overall": "All test pages in the language"
+    "learner_visible": "Every word a learner sees, this page",
+    "overall": "Page reading, all test pages"
    },
-   "lead": "The PDF's hidden text layer is scrambled, so a lesson built from it inherits the scramble. Rumi reads the printed page; the comparison counts only wrong, missing or extra words.",
-   "note": "This page: 9.0% of characters differ from the text layer, all in the margin stamp; without it 0.0%. All 22 test pages: 2.2%. Measured; highlights count even where the text layer is wrong."
+   "lead": "A lesson plan quotes the book, so Rumi first rebuilds each page as a learner sees it: every word, the activity and its instruction, what each picture shows, and the page number."
   },
   "lp_sample": {
    "heading": "The lesson-plan sample",
@@ -290,7 +288,7 @@
    "heading": "Lesson plans",
    "lead": "Score 9.2: the lessons teach the dental click as a sound and read as isiXhosa; one collapsed table page drags page reading down.",
    "bullets": [
-    "Half the page-reading gap is a time table whose identical cells were collapsed into one; a quarter is cover-art English the text layer lacks.",
+    "Half the page-reading gap is a time table whose identical cells were collapsed into one; a quarter is English printed in a reader's cover art, which the official file's text leaves out.",
     "A twelve-mapping audit of the term plan found ten the same, two partial, none wrong.",
     "Ten flagged phrases (the click's description, the idiom for skipping rope) await a first-language coach."
    ],
@@ -299,14 +297,12 @@
   "vision": {
    "heading": "Why vision first",
    "caption_left": "The Department's workbook page [[fn:fn-wb-xh]]",
-   "caption_right": "What Rumi read from it",
+   "caption_right": "Rumi's reconstruction of the page",
    "chips": {
-    "learner_visible": "Learner-visible text: 0 errors on this page",
-    "with_stamp": "Including the printer's margin stamp",
-    "overall": "All test pages in the language"
+    "learner_visible": "Every word a learner sees, this page",
+    "overall": "Page reading, all test pages"
    },
-   "lead": "The PDF's hidden text layer is scrambled, so a lesson built from it inherits the scramble. Rumi reads the printed page; the comparison counts only wrong, missing or extra words.",
-   "note": "This page: 6.5% of characters differ from the text layer, all in the margin stamp; without it 0.0%. All 25 test pages: 4.4%. Measured; highlights count even where the text layer is wrong."
+   "lead": "A lesson plan quotes the book, so Rumi first rebuilds each page as a learner sees it: every word, the activity and its instruction, what each picture shows, and the page number."
   },
   "lp_sample": {
    "heading": "The lesson-plan sample",
@@ -393,14 +389,12 @@
   "vision": {
    "heading": "Why vision first",
    "caption_left": "The Department's workbook page [[fn:fn-wb-st]]",
-   "caption_right": "What Rumi read from it",
+   "caption_right": "Rumi's reconstruction of the page",
    "chips": {
-    "learner_visible": "Learner-visible text: 0 errors on this page",
-    "with_stamp": "Including the printer's margin stamp",
-    "overall": "All test pages in the language"
+    "learner_visible": "Every word a learner sees, this page",
+    "overall": "Page reading, all test pages"
    },
-   "lead": "The PDF's hidden text layer is scrambled, so a lesson built from it inherits the scramble. Rumi reads the printed page; the comparison counts only wrong, missing or extra words.",
-   "note": "This page: 0.0% of characters differ from the text layer, all in the margin stamp; without it 0.0%. All 22 test pages: 0.9%. Measured; highlights count even where the text layer is wrong."
+   "lead": "A lesson plan quotes the book, so Rumi first rebuilds each page as a learner sees it: every word, the activity and its instruction, what each picture shows, and the page number."
   },
   "lp_sample": {
    "heading": "The lesson-plan sample",

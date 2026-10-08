@@ -7,34 +7,99 @@
   "pdf_page": 8,
   "source": "fn-wb-xh"
  },
- "text_layer": "Umzimba\nIkota yoku-1 – Iveki-1\n2\nMasenze\nMamela utitshala uze ukhombe ilungu\nlomzimba elifanelekileyo.\niliso\niinwele\nintloko\nindlebe\namazinyo\nimpumlo\nulwimi\numlomo\nintamo\nigxalaba\nisifuba\ningqiniba\ningalo\nisisu\nidolo\numlenze\niminwe\nunyawo\nisandla\nubhontsi\niinzwane\n4\nXHO HL Gr1 B1 TH1.indd 4\n2021/04/07 15:01:14",
- "vision_text": "2 Umzimba\nIkota yoku-1 – Iveki-1\nMasenze\nMamela utitshala uze ukhombe ilungu lomzimba elifanelekileyo.\niinwele\nintloko\nindlebe\niliso\nimpumlo\numlomo\nigxalaba\nisifuba\ningalo\nisisu\namazinyo\nulwimi\nintamo\ningqiniba\nidolo\numlenze\nunyawo\niminwe\nisandla\nubhontsi\niinzwane\n4\nXHO HL Gr1 B1 TH1.indd 4",
- "diff": [
-  {
-   "type": "same",
-   "text": "2 Umzimba Ikota yoku-1 – Iveki-1 Masenze Mamela utitshala uze ukhombe ilungu lomzimba elifanelekileyo. iinwele intloko indlebe iliso impumlo umlomo igxalaba isifuba ingalo isisu amazinyo ulwimi intamo ingqiniba idolo umlenze unyawo iminwe isandla ubhontsi iinzwane 4 XHO HL Gr1 B1 TH1.indd 4"
-  },
-  {
-   "type": "del",
-   "text": "2021/04/07 15:01:14"
-  }
- ],
  "cer": 0.0649,
  "score": 6.75,
  "score_label": "measured (automated)",
- "cer_line": "This page: 6.5% of characters differ from the PDF's own text layer (order-free) → 6.7/10.",
  "cer_without_stamp": 0.0,
  "score_without_stamp": 10.0,
- "without_stamp_line": "Leaving out the printer's margin stamp (file name, print date and time): 0.0% → 10.0/10.",
  "overall": {
   "cer": 0.044,
   "score": 7.8,
   "n_pages": 25,
   "label": "measured (automated)",
-  "line": "All 25 test pages in isiXhosa (curriculum, a storybook and six workbook pages): 4.4% of characters differ → 7.8/10 for page reading."
+  "line": "All 25 test pages in isiXhosa (the curriculum, a storybook and six workbook pages), each rebuilt the same way."
  },
- "why_en": "Rumi read every isiXhosa word on this page correctly: the title, the instruction and all 21 body-part labels. The only difference is in the printer's margin stamp, which a learner never sees: Rumi left out the print date and time. The PDF's text layer lists the labels in a scrambled order around the drawing, so the comparison ignores word order and counts only wrong, missing or extra words.",
+ "why_en": "Every word a learner sees is right. The only thing missing is the print date in the printer's margin stamp, which learners never see.",
  "sources": [
   "fn-wb-xh"
- ]
+ ],
+ "pagetruth": {
+  "worksheet": "2",
+  "title": "Umzimba",
+  "week": "Ikota yoku-1 – Iveki-1",
+  "page_type": "exercise",
+  "activity": {
+   "label": "Masenze",
+   "instruction": "Mamela utitshala uze ukhombe ilungu lomzimba elifanelekileyo."
+  },
+  "labels": [
+   "iinwele",
+   "intloko",
+   "indlebe",
+   "iliso",
+   "impumlo",
+   "umlomo",
+   "igxalaba",
+   "isifuba",
+   "ingalo",
+   "isisu",
+   "iminwe",
+   "isandla",
+   "ubhontsi",
+   "amazinyo",
+   "ulwimi",
+   "intamo",
+   "ingqiniba",
+   "idolo",
+   "umlenze",
+   "unyawo",
+   "iinzwane"
+  ],
+  "pictures": [
+   {
+    "description": "Blue-grey monkey mascot waving, beside the 'Masenze' banner",
+    "role": "activity mascot",
+    "labels": []
+   },
+   {
+    "description": "Front-view drawing of a boy with short hair in turquoise-and-blue shorts, labelled with lines to eye, nose, mouth, shoulder, chest, arm, stomach, fingers, hand, thumb, toes",
+    "role": "label body parts",
+    "labels": [
+     "iliso",
+     "impumlo",
+     "umlomo",
+     "igxalaba",
+     "isifuba",
+     "ingalo",
+     "isisu",
+     "iminwe",
+     "isandla",
+     "ubhontsi",
+     "iinzwane"
+    ]
+   },
+   {
+    "description": "Side-view drawing of the boy facing right, labelled with lines to hair, head, ear, teeth, tongue, neck, back, knee, leg, foot",
+    "role": "label body parts",
+    "labels": [
+     "iinwele",
+     "intloko",
+     "indlebe",
+     "amazinyo",
+     "ulwimi",
+     "intamo",
+     "ingqiniba",
+     "idolo",
+     "umlenze",
+     "unyawo"
+    ]
+   }
+  ],
+  "printed_page": 4,
+  "margin_stamp": [
+   "XHO HL Gr1 B1 TH1.indd 4"
+  ],
+  "stamp_unsure": false,
+  "captured": "Captured blind by a vision model from the page image; no text was copied from the PDF."
+ }
 }
