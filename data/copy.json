@@ -1,15 +1,15 @@
 {
  "_about": "Every visible sentence on the site, keyed page.section.field. Inline fn markers (double square brackets, fn colon id) point into footnotes.json.",
  "index.meta": {
-  "title": "Rumi in South African languages",
-  "subtitle": "What we measured in isiZulu, isiXhosa and Sesotho, with Sepedi, Afrikaans and Setswana also tested.",
+  "title": "Can Rumi work in isiZulu, isiXhosa and Sesotho?",
+  "subtitle": "Rumi in South African languages · Sepedi, Afrikaans and Setswana also tested",
   "dateline": "Measured 7 October 2026 · every number is labelled measured, AI-judged or native ear pending",
   "nav_languages": "Languages",
   "nav_index": "Overview"
  },
  "index.answer": {
   "heading": "The answer",
-  "lead": "Yes, with three conditions. On automated tests Rumi reads the curriculum, plans and voices lessons, transcribes speech and drafts coaching in isiZulu, isiXhosa and Sesotho. No native speaker has checked a word yet.",
+  "lead": "Yes, with three conditions. On automated tests in all three languages, Rumi plans lessons from the curriculum, transcribes classroom speech, drafts coaching and replies in voice notes. No native speaker has checked a word yet.",
   "bullets": [
    "Lesson plans and coaching are strong in all three languages; listening is the capability that separates them.",
    "Six languages, four capabilities, about ninety dollars of metered model and voice calls."

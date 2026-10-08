@@ -1,6 +1,7 @@
 {
  "source": "Numbers copied from the evaluation scorecard computed at 2026-10-08T06:14 UTC; nothing typed by hand.",
- "governing_thought": "Yes, with three conditions. On automated tests Rumi reads the curriculum, plans and voices lessons, transcribes speech and drafts coaching in isiZulu, isiXhosa and Sesotho. No native speaker has checked a word yet.",
+ "question": "Can Rumi work in isiZulu, isiXhosa and Sesotho?",
+ "governing_thought": "Yes, with three conditions. On automated tests in all three languages, Rumi plans lessons from the curriculum, transcribes classroom speech, drafts coaching and replies in voice notes. No native speaker has checked a word yet.",
  "columns": [
   {
    "key": "Q1",
