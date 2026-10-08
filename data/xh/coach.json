@@ -303,596 +303,596 @@
    {
     "w": "Molo,",
     "s": 0.0,
-    "e": 0.64
+    "e": 0.4
    },
    {
     "w": "enkosi",
-    "s": 1.4,
-    "e": 2.253
+    "s": 0.92,
+    "e": 1.28
    },
    {
     "w": "kakhulu",
-    "s": 2.38,
-    "e": 3.1
+    "s": 1.387,
+    "e": 1.92
    },
    {
     "w": "ngokundivumela",
-    "s": 3.1,
-    "e": 4.52
+    "s": 1.96,
+    "e": 2.72
    },
    {
     "w": "ukuba",
-    "s": 4.52,
-    "e": 5.0
+    "s": 2.76,
+    "e": 2.96
    },
    {
     "w": "ndibe",
-    "s": 5.0,
-    "e": 5.94
+    "s": 3.0,
+    "e": 3.2
    },
    {
     "w": "seklasini",
-    "s": 5.94,
-    "e": 6.7
+    "s": 3.28,
+    "e": 3.84
    },
    {
     "w": "lakho",
-    "s": 6.7,
-    "e": 7.22
+    "s": 3.88,
+    "e": 4.16
    },
    {
     "w": "namhlanje.",
-    "s": 7.22,
-    "e": 8.3
+    "s": 4.24,
+    "e": 4.8
    },
    {
     "w": "Ndibone",
-    "s": 9.44,
-    "e": 9.8
+    "s": 5.28,
+    "e": 5.68
    },
    {
     "w": "izinto",
-    "s": 9.8,
-    "e": 10.4
+    "s": 5.72,
+    "e": 6.0
    },
    {
     "w": "ezimbini",
-    "s": 10.4,
-    "e": 11.12
+    "s": 6.04,
+    "e": 6.48
    },
    {
     "w": "ezintle",
-    "s": 11.12,
-    "e": 11.8
+    "s": 6.64,
+    "e": 7.2
    },
    {
     "w": "kakhulu.",
-    "s": 11.8,
-    "e": 12.4
+    "s": 7.24,
+    "e": 7.84
    },
    {
     "w": "Okokuqala,",
-    "s": 12.94,
-    "e": 13.812
+    "s": 8.4,
+    "e": 9.12
    },
    {
     "w": "unopopi",
-    "s": 14.42,
-    "e": 15.04
+    "s": 9.52,
+    "e": 10.0
    },
    {
     "w": "wakho",
-    "s": 15.04,
-    "e": 15.44
+    "s": 10.04,
+    "e": 10.4
    },
    {
     "w": "wenze",
-    "s": 15.44,
-    "e": 16.14
+    "s": 10.48,
+    "e": 10.64
    },
    {
     "w": "abantwana",
-    "s": 16.14,
-    "e": 16.72
+    "s": 10.76,
+    "e": 11.12
    },
    {
     "w": "bonwabe",
-    "s": 16.72,
-    "e": 17.48
+    "s": 11.24,
+    "e": 11.6
    },
    {
     "w": "baphulaphula,",
-    "s": 17.48,
-    "e": 18.307
+    "s": 11.68,
+    "e": 12.4
    },
    {
     "w": "kwaye",
-    "s": 18.96,
-    "e": 19.38
+    "s": 12.8,
+    "e": 13.12
    },
    {
     "w": "bonke",
-    "s": 19.38,
-    "e": 19.794
+    "s": 13.28,
+    "e": 13.6
    },
    {
     "w": "baphendula",
-    "s": 19.794,
-    "e": 20.504
+    "s": 13.64,
+    "e": 14.16
    },
    {
     "w": "ngovuyo.",
-    "s": 20.504,
-    "e": 21.104
+    "s": 14.2,
+    "e": 14.72
    },
    {
     "w": "Okwesibini,",
-    "s": 21.76,
-    "e": 22.54
+    "s": 15.28,
+    "e": 15.92
    },
    {
     "w": "xa",
-    "s": 23.24,
-    "e": 23.34
+    "s": 16.4,
+    "e": 16.64
    },
    {
     "w": "ubacelile",
-    "s": 23.34,
-    "e": 24.06
+    "s": 16.72,
+    "e": 17.28
    },
    {
     "w": "ukuba",
-    "s": 24.06,
-    "e": 24.52
+    "s": 17.32,
+    "e": 17.52
    },
    {
     "w": "bafumane",
-    "s": 24.52,
-    "e": 25.24
+    "s": 17.56,
+    "e": 18.0
    },
    {
     "w": "amagama",
-    "s": 25.24,
-    "e": 25.88
+    "s": 18.04,
+    "e": 18.48
    },
    {
     "w": "ebalini",
-    "s": 25.88,
-    "e": 26.54
+    "s": 18.56,
+    "e": 19.04
    },
    {
     "w": "anesandi",
-    "s": 26.54,
-    "e": 27.516
+    "s": 19.2,
+    "e": 19.6
    },
    {
     "w": "sanamhlanje,",
-    "s": 27.516,
-    "e": 28.46
+    "s": 19.68,
+    "e": 20.32
    },
    {
     "w": "umntwana",
-    "s": 28.46,
-    "e": 29.72
+    "s": 20.8,
+    "e": 21.28
    },
    {
     "w": "wafumana",
-    "s": 29.72,
-    "e": 30.42
+    "s": 21.36,
+    "e": 21.84
    },
    {
     "w": "igama",
-    "s": 30.42,
-    "e": 30.9
+    "s": 21.96,
+    "e": 22.32
    },
    {
     "w": "elithi",
-    "s": 30.9,
-    "e": 31.42
+    "s": 22.4,
+    "e": 22.8
    },
    {
     "w": "umtshato",
-    "s": 31.42,
-    "e": 31.938
+    "s": 23.04,
+    "e": 23.76
    },
    {
     "w": "ngokwakhe,",
-    "s": 31.938,
-    "e": 32.668
+    "s": 23.84,
+    "e": 24.4
    },
    {
     "w": "kwaye",
-    "s": 33.4,
-    "e": 33.6
+    "s": 24.84,
+    "e": 25.093
    },
    {
     "w": "umdlalo",
-    "s": 33.6,
-    "e": 34.04
+    "s": 25.147,
+    "e": 25.44
    },
    {
     "w": "wamakhadi",
-    "s": 34.04,
-    "e": 34.72
+    "s": 25.48,
+    "e": 26.08
    },
    {
     "w": "wabanika",
-    "s": 35.14,
-    "e": 35.62
+    "s": 26.24,
+    "e": 26.8
    },
    {
     "w": "ithuba",
-    "s": 35.62,
-    "e": 36.06
+    "s": 27.08,
+    "e": 27.44
    },
    {
     "w": "lokucinga",
-    "s": 36.06,
-    "e": 36.72
+    "s": 27.52,
+    "e": 28.107
    },
    {
     "w": "ngesandi.",
-    "s": 36.72,
-    "e": 37.36
+    "s": 28.133,
+    "e": 28.72
    },
    {
     "w": "Kukho",
-    "s": 38.76,
-    "e": 38.92
+    "s": 29.24,
+    "e": 29.52
    },
    {
     "w": "into",
-    "s": 38.92,
-    "e": 39.38
+    "s": 29.68,
+    "e": 29.84
    },
    {
     "w": "enye",
-    "s": 39.38,
-    "e": 39.68
+    "s": 29.92,
+    "e": 30.24
    },
    {
     "w": "endifuna",
-    "s": 39.68,
-    "e": 40.3
+    "s": 30.4,
+    "e": 30.72
    },
    {
     "w": "sithethe",
-    "s": 40.3,
-    "e": 40.88
+    "s": 30.76,
+    "e": 31.12
    },
    {
     "w": "ngayo.",
-    "s": 40.88,
-    "e": 41.268
+    "s": 31.2,
+    "e": 31.52
    },
    {
     "w": "Xa",
-    "s": 42.18,
-    "e": 42.26
+    "s": 32.08,
+    "e": 32.24
    },
    {
     "w": "ubuchaza",
-    "s": 42.26,
-    "e": 42.82
+    "s": 32.4,
+    "e": 32.96
    },
    {
     "w": "isandi",
-    "s": 42.82,
-    "e": 43.3
+    "s": 33.08,
+    "e": 33.36
    },
    {
     "w": "sanamhlanje,",
-    "s": 43.3,
-    "e": 44.2
+    "s": 33.44,
+    "e": 34.16
    },
    {
     "w": "wasahlula",
-    "s": 44.2,
-    "e": 45.34
+    "s": 34.6,
+    "e": 35.12
    },
    {
     "w": "ngoonobumba,",
-    "s": 45.34,
-    "e": 45.94
+    "s": 35.2,
+    "e": 36.0
    },
    {
     "w": "t,",
-    "s": 45.94,
-    "e": 46.567
+    "s": 36.4,
+    "e": 36.64
    },
    {
     "w": "s,",
-    "s": 46.567,
-    "e": 47.193
+    "s": 36.88,
+    "e": 37.12
    },
    {
     "w": "h,",
-    "s": 47.193,
-    "e": 47.82
+    "s": 37.28,
+    "e": 37.6
    },
    {
     "w": "kodwa",
-    "s": 48.44,
-    "e": 48.68
+    "s": 38.04,
+    "e": 38.48
    },
    {
     "w": "asiphindanga",
-    "s": 48.68,
-    "e": 49.48
+    "s": 38.56,
+    "e": 39.12
    },
    {
     "w": "sadityaniswa",
-    "s": 49.48,
-    "e": 50.454
+    "s": 39.24,
+    "e": 40.0
    },
    {
     "w": "sabizwa",
-    "s": 51.04,
-    "e": 51.42
+    "s": 40.08,
+    "e": 40.48
    },
    {
     "w": "njengesandi",
-    "s": 51.42,
-    "e": 52.18
+    "s": 40.56,
+    "e": 41.28
    },
    {
     "w": "esinye.",
-    "s": 52.18,
-    "e": 52.72
+    "s": 41.44,
+    "e": 42.12
    },
    {
     "w": "Eneneni",
-    "s": 53.88,
-    "e": 54.362
+    "s": 42.48,
+    "e": 42.96
    },
    {
     "w": "sisandi",
-    "s": 54.362,
-    "e": 54.94
+    "s": 43.08,
+    "e": 43.44
    },
    {
     "w": "esinye",
-    "s": 54.94,
-    "e": 55.42
+    "s": 43.56,
+    "e": 44.0
    },
    {
     "w": "esibhalwa",
-    "s": 55.42,
-    "e": 55.969
+    "s": 44.08,
+    "e": 44.48
    },
    {
     "w": "ngoonobumba",
-    "s": 55.969,
-    "e": 56.72
+    "s": 44.52,
+    "e": 45.28
    },
    {
     "w": "abathathu.",
-    "s": 56.72,
-    "e": 57.46
+    "s": 45.44,
+    "e": 46.16
    },
    {
     "w": "Oku",
-    "s": 57.46,
-    "e": 57.514
+    "s": 46.72,
+    "e": 46.907
    },
    {
     "w": "kunokwenza",
-    "s": 58.177,
-    "e": 59.16
+    "s": 46.933,
+    "e": 47.52
    },
    {
     "w": "abanye",
-    "s": 59.16,
-    "e": 59.72
+    "s": 47.6,
+    "e": 47.84
    },
    {
     "w": "abantwana",
-    "s": 59.72,
-    "e": 60.42
+    "s": 48.0,
+    "e": 48.4
    },
    {
     "w": "bafunde",
-    "s": 60.42,
-    "e": 61.32
+    "s": 48.44,
+    "e": 48.88
    },
    {
     "w": "igama",
-    "s": 61.32,
-    "e": 61.84
+    "s": 49.0,
+    "e": 49.36
    },
    {
     "w": "ngokwahlula",
-    "s": 61.84,
-    "e": 62.56
+    "s": 49.4,
+    "e": 49.92
    },
    {
     "w": "izandi,",
-    "s": 62.56,
-    "e": 63.14
+    "s": 50.0,
+    "e": 50.56
    },
    {
     "w": "baze",
-    "s": 63.74,
-    "e": 63.9
+    "s": 50.88,
+    "e": 51.12
    },
    {
     "w": "balifunde",
-    "s": 63.9,
-    "e": 64.48
+    "s": 51.2,
+    "e": 51.6
    },
    {
     "w": "kakubi.",
-    "s": 64.48,
-    "e": 65.146
+    "s": 51.68,
+    "e": 52.24
    },
    {
     "w": "Inyathelo",
-    "s": 66.14,
-    "e": 66.66
+    "s": 52.8,
+    "e": 53.28
    },
    {
     "w": "elilandelayo",
-    "s": 66.66,
-    "e": 67.76
+    "s": 53.36,
+    "e": 54.16
    },
    {
     "w": "kukuba",
-    "s": 68.087,
-    "e": 68.36
+    "s": 54.24,
+    "e": 54.64
    },
    {
     "w": "uthi",
-    "s": 68.36,
-    "e": 68.677
+    "s": 54.76,
+    "e": 54.92
    },
    {
     "w": "kubo",
-    "s": 68.677,
-    "e": 69.1
+    "s": 54.96,
+    "e": 55.28
    },
    {
     "w": "isandi",
-    "s": 69.1,
-    "e": 69.54
+    "s": 55.36,
+    "e": 55.76
    },
    {
     "w": "esinye,",
-    "s": 69.54,
-    "e": 70.172
+    "s": 55.84,
+    "e": 56.4
    },
    {
     "w": "oonobumba",
-    "s": 70.826,
-    "e": 71.42
+    "s": 56.68,
+    "e": 57.2
    },
    {
     "w": "abathathu,",
-    "s": 71.42,
-    "e": 72.22
+    "s": 57.28,
+    "e": 57.92
    },
    {
     "w": "ukhombe",
-    "s": 72.76,
-    "e": 73.24
+    "s": 58.32,
+    "e": 58.8
    },
    {
     "w": "oonobumba",
-    "s": 73.24,
-    "e": 73.84
+    "s": 58.88,
+    "e": 59.44
    },
    {
     "w": "bonke",
-    "s": 73.84,
-    "e": 74.285
+    "s": 59.52,
+    "e": 59.92
    },
    {
     "w": "ngaxeshanye,",
-    "s": 74.285,
-    "e": 75.206
+    "s": 59.96,
+    "e": 60.72
    },
    {
     "w": "uze",
-    "s": 75.96,
-    "e": 76.08
+    "s": 61.16,
+    "e": 61.28
    },
    {
     "w": "ucele",
-    "s": 76.08,
-    "e": 76.52
+    "s": 61.44,
+    "e": 61.68
    },
    {
     "w": "abantwana",
-    "s": 76.52,
-    "e": 77.14
+    "s": 61.84,
+    "e": 62.24
    },
    {
     "w": "abambalwa",
-    "s": 77.14,
-    "e": 77.98
+    "s": 62.32,
+    "e": 63.04
    },
    {
     "w": "ukuba",
-    "s": 77.98,
-    "e": 78.3
+    "s": 63.08,
+    "e": 63.36
    },
    {
     "w": "benze",
-    "s": 78.3,
-    "e": 78.8
+    "s": 63.44,
+    "e": 63.76
    },
    {
     "w": "okufanayo",
-    "s": 78.8,
-    "e": 79.64
+    "s": 63.84,
+    "e": 64.48
    },
    {
     "w": "bodwa.",
-    "s": 79.64,
-    "e": 80.08
+    "s": 64.52,
+    "e": 64.88
    },
    {
     "w": "Ndiyakholelwa",
-    "s": 80.08,
-    "e": 82.1
+    "s": 65.4,
+    "e": 66.08
    },
    {
     "w": "kuwe,",
-    "s": 82.1,
-    "e": 82.38
+    "s": 66.16,
+    "e": 66.4
    },
    {
     "w": "kuba",
-    "s": 82.807,
-    "e": 83.08
+    "s": 66.76,
+    "e": 66.96
    },
    {
     "w": "iklasi",
-    "s": 83.08,
-    "e": 83.656
+    "s": 67.04,
+    "e": 67.36
    },
    {
     "w": "lakho",
-    "s": 83.656,
-    "e": 84.031
+    "s": 67.4,
+    "e": 67.76
    },
    {
     "w": "sele",
-    "s": 84.26,
-    "e": 84.493
+    "s": 67.84,
+    "e": 68.08
    },
    {
     "w": "linomoya",
-    "s": 84.533,
-    "e": 84.902
+    "s": 68.2,
+    "e": 68.72
    },
    {
     "w": "omhle",
-    "s": 84.942,
-    "e": 85.175
+    "s": 68.84,
+    "e": 69.12
    },
    {
     "w": "wokufunda.",
-    "s": 85.215,
-    "e": 85.721
+    "s": 69.16,
+    "e": 69.84
    },
    {
     "w": "Qhubeka",
-    "s": 85.761,
-    "e": 86.131
+    "s": 70.2,
+    "e": 70.56
    },
    {
     "w": "ngamandla.",
-    "s": 86.171,
-    "e": 86.54
+    "s": 70.6,
+    "e": 71.28
    }
   ],
   "words_file": "data/xh/debrief_words.json",
   "script": "Molo, enkosi kakhulu ngokundivumela ukuba ndibe seklasini lakho namhlanje. Ndibone izinto ezimbini ezintle kakhulu. Okokuqala, unopopi wakho wenze abantwana bonwabe baphulaphula, kwaye bonke baphendula ngovuyo. Okwesibini, xa ubacelile ukuba bafumane amagama ebalini anesandi sanamhlanje, umntwana wafumana igama elithi umtshato ngokwakhe, kwaye umdlalo wamakhadi wabanika ithuba lokucinga ngesandi. Kukho into enye endifuna sithethe ngayo. Xa ubuchaza isandi sanamhlanje, wasahlula ngoonobumba, t, s, h, kodwa asiphindanga sadityaniswa sabizwa njengesandi esinye. Eneneni sisandi esinye esibhalwa ngoonobumba abathathu. Oku kunokwenza abanye abantwana bafunde igama ngokwahlula izandi, baze balifunde kakubi. Inyathelo elilandelayo kukuba uthi kubo isandi esinye, oonobumba abathathu, ukhombe oonobumba bonke ngaxeshanye, uze ucele abantwana abambalwa ukuba benze okufanayo bodwa. Ndiyakholelwa kuwe, kuba iklasi lakho sele linomoya omhle wokufunda. Qhubeka ngamandla.",
   "en": "Hello, thank you very much for letting me be in your class today. I saw two very good things. First, your puppet made the children happy and listening, and they all answered with joy. Second, when you asked them to find words in the story with today's sound, a child found the word 'umtshato' by themselves, and the card game gave them a chance to think about the sound. There is one thing I would like us to talk about. When you explained today's sound, you took it apart into its letters, t, s, h, but it was not put back together and said as one sound. In fact it is one sound written with three letters. This can make some children read a word by splitting the sounds, and then read it wrongly. The next step is to tell them 'one sound, three letters', point to all the letters together, and ask a few children to do the same on their own. I believe in you, because your class already has a good spirit of learning. Keep going strongly.",
-  "engine": "OpenAI gpt-4o-mini-tts",
-  "voice": "sage (cross-lingual)",
-  "seconds": 87.1,
-  "note_en": "Generated voice (cross-lingual, English-accented). A native ear has not rated it yet."
+  "engine": "ElevenLabs eleven_v4",
+  "voice": "Katlego (South African voice from the ElevenLabs library)",
+  "seconds": 71.4,
+  "note_en": "Generated voice: Katlego (South African voice from the ElevenLabs library). A native ear has not rated it yet."
  },
  "accuracy": {
   "grounding": {

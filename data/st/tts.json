@@ -1,13 +1,13 @@
 {
  "lang": "st",
- "engine": "Soniox tts-rt-v2",
- "voice": "Grace (English voice, reading cross-lingually)",
- "timing": "word timings from our aligner (speech recogniser times mapped onto the script)",
+ "engine": "ElevenLabs eleven_v4",
+ "voice": "a voice designed to sound like a first-language Sesotho speaker (ElevenLabs Voice Design)",
+ "timing": "provider word timings (ElevenLabs)",
  "score": {
-  "value": 8.680555555555555,
-  "display": "8.6",
+  "value": 9.78984238178634,
+  "display": "9.7",
   "label": "measured (automated) · native ear pending",
-  "line": "Soniox tts-rt-v2: text → speech → text came back with a character error rate of 0.066 (6 sentences, measured); English control through the same pipeline 0.000; native ear pending."
+  "line": "ElevenLabs eleven_v4: text → speech → text came back with a character error rate of 0.011 (6 sentences, measured). An AI listener rated how much it sounds like a first-language speaker 10.0 out of 10 (AI-judged); real Sesotho speakers scored 9.9 on the same test. Native ear pending."
  },
  "conversation": [
   {
@@ -24,75 +24,75 @@
     {
      "w": "Dumela",
      "s": 0.0,
-     "e": 0.68
+     "e": 0.48
     },
     {
      "w": "mosuwe!",
      "s": 0.68,
-     "e": 1.24
+     "e": 1.2
     },
     {
      "w": "Ke",
-     "s": 2.18,
-     "e": 2.295
+     "s": 1.68,
+     "e": 1.76
     },
     {
      "w": "thabela",
-     "s": 2.295,
-     "e": 2.64
+     "s": 1.84,
+     "e": 2.24
     },
     {
      "w": "molaetsa",
-     "s": 2.64,
-     "e": 3.38
+     "s": 2.28,
+     "e": 2.8
     },
     {
      "w": "wa",
-     "s": 3.38,
-     "e": 3.628
+     "s": 2.88,
+     "e": 2.96
     },
     {
      "w": "hao.",
-     "s": 3.628,
-     "e": 3.987
+     "s": 3.04,
+     "e": 3.36
     },
     {
      "w": "Thuto",
-     "s": 4.88,
-     "e": 5.0
+     "s": 3.84,
+     "e": 4.08
     },
     {
      "w": "ya",
-     "s": 5.0,
-     "e": 5.16
+     "s": 4.16,
+     "e": 4.24
     },
     {
      "w": "medumo",
-     "s": 5.16,
-     "e": 5.78
+     "s": 4.4,
+     "e": 4.88
     },
     {
      "w": "e",
-     "s": 5.78,
-     "e": 5.782
+     "s": 5.04,
+     "e": 5.12
     },
     {
      "w": "tsamaile",
-     "s": 5.95,
-     "e": 6.58
+     "s": 5.16,
+     "e": 5.68
     },
     {
      "w": "jwang",
-     "s": 6.64,
-     "e": 6.88
+     "s": 5.76,
+     "e": 6.08
     },
     {
      "w": "kajeno?",
-     "s": 6.88,
-     "e": 7.36
+     "s": 6.12,
+     "e": 6.72
     }
    ],
-   "dur": 7.56
+   "dur": 6.88
   },
   {
    "from": "teacher",
@@ -108,130 +108,130 @@
     {
      "w": "Seo",
      "s": 0.0,
-     "e": 0.72
+     "e": 0.32
     },
     {
      "w": "se",
-     "s": 0.72,
-     "e": 1.06
+     "s": 0.4,
+     "e": 0.56
     },
     {
      "w": "tlwaelehile.",
-     "s": 1.06,
-     "e": 2.095
+     "s": 0.64,
+     "e": 1.44
     },
     {
      "w": "Hosane,",
-     "s": 2.44,
-     "e": 2.8
+     "s": 2.08,
+     "e": 2.72
     },
     {
      "w": "qala",
-     "s": 3.58,
-     "e": 3.74
+     "s": 3.2,
+     "e": 3.52
     },
     {
      "w": "ka",
-     "s": 3.74,
-     "e": 3.82
+     "s": 3.6,
+     "e": 3.68
     },
     {
      "w": "metsotso",
-     "s": 3.82,
-     "e": 4.5
+     "s": 3.76,
+     "e": 4.16
     },
     {
      "w": "e",
-     "s": 4.5,
-     "e": 4.64
+     "s": 4.2,
+     "e": 4.24
     },
     {
      "w": "mehlano",
-     "s": 4.64,
-     "e": 5.14
+     "s": 4.32,
+     "e": 4.88
     },
     {
      "w": "ya",
-     "s": 5.14,
-     "e": 5.38
+     "s": 4.96,
+     "e": 5.04
     },
     {
      "w": "ho",
-     "s": 5.38,
-     "e": 5.62
+     "s": 5.12,
+     "e": 5.2
     },
     {
      "w": "pheta",
-     "s": 5.62,
-     "e": 5.82
+     "s": 5.28,
+     "e": 5.6
     },
     {
      "w": "medumo:",
-     "s": 5.82,
-     "e": 6.3
+     "s": 5.76,
+     "e": 6.24
     },
     {
      "w": "o",
-     "s": 7.22,
-     "e": 7.22
+     "s": 6.88,
+     "e": 6.96
     },
     {
      "w": "bitsa",
-     "s": 7.22,
-     "e": 7.534
+     "s": 7.12,
+     "e": 7.32
     },
     {
      "w": "modumo,",
-     "s": 7.534,
-     "e": 8.126
+     "s": 7.36,
+     "e": 8.0
     },
     {
      "w": "barutwana",
-     "s": 8.44,
-     "e": 8.94
+     "s": 8.48,
+     "e": 9.04
     },
     {
      "w": "ba",
-     "s": 8.94,
-     "e": 9.1
+     "s": 9.12,
+     "e": 9.2
     },
     {
      "w": "o",
-     "s": 9.1,
-     "e": 9.22
+     "s": 9.28,
+     "e": 9.36
     },
     {
      "w": "pheta,",
-     "s": 9.22,
-     "e": 9.62
+     "s": 9.44,
+     "e": 9.92
     },
     {
      "w": "ebe",
-     "s": 10.0,
-     "e": 10.16
+     "s": 10.32,
+     "e": 10.48
     },
     {
      "w": "ba",
-     "s": 10.16,
-     "e": 10.42
+     "s": 10.56,
+     "e": 10.64
     },
     {
      "w": "o",
-     "s": 10.42,
-     "e": 10.52
+     "s": 10.72,
+     "e": 10.8
     },
     {
      "w": "ngola",
-     "s": 10.52,
-     "e": 10.906
+     "s": 10.92,
+     "e": 11.28
     },
     {
      "w": "moyeng.",
-     "s": 10.906,
-     "e": 11.28
+     "s": 11.36,
+     "e": 11.92
     }
    ],
-   "dur": 11.5
+   "dur": 12.08
   },
   {
    "from": "teacher",
@@ -247,111 +247,131 @@
     {
      "w": "O",
      "s": 0.0,
-     "e": 0.112
+     "e": 0.16
     },
     {
      "w": "etsa",
-     "s": 0.112,
-     "e": 0.56
+     "s": 0.28,
+     "e": 0.44
     },
     {
      "w": "mosebetsi",
-     "s": 0.56,
-     "e": 1.22
+     "s": 0.48,
+     "e": 1.04
     },
     {
      "w": "o",
-     "s": 1.22,
-     "e": 1.32
+     "s": 1.12,
+     "e": 1.2
     },
     {
      "w": "motle",
      "s": 1.32,
-     "e": 1.68
+     "e": 1.52
     },
     {
      "w": "haholo,",
-     "s": 1.68,
-     "e": 2.251
+     "s": 1.56,
+     "e": 2.32
     },
     {
      "w": "mosuwe.",
-     "s": 2.58,
-     "e": 2.98
+     "s": 2.64,
+     "e": 3.36
     },
     {
      "w": "Ho",
-     "s": 3.673,
-     "e": 3.82
+     "s": 3.92,
+     "e": 4.0
     },
     {
      "w": "pheta",
-     "s": 3.82,
-     "e": 4.04
+     "s": 4.08,
+     "e": 4.32
     },
     {
      "w": "kamehla",
-     "s": 4.04,
-     "e": 4.66
+     "s": 4.36,
+     "e": 4.96
     },
     {
      "w": "ho",
-     "s": 4.66,
-     "e": 4.985
+     "s": 5.04,
+     "e": 5.2
     },
     {
      "w": "a",
-     "s": 4.985,
-     "e": 5.147
+     "s": 5.28,
+     "e": 5.36
     },
     {
      "w": "thusa.",
-     "s": 5.147,
-     "e": 5.47
+     "s": 5.48,
+     "e": 6.0
     },
     {
      "w": "O",
-     "s": 6.36,
-     "e": 6.36
+     "s": 6.56,
+     "e": 6.64
     },
     {
      "w": "tla",
-     "s": 6.36,
-     "e": 6.62
+     "s": 6.68,
+     "e": 6.8
     },
     {
      "w": "ruta",
-     "s": 6.62,
-     "e": 6.94
+     "s": 6.96,
+     "e": 7.12
     },
     {
      "w": "modumo",
-     "s": 6.94,
-     "e": 7.48
+     "s": 7.28,
+     "e": 7.68
     },
     {
      "w": "ofe",
-     "s": 7.48,
-     "e": 7.825
+     "s": 7.76,
+     "e": 8.04
     },
     {
      "w": "bekeng",
-     "s": 7.825,
+     "s": 8.08,
      "e": 8.4
     },
     {
      "w": "e",
-     "s": 8.4,
-     "e": 8.72
+     "s": 8.44,
+     "e": 8.48
     },
     {
      "w": "tlang?",
-     "s": 8.72,
-     "e": 9.0
+     "s": 8.52,
+     "e": 8.88
     }
    ],
-   "dur": 9.19
+   "dur": 9.12
   }
  ],
- "sources": []
+ "sources": [],
+ "voice_trials": [
+  {
+   "label": "Thandi · ElevenLabs eleven_v4",
+   "mp3": "assets/audio/st_trial_1.mp3",
+   "cer": 0.025,
+   "nativeness": 8.0
+  },
+  {
+   "label": "Another designed Sesotho voice · ElevenLabs eleven_v4",
+   "mp3": "assets/audio/st_trial_2.mp3",
+   "cer": 0.011,
+   "nativeness": 7.0
+  },
+  {
+   "label": "Grace (Soniox) · Soniox tts-rt-v2 (our first pick)",
+   "mp3": "assets/audio/st_trial_3.mp3",
+   "cer": 0.049,
+   "nativeness": 2.0
+  }
+ ]
 }

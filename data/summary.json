@@ -1,5 +1,5 @@
 {
- "source": "Numbers copied from the evaluation scorecard computed at 2026-10-07T17:16 UTC; nothing typed by hand.",
+ "source": "Numbers copied from the evaluation scorecard computed at 2026-10-08T06:14 UTC; nothing typed by hand.",
  "governing_thought": "Yes, with three conditions. On automated tests Rumi reads the curriculum, plans and voices lessons, transcribes speech and drafts coaching in isiZulu, isiXhosa and Sesotho. No native speaker has checked a word yet.",
  "columns": [
   {
@@ -46,10 +46,10 @@
      "note": "feedback prose 5.0/10, AI-judged"
     },
     "Q4": {
-     "value": "9.6",
+     "value": "9.9",
      "label": "measured",
      "href": "zu.html#speaking",
-     "note": "English-accented voice; native ear pending"
+     "note": "AI-judged 9.8/10 for sounding native (real speakers 9.5); native ear pending"
     },
     "verdict": {
      "value": "GREEN",
@@ -84,7 +84,7 @@
      "value": "9.7",
      "label": "measured",
      "href": "xh.html#speaking",
-     "note": "intelligibility uncertain: a native ear decides"
+     "note": "AI-judged 10.0/10 for sounding native (real speakers 8.7); intelligibility uncertain, a native ear decides"
     },
     "verdict": {
      "value": "GREEN",
@@ -116,10 +116,10 @@
      "note": "feedback prose 5.0/10, AI-judged; one public lesson, not partner video"
     },
     "Q4": {
-     "value": "8.6",
+     "value": "9.7",
      "label": "measured",
      "href": "st.html#speaking",
-     "note": "English-accented voice; native ear pending"
+     "note": "AI-judged 10.0/10 for sounding native (real speakers 9.9); native ear pending"
     },
     "verdict": {
      "value": "GREEN",
@@ -155,10 +155,10 @@
       "note": "feedback prose 3.75/10, AI-judged"
      },
      "Q4": {
-      "value": "8.9",
+      "value": "9.3",
       "label": "measured",
       "href": "index.html#also-tested",
-      "note": "English-accented voice; native ear pending"
+      "note": "AI-judged 8.0/10 for sounding native (real speakers 8.8); native ear pending"
      },
      "verdict": {
       "value": "GREEN",
@@ -192,7 +192,7 @@
       "value": "9.6",
       "label": "measured",
       "href": "index.html#also-tested",
-      "note": "a first-language Afrikaans voice"
+      "note": "AI-judged 9.7/10 for sounding native (real speakers 9.5); native ear pending"
      },
      "verdict": {
       "value": "GREEN",
@@ -224,10 +224,10 @@
       "href": "index.html#also-tested"
      },
      "Q4": {
-      "value": "9.1",
+      "value": "9.7",
       "label": "measured",
       "href": "index.html#also-tested",
-      "note": "intelligibility uncertain: a native ear decides"
+      "note": "AI-judged 8.5/10 for sounding native (real speakers 9.2); native ear pending"
      },
      "verdict": {
       "value": "GREEN",
@@ -241,7 +241,7 @@
  "conditions": [
   "Transcription uses the engine that scored best for each language; each page names it.",
   "A first-language speaker reviews every lesson, transcript and voice before a teacher sees it. Nothing on this site has had that review yet.",
-  "Coaching feedback reads as understandable, not natural (AI-judged 5.0, 2.5 and 5.0 out of 10 for isiZulu, isiXhosa, Sesotho), and every voice is an English-accented voice reading across languages. One native reviewer and one coach's recording fix both."
+  "Coaching feedback reads as understandable, not natural (AI-judged 5.0, 2.5 and 5.0 out of 10 for isiZulu, isiXhosa, Sesotho). The voices now sound close to first-language speakers to an AI listener; a native reviewer confirms both."
  ],
  "legend": {
   "measured": "a script compared Rumi's output with a known-good reference",

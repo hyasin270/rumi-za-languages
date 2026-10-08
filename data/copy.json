@@ -12,7 +12,7 @@
   "lead": "Yes, with three conditions. On automated tests Rumi reads the curriculum, plans and voices lessons, transcribes speech and drafts coaching in isiZulu, isiXhosa and Sesotho. No native speaker has checked a word yet.",
   "bullets": [
    "Lesson plans and coaching are strong in all three languages; listening is the capability that separates them.",
-   "Six languages, four capabilities, about eighty dollars of metered model and voice calls."
+   "Six languages, four capabilities, about ninety dollars of metered model and voice calls."
   ],
   "conditions_heading": "The three conditions",
   "table_heading": "The scores at a glance",
@@ -73,8 +73,8 @@
   "lead": "Sepedi, Afrikaans and Setswana ran the same tests without a page of their own; coaching was not run for Afrikaans and Setswana (no classroom recording sourced).",
   "lines": {
    "nso": "Sepedi (Funda Wande's Limpopo language; not Sesotho): coaching was run on one public reading lesson [[fn:fn-video-nso]]. The transcription engines disagree most here (19.0% to 36.6% of classroom characters on two public lessons [[fn:fn-video-nso-2]], AI-judged), so the agreement gate matters most.",
-   "af": "Afrikaans: the strongest listening of the six, and the only language with a first-language voice available.",
-   "tn": "Setswana: the winning engine is fragile on longer audio, so the runner-up is the safer choice; the voice is intelligibility-uncertain until a native ear decides."
+   "af": "Afrikaans: the strongest listening of the six; its voice, Paul Steyn, is a first-language Afrikaans voice from the ElevenLabs library.",
+   "tn": "Setswana: the winning engine is fragile on longer audio, so the runner-up is the safer choice; the voice is designed to sound like a first-language Setswana speaker."
   },
   "note": "Sesotho and Setswana listening is scored on short read phone prompts with their own South African English control [[fn:fn-nchlt]], not the sentence set used for the other four [[fn:fn-fleurs]]; the two are not comparable."
  },
@@ -142,7 +142,7 @@
  },
  "index.cost": {
   "heading": "What this cost",
-  "lead": "About eighty dollars of metered model and voice calls for six languages, four capabilities, 19 lesson plans, 12 classroom recordings and about 300 speech tests; authoring and judging ran on subscription seats.",
+  "lead": "About ninety dollars of metered model and voice calls for six languages, four capabilities, 19 lesson plans, 12 classroom recordings and about 300 speech tests; authoring and judging ran on subscription seats.",
   "columns": [
    "Spend",
    "Amount"
@@ -150,15 +150,15 @@
   "rows": [
    [
     "Model calls, metered",
-    "$64.11"
+    "$70.24"
    ],
    [
     "Voice synthesis",
-    "$11.43"
+    "$19.79"
    ],
    [
     "Transcription and voice, billed direct",
-    "$2.24"
+    "$2.31"
    ],
    [
     "Image generation",
@@ -166,10 +166,10 @@
    ],
    [
     "Total",
-    "$77.87"
+    "$92.42"
    ]
   ],
-  "note": "Read from our spend ledger at 21:42 UTC on 7 October 2026, including the interactive demos on this site."
+  "note": "Read from our spend ledger on 8 October 2026, including the voice auditions and the interactive demos on this site."
  },
  "index.sources": {
   "heading": "Sources",
@@ -226,7 +226,7 @@
   },
   "voice_note": {
    "heading": "The teacher's voice note",
-   "lead": "The voice note a teacher receives with the lesson, in an English-accented South African voice."
+   "lead": "The voice note a teacher receives with the lesson, read by Neo, a South African voice from the ElevenLabs library."
   },
   "listening": {
    "heading": "Listening",
@@ -256,9 +256,9 @@
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
    "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models and still need a native ear.",
-   "score_line": "ElevenLabs eleven_v4, an English-accented South African voice reading isiZulu: 1.7% of characters lost on the text-to-speech-to-text round trip (6 sentences, measured). Our English voice, on a different ElevenLabs model, lost 0.0%. Native ear pending.",
-   "lead": "Score 9.6: no isiZulu voice exists on any engine we can reach, so an English-accented South African voice reads isiZulu.",
-   "note": "A second listener loses 11.1%; against human recordings the voice adds 5.8% of error (AI-judged)."
+   "score_line": "ElevenLabs eleven_v4, voice Neo: 0.2% of characters lost on the text-to-speech-to-text round trip (6 sentences, measured). An AI listener rated it 9.8 out of 10 for sounding like a first-language speaker; real isiZulu speakers scored 9.5 on the same blind test (AI-judged). Native ear pending.",
+   "lead": "Score 9.9: Neo loses 0.2% of characters on the round trip, and an AI listener rates it about as native as real isiZulu speakers.",
+   "note": "We auditioned South African voices from the ElevenLabs library and voices designed as first-language speakers; the runners-up are below. Every nativeness number comes from blind side-by-side sets that hide a real speaker's recording among the voices, so read it against the real speakers' score. Near the top the judge cannot tell the voices apart."
   },
   "ship": {
    "heading": "What it would take to ship isiZulu",
@@ -317,7 +317,7 @@
   },
   "voice_note": {
    "heading": "The teacher's voice note",
-   "lead": "The voice note for this lesson."
+   "lead": "The voice note for this lesson, read by Katlego, a South African voice from the ElevenLabs library."
   },
   "listening": {
    "heading": "Listening",
@@ -347,9 +347,9 @@
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
    "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models and still need a native ear.",
-   "score_line": "ElevenLabs eleven_v4, an English-accented South African voice reading isiXhosa: 1.2% of characters lost on the round trip (6 sentences, measured), but a second listener engine disagreed by more than ten points, so intelligibility is uncertain until a native speaker listens. Our English voice, on a different ElevenLabs model, lost 0.0%.",
-   "lead": "Score 9.7, labelled intelligibility uncertain: a second listener disagrees by more than ten points.",
-   "note": "The second listener loses 14.5%; against human recordings the voice adds 15.8% of error (AI-judged). A native ear decides."
+   "score_line": "ElevenLabs eleven_v4, voice Katlego: 1.1% of characters lost on the round trip (6 sentences, measured). An AI listener rated it 10.0 out of 10 for sounding like a first-language speaker, above real isiXhosa speakers (8.7) on the same blind test: that is the judge's ceiling, not a better-than-native voice (AI-judged).",
+   "lead": "Score 9.7, labelled intelligibility uncertain: Katlego loses 1.1% of characters on the round trip, but a second listener engine loses 14.5%, so a native ear decides.",
+   "note": "Katlego stayed the pick after a new audition; no other voice was both as clear and as native-sounding. Against human recordings the voice adds 15.8% of error (AI-judged). The runners-up are below. A native ear decides."
   },
   "ship": {
    "heading": "What it would take to ship isiXhosa",
@@ -408,7 +408,7 @@
   },
   "voice_note": {
    "heading": "The teacher's voice note",
-   "lead": "The teacher's voice note for this lesson."
+   "lead": "The teacher's voice note for this lesson, in a voice designed to sound like a first-language Sesotho speaker."
   },
   "listening": {
    "heading": "Listening",
@@ -439,9 +439,9 @@
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
    "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models and still need a native ear.",
-   "score_line": "The Soniox voice reading Sesotho: 6.6% of characters lost on the round trip (6 sentences, measured). No English control exists for this engine; our English ElevenLabs voice lost 0.0%. Native ear pending.",
-   "lead": "Score 8.6: an English-accented voice reading Sesotho; it is not yet a Sesotho voice.",
-   "note": "A second listener loses 11.5%; against human recordings the voice was recovered better (penalty -10.3%), which says more about the clipped prompts than the voice (AI-judged)."
+   "score_line": "ElevenLabs eleven_v4, a voice made with ElevenLabs Voice Design from a written description of a first-language Sesotho speaker: 1.1% of characters lost on the round trip (6 sentences, measured). An AI listener rated it 10.0 out of 10 for sounding like a first-language speaker; real Sesotho speakers scored 9.9 on the same blind test (AI-judged). Native ear pending.",
+   "lead": "Score 9.7: a voice designed as a first-language Sesotho speaker loses 1.1% of characters on the round trip, and an AI listener rates it level with real Sesotho speakers.",
+   "note": "A designed voice is generated from a description, not cloned from a person. The runners-up are below; our first pick scored 2.0 for nativeness on the same test. Every nativeness number comes from blind side-by-side sets that hide a real speaker's recording among the voices, so read it against the real speakers' score. Near the top the judge cannot tell the voices apart."
   },
   "ship": {
    "heading": "What it would take to ship Sesotho",

@@ -368,3 +368,10 @@ a.chip:hover { border-color: var(--coral); }
 .pt-stamp code { font-size: .78rem; background: var(--paper); padding: 1px 4px; border-radius: 4px; overflow-wrap: anywhere; }
 .pt-unsure { display: inline-block; margin-left: 6px; color: #9A5B00; background: #FFF4DE; border-radius: 999px; padding: 0 8px; }
 .pt-meta { margin: 8px 0 0; }
+
+/* voice trials (speaking section) */
+.trials{margin-top:12px}
+.trial-list{list-style:none;margin:0;padding:0;display:grid;gap:12px}
+.trial-list li{display:grid;gap:4px}
+.trial-label{font-weight:600}
+.trial-list audio{width:100%;max-width:420px;height:36px}

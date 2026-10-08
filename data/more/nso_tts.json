@@ -1,13 +1,13 @@
 {
  "lang": "nso",
- "engine": "OpenAI gpt-4o-mini-tts",
- "voice": "sage (OpenAI voice)",
- "timing": "word timings from our aligner (speech recogniser times mapped onto the script)",
+ "engine": "ElevenLabs eleven_v4",
+ "voice": "Thandi (South African voice from the ElevenLabs library)",
+ "timing": "provider word timings (ElevenLabs)",
  "score": {
-  "value": 8.951781970649895,
-  "display": "8.9",
+  "value": 9.324577861163228,
+  "display": "9.3",
   "label": "measured (automated) · native ear pending",
-  "line": "OpenAI gpt-4o-mini-tts: text → speech → text came back with a character error rate of 0.052 (6 sentences, measured); English control through the same pipeline 0.000; native ear pending."
+  "line": "ElevenLabs eleven_v4: text → speech → text came back with a character error rate of 0.034 (6 sentences, measured). An AI listener rated how much it sounds like a first-language speaker 8.0 out of 10 (AI-judged); real Sepedi speakers scored 8.8 on the same test. Native ear pending."
  },
  "conversation": [
   {
@@ -24,80 +24,80 @@
     {
      "w": "Thobela",
      "s": 0.0,
-     "e": 1.052
+     "e": 0.48
     },
     {
      "w": "morutiši!",
-     "s": 1.74,
-     "e": 2.56
+     "s": 0.6,
+     "e": 1.28
     },
     {
      "w": "Ke",
-     "s": 3.48,
-     "e": 3.58
+     "s": 1.6,
+     "e": 1.68
     },
     {
      "w": "thabela",
-     "s": 3.58,
-     "e": 4.2
+     "s": 1.76,
+     "e": 2.16
     },
     {
      "w": "go",
-     "s": 4.2,
-     "e": 4.48
+     "s": 2.24,
+     "e": 2.32
     },
     {
      "w": "kwa",
-     "s": 4.48,
-     "e": 4.87
+     "s": 2.36,
+     "e": 2.48
     },
     {
      "w": "go",
-     "s": 4.87,
-     "e": 5.13
+     "s": 2.56,
+     "e": 2.64
     },
     {
      "w": "wena.",
-     "s": 5.13,
-     "e": 5.236
+     "s": 2.68,
+     "e": 3.04
     },
     {
      "w": "Thuto",
-     "s": 6.42,
-     "e": 6.54
+     "s": 3.4,
+     "e": 3.68
     },
     {
      "w": "ya",
-     "s": 6.54,
-     "e": 6.835
+     "s": 3.72,
+     "e": 3.76
     },
     {
      "w": "medumo",
-     "s": 6.835,
-     "e": 7.328
+     "s": 3.84,
+     "e": 4.4
     },
     {
      "w": "e",
-     "s": 7.729,
-     "e": 7.98
+     "s": 4.44,
+     "e": 4.48
     },
     {
      "w": "sepetše",
-     "s": 7.98,
-     "e": 8.56
+     "s": 4.6,
+     "e": 4.96
     },
     {
      "w": "bjang",
-     "s": 8.56,
-     "e": 8.92
+     "s": 5.08,
+     "e": 5.44
     },
     {
      "w": "lehono?",
-     "s": 8.92,
-     "e": 9.4
+     "s": 5.56,
+     "e": 6.0
     }
    ],
-   "dur": 9.6
+   "dur": 6.24
   },
   {
    "from": "teacher",
@@ -113,120 +113,120 @@
     {
      "w": "Gosasa,",
      "s": 0.0,
-     "e": 0.888
+     "e": 0.72
     },
     {
      "w": "thoma",
-     "s": 1.28,
-     "e": 1.78
+     "s": 1.12,
+     "e": 1.36
     },
     {
      "w": "ka",
-     "s": 1.78,
-     "e": 1.92
+     "s": 1.4,
+     "e": 1.44
     },
     {
      "w": "metsotso",
-     "s": 1.92,
-     "e": 2.48
+     "s": 1.52,
+     "e": 1.92
     },
     {
      "w": "ye",
-     "s": 2.48,
-     "e": 2.62
+     "s": 2.0,
+     "e": 2.08
     },
     {
      "w": "mehlano",
-     "s": 2.62,
-     "e": 3.2
+     "s": 2.12,
+     "e": 2.64
     },
     {
      "w": "ya",
-     "s": 3.2,
-     "e": 3.48
+     "s": 2.72,
+     "e": 2.8
     },
     {
      "w": "go",
-     "s": 3.48,
-     "e": 3.66
+     "s": 2.88,
+     "e": 2.96
     },
     {
      "w": "boeletša",
-     "s": 3.66,
-     "e": 4.26
+     "s": 3.04,
+     "e": 3.44
     },
     {
      "w": "medumo:",
-     "s": 4.26,
-     "e": 4.7
+     "s": 3.6,
+     "e": 4.08
     },
     {
      "w": "o",
-     "s": 5.54,
-     "e": 5.61
+     "s": 4.52,
+     "e": 4.56
     },
     {
      "w": "bitša",
-     "s": 5.61,
-     "e": 5.96
+     "s": 4.64,
+     "e": 4.88
     },
     {
      "w": "modumo,",
-     "s": 5.96,
-     "e": 6.44
+     "s": 4.96,
+     "e": 5.6
     },
     {
      "w": "barutwana",
-     "s": 7.0,
-     "e": 7.54
+     "s": 5.92,
+     "e": 6.56
     },
     {
      "w": "ba",
-     "s": 7.54,
-     "e": 7.84
+     "s": 6.64,
+     "e": 6.72
     },
     {
      "w": "o",
-     "s": 7.84,
-     "e": 7.947
+     "s": 6.76,
+     "e": 6.8
     },
     {
      "w": "boeletša,",
-     "s": 7.947,
-     "e": 8.615
+     "s": 6.88,
+     "e": 7.44
     },
     {
      "w": "ke",
-     "s": 9.2,
-     "e": 9.26
+     "s": 7.84,
+     "e": 7.92
     },
     {
      "w": "moka",
-     "s": 9.26,
-     "e": 9.5
+     "s": 8.0,
+     "e": 8.4
     },
     {
      "w": "ba",
-     "s": 9.5,
-     "e": 9.86
+     "s": 8.56,
+     "e": 8.64
     },
     {
      "w": "o",
-     "s": 9.86,
-     "e": 9.94
+     "s": 8.72,
+     "e": 8.8
     },
     {
      "w": "ngwala",
-     "s": 9.94,
-     "e": 10.42
+     "s": 8.88,
+     "e": 9.28
     },
     {
      "w": "moyeng.",
-     "s": 10.42,
-     "e": 10.78
+     "s": 9.32,
+     "e": 9.92
     }
    ],
-   "dur": 10.97
+   "dur": 10.08
   },
   {
    "from": "teacher",
@@ -242,121 +242,141 @@
     {
      "w": "O",
      "s": 0.0,
-     "e": 1.06
+     "e": 0.16
     },
     {
      "w": "dira",
-     "s": 1.06,
-     "e": 1.38
+     "s": 0.24,
+     "e": 0.4
     },
     {
      "w": "mošomo",
-     "s": 1.38,
-     "e": 2.1
+     "s": 0.52,
+     "e": 0.96
     },
     {
      "w": "wo",
-     "s": 2.1,
-     "e": 2.38
+     "s": 1.04,
+     "e": 1.12
     },
     {
      "w": "mobotse",
-     "s": 2.38,
-     "e": 3.06
+     "s": 1.24,
+     "e": 1.6
     },
     {
      "w": "kudu,",
-     "s": 3.06,
-     "e": 3.51
+     "s": 1.68,
+     "e": 2.08
     },
     {
      "w": "morutiši.",
-     "s": 3.82,
-     "e": 4.554
+     "s": 2.44,
+     "e": 3.2
     },
     {
      "w": "Go",
-     "s": 5.72,
-     "e": 5.74
+     "s": 3.6,
+     "e": 3.68
     },
     {
      "w": "boeletša",
-     "s": 5.74,
-     "e": 6.4
+     "s": 3.72,
+     "e": 4.08
     },
     {
      "w": "ka",
-     "s": 6.4,
-     "e": 6.583
+     "s": 4.16,
+     "e": 4.24
     },
     {
      "w": "mehla",
-     "s": 6.583,
-     "e": 7.04
+     "s": 4.28,
+     "e": 4.64
     },
     {
      "w": "go",
-     "s": 7.04,
-     "e": 7.34
+     "s": 4.72,
+     "e": 4.8
     },
     {
      "w": "a",
-     "s": 7.34,
-     "e": 7.472
+     "s": 4.88,
+     "e": 4.96
     },
     {
      "w": "thuša.",
-     "s": 7.472,
-     "e": 7.976
+     "s": 5.04,
+     "e": 5.6
     },
     {
      "w": "O",
-     "s": 8.86,
-     "e": 8.94
+     "s": 6.04,
+     "e": 6.08
     },
     {
      "w": "tla",
-     "s": 8.94,
-     "e": 9.18
+     "s": 6.12,
+     "e": 6.24
     },
     {
      "w": "ruta",
-     "s": 9.18,
-     "e": 9.56
+     "s": 6.32,
+     "e": 6.56
     },
     {
      "w": "modumo",
-     "s": 9.56,
-     "e": 10.16
+     "s": 6.72,
+     "e": 7.12
     },
     {
      "w": "ofe",
-     "s": 10.16,
-     "e": 10.554
+     "s": 7.2,
+     "e": 7.44
     },
     {
      "w": "beke",
-     "s": 10.554,
-     "e": 11.08
+     "s": 7.56,
+     "e": 7.84
     },
     {
      "w": "ye",
-     "s": 11.08,
-     "e": 11.28
+     "s": 7.96,
+     "e": 8.08
     },
     {
      "w": "e",
-     "s": 11.28,
-     "e": 11.373
+     "s": 8.12,
+     "e": 8.16
     },
     {
      "w": "tlago?",
-     "s": 11.373,
-     "e": 11.84
+     "s": 8.24,
+     "e": 8.64
     }
    ],
-   "dur": 12.0
+   "dur": 8.88
   }
  ],
- "sources": []
+ "sources": [],
+ "voice_trials": [
+  {
+   "label": "Naledi · ElevenLabs eleven_v4",
+   "mp3": "assets/audio/nso_trial_1.mp3",
+   "cer": 0.068,
+   "nativeness": 8.0
+  },
+  {
+   "label": "Chulu · ElevenLabs eleven_v4",
+   "mp3": "assets/audio/nso_trial_2.mp3",
+   "cer": 0.049,
+   "nativeness": 7.3
+  },
+  {
+   "label": "sage (OpenAI) · OpenAI gpt-4o-mini-tts (our first pick)",
+   "mp3": "assets/audio/nso_trial_3.mp3",
+   "cer": 0.019,
+   "nativeness": 1.7
+  }
+ ]
 }

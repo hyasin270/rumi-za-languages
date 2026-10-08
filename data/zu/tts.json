@@ -1,13 +1,13 @@
 {
  "lang": "zu",
  "engine": "ElevenLabs eleven_v4",
- "voice": "Katlego (South African English voice, reading cross-lingually)",
+ "voice": "Neo (South African voice from the ElevenLabs library)",
  "timing": "provider word timings (ElevenLabs)",
  "score": {
-  "value": 9.674267100977199,
-  "display": "9.6",
+  "value": 9.968102073365232,
+  "display": "9.9",
   "label": "measured (automated) · native ear pending",
-  "line": "ElevenLabs eleven_v4: text → speech → text came back with a character error rate of 0.016 (6 sentences, measured); English control through the same pipeline 0.000; native ear pending."
+  "line": "ElevenLabs eleven_v4: text → speech → text came back with a character error rate of 0.002 (6 sentences, measured). An AI listener rated how much it sounds like a first-language speaker 9.8 out of 10 (AI-judged); real isiZulu speakers scored 9.5 on the same test. Native ear pending."
  },
  "conversation": [
   {
@@ -24,55 +24,55 @@
     {
      "w": "Sawubona",
      "s": 0.0,
-     "e": 0.64
+     "e": 0.56
     },
     {
      "w": "thisha!",
      "s": 0.72,
-     "e": 1.2
+     "e": 1.04
     },
     {
      "w": "Ngiyajabula",
-     "s": 1.64,
-     "e": 2.4
+     "s": 1.48,
+     "e": 2.16
     },
     {
      "w": "ukuxhumana",
-     "s": 2.52,
-     "e": 2.96
+     "s": 2.24,
+     "e": 2.72
     },
     {
      "w": "nawe.",
-     "s": 3.04,
-     "e": 3.44
+     "s": 2.8,
+     "e": 3.12
     },
     {
      "w": "Sihambe",
-     "s": 3.92,
-     "e": 4.24
+     "s": 3.68,
+     "e": 4.0
     },
     {
      "w": "kanjani",
-     "s": 4.36,
-     "e": 4.8
+     "s": 4.12,
+     "e": 4.56
     },
     {
      "w": "isifundo",
-     "s": 4.92,
-     "e": 5.36
+     "s": 4.64,
+     "e": 5.04
     },
     {
      "w": "semisindo",
-     "s": 5.44,
-     "e": 6.0
+     "s": 5.12,
+     "e": 5.6
     },
     {
      "w": "namuhla?",
-     "s": 6.12,
-     "e": 6.48
+     "s": 5.72,
+     "e": 6.08
     }
    ],
-   "dur": 6.72
+   "dur": 6.32
   },
   {
    "from": "teacher",
@@ -92,12 +92,12 @@
     },
     {
      "w": "kuvamile.",
-     "s": 0.48,
+     "s": 0.44,
      "e": 1.12
     },
     {
      "w": "Kusasa,",
-     "s": 1.64,
+     "s": 1.68,
      "e": 2.24
     },
     {
@@ -108,16 +108,16 @@
     {
      "w": "ngemizuzu",
      "s": 2.96,
-     "e": 3.6
+     "e": 3.52
     },
     {
      "w": "emihlanu",
-     "s": 3.68,
-     "e": 4.187
+     "s": 3.6,
+     "e": 4.107
     },
     {
      "w": "yokuphinda",
-     "s": 4.213,
+     "s": 4.133,
      "e": 4.72
     },
     {
@@ -127,81 +127,81 @@
     },
     {
      "w": "wena",
-     "s": 5.88,
-     "e": 6.16
+     "s": 6.0,
+     "e": 6.32
     },
     {
      "w": "usho",
-     "s": 6.24,
-     "e": 6.52
+     "s": 6.48,
+     "e": 6.76
     },
     {
      "w": "umsindo,",
-     "s": 6.56,
-     "e": 7.2
+     "s": 6.8,
+     "e": 7.36
     },
     {
      "w": "abafundi",
-     "s": 7.6,
-     "e": 8.0
+     "s": 7.84,
+     "e": 8.32
     },
     {
      "w": "baphinde,",
-     "s": 8.08,
-     "e": 8.72
+     "s": 8.36,
+     "e": 8.96
     },
     {
      "w": "bese",
-     "s": 9.08,
-     "e": 9.28
+     "s": 9.36,
+     "e": 9.6
     },
     {
      "w": "bewubhala",
-     "s": 9.4,
-     "e": 9.92
+     "s": 9.68,
+     "e": 10.16
     },
     {
      "w": "emoyeni.",
-     "s": 10.0,
-     "e": 10.56
+     "s": 10.28,
+     "e": 10.8
     },
     {
      "w": "Bese",
-     "s": 11.08,
-     "e": 11.28
+     "s": 11.32,
+     "e": 11.52
     },
     {
      "w": "nihlanganisa",
-     "s": 11.4,
-     "e": 12.0
+     "s": 11.64,
+     "e": 12.24
     },
     {
      "w": "amagama",
-     "s": 12.08,
-     "e": 12.56
+     "s": 12.32,
+     "e": 12.8
     },
     {
      "w": "amafushane",
-     "s": 12.64,
-     "e": 13.36
+     "s": 12.88,
+     "e": 13.6
     },
     {
      "w": "afana",
-     "s": 13.52,
-     "e": 14.0
+     "s": 13.68,
+     "e": 14.08
     },
     {
      "w": "nelithi",
-     "s": 14.08,
-     "e": 14.4
+     "s": 14.2,
+     "e": 14.52
     },
     {
      "w": "hlala.",
-     "s": 14.52,
-     "e": 14.88
+     "s": 14.56,
+     "e": 14.96
     }
    ],
-   "dur": 15.04
+   "dur": 15.2
   },
   {
    "from": "teacher",
@@ -231,37 +231,37 @@
     },
     {
      "w": "kakhulu,",
-     "s": 1.48,
+     "s": 1.52,
      "e": 2.16
     },
     {
      "w": "thisha.",
-     "s": 2.48,
-     "e": 2.96
+     "s": 2.56,
+     "e": 3.04
     },
     {
      "w": "Ukuphinda",
-     "s": 3.48,
-     "e": 3.92
+     "s": 3.6,
+     "e": 4.0
     },
     {
      "w": "nsuku",
-     "s": 4.0,
-     "e": 4.32
+     "s": 4.08,
+     "e": 4.4
     },
     {
      "w": "zonke",
-     "s": 4.4,
+     "s": 4.48,
      "e": 4.88
     },
     {
      "w": "kuyasiza.",
-     "s": 4.933,
-     "e": 5.6
+     "s": 4.92,
+     "e": 5.68
     },
     {
      "w": "Uzofundisa",
-     "s": 6.16,
+     "s": 6.2,
      "e": 6.8
     },
     {
@@ -271,27 +271,47 @@
     },
     {
      "w": "umsindo",
-     "s": 7.4,
-     "e": 7.76
+     "s": 7.44,
+     "e": 7.84
     },
     {
      "w": "olandelayo",
-     "s": 7.92,
-     "e": 8.48
+     "s": 8.0,
+     "e": 8.56
     },
     {
      "w": "ngesonto",
-     "s": 8.52,
+     "s": 8.6,
      "e": 8.96
     },
     {
      "w": "elizayo?",
-     "s": 9.0,
-     "e": 9.44
+     "s": 9.04,
+     "e": 9.52
     }
    ],
-   "dur": 9.68
+   "dur": 9.76
   }
  ],
- "sources": []
+ "sources": [],
+ "voice_trials": [
+  {
+   "label": "Nassdaq · ElevenLabs eleven_v4",
+   "mp3": "assets/audio/zu_trial_1.mp3",
+   "cer": 0.005,
+   "nativeness": 9.6
+  },
+  {
+   "label": "Danny · ElevenLabs eleven_v4",
+   "mp3": "assets/audio/zu_trial_2.mp3",
+   "cer": 0.0,
+   "nativeness": 8.2
+  },
+  {
+   "label": "Katlego · ElevenLabs eleven_v4 (our first pick)",
+   "mp3": "assets/audio/zu_trial_3.mp3",
+   "cer": 0.002,
+   "nativeness": 7.0
+  }
+ ]
 }

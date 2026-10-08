@@ -71,6 +71,17 @@
     Chat.mount($("chat-host"), tts);
     const s = RZ.score(tts.score);
     $("tts-score").innerHTML = `<div class="score-line">${RZ.chip(s, { key: RZ.t("verdict.chips.Q4") || "Speaking" })} <span class="note">${RZ.has("speaking.score_line") ? RZ.html("speaking.score_line") : esc(s.line || "")}${RZ.cite(tts.sources)}</span></div>`;
+    // the voices auditioned against the pick (VOICE lane): same sentence each, AI-judged nativeness + measured round trip
+    const trials = tts.voice_trials || [];
+    if (trials.length) {
+      const pct = (x) => (Math.ceil(x * 1000 - 1e-9) / 10).toFixed(1) + "%";   // error rates round up
+      const items = trials.map((t) => `<li><span class="trial-label">${esc(t.label || "")}</span><audio controls preload="none" src="${esc(t.mp3 || "")}"></audio><span class="note">${
+        t.nativeness != null ? `AI-judged ${Number(t.nativeness).toFixed(1)}/10 for sounding native` : ""}${t.cer != null ? ` · ${pct(t.cer)} lost on the round trip` : ""}</span></li>`).join("");
+      const box = document.createElement("div");
+      box.className = "card trials";
+      box.innerHTML = `<p class="subcard-title">${esc(RZ.t("speaking.trials_heading") || "Other voices we tried, reading the same sentence")}</p><ul class="trial-list">${items}</ul>`;
+      (document.querySelector('[data-copy="speaking.note"]') || $("tts-score")).after(box);
+    }
   } else $("chat-host").innerHTML = RZ.soon(RZ.ui("soon_tts", "the conversation"));
 
   RZ.renderFootnotes($("fn-host"));

@@ -1,13 +1,13 @@
 {
  "lang": "af",
  "engine": "ElevenLabs eleven_v4",
- "voice": "Anneke (native Afrikaans voice)",
+ "voice": "Paul Steyn (native Afrikaans voice)",
  "timing": "provider word timings (ElevenLabs)",
  "score": {
-  "value": 9.696048632218845,
+  "value": 9.616613418530351,
   "display": "9.6",
   "label": "measured (automated) · native ear pending",
-  "line": "ElevenLabs eleven_v4: text → speech → text came back with a character error rate of 0.015 (6 sentences, measured); English control through the same pipeline 0.000; native ear pending."
+  "line": "ElevenLabs eleven_v4: text → speech → text came back with a character error rate of 0.019 (6 sentences, measured). An AI listener rated how much it sounds like a first-language speaker 9.7 out of 10 (AI-judged); real Afrikaans speakers scored 9.5 on the same test. Native ear pending."
  },
  "conversation": [
   {
@@ -24,21 +24,21 @@
     {
      "w": "Hallo!",
      "s": 0.0,
-     "e": 0.48
+     "e": 0.4
     },
     {
      "w": "Dis",
-     "s": 0.8,
+     "s": 0.84,
      "e": 0.96
     },
     {
      "w": "lekker",
      "s": 1.04,
-     "e": 1.36
+     "e": 1.28
     },
     {
      "w": "om",
-     "s": 1.4,
+     "s": 1.36,
      "e": 1.44
     },
     {
@@ -48,23 +48,23 @@
     },
     {
      "w": "jou",
-     "s": 1.68,
+     "s": 1.653,
      "e": 1.76
     },
     {
      "w": "te",
-     "s": 1.84,
-     "e": 1.92
+     "s": 1.8,
+     "e": 1.84
     },
     {
      "w": "hoor.",
-     "s": 2.0,
-     "e": 2.24
+     "s": 1.92,
+     "e": 2.16
     },
     {
      "w": "Hoe",
-     "s": 2.76,
-     "e": 2.84
+     "s": 2.72,
+     "e": 2.8
     },
     {
      "w": "het",
@@ -73,41 +73,41 @@
     },
     {
      "w": "vandag",
-     "s": 3.04,
+     "s": 3.013,
      "e": 3.28
     },
     {
      "w": "se",
      "s": 3.36,
-     "e": 3.52
+     "e": 3.44
     },
     {
      "w": "klankles",
-     "s": 3.56,
-     "e": 4.08
+     "s": 3.48,
+     "e": 4.0
     },
     {
      "w": "met",
-     "s": 4.12,
-     "e": 4.16
+     "s": 4.04,
+     "e": 4.08
     },
     {
      "w": "die",
-     "s": 4.2,
+     "s": 4.16,
      "e": 4.24
     },
     {
      "w": "leerders",
-     "s": 4.32,
-     "e": 4.72
+     "s": 4.28,
+     "e": 4.64
     },
     {
      "w": "gegaan?",
-     "s": 4.8,
-     "e": 5.12
+     "s": 4.72,
+     "e": 5.04
     }
    ],
-   "dur": 5.36
+   "dur": 5.28
   },
   {
    "from": "teacher",
@@ -127,116 +127,116 @@
     },
     {
      "w": "normaal.",
-     "s": 0.4,
-     "e": 0.88
+     "s": 0.36,
+     "e": 0.72
     },
     {
      "w": "Begin",
-     "s": 1.44,
-     "e": 1.76
+     "s": 1.28,
+     "e": 1.52
     },
     {
      "w": "môre",
-     "s": 1.8,
-     "e": 2.16
+     "s": 1.6,
+     "e": 1.92
     },
     {
      "w": "met",
-     "s": 2.24,
-     "e": 2.32
+     "s": 2.0,
+     "e": 2.16
     },
     {
      "w": "vyf",
-     "s": 2.48,
-     "e": 2.72
+     "s": 2.24,
+     "e": 2.48
     },
     {
      "w": "minute",
-     "s": 2.92,
-     "e": 3.12
+     "s": 2.56,
+     "e": 2.88
     },
     {
      "w": "klankhersiening:",
-     "s": 3.2,
-     "e": 4.0
+     "s": 2.96,
+     "e": 3.68
     },
     {
      "w": "jy",
-     "s": 4.56,
-     "e": 4.72
+     "s": 4.4,
+     "e": 4.56
     },
     {
      "w": "sê",
-     "s": 4.8,
-     "e": 4.96
+     "s": 4.64,
+     "e": 4.76
     },
     {
      "w": "die",
-     "s": 5.04,
-     "e": 5.12
+     "s": 4.8,
+     "e": 4.88
     },
     {
      "w": "klank,",
-     "s": 5.16,
-     "e": 5.52
+     "s": 4.96,
+     "e": 5.28
     },
     {
      "w": "die",
-     "s": 5.92,
-     "e": 6.0
+     "s": 5.64,
+     "e": 5.68
     },
     {
      "w": "leerders",
-     "s": 6.08,
-     "e": 6.48
+     "s": 5.76,
+     "e": 6.16
     },
     {
      "w": "sê",
-     "s": 6.52,
-     "e": 6.64
+     "s": 6.2,
+     "e": 6.32
     },
     {
      "w": "dit",
-     "s": 6.72,
-     "e": 6.8
+     "s": 6.4,
+     "e": 6.48
     },
     {
      "w": "na",
-     "s": 6.88,
-     "e": 7.2
+     "s": 6.56,
+     "e": 6.8
     },
     {
      "w": "en",
-     "s": 7.44,
-     "e": 7.6
+     "s": 7.04,
+     "e": 7.2
     },
     {
      "w": "skryf",
-     "s": 7.68,
-     "e": 8.0
+     "s": 7.28,
+     "e": 7.6
     },
     {
      "w": "dit",
-     "s": 8.08,
-     "e": 8.16
+     "s": 7.68,
+     "e": 7.76
     },
     {
      "w": "in",
-     "s": 8.2,
-     "e": 8.24
+     "s": 7.8,
+     "e": 7.84
     },
     {
      "w": "die",
-     "s": 8.32,
-     "e": 8.4
+     "s": 7.92,
+     "e": 7.96
     },
     {
      "w": "lug.",
-     "s": 8.56,
-     "e": 8.72
+     "s": 8.0,
+     "e": 8.32
     }
    ],
-   "dur": 8.88
+   "dur": 8.48
   },
   {
    "from": "teacher",
@@ -252,86 +252,106 @@
     {
      "w": "Jy",
      "s": 0.0,
-     "e": 0.2
+     "e": 0.16
     },
     {
      "w": "doen",
-     "s": 0.24,
+     "s": 0.2,
      "e": 0.48
     },
     {
      "w": "baie",
      "s": 0.56,
-     "e": 0.88
+     "e": 0.8
     },
     {
      "w": "goeie",
-     "s": 0.92,
-     "e": 1.2
+     "s": 0.88,
+     "e": 1.12
     },
     {
      "w": "werk.",
-     "s": 1.4,
-     "e": 1.6
+     "s": 1.32,
+     "e": 1.52
     },
     {
      "w": "Daaglikse",
      "s": 2.0,
-     "e": 2.56
+     "e": 2.48
     },
     {
      "w": "herhaling",
-     "s": 2.68,
-     "e": 3.2
+     "s": 2.56,
+     "e": 3.04
     },
     {
      "w": "help",
-     "s": 3.36,
-     "e": 3.52
+     "s": 3.2,
+     "e": 3.36
     },
     {
      "w": "regtig.",
-     "s": 3.6,
-     "e": 4.24
+     "s": 3.44,
+     "e": 4.0
     },
     {
      "w": "Watter",
      "s": 4.72,
-     "e": 5.04
+     "e": 4.96
     },
     {
      "w": "klank",
-     "s": 5.08,
+     "s": 5.04,
      "e": 5.28
     },
     {
      "w": "gaan",
      "s": 5.36,
-     "e": 5.52
+     "e": 5.48
     },
     {
      "w": "jy",
-     "s": 5.56,
+     "s": 5.52,
      "e": 5.68
     },
     {
      "w": "volgende",
      "s": 5.76,
-     "e": 6.16
+     "e": 6.08
     },
     {
      "w": "week",
-     "s": 6.28,
-     "e": 6.4
+     "s": 6.2,
+     "e": 6.32
     },
     {
      "w": "onderrig?",
-     "s": 6.48,
-     "e": 6.96
+     "s": 6.36,
+     "e": 6.8
     }
    ],
-   "dur": 7.12
+   "dur": 6.96
   }
  ],
- "sources": []
+ "sources": [],
+ "voice_trials": [
+  {
+   "label": "Anneke - Calm, Kind, Deep · ElevenLabs eleven_v4",
+   "mp3": "assets/audio/af_trial_1.mp3",
+   "cer": 0.021,
+   "nativeness": 6.0
+  },
+  {
+   "label": "Marike - Kind, Firm, Warm · ElevenLabs eleven_v4",
+   "mp3": "assets/audio/af_trial_2.mp3",
+   "cer": 0.022,
+   "nativeness": 3.5
+  },
+  {
+   "label": "Anneke - Kind, Firm, Warm · ElevenLabs eleven_v4 (our first pick)",
+   "mp3": "assets/audio/af_trial_3.mp3",
+   "cer": 0.022,
+   "nativeness": 6.3
+  }
+ ]
 }
