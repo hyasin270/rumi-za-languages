@@ -1,0 +1,836 @@
+{
+ "id": "zu-vvob-m7-8",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 0.3,
+   "end": 2.8,
+   "speaker": "Teacher",
+   "text": "Bangani namuhla sizofunda indaba.",
+   "en": "Friends, today we are going to read a story.",
+   "agree": null
+  },
+  {
+   "i": 1,
+   "start": 3.8,
+   "end": 9.8,
+   "speaker": "Teacher",
+   "text": "Indaba yethu ibhalwe ngu [teacher],",
+   "en": "Our story is written by the teacher,",
+   "agree": null
+  },
+  {
+   "i": 2,
+   "start": 10.3,
+   "end": 16.5,
+   "speaker": "Teacher",
+   "text": "umbhali wethu wokuqala obhale indaba yethu, ungumqondisi wesifunda esithiwa iLembe.",
+   "en": "our first author who wrote our story, is a director of the district called iLembe.",
+   "agree": null
+  },
+  {
+   "i": 3,
+   "start": 17.8,
+   "end": 20.0,
+   "speaker": "Teacher",
+   "text": "Uyibhale no [teacher].",
+   "en": "They wrote it with the teacher.",
+   "agree": null
+  },
+  {
+   "i": 4,
+   "start": 21.5,
+   "end": 25.0,
+   "speaker": "Teacher",
+   "text": "Indaba yethu-ke bangani, inesihloko.",
+   "en": "Our story then, friends, has a title.",
+   "agree": null
+  },
+  {
+   "i": 5,
+   "start": 26.5,
+   "end": 27.8,
+   "speaker": "Teacher",
+   "text": "Uma nje sibuka",
+   "en": "When we just look",
+   "agree": null
+  },
+  {
+   "i": 6,
+   "start": 28.75,
+   "end": 32.55,
+   "speaker": "Teacher",
+   "text": "Uma nje sibuka isihloko lenda salendaba yethu, sicabanga ukuthi izokhuluma ngani?",
+   "en": "When we just look at the title of this of our story, what do we think it will talk about?",
+   "agree": null
+  },
+  {
+   "i": 7,
+   "start": 32.85,
+   "end": 39.55,
+   "speaker": "Learner",
+   "text": "Ngicabanga ukuthi indaba yethu izoba mayelana nokuthi uThula neBhubesi bazobe bephila kanjani.",
+   "en": "I think that our story will be about how Thula and the Lion will be living.",
+   "agree": null
+  },
+  {
+   "i": 8,
+   "start": 39.85,
+   "end": 43.55,
+   "speaker": "Teacher",
+   "text": "UThula neBhubesi bazobe bephila kanjani? Ngiyakuthanda ukucabanga kwakho, [learner].",
+   "en": "How Thula and the Lion will be living? I like your thinking, [learner].",
+   "agree": null
+  },
+  {
+   "i": 9,
+   "start": 43.85,
+   "end": 45.85,
+   "speaker": "Teacher",
+   "text": "Uma ubuka i-cover, kwenzakalani la?",
+   "en": "When you look at the cover, what is happening here?",
+   "agree": null
+  },
+  {
+   "i": 10,
+   "start": 48.75,
+   "end": 49.55,
+   "speaker": "Teacher",
+   "text": "[learner]?",
+   "en": "[learner]?",
+   "agree": null
+  },
+  {
+   "i": 11,
+   "start": 49.85,
+   "end": 53.55,
+   "speaker": "Learner",
+   "text": "Ngicabanga ukuthi uLomfana u-",
+   "en": "I think that this boy-",
+   "agree": null
+  },
+  {
+   "i": 12,
+   "start": 56.56,
+   "end": 60.86,
+   "speaker": "Learner",
+   "text": "Ngicabanga ukuthi lomfana usenkingeni nezinkomo seziyasaba.",
+   "en": "I think that this boy is in trouble and the cows are already afraid.",
+   "agree": null
+  },
+  {
+   "i": 13,
+   "start": 61.56,
+   "end": 64.06,
+   "speaker": "Teacher",
+   "text": "Usenkingeni? Yini esikhombisa ukuthi usenkingeni?",
+   "en": "They are in trouble? What shows us that they are in trouble?",
+   "agree": null
+  },
+  {
+   "i": 14,
+   "start": 64.66,
+   "end": 65.06,
+   "speaker": "Teacher",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": null
+  },
+  {
+   "i": 15,
+   "start": 66.56,
+   "end": 69.56,
+   "speaker": "Learner",
+   "text": "Ngoba usitshengisa ubuso obusabayo.",
+   "en": "Because they show us a scared face.",
+   "agree": null
+  },
+  {
+   "i": 16,
+   "start": 70.26,
+   "end": 72.56,
+   "speaker": "Teacher",
+   "text": "Usitshengisa ubuso obusabayo.",
+   "en": "They show us a scared face.",
+   "agree": null
+  },
+  {
+   "i": 17,
+   "start": 72.86,
+   "end": 74.86,
+   "speaker": "Teacher",
+   "text": "Ngiyathanda ukucabanga kwenu bangani.",
+   "en": "I like your thinking, friends.",
+   "agree": null
+  },
+  {
+   "i": 18,
+   "start": 75.06,
+   "end": 76.86,
+   "speaker": "Teacher",
+   "text": "Asidluleni. Yenzeka kuphi le ndaba?",
+   "en": "Let's move on. Where does this story take place?",
+   "agree": null
+  },
+  {
+   "i": 19,
+   "start": 77.56,
+   "end": 80.56,
+   "speaker": "Teacher",
+   "text": "Yenze- masibuka nje isithombe, sisitshela ukuthi yenzeka kuphi le ndaba.",
+   "en": "It take- when we just look at the picture, it tells us where this story takes place.",
+   "agree": null
+  },
+  {
+   "i": 20,
+   "start": 81.06,
+   "end": 82.06,
+   "speaker": "Teacher",
+   "text": "[learner], ufuna ukuzama?",
+   "en": "[learner], do you want to try?",
+   "agree": null
+  },
+  {
+   "i": 21,
+   "start": 83.06,
+   "end": 84.06,
+   "speaker": "Learner",
+   "text": "Ngicabanga ukuthi",
+   "en": "I think that",
+   "agree": null
+  },
+  {
+   "i": 22,
+   "start": 87.43,
+   "end": 89.13,
+   "speaker": "Learner",
+   "text": "Kudala ukuthi yenzeka emakhaya.",
+   "en": "It shows that it takes place in the rural areas.",
+   "agree": null
+  },
+  {
+   "i": 23,
+   "start": 89.63,
+   "end": 91.93,
+   "speaker": "Teacher",
+   "text": "Yenzeka endabeni ekuphi? Esemakhaya.",
+   "en": "It takes place in a story where? In the rural areas.",
+   "agree": null
+  },
+  {
+   "i": 24,
+   "start": 92.03,
+   "end": 93.53,
+   "speaker": "Teacher",
+   "text": "Ngiyakuthanda ukucabanga kwakho.",
+   "en": "I like your thinking.",
+   "agree": null
+  },
+  {
+   "i": 25,
+   "start": 93.63,
+   "end": 95.73,
+   "speaker": "Teacher",
+   "text": "Kungani uthi le ndaba yenzeka endabeni esemakhaya?",
+   "en": "Why do you say this story takes place in a story that is in the rural areas?",
+   "agree": null
+  },
+  {
+   "i": 26,
+   "start": 96.33,
+   "end": 98.63,
+   "speaker": "Teacher",
+   "text": "Kungani sithi le ndaba yenzeka endabeni esemakhaya?",
+   "en": "Why do we say this story takes place in a story that is in the rural areas?",
+   "agree": null
+  },
+  {
+   "i": 27,
+   "start": 99.03,
+   "end": 99.63,
+   "speaker": "Teacher",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": null
+  },
+  {
+   "i": 28,
+   "start": 100.03,
+   "end": 104.53,
+   "speaker": "Learner",
+   "text": "Nami ngangihlala emakhaya futhi kwakukhona nezinkomo.",
+   "en": "I also used to live in the rural areas and there were also cows.",
+   "agree": null
+  },
+  {
+   "i": 29,
+   "start": 104.63,
+   "end": 107.13,
+   "speaker": "Teacher",
+   "text": "Ngiyakuthanda ukucabanga kwakho [learner].",
+   "en": "I like your thinking, [learner].",
+   "agree": null
+  },
+  {
+   "i": 30,
+   "start": 107.43,
+   "end": 110.53,
+   "speaker": "Teacher",
+   "text": "Emakhaya kubakhona ini? Izinkomo.",
+   "en": "In the rural areas what is there? Cows.",
+   "agree": null
+  },
+  {
+   "i": 31,
+   "start": 110.63,
+   "end": 112.93,
+   "speaker": "Teacher",
+   "text": "Ngiyakuthanda ukucabanga kwakho [learner].",
+   "en": "I like your thinking, [learner].",
+   "agree": null
+  },
+  {
+   "i": 32,
+   "start": 113.73,
+   "end": 114.23,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": null
+  },
+  {
+   "i": 33,
+   "start": 119.72,
+   "end": 121.12,
+   "speaker": "Teacher",
+   "text": "Ubani ongangifundela leli gama?",
+   "en": "Who can read this word for me?",
+   "agree": null
+  },
+  {
+   "i": 34,
+   "start": 122.42,
+   "end": 123.22,
+   "speaker": "Teacher",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": null
+  },
+  {
+   "i": 35,
+   "start": 123.72,
+   "end": 124.42,
+   "speaker": "Learner",
+   "text": "Umhlambi.",
+   "en": "Herd.",
+   "agree": null
+  },
+  {
+   "i": 36,
+   "start": 124.82,
+   "end": 125.52,
+   "speaker": "Teacher",
+   "text": "Yini umhlambi?",
+   "en": "What is a herd?",
+   "agree": null
+  },
+  {
+   "i": 37,
+   "start": 126.22,
+   "end": 126.82,
+   "speaker": "Teacher",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": null
+  },
+  {
+   "i": 38,
+   "start": 127.22,
+   "end": 129.32,
+   "speaker": "Learner",
+   "text": "Umhlambi yizinkomo eziningi.",
+   "en": "A herd is many cows.",
+   "agree": null
+  },
+  {
+   "i": 39,
+   "start": 129.92,
+   "end": 132.82,
+   "speaker": "Teacher",
+   "text": "Yeyi, ngiyakuthanda ukucabanga kwakho [learner]. High five.",
+   "en": "Hey, I like your thinking, [learner]. High five.",
+   "agree": null
+  },
+  {
+   "i": 40,
+   "start": 133.62,
+   "end": 136.12,
+   "speaker": "Teacher",
+   "text": "Yizinkomo ezinjani? Eziningi.",
+   "en": "What kind of cows? Many.",
+   "agree": null
+  },
+  {
+   "i": 41,
+   "start": 136.42,
+   "end": 136.92,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": null
+  },
+  {
+   "i": 42,
+   "start": 137.62,
+   "end": 139.12,
+   "speaker": "Teacher",
+   "text": "Umhlambi. Siyalifunda sonke?",
+   "en": "A herd. Do we all read it?",
+   "agree": null
+  },
+  {
+   "i": 43,
+   "start": 139.32,
+   "end": 141.12,
+   "speaker": "Learners",
+   "text": "Umhlambi.",
+   "en": "A herd.",
+   "agree": null
+  },
+  {
+   "i": 44,
+   "start": 141.82,
+   "end": 142.32,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": null
+  },
+  {
+   "i": 45,
+   "start": 142.82,
+   "end": 144.32,
+   "speaker": "Teacher",
+   "text": "Isihloko sendaba yethu",
+   "en": "The title of our story",
+   "agree": null
+  },
+  {
+   "i": 46,
+   "start": 147.12,
+   "end": 151.62,
+   "speaker": "Teacher",
+   "text": "Isihloko sendaba yethu sithi uThula neBhubesi.",
+   "en": "The title of our story says Thula and the Lion.",
+   "agree": null
+  },
+  {
+   "i": 47,
+   "start": 152.62,
+   "end": 159.92,
+   "speaker": "Teacher",
+   "text": "Endaweni yasebhubhubhu kwakunomfana ohlakaniphile futhi onesibindi.",
+   "en": "In the place of Bhubhubhu there was a clever and brave boy.",
+   "agree": null
+  },
+  {
+   "i": 48,
+   "start": 160.72,
+   "end": 163.42,
+   "speaker": "Teacher",
+   "text": "Igama lakhe kwakunguThula.",
+   "en": "Their name was Thula.",
+   "agree": null
+  },
+  {
+   "i": 49,
+   "start": 164.32,
+   "end": 167.32,
+   "speaker": "Teacher",
+   "text": "Wayelusa umhlambi wezinkomo.",
+   "en": "They were herding a herd of cattle.",
+   "agree": null
+  },
+  {
+   "i": 50,
+   "start": 168.22,
+   "end": 176.72,
+   "speaker": "Teacher",
+   "text": "Ngelinye ilanga wayezihlalela egqumeni, ebukela izinkomo zakubo ziklabile otshanini obukhulu.",
+   "en": "One day they were sitting on a hill, watching their family's cattle grazing in the big grass.",
+   "agree": null
+  },
+  {
+   "i": 51,
+   "start": 176.72,
+   "end": 180.52,
+   "speaker": "Teacher",
+   "text": "otshanini obukhulu. Okay? Siyawufunda sonke.",
+   "en": "in the big grass. Okay? We all read it.",
+   "agree": null
+  },
+  {
+   "i": 52,
+   "start": 181.52,
+   "end": 182.72,
+   "speaker": "Learners",
+   "text": "Indaba yethu ithi",
+   "en": "Our story says",
+   "agree": null
+  },
+  {
+   "i": 53,
+   "start": 183.22,
+   "end": 191.52,
+   "speaker": "Learners",
+   "text": "Kwakunomfana ohlakaniphile futhi onesibindi, igama lakhe kwakunguThula.",
+   "en": "There was a clever and brave boy, their name was Thula.",
+   "agree": null
+  },
+  {
+   "i": 54,
+   "start": 192.52,
+   "end": 207.22,
+   "speaker": "Learners",
+   "text": "Ngelinye ilanga wayezihlalele egqumeni, ebukela izinkomo zakubo ziklabile otshanini obukhulu.",
+   "en": "One day they were sitting on a hill, watching their family's cattle grazing in the big grass.",
+   "agree": null
+  },
+  {
+   "i": 55,
+   "start": 207.53,
+   "end": 208.02,
+   "speaker": "Teacher",
+   "text": "obukhulu. Kwafika umngani wakhe uSiza ezokwazisa uThula ngebhubesi eliphume ehlathini.",
+   "en": "big. Their friend Siza arrived to inform Thula about a lion that came out of the forest.",
+   "agree": null
+  },
+  {
+   "i": 56,
+   "start": 208.02,
+   "end": 208.72,
+   "speaker": "Learners",
+   "text": "Kwafika",
+   "en": "There arrived",
+   "agree": null
+  },
+  {
+   "i": 57,
+   "start": 217.53,
+   "end": 220.43,
+   "speaker": "Teacher",
+   "text": "Kwaqhamuka impisi, yangena phakathi kwabo.",
+   "en": "A hyena appeared, and went in between them.",
+   "agree": null
+  },
+  {
+   "i": 58,
+   "start": 221.03,
+   "end": 224.43,
+   "speaker": "Trainer",
+   "text": "Hawu bakithi, ngiyaxolisa ukuniphazamisa.",
+   "en": "Oh my people, I am sorry to disturb you.",
+   "agree": null
+  },
+  {
+   "i": 59,
+   "start": 224.93,
+   "end": 228.53,
+   "speaker": "Trainer",
+   "text": "Wamemeza uThula wathi, Ha, awusiphazamisi.",
+   "en": "Thula shouted and said, Ha, you are not disturbing us.",
+   "agree": null
+  },
+  {
+   "i": 60,
+   "start": 229.33,
+   "end": 230.03,
+   "speaker": "Teacher",
+   "text": "We bangani,",
+   "en": "Hey friends,",
+   "agree": null
+  },
+  {
+   "i": 61,
+   "start": 230.93,
+   "end": 233.03,
+   "speaker": "Teacher",
+   "text": "impisi, isilwane esinjani impisi?",
+   "en": "a hyena, what kind of animal is a hyena?",
+   "agree": null
+  },
+  {
+   "i": 62,
+   "start": 233.63,
+   "end": 234.43,
+   "speaker": "Teacher",
+   "text": "[learner]?",
+   "en": "[learner]?",
+   "agree": null
+  },
+  {
+   "i": 63,
+   "start": 234.83,
+   "end": 240.28,
+   "speaker": "Learner",
+   "text": "Isilwane esinobuqili. Isilwane esinobuqili. Isilwane esinobuqili. Isilwane esinobuqili. Isilwane esinobuqili. Isilwane esinobuqili.",
+   "en": "A cunning animal. A cunning animal. A cunning animal. A cunning animal. A cunning animal. A cunning animal.",
+   "agree": null
+  },
+  {
+   "i": 64,
+   "start": 240.28,
+   "end": 241.08,
+   "speaker": "Teacher",
+   "text": "[learner]?",
+   "en": "[learner]?",
+   "agree": null
+  },
+  {
+   "i": 65,
+   "start": 241.48,
+   "end": 249.98,
+   "speaker": "Learner",
+   "text": "Ngathanda ukuthi le mpisi inomusa futhi iyangicabangela lomfana ukuthi ehleli ephephile abazali bakhe bangakhathazeki ngaye.",
+   "en": "I liked that this hyena is kind and is considerate of this boy so that they sit safely and their parents do not worry about them.",
+   "agree": null
+  },
+  {
+   "i": 66,
+   "start": 250.38,
+   "end": 251.38,
+   "speaker": "Teacher",
+   "text": "Okay bangani.",
+   "en": "Okay friends.",
+   "agree": null
+  },
+  {
+   "i": 67,
+   "start": 251.68,
+   "end": 254.08,
+   "speaker": "Teacher",
+   "text": "Impisi is'lwane esinomusa. Siyabona bangani?",
+   "en": "A hyena is a kind animal. Do we see, friends?",
+   "agree": null
+  },
+  {
+   "i": 68,
+   "start": 254.58,
+   "end": 257.98,
+   "speaker": "Teacher",
+   "text": "Ngoba esona silethe ini? Sincengele ubani? UThula.",
+   "en": "Because it is the one that brought what? Pleaded for whom? Thula.",
+   "agree": null
+  },
+  {
+   "i": 69,
+   "start": 258.38,
+   "end": 261.08,
+   "speaker": "Teacher",
+   "text": "Bangani emhlabeni bakhona abantu abanjalo.",
+   "en": "Friends, in the world there are such people.",
+   "agree": null
+  },
+  {
+   "i": 70,
+   "start": 261.88,
+   "end": 268.68,
+   "speaker": "Teacher",
+   "text": "Ukuthi ena ke uma kukhona izinto befice abantu bexabene, bona befike benze njani?",
+   "en": "That, uh, when there are things and they find people quarreling, what do they do when they arrive?",
+   "agree": null
+  },
+  {
+   "i": 71,
+   "start": 269.08,
+   "end": 276.68,
+   "speaker": "Teacher",
+   "text": "abantu bexabana. Bona bafike benzenjani? Bengalamuli. Kodwa benzenjani bona? Befuna abantu baqhubekele phambili benzenjani? Baxabane.",
+   "en": "people quarreling. What do they do when they arrive? Not mediating. But what do they do? Wanting people to go forward and do what? Quarrel.",
+   "agree": null
+  },
+  {
+   "i": 72,
+   "start": 277.08,
+   "end": 279.18,
+   "speaker": "Teacher",
+   "text": "Isiphi isifundo esisithola kulendaba bangani?",
+   "en": "What lesson do we get from this story, friends?",
+   "agree": null
+  },
+  {
+   "i": 73,
+   "start": 279.68,
+   "end": 280.08,
+   "speaker": "Teacher",
+   "text": "Esihle.",
+   "en": "A good one.",
+   "agree": null
+  },
+  {
+   "i": 74,
+   "start": 283.08,
+   "end": 285.28,
+   "speaker": "Teacher",
+   "text": "Ukuthi ugcina ini? Isithembiso.",
+   "en": "That you keep what? A promise.",
+   "agree": null
+  },
+  {
+   "i": 75,
+   "start": 285.38,
+   "end": 288.68,
+   "speaker": "Teacher",
+   "text": "Ingqikithi yalendaba imayelana nani?",
+   "en": "What is the theme of this story about?",
+   "agree": null
+  },
+  {
+   "i": 76,
+   "start": 289.28,
+   "end": 291.68,
+   "speaker": "Learners",
+   "text": "Nokwethembeka.",
+   "en": "And honesty.",
+   "agree": null
+  },
+  {
+   "i": 77,
+   "start": 291.88,
+   "end": 292.98,
+   "speaker": "Teacher",
+   "text": "Nokwethembeka.",
+   "en": "And honesty.",
+   "agree": null
+  },
+  {
+   "i": 78,
+   "start": 293.38,
+   "end": 298.18,
+   "speaker": "Teacher",
+   "text": "Ngiyathanda ukucabanga ke nomangabe. Nokwethembeka. Ukuthi wena ke ugcine ini? Isethembiso.",
+   "en": "I like to think even if. And honesty. That you keep what? A promise.",
+   "agree": null
+  },
+  {
+   "i": 79,
+   "start": 299.82,
+   "end": 300.82,
+   "speaker": "Teacher",
+   "text": "isethembiso.",
+   "en": "a promise.",
+   "agree": null
+  },
+  {
+   "i": 80,
+   "start": 301.62,
+   "end": 302.12,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": null
+  },
+  {
+   "i": 81,
+   "start": 302.62,
+   "end": 305.42,
+   "speaker": "Teacher",
+   "text": "Indaba yethu ke bangani. Ubani ongangitshela isingeniso sale ndaba?",
+   "en": "Our story then friends. Who can tell me the introduction of this story?",
+   "agree": null
+  },
+  {
+   "i": 82,
+   "start": 305.92,
+   "end": 306.22,
+   "speaker": "Teacher",
+   "text": "Yes.",
+   "en": "Yes.",
+   "agree": null
+  },
+  {
+   "i": 83,
+   "start": 306.72,
+   "end": 326.12,
+   "speaker": "Learner",
+   "text": "Lendaba isingeniso sale ndaba isitshela ngomfana owayehlakaniphile, owaye owayethemba owaye owayethemba kalayo, futhi umfana nentombazane ebizwa ngoWasiro yenza ukuthi le ndaba iqhubeke phambili.",
+   "en": "This story the introduction of this story tells us about a boy who was clever, who was who was trusting who was who was trusting too much, and a boy and a girl called Wasiro make this story go forward.",
+   "agree": null
+  },
+  {
+   "i": 84,
+   "start": 330.59,
+   "end": 332.29,
+   "speaker": "Teacher",
+   "text": "yenza ngakho sesifunda insomi.",
+   "en": "makes it so we are reading a folktale.",
+   "agree": null
+  },
+  {
+   "i": 85,
+   "start": 332.59,
+   "end": 334.29,
+   "speaker": "Teacher",
+   "text": "Sesiyibalile igama, kuba khona ubuthondaba.",
+   "en": "We have already counted the name, there is plot.",
+   "agree": null
+  },
+  {
+   "i": 86,
+   "start": 334.49,
+   "end": 335.69,
+   "speaker": "Teacher",
+   "text": "Siluthola kuphi ubuthondaba?",
+   "en": "Where do we find the plot?",
+   "agree": null
+  },
+  {
+   "i": 87,
+   "start": 335.89,
+   "end": 336.39,
+   "speaker": "Teacher",
+   "text": "[learner]?",
+   "en": "[learner]?",
+   "agree": null
+  },
+  {
+   "i": 88,
+   "start": 337.09,
+   "end": 342.29,
+   "speaker": "Learner",
+   "text": "Ubuthandele ilapho ilapho kukhona impisi esibuyisela ibhubesi esifile.",
+   "en": "The plot is where is where there is a hyena that returns us to the dead lion.",
+   "agree": null
+  },
+  {
+   "i": 89,
+   "start": 342.99,
+   "end": 345.99,
+   "speaker": "Teacher",
+   "text": "Manje-ke bangani, sizohlukana ngokwamaqembu ethu.",
+   "en": "Now then friends, we will separate according to our groups.",
+   "agree": null
+  }
+ ],
+ "score": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides. 1 line the engine heard in silence was removed.",
+  "removed_in_silence": 1
+ },
+ "agreement": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides. 1 line the engine heard in silence was removed.",
+  "removed_in_silence": 1
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

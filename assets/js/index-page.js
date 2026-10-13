@@ -48,7 +48,7 @@
   const p2 = pipe("index.method.diagram_coach_title", "Classroom recording → coaching report", RZ.raw("index.method.diagram_coach"));
   $("pipelines").innerHTML = p1 + p2 || `<div class="card">${RZ.placeholder("index.method.diagram_lp")}</div>`;
   const leg = (summary && summary.legend) || {};
-  const keyRows = [["measured", "measured"], ["AI-judged", "ai"], ["native ear pending", "pending"], ["verdict", "verdict"]];
+  const keyRows = [["measured", "measured"], ["proxy", "proxy"], ["AI-judged", "ai"], ["native ear pending", "pending"], ["verdict", "verdict"]];
   $("labels-key").innerHTML = keyRows.filter(([k]) => leg[k]).map(([k, cls]) =>
     `<div class="card"><span class="chip ${cls}" style="justify-self:start"><span class="l">${esc(k === "verdict" ? vcol.title : RZ.labelOf(k)[0])}</span></span><span class="note">${RZ.inline(leg[k])}</span></div>`).join("");
   if (RZ.has("index.method.verdict_rule") && !leg.verdict) $("labels-key").insertAdjacentHTML("beforeend", `<div class="card"><span class="note">${RZ.html("index.method.verdict_rule")}</span></div>`);
@@ -57,9 +57,10 @@
   $("lang-cards").innerHTML = ["zu", "xh", "st"].map((c) => {
     const r = summary && (summary.rows || []).find((x) => (x.code || x.lang) === c);
     const chips = qcols.map((q) => RZ.chip(r && r.cells ? r.cells[q.key] : null, { key: q.title, noLabel: true })).join(" ");
+    const pn = r && r.cells && r.cells.Q2 && r.cells.Q2.partner_note;
     const strip = (h) => h.replace(/<\/?a[^>]*>/g, "");
     return `<a class="card lang-card" href="${c}.html"><h3 lang="${c}">${esc(RZ.t(`index.languages.cards.${c}.name`) || RZ.langName(c))}</h3>
-      <p style="margin:0">${strip(RZ.html(`index.languages.cards.${c}.line`))}</p><div class="chip-row">${chips}</div>
+      <p style="margin:0">${strip(RZ.html(`index.languages.cards.${c}.line`))}</p><div class="chip-row">${chips}</div>${pn ? `<p class="cell-note lang-partner">${esc(pn)}</p>` : ""}
       <span class="go">${esc(RZ.t(`index.languages.cards.${c}.cta`) || "Open")} →</span></a>`;
   }).join("");
 

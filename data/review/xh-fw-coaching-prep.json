@@ -2,8 +2,8 @@
  "id": "xh-fw-coaching-prep",
  "lang": "xh",
  "engine": "Gemini 2.5 Pro",
- "version": 1,
- "turns_version": 1,
+ "version": 2,
+ "turns_version": 2,
  "turns": [
   {
    "i": 0,
@@ -11,8 +11,8 @@
    "end": 8.8,
    "speaker": "Trainer",
    "text": "[teacher] right, namhlanje ndiphilile uzaza khona ndiphile nam ndikhona man. So, ndifuna sithi pick up from la conversation yethu ya last Friday ne?",
-   "en": "the teacher right, today I am well, you will be there, I am well, I am also here man. So, I want us to pick up from that conversation of ours of last Friday, right?",
-   "agree": 0.795
+   "en": "the teacher right, today I am well, you will come there, I am well, I am also here man. So, I want us to pick up from that conversation of ours of last Friday, right?",
+   "agree": 0.473
   },
   {
    "i": 1,
@@ -268,6 +268,24 @@
   },
   {
    "i": 29,
+   "start": 120.48,
+   "end": 120.98,
+   "speaker": "Speaker 2",
+   "text": "Heyi.",
+   "en": "Hey.",
+   "agree": 0.0
+  },
+  {
+   "i": 30,
+   "start": 120.98,
+   "end": 121.48,
+   "speaker": "Speaker 1",
+   "text": "Where is it?",
+   "en": "Where is it?",
+   "agree": 0.0
+  },
+  {
+   "i": 31,
    "start": 123.96,
    "end": 125.66,
    "speaker": "Speaker 1",
@@ -276,7 +294,7 @@
    "agree": 0.318
   },
   {
-   "i": 30,
+   "i": 32,
    "start": 125.96,
    "end": 127.26,
    "speaker": "Speaker 1",
@@ -285,7 +303,7 @@
    "agree": 0.0
   },
   {
-   "i": 31,
+   "i": 33,
    "start": 127.66,
    "end": 133.36,
    "speaker": "Speaker 1",
@@ -294,7 +312,7 @@
    "agree": 0.826
   },
   {
-   "i": 32,
+   "i": 34,
    "start": 133.56,
    "end": 133.86,
    "speaker": "Speaker 2",
@@ -303,7 +321,7 @@
    "agree": 1.0
   },
   {
-   "i": 33,
+   "i": 35,
    "start": 133.96,
    "end": 135.36,
    "speaker": "Speaker 1",
@@ -312,7 +330,7 @@
    "agree": 0.893
   },
   {
-   "i": 34,
+   "i": 36,
    "start": 135.46,
    "end": 135.76,
    "speaker": "Speaker 2",
@@ -321,7 +339,7 @@
    "agree": 1.0
   },
   {
-   "i": 35,
+   "i": 37,
    "start": 136.26,
    "end": 138.16,
    "speaker": "Speaker 2",
@@ -330,7 +348,7 @@
    "agree": 0.968
   },
   {
-   "i": 36,
+   "i": 38,
    "start": 138.66,
    "end": 147.16,
    "speaker": "Speaker 2",
@@ -339,16 +357,16 @@
    "agree": 0.565
   },
   {
-   "i": 37,
+   "i": 39,
    "start": 152.88,
    "end": 155.58,
    "speaker": "Speaker 1",
    "text": "ugogo omncinane uyafika",
-   "en": "ugogo omncinane arrives",
+   "en": "ugogo omncinane uyafika",
    "agree": 0.652
   },
   {
-   "i": 38,
+   "i": 40,
    "start": 156.38,
    "end": 157.28,
    "speaker": "Speaker 1",
@@ -357,7 +375,7 @@
    "agree": 1.0
   },
   {
-   "i": 39,
+   "i": 41,
    "start": 157.58,
    "end": 158.08,
    "speaker": "Speaker 2",
@@ -366,7 +384,7 @@
    "agree": 1.0
   },
   {
-   "i": 40,
+   "i": 42,
    "start": 158.38,
    "end": 159.08,
    "speaker": "Speaker 1",
@@ -375,7 +393,7 @@
    "agree": 0.818
   },
   {
-   "i": 41,
+   "i": 43,
    "start": 159.18,
    "end": 160.78,
    "speaker": "Speaker 2",
@@ -384,7 +402,7 @@
    "agree": 0.409
   },
   {
-   "i": 42,
+   "i": 44,
    "start": 161.28,
    "end": 165.78,
    "speaker": "Speaker 2",
@@ -393,16 +411,16 @@
    "agree": 0.957
   },
   {
-   "i": 43,
+   "i": 45,
    "start": 166.68,
    "end": 174.78,
    "speaker": "Speaker 2",
    "text": "bayazazi, bayabazi abanobumba, bayakwazi ukufunda, bayakwazi ukulifunda but balifunda ngo",
-   "en": "they know them, they know the letters, they can read, they can read it but they read it by",
+   "en": "they know, they know the letters, they can read, they can read it but they read it by",
    "agree": 0.942
   },
   {
-   "i": 44,
+   "i": 46,
    "start": 175.08,
    "end": 175.58,
    "speaker": "Speaker 1",
@@ -411,7 +429,7 @@
    "agree": 0.333
   },
   {
-   "i": 45,
+   "i": 47,
    "start": 176.48,
    "end": 178.68,
    "speaker": "Speaker 2",
@@ -420,7 +438,7 @@
    "agree": 0.5
   },
   {
-   "i": 46,
+   "i": 48,
    "start": 178.78,
    "end": 179.78,
    "speaker": "Speaker 1",
@@ -429,7 +447,7 @@
    "agree": 0.583
   },
   {
-   "i": 47,
+   "i": 49,
    "start": 180.78,
    "end": 182.28,
    "speaker": "Speaker 1",
@@ -438,16 +456,16 @@
    "agree": 1.0
   },
   {
-   "i": 48,
+   "i": 50,
    "start": 182.38,
    "end": 183.18,
    "speaker": "Speaker 2",
    "text": "Eh uyabazi.",
-   "en": "Eh they know them.",
+   "en": "Eh you know them.",
    "agree": 0.2
   },
   {
-   "i": 49,
+   "i": 51,
    "start": 183.28,
    "end": 185.58,
    "speaker": "Speaker 1",
@@ -456,43 +474,43 @@
    "agree": 0.615
   },
   {
-   "i": 50,
+   "i": 52,
    "start": 186.08,
    "end": 189.78,
    "speaker": "Speaker 1",
    "text": "So sure. Bayakwazi for example onombini, bayakwazi ukubafunda?",
-   "en": "So sure. They can, for example, two-syllable words, can they read them?",
+   "en": "So sure. They can for example two-letter ones, can they read them?",
    "agree": 0.847
   },
   {
-   "i": 51,
+   "i": 53,
    "start": 189.88,
    "end": 191.38,
    "speaker": "Speaker 2",
    "text": "Bayakwazi ukubafunda onombini.",
-   "en": "They can read two-syllable words.",
+   "en": "They can read two-letter ones.",
    "agree": 0.966
   },
   {
-   "i": 52,
+   "i": 54,
    "start": 191.58,
    "end": 195.08,
    "speaker": "Speaker 1",
    "text": "Eyiphi ezinye apha? Igama elinonontathu bayakwazi ukulifunda?",
-   "en": "Which other ones here? A word with three syllables, can they read it?",
+   "en": "Which other ones here? A word with three letters, can they read it?",
    "agree": 0.949
   },
   {
-   "i": 53,
+   "i": 55,
    "start": 195.08,
    "end": 196.18,
    "speaker": "Speaker 2",
    "text": "Nonontathu bayakwazi, ewe.",
-   "en": "Three-syllable words they can, yes.",
+   "en": "Three-letter ones they can, yes.",
    "agree": 0.917
   },
   {
-   "i": 54,
+   "i": 56,
    "start": 196.28,
    "end": 197.28,
    "speaker": "Speaker 1",
@@ -501,7 +519,7 @@
    "agree": 1.0
   },
   {
-   "i": 55,
+   "i": 57,
    "start": 197.98,
    "end": 200.88,
    "speaker": "Speaker 1",
@@ -510,7 +528,7 @@
    "agree": 0.667
   },
   {
-   "i": 56,
+   "i": 58,
    "start": 200.88,
    "end": 201.18,
    "speaker": "Speaker 2",
@@ -519,16 +537,16 @@
    "agree": 0.0
   },
   {
-   "i": 57,
+   "i": 59,
    "start": 201.38,
    "end": 207.88,
    "speaker": "Speaker 1",
    "text": "bophula ama igama and then baphinde bophule because that's what you were doing now, kwa ubuqu nje begama.",
-   "en": "they break the word and then they break it again because that's what you were doing now, just the body of the word.",
+   "en": "they break the word and then they break again because that's what you were doing now, in the very body of the word.",
    "agree": 0.932
   },
   {
-   "i": 58,
+   "i": 60,
    "start": 207.88,
    "end": 209.08,
    "speaker": "Speaker 2",
@@ -537,16 +555,16 @@
    "agree": 0.0
   },
   {
-   "i": 59,
+   "i": 61,
    "start": 209.58,
    "end": 212.98,
    "speaker": "Speaker 1",
    "text": "Then ke obviously nesentensi bazomane beyiphula. Okay, sure.",
-   "en": "Then obviously even the sentence they will keep breaking it. Okay, sure.",
+   "en": "Then ke obviously and the sentence they will keep breaking it. Okay, sure.",
    "agree": 0.789
   },
   {
-   "i": 60,
+   "i": 62,
    "start": 213.58,
    "end": 217.98,
    "speaker": "Speaker 1",
@@ -555,43 +573,43 @@
    "agree": 1.0
   },
   {
-   "i": 61,
+   "i": 63,
    "start": 218.45,
    "end": 218.88,
    "speaker": "Speaker 1",
    "text": "abafundi ngoTshibilika. I- izobanceda entweni lonto le?",
-   "en": "the learners with fluency. It- will it help them in what, that thing?",
+   "en": "the learners with Tshibilika. It- how will that help them?",
    "agree": 0.75
   },
   {
-   "i": 62,
+   "i": 64,
    "start": 218.88,
    "end": 220.28,
    "speaker": "Speaker 1",
    "text": "i izoba ncinci.",
-   "en": "it- it will be small.",
+   "en": "it will be small.",
    "agree": 0.0
   },
   {
-   "i": 63,
+   "i": 65,
    "start": 221.75,
    "end": 225.25,
    "speaker": "Speaker 1",
    "text": "Before sijonge qha ndoba okay, yintoni i- i- iTshibilika?",
-   "en": "Before we look just that okay, what is i- i- fluency?",
+   "en": "Before we look only at okay, what is i- i- iTshibilika?",
    "agree": 0.755
   },
   {
-   "i": 64,
+   "i": 66,
    "start": 225.55,
    "end": 228.25,
    "speaker": "Speaker 1",
    "text": "Xa sithi abafundi ngoTshibilika, izobanceda entweni?",
-   "en": "When we say learners with fluency, what will it help them with?",
+   "en": "When we say the learners with Tshibilika, how will it help them?",
    "agree": 0.78
   },
   {
-   "i": 65,
+   "i": 67,
    "start": 228.95,
    "end": 230.25,
    "speaker": "Speaker 2",
@@ -600,25 +618,25 @@
    "agree": 0.889
   },
   {
-   "i": 66,
+   "i": 68,
    "start": 230.25,
    "end": 230.55,
    "speaker": "Speaker 1",
    "text": "Qha ndicinga mna.",
-   "en": "Just I think, me.",
+   "en": "Only I think.",
    "agree": 0.875
   },
   {
-   "i": 67,
+   "i": 69,
    "start": 230.75,
    "end": 233.55,
    "speaker": "Speaker 2",
    "text": "Izobanceda ekuyi-understand-eni into abayifundayo.",
-   "en": "It will help them in understanding the thing they are reading.",
+   "en": "It will help them in understanding what they are reading.",
    "agree": 0.837
   },
   {
-   "i": 68,
+   "i": 70,
    "start": 233.55,
    "end": 233.85,
    "speaker": "Speaker 1",
@@ -627,7 +645,7 @@
    "agree": 0.0
   },
   {
-   "i": 69,
+   "i": 71,
    "start": 233.95,
    "end": 234.25,
    "speaker": "Speaker 2",
@@ -636,25 +654,25 @@
    "agree": 0.0
   },
   {
-   "i": 70,
+   "i": 72,
    "start": 234.55,
    "end": 238.45,
    "speaker": "Speaker 2",
    "text": "Kuba uhlobo abafunda ngalo ngoku fumane ukuthi abayiva lento ifundwayo.",
-   "en": "Because the way they read now you just find that they don't hear this thing being read.",
+   "en": "Because the way they read now they just don't hear what is being read.",
    "agree": 0.729
   },
   {
-   "i": 71,
+   "i": 73,
    "start": 238.75,
    "end": 244.25,
    "speaker": "Speaker 2",
    "text": "Ubiza nje amagama kuba ewazi but akayiva lento eyifundwayo uba ithini.",
-   "en": "He just calls the words because he knows them but he doesn't hear this thing being read what it says.",
+   "en": "They just call out words because they know them but they do not hear what is being read what it says.",
    "agree": 0.87
   },
   {
-   "i": 72,
+   "i": 74,
    "start": 244.65,
    "end": 245.05,
    "speaker": "Speaker 1",
@@ -663,7 +681,7 @@
    "agree": 1.0
   },
   {
-   "i": 73,
+   "i": 75,
    "start": 245.55,
    "end": 247.45,
    "speaker": "Speaker 2",
@@ -672,16 +690,16 @@
    "agree": 0.083
   },
   {
-   "i": 74,
+   "i": 76,
    "start": 247.34,
    "end": 249.34,
    "speaker": "Speaker 1",
    "text": "So yilento ndinomdla bangaske bafunde ngoTshibilika.",
-   "en": "So this is what I am interested in that they should please read with fluency.",
+   "en": "So this is why I am interested that they should rather read with Tshibilika.",
    "agree": 0.725
   },
   {
-   "i": 75,
+   "i": 77,
    "start": 249.54,
    "end": 249.94,
    "speaker": "Speaker 2",
@@ -690,7 +708,7 @@
    "agree": 1.0
   },
   {
-   "i": 76,
+   "i": 78,
    "start": 250.34,
    "end": 254.04,
    "speaker": "Speaker 2",
@@ -699,7 +717,7 @@
    "agree": 0.682
   },
   {
-   "i": 77,
+   "i": 79,
    "start": 254.34,
    "end": 254.54,
    "speaker": "Speaker 1",
@@ -708,7 +726,7 @@
    "agree": 1.0
   },
   {
-   "i": 78,
+   "i": 80,
    "start": 254.54,
    "end": 256.24,
    "speaker": "Speaker 2",
@@ -717,25 +735,25 @@
    "agree": 0.846
   },
   {
-   "i": 79,
+   "i": 81,
    "start": 257.04,
    "end": 262.74,
    "speaker": "Speaker 1",
    "text": "Ngokuthi lanto bebeyifundile baphinde bakwazi uyi balisa.",
-   "en": "By that that thing they had read they are able to retell it again.",
+   "en": "By that thing they had read they are again able to retell it.",
    "agree": 0.911
   },
   {
-   "i": 80,
+   "i": 82,
    "start": 263.14,
    "end": 264.14,
    "speaker": "Speaker 2",
    "text": "Okay. Kunjalo.",
-   "en": "Okay. It is so.",
+   "en": "Okay. It is like that.",
    "agree": 0.417
   },
   {
-   "i": 81,
+   "i": 83,
    "start": 264.54,
    "end": 264.94,
    "speaker": "Speaker 1",
@@ -744,16 +762,16 @@
    "agree": 1.0
   },
   {
-   "i": 82,
+   "i": 84,
    "start": 265.34,
    "end": 268.84,
    "speaker": "Speaker 1",
    "text": "So uyibambile lanto, ukufunda ngengxoxo kuba uzakwazi ukuyiphinda ayinxokolele kakuhle.",
-   "en": "So you have grasped that thing, reading with comprehension because he will be able to repeat it and narrate it well.",
+   "en": "So you have grasped that thing, reading with comprehension because they will be able to repeat it and narrate it well.",
    "agree": 0.824
   },
   {
-   "i": 83,
+   "i": 85,
    "start": 269.14,
    "end": 269.54,
    "speaker": "Speaker 2",
@@ -762,34 +780,34 @@
    "agree": 1.0
   },
   {
-   "i": 84,
+   "i": 86,
    "start": 269.74,
    "end": 279.24,
    "speaker": "Speaker 2",
    "text": "Yeyiphi enye into enokwazi ukuyenza? So uyakwazi ukuphinda ayinxokolele kakuhle. Yeyiphi enye into enokwazi ukuyenza xa ikwazi ukufunda ngoTshibilika, xa ifunda ngoTshibiliko efunda ngengxoxo?",
-   "en": "What is another thing that he can be able to do? So he is able to repeat it and narrate it well. What is another thing he can be able to do when he is able to read with fluency, when he reads with fluency reading with comprehension?",
+   "en": "What is another thing they can be able to do? So they are able to repeat it and narrate it well. What is another thing they can be able to do when they are able to read with Tshibilika, when they read with fluency reading with comprehension?",
    "agree": 0.793
   },
   {
-   "i": 85,
+   "i": 87,
    "start": 279.94,
    "end": 280.24,
    "speaker": "Speaker 1",
    "text": "Uzokwazi",
-   "en": "He will be able",
+   "en": "They will be able",
    "agree": 1.0
   },
   {
-   "i": 86,
+   "i": 88,
    "start": 280.08,
    "end": 283.28,
    "speaker": "Speaker 1",
    "text": "ko efunda ngengxoxo, uzokwazi aphinde athini?",
-   "en": "to when he reads with comprehension, he will be able to again do what?",
+   "en": "ko reading with comprehension, they will be able to again do what?",
    "agree": 0.535
   },
   {
-   "i": 87,
+   "i": 89,
    "start": 283.58,
    "end": 283.78,
    "speaker": "Speaker 2",
@@ -798,7 +816,7 @@
    "agree": 1.0
   },
   {
-   "i": 88,
+   "i": 90,
    "start": 284.28,
    "end": 287.28,
    "speaker": "Speaker 1",
@@ -807,7 +825,7 @@
    "agree": 0.942
   },
   {
-   "i": 89,
+   "i": 91,
    "start": 287.58,
    "end": 287.98,
    "speaker": "Speaker 2",
@@ -816,16 +834,16 @@
    "agree": 0.0
   },
   {
-   "i": 90,
+   "i": 92,
    "start": 288.28,
    "end": 294.28,
    "speaker": "Speaker 1",
    "text": "Ewe. Mhlawumbi eso si-chapter, xa ndibuza imibuzo uzakwazi ukuphendula uba bekusenzeka le nale nale.",
-   "en": "Yes. Maybe that chapter, when I ask questions he will be able to answer that this and this and this was happening.",
+   "en": "Yes. Maybe that chapter, when I ask questions they will be able to answer that this and this and this was happening.",
    "agree": 0.608
   },
   {
-   "i": 91,
+   "i": 93,
    "start": 294.58,
    "end": 295.08,
    "speaker": "Speaker 2",
@@ -834,7 +852,7 @@
    "agree": 0.2
   },
   {
-   "i": 92,
+   "i": 94,
    "start": 295.28,
    "end": 296.28,
    "speaker": "Speaker 1",
@@ -843,7 +861,7 @@
    "agree": 1.0
   },
   {
-   "i": 93,
+   "i": 95,
    "start": 299.98,
    "end": 305.28,
    "speaker": "Speaker 2",
@@ -852,16 +870,16 @@
    "agree": 0.979
   },
   {
-   "i": 94,
+   "i": 96,
    "start": 305.68,
    "end": 313.12,
    "speaker": "Speaker 2",
    "text": "Because sifuna ujonga ukuba okay, ngoku, yintoni endiyenzayo mna ndingu [teacher], okay, ukuzama usombulula le problem. Uyaqonda?",
-   "en": "Because we want to look at okay, now, what is it that I do, me being the teacher, okay, to try to solve this problem. Do you understand?",
+   "en": "Because we want to look at okay, now, what is it that I do, me being the teacher, okay, to try and solve this problem. Do you understand?",
    "agree": 0.831
   },
   {
-   "i": 95,
+   "i": 97,
    "start": 313.12,
    "end": 315.92,
    "speaker": "Speaker 1",
@@ -870,16 +888,16 @@
    "agree": 0.214
   },
   {
-   "i": 96,
+   "i": 98,
    "start": 316.92,
    "end": 324.42,
    "speaker": "Speaker 1",
    "text": "So just think back whether xa ufundisa iklasi yonke okanye xa uhleli neqela, zeziphi izinto othi uzenze",
-   "en": "So just think back whether when you teach the whole class or when you sit with a group, what are the things that you do",
+   "en": "So just think back whether when you teach the whole class or when you are sitting with a group, what are the things that you do",
    "agree": 0.98
   },
   {
-   "i": 97,
+   "i": 99,
    "start": 324.82,
    "end": 325.12,
    "speaker": "Speaker 2",
@@ -888,7 +906,7 @@
    "agree": 0.0
   },
   {
-   "i": 98,
+   "i": 100,
    "start": 325.52,
    "end": 331.12,
    "speaker": "Speaker 1",
@@ -897,25 +915,34 @@
    "agree": 0.75
   },
   {
-   "i": 99,
+   "i": 101,
    "start": 331.72,
    "end": 341.6,
    "speaker": "Speaker 2",
    "text": "Ndiyafunda mna umzekelo isentence like ndiqale ekuqaleni ndiyome apha kwi full stop then bafunde bona emva kwam.",
-   "en": "I read for example a sentence like I start at the beginning and I stop here at the full stop then they read after me.",
+   "en": "I read for example a sentence like I start at the beginning and stop here at the full stop then they read after me.",
    "agree": 0.901
   },
   {
-   "i": 100,
+   "i": 102,
+   "start": 342.0,
+   "end": 342.2,
+   "speaker": "Speaker 2",
+   "text": "Mmh.",
+   "en": "Mmh.",
+   "agree": 0.0
+  },
+  {
+   "i": 103,
    "start": 342.6,
    "end": 343.9,
    "speaker": "Speaker 1",
    "text": "Ndifunde bafunde nam.",
-   "en": "I read they read with me.",
+   "en": "I read and they read with me.",
    "agree": 1.0
   },
   {
-   "i": 101,
+   "i": 104,
    "start": 344.1,
    "end": 344.8,
    "speaker": "Speaker 2",
@@ -924,25 +951,25 @@
    "agree": 1.0
   },
   {
-   "i": 102,
+   "i": 105,
    "start": 345.3,
    "end": 351.4,
    "speaker": "Speaker 2",
    "text": "So xa ufunda u- ufunda then ke bafunde nabo, u- ikhona into oyithetayo kuqala before kubo ukuba",
-   "en": "So when you read you- read then they read too, is- is there something you say first before to them that",
+   "en": "So when you read you- read then ke they read too, is- is there something you say first before to them that",
    "agree": 0.891
   },
   {
-   "i": 103,
+   "i": 106,
    "start": 352.2,
    "end": 354.1,
    "speaker": "Speaker 1",
    "text": "ucacisele into yokuba uzakwenza ntoni?",
-   "en": "you explain the thing that what are you going to do?",
+   "en": "you explain that what are you going to do?",
    "agree": 0.919
   },
   {
-   "i": 104,
+   "i": 107,
    "start": 354.9,
    "end": 359.8,
    "speaker": "Speaker 1",
@@ -951,7 +978,7 @@
    "agree": 1.0
   },
   {
-   "i": 105,
+   "i": 108,
    "start": 360.1,
    "end": 362.6,
    "speaker": "Speaker 2",
@@ -960,7 +987,7 @@
    "agree": 0.579
   },
   {
-   "i": 106,
+   "i": 109,
    "start": 363.79,
    "end": 364.19,
    "speaker": "Trainer",
@@ -969,16 +996,16 @@
    "agree": 0.0
   },
   {
-   "i": 107,
+   "i": 110,
    "start": 364.49,
    "end": 366.59,
    "speaker": "Trainer",
    "text": "Uyabacel' isicelo sokuba bafunde, bafunde emva kwakho?",
-   "en": "Do you ask them a request to read, to read after you?",
+   "en": "Do you ask them a request that they read, they read after you?",
    "agree": 0.51
   },
   {
-   "i": 108,
+   "i": 111,
    "start": 366.79,
    "end": 367.59,
    "speaker": "Speaker 1",
@@ -987,7 +1014,7 @@
    "agree": 0.733
   },
   {
-   "i": 109,
+   "i": 112,
    "start": 367.79,
    "end": 369.99,
    "speaker": "Trainer",
@@ -996,7 +1023,7 @@
    "agree": 0.759
   },
   {
-   "i": 110,
+   "i": 113,
    "start": 370.19,
    "end": 371.39,
    "speaker": "Speaker 1",
@@ -1005,7 +1032,7 @@
    "agree": 0.842
   },
   {
-   "i": 111,
+   "i": 114,
    "start": 371.59,
    "end": 372.19,
    "speaker": "Trainer",
@@ -1014,7 +1041,7 @@
    "agree": 0.0
   },
   {
-   "i": 112,
+   "i": 115,
    "start": 372.39,
    "end": 375.19,
    "speaker": "Trainer",
@@ -1023,7 +1050,7 @@
    "agree": 0.974
   },
   {
-   "i": 113,
+   "i": 116,
    "start": 375.49,
    "end": 376.09,
    "speaker": "Speaker 1",
@@ -1032,7 +1059,7 @@
    "agree": 0.0
   },
   {
-   "i": 114,
+   "i": 117,
    "start": 375.79,
    "end": 376.39,
    "speaker": "Trainer",
@@ -1041,7 +1068,7 @@
    "agree": 0.889
   },
   {
-   "i": 115,
+   "i": 118,
    "start": 376.59,
    "end": 377.19,
    "speaker": "Speaker 1",
@@ -1050,7 +1077,7 @@
    "agree": 0.0
   },
   {
-   "i": 116,
+   "i": 119,
    "start": 377.09,
    "end": 377.49,
    "speaker": "Trainer",
@@ -1059,7 +1086,7 @@
    "agree": 1.0
   },
   {
-   "i": 117,
+   "i": 120,
    "start": 377.99,
    "end": 383.39,
    "speaker": "Trainer",
@@ -1068,25 +1095,25 @@
    "agree": 0.917
   },
   {
-   "i": 118,
+   "i": 121,
    "start": 383.59,
    "end": 389.39,
    "speaker": "Trainer",
    "text": "ukuba kutheni yintoni esifuna uyenza apha sizofunda ngayo. Yes. Sifuna",
-   "en": "that why what is it we want to do here we are going to read about. Yes. We want",
+   "en": "that why what is it that we want to do here we are going to learn about it. Yes. We want",
    "agree": 0.426
   },
   {
-   "i": 119,
+   "i": 122,
    "start": 389.79,
    "end": 394.49,
    "speaker": "Trainer",
    "text": "ukufunda ngo ngokutshibilika and uyaba-demonstratela futhi into yokuba xa befunda ngokutshibilika, ne?",
-   "en": "to read with with fluency and you demonstrate to them also the thing that when they read with fluency, right?",
+   "en": "to learn about about fluency and you demonstrate to them also the thing that when they read with fluency, right?",
    "agree": 0.85
   },
   {
-   "i": 120,
+   "i": 123,
    "start": 395.09,
    "end": 395.39,
    "speaker": "Speaker 1",
@@ -1095,16 +1122,16 @@
    "agree": 0.667
   },
   {
-   "i": 121,
+   "i": 124,
    "start": 397.41,
    "end": 403.51,
    "speaker": "Trainer",
    "text": "bafunda ngotyibilika, ne? Mhm. Xa bengafundi ngotyibilika, ikhangeleka njani na?",
-   "en": "they read fluently, right? Mhm. When they do not read fluently, how does it look?",
+   "en": "they read with fluency, right? Mhm. When they do not read with fluency, how does it look?",
    "agree": 0.573
   },
   {
-   "i": 122,
+   "i": 125,
    "start": 403.81,
    "end": 404.21,
    "speaker": "Speaker 2",
@@ -1113,57 +1140,53 @@
    "agree": 1.0
   },
   {
-   "i": 123,
+   "i": 126,
    "start": 404.81,
    "end": 407.51,
    "speaker": "Trainer",
    "text": "Xa befunda ngotyibilika, ikhangeleka njani?",
-   "en": "When they read fluently, how does it look?",
-   "agree": 0.902
+   "en": "When they read with fluency, how does it look?",
+   "agree": 0.415
   },
   {
-   "i": 124,
+   "i": 127,
    "start": 407.81,
    "end": 408.11,
    "speaker": "Speaker 2",
    "text": "Okay.",
    "en": "Okay.",
    "agree": 0.0
-  },
-  {
-   "i": 125,
-   "start": 408.31,
-   "end": 408.81,
-   "speaker": "Trainer",
-   "text": "Kunjalo.",
-   "en": "It is like that.",
-   "agree": 0.571
-  },
-  {
-   "i": 126,
-   "start": 409.01,
-   "end": 411.21,
-   "speaker": "Speaker 2",
-   "text": "Right. So, mhm.",
-   "en": "Right. So, mhm.",
-   "agree": 0.333
   }
  ],
  "score": {
-  "value": 0.808,
+  "value": 0.796,
   "label": "engine agreement (proxy)",
-  "display": "80.8% engine agreement (proxy)",
-  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 80.8% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+  "display": "79.6% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 79.6% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 2 lines the engine heard in silence were removed.",
+  "removed_in_silence": 2
  },
  "agreement": {
-  "value": 0.808,
+  "value": 0.796,
   "label": "engine agreement (proxy)",
-  "display": "80.8% engine agreement (proxy)",
-  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 80.8% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+  "display": "79.6% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 79.6% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 2 lines the engine heard in silence were removed.",
+  "removed_in_silence": 2
  },
  "reference": {
   "kind": "none",
   "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
  },
- "sources": []
+ "sources": [],
+ "meaning": {
+  "value": 9.0,
+  "label": "AI-judged (proxy)",
+  "display": "9.0 / 10 meaning recovered (AI-judged)",
+  "counts": {
+   "same": 12,
+   "partly": 3,
+   "different": 0,
+   "unclear": 0
+  },
+  "line": "Against the partner's own English subtitles, a model judged Rumi's English the same in 12, partly the same in 3 and different in 0 of 15 half-minute stretches (0 too fragmentary to judge). This measures listening and translation together."
+ }
 }

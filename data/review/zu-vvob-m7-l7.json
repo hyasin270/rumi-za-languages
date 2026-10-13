@@ -1,0 +1,881 @@
+{
+ "id": "zu-vvob-m7-l7",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 19.0,
+   "end": 20.5,
+   "speaker": "Teacher",
+   "text": "Let's listen to the teacher reading the story.",
+   "en": "Let's listen to the teacher reading the story.",
+   "agree": null
+  },
+  {
+   "i": 1,
+   "start": 20.8,
+   "end": 22.5,
+   "speaker": "Teacher",
+   "text": "Okay. Ngizofunda indaba. Indaba yethu ithi...",
+   "en": "Okay. I am going to read the story. Our story says...",
+   "agree": null
+  },
+  {
+   "i": 2,
+   "start": 22.8,
+   "end": 23.5,
+   "speaker": "Learners",
+   "text": "UThemba noThandi.",
+   "en": "Themba and Thandi.",
+   "agree": null
+  },
+  {
+   "i": 3,
+   "start": 23.8,
+   "end": 24.9,
+   "speaker": "Teacher",
+   "text": "UThemba noThandi.",
+   "en": "Themba and Thandi.",
+   "agree": null
+  },
+  {
+   "i": 4,
+   "start": 25.2,
+   "end": 25.9,
+   "speaker": "Learners",
+   "text": "UThemba noThandi.",
+   "en": "Themba and Thandi.",
+   "agree": null
+  },
+  {
+   "i": 5,
+   "start": 26.2,
+   "end": 27.4,
+   "speaker": "Teacher",
+   "text": "UThemba noThandi.",
+   "en": "Themba and Thandi.",
+   "agree": null
+  },
+  {
+   "i": 6,
+   "start": 27.7,
+   "end": 28.4,
+   "speaker": "Learners",
+   "text": "UThemba noThandi.",
+   "en": "Themba and Thandi.",
+   "agree": null
+  },
+  {
+   "i": 7,
+   "start": 28.7,
+   "end": 29.9,
+   "speaker": "Teacher",
+   "text": "UThemba noThandi.",
+   "en": "Themba and Thandi.",
+   "agree": null
+  },
+  {
+   "i": 8,
+   "start": 30.2,
+   "end": 30.9,
+   "speaker": "Learners",
+   "text": "UThemba noThandi.",
+   "en": "Themba and Thandi.",
+   "agree": null
+  },
+  {
+   "i": 9,
+   "start": 31.47,
+   "end": 34.57,
+   "speaker": "Teacher",
+   "text": "Kwisifundo sethu sanamhlanje sokufunda kuzwakale,",
+   "en": "In our lesson of today of reading aloud,",
+   "agree": null
+  },
+  {
+   "i": 10,
+   "start": 35.07,
+   "end": 38.47,
+   "speaker": "Teacher",
+   "text": "sizofunda indaba yethu emnandi kakhulu bafundi.",
+   "en": "we are going to read our very nice story, learners.",
+   "agree": null
+  },
+  {
+   "i": 11,
+   "start": 38.87,
+   "end": 43.57,
+   "speaker": "Teacher",
+   "text": "Indaba esesizoyifunda namhlanje isihloko sayo sithi, umlimi nehashi lakhe.",
+   "en": "The story that we are going to read today, its title says, the farmer and their horse.",
+   "agree": null
+  },
+  {
+   "i": 12,
+   "start": 43.87,
+   "end": 45.07,
+   "speaker": "Teacher",
+   "text": "Sithini isihloko sethu?",
+   "en": "What does our title say?",
+   "agree": null
+  },
+  {
+   "i": 13,
+   "start": 45.37,
+   "end": 47.97,
+   "speaker": "Learners",
+   "text": "Umlimi nehashi lakhe.",
+   "en": "The farmer and their horse.",
+   "agree": null
+  },
+  {
+   "i": 14,
+   "start": 48.27,
+   "end": 53.97,
+   "speaker": "Teacher",
+   "text": "Imnandi kakhulu lendaba esizobe siyifunda namhlanje futhi kuningi esingakufunda nje ngempilo nje singabantu.",
+   "en": "It is very nice, this story that we will be reading today, and there is a lot we can learn just about life as people.",
+   "agree": null
+  },
+  {
+   "i": 15,
+   "start": 54.17,
+   "end": 55.37,
+   "speaker": "Teacher",
+   "text": "Siyezwana angithi?",
+   "en": "We understand each other, right?",
+   "agree": null
+  },
+  {
+   "i": 16,
+   "start": 55.77,
+   "end": 56.37,
+   "speaker": "Learners",
+   "text": "Yebo.",
+   "en": "Yes.",
+   "agree": null
+  },
+  {
+   "i": 17,
+   "start": 56.77,
+   "end": 57.57,
+   "speaker": "Teacher",
+   "text": "Uma ngabe",
+   "en": "If you",
+   "agree": null
+  },
+  {
+   "i": 18,
+   "start": 60.36,
+   "end": 60.76,
+   "speaker": "Learners",
+   "text": "Yebo.",
+   "en": "Yes.",
+   "agree": null
+  },
+  {
+   "i": 19,
+   "start": 60.96,
+   "end": 65.56,
+   "speaker": "Teacher",
+   "text": "Uma ngabe uzwa isihloko esithi umlimi nehashi lakhe, yini efikayo kuwena? Ucabanga ukuthi le ndaba izobe ikhuluma ngani?",
+   "en": "If you hear the title that says the farmer and their horse, what comes to you? What do you think this story will be talking about?",
+   "agree": null
+  },
+  {
+   "i": 20,
+   "start": 66.06,
+   "end": 66.76,
+   "speaker": "Teacher",
+   "text": "Yes, [learner].",
+   "en": "Yes, [learner].",
+   "agree": null
+  },
+  {
+   "i": 21,
+   "start": 67.06,
+   "end": 71.56,
+   "speaker": "Learner",
+   "text": "Umlimi nehashi lakhe basebenza ubusuku nemini engadini.",
+   "en": "The farmer and their horse work night and day in the garden.",
+   "agree": null
+  },
+  {
+   "i": 22,
+   "start": 71.96,
+   "end": 72.36,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": null
+  },
+  {
+   "i": 23,
+   "start": 72.66,
+   "end": 79.56,
+   "speaker": "Teacher",
+   "text": "Ake siqhubekeleni phambili ke ke. Uma ngabe sizwa isihloko sithi umlimi nehashi lakhe, yini kanti umlimi? Sesake sambona thina umlimi empilweni yethu?",
+   "en": "Let us move forward then. If we hear the title saying the farmer and their horse, what is a farmer anyway? Have we ever seen a farmer in our lives?",
+   "agree": null
+  },
+  {
+   "i": 24,
+   "start": 79.86,
+   "end": 80.36,
+   "speaker": "Learners",
+   "text": "Yebo.",
+   "en": "Yes.",
+   "agree": null
+  },
+  {
+   "i": 25,
+   "start": 80.86,
+   "end": 81.76,
+   "speaker": "Teacher",
+   "text": "Yini ke umlimi?",
+   "en": "What then is a farmer?",
+   "agree": null
+  },
+  {
+   "i": 26,
+   "start": 82.46,
+   "end": 82.96,
+   "speaker": "Teacher",
+   "text": "[learner]?",
+   "en": "[learner]?",
+   "agree": null
+  },
+  {
+   "i": 27,
+   "start": 83.56,
+   "end": 84.56,
+   "speaker": "Learner",
+   "text": "Umlimi umuntu",
+   "en": "A farmer is a person",
+   "agree": null
+  },
+  {
+   "i": 28,
+   "start": 88.56,
+   "end": 91.96,
+   "speaker": "Learner",
+   "text": "Umlimi umuntu osebenzayo engadini.",
+   "en": "A farmer is a person who works in the garden.",
+   "agree": null
+  },
+  {
+   "i": 29,
+   "start": 92.36,
+   "end": 98.16,
+   "speaker": "Teacher",
+   "text": "Okay, very good. Sesizwile ukuthi isihloko besikhuluma ngani? Ngomlimi. Siphinde futhi sesikhuluma ngani? Nangehhashi.",
+   "en": "Okay, very good. We have heard what the title was talking about? About the farmer. And again, what is it talking about? And about the horse.",
+   "agree": null
+  },
+  {
+   "i": 30,
+   "start": 98.96,
+   "end": 102.86,
+   "speaker": "Teacher",
+   "text": "Ubongasichazela ukuthi masikhuluma ngehhashi kusuke kukhulunywa ngani? [learner]?",
+   "en": "Could you explain to us, when we talk about a horse, what is being talked about? [learner]?",
+   "agree": null
+  },
+  {
+   "i": 31,
+   "start": 103.16,
+   "end": 108.66,
+   "speaker": "Learner",
+   "text": "Ihhashi isilwane esinemilenze emine futhi siyakwazi ukugibelwa abantu.",
+   "en": "A horse is an animal that has four legs and it can be ridden by people.",
+   "agree": null
+  },
+  {
+   "i": 32,
+   "start": 109.06,
+   "end": 113.86,
+   "speaker": "Teacher",
+   "text": "Very good. Sithe isihloko sendaba yethu ithi umlimi nehhashi lakhe.",
+   "en": "Very good. We said the title of our story says the farmer and their horse.",
+   "agree": null
+  },
+  {
+   "i": 33,
+   "start": 114.58,
+   "end": 119.08,
+   "speaker": "Teacher",
+   "text": "Lalelani ke. Indaba yethu ethi uMlimi nehashi lakhe ikhuluma ngomnumzane Dlamini.",
+   "en": "Listen then. Our story that says the Farmer and their horse talks about Mr Dlamini.",
+   "agree": null
+  },
+  {
+   "i": 34,
+   "start": 119.58,
+   "end": 124.08,
+   "speaker": "Teacher",
+   "text": "Niyezwa? Owayenendodana yakhe eyodwa vo, ogama layo kwakubani? UZolani.",
+   "en": "Do you hear? Who had their only son, whose name was who? Zolani.",
+   "agree": null
+  },
+  {
+   "i": 35,
+   "start": 124.58,
+   "end": 130.88,
+   "speaker": "Teacher",
+   "text": "Bathi ngaphambi kokuba siyofunda indaba, kunamagama amasha asendabeni okumele kuqale sidlule kuwona siwachaze ukuthi ingabe achaza ukuthini.",
+   "en": "They say before we go to read the story, there are new words in the story that we must first go through and explain what they mean.",
+   "agree": null
+  },
+  {
+   "i": 36,
+   "start": 131.28,
+   "end": 134.28,
+   "speaker": "Teacher",
+   "text": "Ubani ongangifundela leli gama? Lithini leli gama? Phakamisa isandla sakho.",
+   "en": "Who can read this word for me? What does this word say? Raise your hand.",
+   "agree": null
+  },
+  {
+   "i": 37,
+   "start": 134.88,
+   "end": 135.38,
+   "speaker": "Teacher",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": null
+  },
+  {
+   "i": 38,
+   "start": 135.98,
+   "end": 136.58,
+   "speaker": "Learners",
+   "text": "Phuba.",
+   "en": "Phuba.",
+   "agree": null
+  },
+  {
+   "i": 39,
+   "start": 136.98,
+   "end": 138.18,
+   "speaker": "Teacher",
+   "text": "Lithini igama?",
+   "en": "What is the word?",
+   "agree": null
+  },
+  {
+   "i": 40,
+   "start": 138.28,
+   "end": 140.58,
+   "speaker": "Learners",
+   "text": "Phuba.",
+   "en": "Phuba.",
+   "agree": null
+  },
+  {
+   "i": 41,
+   "start": 140.98,
+   "end": 141.58,
+   "speaker": "Teacher",
+   "text": "Lithini?",
+   "en": "What does it say?",
+   "agree": null
+  },
+  {
+   "i": 42,
+   "start": 141.68,
+   "end": 143.08,
+   "speaker": "Learners",
+   "text": "Phuba.",
+   "en": "Phuba.",
+   "agree": null
+  },
+  {
+   "i": 43,
+   "start": 144.97,
+   "end": 145.47,
+   "speaker": "Teacher",
+   "text": "Lithini?",
+   "en": "What does it say?",
+   "agree": null
+  },
+  {
+   "i": 44,
+   "start": 145.87,
+   "end": 146.57,
+   "speaker": "Learners",
+   "text": "Qhubha!",
+   "en": "Qhubha!",
+   "agree": null
+  },
+  {
+   "i": 45,
+   "start": 147.37,
+   "end": 151.37,
+   "speaker": "Teacher",
+   "text": "Isiphi isithombe othi wena sihambisana naleli gama elithi qhubha?",
+   "en": "Which picture do you say goes with this word that says qhubha?",
+   "agree": null
+  },
+  {
+   "i": 46,
+   "start": 151.87,
+   "end": 152.67,
+   "speaker": "Teacher",
+   "text": "Woza [learner].",
+   "en": "Come [learner].",
+   "agree": null
+  },
+  {
+   "i": 47,
+   "start": 158.47,
+   "end": 159.37,
+   "speaker": "Learners",
+   "text": "Yebo!",
+   "en": "Yes!",
+   "agree": null
+  },
+  {
+   "i": 48,
+   "start": 159.57,
+   "end": 162.07,
+   "speaker": "Teacher",
+   "text": "Asimshayeleni ihlombe [learner] esehlala phansi.",
+   "en": "Let us clap hands for [learner] as they sit down.",
+   "agree": null
+  },
+  {
+   "i": 49,
+   "start": 165.37,
+   "end": 167.57,
+   "speaker": "Teacher",
+   "text": "Igama elithi lithi qhubha lisho ukuthini?",
+   "en": "The word that says qhubha means what?",
+   "agree": null
+  },
+  {
+   "i": 50,
+   "start": 167.87,
+   "end": 168.57,
+   "speaker": "Learners",
+   "text": "Qhubha!",
+   "en": "Qhubha!",
+   "agree": null
+  },
+  {
+   "i": 51,
+   "start": 168.77,
+   "end": 171.57,
+   "speaker": "Teacher",
+   "text": "Asenzeni sonke ke siqhubhe, senjani mangabe siqhubha? Qhubha.",
+   "en": "Let us all do then we drive, what do we do when we drive? Drive.",
+   "agree": null
+  },
+  {
+   "i": 52,
+   "start": 172.17,
+   "end": 172.77,
+   "speaker": "Teacher",
+   "text": "Asenzeni futhi.",
+   "en": "Let us do it again.",
+   "agree": null
+  },
+  {
+   "i": 53,
+   "start": 172.97,
+   "end": 173.67,
+   "speaker": "Learners",
+   "text": "Qhubha!",
+   "en": "Qhubha!",
+   "agree": null
+  },
+  {
+   "i": 54,
+   "start": 176.06,
+   "end": 176.76,
+   "speaker": "Learners",
+   "text": "Qhuba.",
+   "en": "Qhuba.",
+   "agree": null
+  },
+  {
+   "i": 55,
+   "start": 177.76,
+   "end": 184.26,
+   "speaker": "Teacher",
+   "text": "Okay, asilaleleni ke. Ukuqhuba ukuhambisa into ngaphambi kwakho ubuyiqondise ukuthi ayibheke ngakhephi.",
+   "en": "Okay, let us listen then. To drive is to move something in front of you and direct it where it should look.",
+   "agree": null
+  },
+  {
+   "i": 56,
+   "start": 184.46,
+   "end": 185.36,
+   "speaker": "Teacher",
+   "text": "Siyezwana angithi?",
+   "en": "We understand each other, right?",
+   "agree": null
+  },
+  {
+   "i": 57,
+   "start": 185.76,
+   "end": 186.16,
+   "speaker": "Learners",
+   "text": "Yebo.",
+   "en": "Yes.",
+   "agree": null
+  },
+  {
+   "i": 58,
+   "start": 186.66,
+   "end": 189.16,
+   "speaker": "Teacher",
+   "text": "Uzothatha igama elithi qhuba bese akhande umusho ngalo.",
+   "en": "Who will take the word qhuba and then make a sentence with it?",
+   "agree": null
+  },
+  {
+   "i": 59,
+   "start": 189.56,
+   "end": 192.16,
+   "speaker": "Teacher",
+   "text": "Ingabe leli gama singalibeka singalisebenzisa kanjani emshweni?",
+   "en": "How can we put this word, how can we use it in a sentence?",
+   "agree": null
+  },
+  {
+   "i": 60,
+   "start": 193.86,
+   "end": 195.86,
+   "speaker": "Learners",
+   "text": "Ubaba uqhuba izinkomo.",
+   "en": "Father drives the cattle.",
+   "agree": null
+  },
+  {
+   "i": 61,
+   "start": 196.26,
+   "end": 198.16,
+   "speaker": "Teacher",
+   "text": "Ubaba uqhuba izinkomo.",
+   "en": "Father drives the cattle.",
+   "agree": null
+  },
+  {
+   "i": 62,
+   "start": 198.56,
+   "end": 203.26,
+   "speaker": "Teacher",
+   "text": "Okay, asilaleleni ke manje. Siyadlulela, sidlulele egameni lethu lesibili.",
+   "en": "Okay, let us listen now. We are passing, we pass to our second word.",
+   "agree": null
+  },
+  {
+   "i": 63,
+   "start": 203.56,
+   "end": 205.86,
+   "speaker": "Teacher",
+   "text": "Ubani ongangichazela igama lami leli lesibili?",
+   "en": "Who can explain to me this second word of mine?",
+   "agree": null
+  },
+  {
+   "i": 64,
+   "start": 207.26,
+   "end": 208.26,
+   "speaker": "Teacher",
+   "text": "Yes [learner]?",
+   "en": "Yes [learner]?",
+   "agree": null
+  },
+  {
+   "i": 65,
+   "start": 209.06,
+   "end": 210.06,
+   "speaker": "Learner",
+   "text": "Siyahlakula.",
+   "en": "We are weeding.",
+   "agree": null
+  },
+  {
+   "i": 66,
+   "start": 210.16,
+   "end": 211.66,
+   "speaker": "Teacher",
+   "text": "Lithini igama? Asifunde sonke.",
+   "en": "What is the word? Let us all read.",
+   "agree": null
+  },
+  {
+   "i": 67,
+   "start": 211.96,
+   "end": 213.26,
+   "speaker": "Learners",
+   "text": "Siyahlakula.",
+   "en": "We are weeding.",
+   "agree": null
+  },
+  {
+   "i": 68,
+   "start": 213.36,
+   "end": 213.96,
+   "speaker": "Teacher",
+   "text": "Lithini?",
+   "en": "What does it say?",
+   "agree": null
+  },
+  {
+   "i": 69,
+   "start": 214.36,
+   "end": 215.66,
+   "speaker": "Learners",
+   "text": "Siyahlakula.",
+   "en": "We are weeding.",
+   "agree": null
+  },
+  {
+   "i": 70,
+   "start": 216.66,
+   "end": 223.36,
+   "speaker": "Teacher",
+   "text": "Ukuhlakula ukwenzenjani ke? Asenzeni sonke. Mangabe sihlakula senzenjani? Siphethe amageja senzenjani? Siyahlakula. Senzenjani?",
+   "en": "To weed is to do what then? Let us all do. When we weed what do we do? We hold hoes and do what? We are weeding. What do we do?",
+   "agree": null
+  },
+  {
+   "i": 71,
+   "start": 223.46,
+   "end": 224.56,
+   "speaker": "Learners",
+   "text": "Siyahlakula.",
+   "en": "We are weeding.",
+   "agree": null
+  },
+  {
+   "i": 72,
+   "start": 224.56,
+   "end": 228.16,
+   "speaker": "Teacher",
+   "text": "Okay, ngaphambi kokuthi silichaze igama ukuthi lisho ukuthini, isiphi isithombe esihambisana naleli gama?",
+   "en": "Okay, before we explain what the word means, which picture goes with this word?",
+   "agree": null
+  },
+  {
+   "i": 73,
+   "start": 229.46,
+   "end": 233.66,
+   "speaker": "Teacher",
+   "text": "Isiphi isithombe esihambisana naleli gama elithi hlakula?",
+   "en": "Which picture goes with this word that says weed?",
+   "agree": null
+  },
+  {
+   "i": 74,
+   "start": 234.26,
+   "end": 235.16,
+   "speaker": "Teacher",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": null
+  },
+  {
+   "i": 75,
+   "start": 235.14,
+   "end": 236.14,
+   "speaker": "Teacher",
+   "text": "[learner]?",
+   "en": "[learner]?",
+   "agree": null
+  },
+  {
+   "i": 76,
+   "start": 242.14,
+   "end": 244.14,
+   "speaker": "Teacher",
+   "text": "Si-right isithombe esiphethwe [learner]?",
+   "en": "Is the picture held by [learner] right?",
+   "agree": null
+  },
+  {
+   "i": 77,
+   "start": 244.24,
+   "end": 244.64,
+   "speaker": "Learners",
+   "text": "Yebo!",
+   "en": "Yes!",
+   "agree": null
+  },
+  {
+   "i": 78,
+   "start": 244.74,
+   "end": 247.14,
+   "speaker": "Teacher",
+   "text": "Ngobani? Wenzani lomuntu kanti?",
+   "en": "Why? What is this person doing then?",
+   "agree": null
+  },
+  {
+   "i": 79,
+   "start": 247.24,
+   "end": 248.64,
+   "speaker": "Learners",
+   "text": "Uyahla-",
+   "en": "They are weed-",
+   "agree": null
+  },
+  {
+   "i": 80,
+   "start": 248.64,
+   "end": 249.94,
+   "speaker": "Teacher",
+   "text": "Uyahla-",
+   "en": "They are weed-",
+   "agree": null
+  },
+  {
+   "i": 81,
+   "start": 249.94,
+   "end": 250.34,
+   "speaker": "Learners",
+   "text": "kula.",
+   "en": "kula.",
+   "agree": null
+  },
+  {
+   "i": 82,
+   "start": 250.34,
+   "end": 251.54,
+   "speaker": "Teacher",
+   "text": "Yes, uyahlakula.",
+   "en": "Yes, they are weeding.",
+   "agree": null
+  },
+  {
+   "i": 83,
+   "start": 251.74,
+   "end": 254.54,
+   "speaker": "Teacher",
+   "text": "Igama elithi sihlakula likhaza ukuthini? Lisho ukuthini nje?",
+   "en": "The word that says we weed, what does it mean? What does it just mean?",
+   "agree": null
+  },
+  {
+   "i": 84,
+   "start": 255.04,
+   "end": 256.04,
+   "speaker": "Teacher",
+   "text": "Yes, [learner]?",
+   "en": "Yes, [learner]?",
+   "agree": null
+  },
+  {
+   "i": 85,
+   "start": 256.74,
+   "end": 259.54,
+   "speaker": "Learner",
+   "text": "Ukuhlakula ukuhlakula emhlabeni.",
+   "en": "To weed is to weed in the soil.",
+   "agree": null
+  },
+  {
+   "i": 86,
+   "start": 259.64,
+   "end": 261.54,
+   "speaker": "Teacher",
+   "text": "Okay, uthi ukuhlakula ukuhlakula ama-",
+   "en": "Okay, you say to weed is to weed the-",
+   "agree": null
+  },
+  {
+   "i": 87,
+   "start": 261.54,
+   "end": 263.34,
+   "speaker": "Teacher",
+   "text": "Lalela ukuthi ukuhlakula kuyini.",
+   "en": "Listen to what weeding is.",
+   "agree": null
+  },
+  {
+   "i": 88,
+   "start": 263.46,
+   "end": 267.76,
+   "speaker": "Teacher",
+   "text": "ukuthi ukuhlakula kuyini. Ukuhlakula ukukhipha ukhula kephi ezitshalweni.",
+   "en": "what weeding is. Weeding is to remove weeds where, from the plants.",
+   "agree": null
+  },
+  {
+   "i": 89,
+   "start": 268.56,
+   "end": 271.26,
+   "speaker": "Teacher",
+   "text": "Ngizocela umuntu oyedwa ke eqenjini ngalinye eze ngaphambili.",
+   "en": "I will ask one person then from each group to come to the front.",
+   "agree": null
+  },
+  {
+   "i": 90,
+   "start": 271.76,
+   "end": 288.26,
+   "speaker": "Learner",
+   "text": "Abushelelezi, ubucwacwacwa, bengazelele, ucwezu, acebile, xotshisa amatshe, ufeleba, gudla, hwehwa, uhlanzi, ohlangothini, ihlo, ihlozi, imvukuzane, amahlengethwa, mpunga, qoloda, ukushintsha, tshatha, izimpophomo.",
+   "en": "Smooth, glitter, unexpectedly, slice, they are rich, skip stones, giant, scrape, beckon, clean, on the side, eye, leopard, mole, dolphins, grey, leap, to change, carry on shoulders, waterfalls.",
+   "agree": null
+  },
+  {
+   "i": 91,
+   "start": 288.26,
+   "end": 295.46,
+   "speaker": "Learner",
+   "text": "Izimpophoma, izingwadule, imbazo, matasatasa, imizuzu, ingqina, shosholoza, izi-",
+   "en": "Waterfalls, deserts, axe, busy, minutes, steenbok, push forward, izi-",
+   "agree": null
+  },
+  {
+   "i": 92,
+   "start": 296.22,
+   "end": 315.82,
+   "speaker": "Learner",
+   "text": "imizuzu, inyembe, shosholoza, isigidi, izintsa- izintsalela, amathambo, igaduni, umfomuko, khuculula, isikhukhuka, isikhukhumalisi samubumbana, isizemazema, ihlamvu, intsempe, mbibi, isiminsi sinenhlanhla esiyisizemazema, yisilande yisilandlekazi.",
+   "en": "minutes, tear, push forward, million, rem- remains, bones, garden, overflow, clean up, flood, baking powder of clay, giant, leaf, partridge, striped mouse, the lucky glutton which is a giant, it is a long story/giant woman.",
+   "agree": null
+  },
+  {
+   "i": 93,
+   "start": 319.02,
+   "end": 323.92,
+   "speaker": "Learner",
+   "text": "izitha, tsholihlala, iqhina.",
+   "en": "enemies, tsholihlala, steenbok.",
+   "agree": null
+  },
+  {
+   "i": 94,
+   "start": 327.68,
+   "end": 333.48,
+   "speaker": "Learner",
+   "text": "Tholihlala, ithinga, isimizi, ibhulohwe, hlakula, khuba.",
+   "en": "Tholihlala, ithinga, isimizi, bridge, weed, hoe.",
+   "agree": null
+  }
+ ],
+ "score": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides. 3 lines the engine heard in silence were removed.",
+  "removed_in_silence": 3
+ },
+ "agreement": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides. 3 lines the engine heard in silence were removed.",
+  "removed_in_silence": 3
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

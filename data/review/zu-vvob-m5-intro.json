@@ -1,0 +1,136 @@
+{
+ "id": "zu-vvob-m5-intro",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 3.1,
+   "end": 9.8,
+   "speaker": "Trainer",
+   "text": "Sanibonani namukelekile kwi-module yemisindo lapho ozofunda ngemisindo efanele ukufundwa ebangeni ngalinye.",
+   "en": "Hello, welcome to the phonics module where you will learn about the sounds that should be taught in each grade.",
+   "agree": 1.0
+  },
+  {
+   "i": 1,
+   "start": 10.1,
+   "end": 12.3,
+   "speaker": "Trainer",
+   "text": "Kusukela kwa-R kuya kwelesithathu.",
+   "en": "From Grade R to the third.",
+   "agree": 1.0
+  },
+  {
+   "i": 2,
+   "start": 13.2,
+   "end": 23.8,
+   "speaker": "Trainer",
+   "text": "I-module oqeda ukuyifunda ibikhuluma ngolwazi lwemisindo lapho olungiselela ukwethula umsindo omusha ngokuthi bawulalele, bawuzwe, bakwazi nokuhlukaniswa ngokubuzwa.",
+   "en": "The module you have just finished reading was talking about phonological awareness where you prepare to introduce a new sound by having them listen to it, hear it, and be able to distinguish it when asked.",
+   "agree": 0.969
+  },
+  {
+   "i": 3,
+   "start": 24.8,
+   "end": 29.0,
+   "speaker": "Trainer",
+   "text": "Manje sizosiza abafundi ukuzwa, ukubona",
+   "en": "Now we will help the learners to hear, to see",
+   "agree": 0.895
+  },
+  {
+   "i": 4,
+   "start": 28.9,
+   "end": 33.3,
+   "speaker": "Trainer",
+   "text": "Sizosiza abafundi ukuzwa, ukubona, ukuphimisa nokubhala imisindo.",
+   "en": "We will help the learners to hear, to see, to pronounce and to write the sounds.",
+   "agree": 1.0
+  },
+  {
+   "i": 5,
+   "start": 34.3,
+   "end": 39.5,
+   "speaker": "Trainer",
+   "text": "Emuva kokuqeda le-module uzokwazi ukuchaza ukuthi ulwazi lwemisindo lweseka kanjani amakhono emisindo.",
+   "en": "After completing this module you will be able to explain how phonological awareness supports phonics skills.",
+   "agree": 0.901
+  },
+  {
+   "i": 6,
+   "start": 40.5,
+   "end": 45.5,
+   "speaker": "Trainer",
+   "text": "Ukuthi amakhono abaluleke kangakanani ekufundiseni izinhlamvu olimini lwesiZulu.",
+   "en": "How important the skills are in teaching letters in the isiZulu language.",
+   "agree": 1.0
+  },
+  {
+   "i": 7,
+   "start": 46.3,
+   "end": 48.3,
+   "speaker": "Trainer",
+   "text": "Ukufundisa izinhlamvu zolimi lwesiZulu.",
+   "en": "To teach the letters of the isiZulu language.",
+   "agree": 1.0
+  },
+  {
+   "i": 8,
+   "start": 49.1,
+   "end": 50.1,
+   "speaker": "Trainer",
+   "text": "Ukuhlola imisindo.",
+   "en": "To assess phonics.",
+   "agree": 1.0
+  },
+  {
+   "i": 9,
+   "start": 50.7,
+   "end": 54.0,
+   "speaker": "Trainer",
+   "text": "Ukubona isikhathi okumele usichithe uma ufundisa imisindo.",
+   "en": "To see the time you need to spend when you teach phonics.",
+   "agree": 1.0
+  },
+  {
+   "i": 10,
+   "start": 54.7,
+   "end": 59.3,
+   "speaker": "Trainer",
+   "text": "Ngithanda ukusebenzisa imidlalo ehlukene ukufundisa imisindo njengokucula ingoma yemisindo.",
+   "en": "I like to use different games to teach phonics such as singing a phonics song.",
+   "agree": 0.978
+  },
+  {
+   "i": 11,
+   "start": 60.1,
+   "end": 62.6,
+   "speaker": "Trainer",
+   "text": "Asibone ukuthi ngikwenza kanjani lokhu.",
+   "en": "Let's see how I do this.",
+   "agree": 1.0
+  }
+ ],
+ "score": {
+  "value": 0.974,
+  "label": "engine agreement (proxy)",
+  "display": "97.4% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.4% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
+ },
+ "agreement": {
+  "value": 0.974,
+  "label": "engine agreement (proxy)",
+  "display": "97.4% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.4% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

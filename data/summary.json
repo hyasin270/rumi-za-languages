@@ -39,7 +39,8 @@
      "value": "8.8",
      "label": "measured",
      "href": "zu.html#listening",
-     "review_href": "review.html?lang=zu"
+     "review_href": "review.html?lang=zu",
+     "partner_note": "Partner recordings (25): engines agree on 91.0% of characters, classroom lessons 88.1% (proxy). The expected classroom gap."
     },
     "Q3": {
      "value": "9.6",
@@ -75,7 +76,8 @@
      "value": "7.8",
      "label": "measured",
      "href": "xh.html#listening",
-     "review_href": "review.html?lang=xh"
+     "review_href": "review.html?lang=xh",
+     "partner_note": "Partner classroom recordings: engines disagree on 25.5% of characters (proxy); meaning recovered 8.5 of 10 (AI-judged). The headline overstates classroom listening."
     },
     "Q3": {
      "value": "7.6",
@@ -111,7 +113,8 @@
      "label": "measured",
      "href": "st.html#listening",
      "note": "short read prompts; not comparable with isiZulu/isiXhosa",
-     "review_href": "review.html?lang=st"
+     "review_href": "review.html?lang=st",
+     "partner_note": "Partner recordings (2): engines agree on 85.9% of characters (proxy); meaning recovered 9.2 of 10 (AI-judged). The expected classroom gap."
     },
     "Q3": {
      "value": "9.7",
@@ -252,9 +255,10 @@
  ],
  "legend": {
   "measured": "a script compared Rumi's output with a known-good reference",
-  "AI-judged": "a second AI model judged it, or two engines were compared where no human reference exists; never decides a verdict",
+  "AI-judged": "a second AI model judged it; never decides a verdict",
   "native ear pending": "no first-language speaker has checked it yet; true of every number on this site",
   "verdict": "GREEN: every test run scored 7 or more out of 10. AMBER: one landed between 4 and 7. RED: one fell below 4. Rounding always goes against us: scores are cut down, error rates up.",
-  "review": "Listening review: partner recordings and public lessons, transcript shown line by line; reviewers' corrections become a measured error rate per recording. The headline Listening score comes from read speech with human transcripts and does not change."
+  "review": "Listening review: partner recordings and public lessons, transcript shown line by line; reviewers' corrections become a measured error rate per recording. The headline Listening score comes from read speech with human transcripts and does not change.",
+  "proxy": "two engines compared; not checked against a person. Where they disagree at least one is wrong; where they agree both can still be wrong"
  }
 }

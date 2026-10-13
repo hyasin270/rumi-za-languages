@@ -1,0 +1,778 @@
+{
+ "id": "st-fw-teaching-reading",
+ "lang": "st",
+ "engine": "Gemini 3.5 Flash",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 4.5,
+   "end": 9.5,
+   "speaker": "Trainer",
+   "text": "Mekgwa e mehlano eo re tshwanetseng re di rute baithuti ha ba ithuta ho bala.",
+   "en": "Five methods that we must teach learners when they learn to read.",
+   "agree": 0.684
+  },
+  {
+   "i": 1,
+   "start": 9.5,
+   "end": 13.5,
+   "speaker": "Trainer",
+   "text": "Ntlha ya bobedi, yona re e bitsa ho dicoda.",
+   "en": "The second point, we call it decoding.",
+   "agree": 0.805
+  },
+  {
+   "i": 2,
+   "start": 13.5,
+   "end": 18.5,
+   "speaker": "Trainer",
+   "text": "Mona re ruta bana ho hlahla mantswe a ngotsweng.",
+   "en": "Here we teach children to decode written words.",
+   "agree": 0.936
+  },
+  {
+   "i": 3,
+   "start": 18.5,
+   "end": 30.8,
+   "speaker": "Trainer",
+   "text": "Ho dicoda ho bohlokwa hobane ho kenyeletsa hape le tsebo ya kamanano ya medumo le ditlhaku tsa nteterewano.",
+   "en": "Decoding is important because it also includes knowledge of the relationship of sounds and letters of the alphabet.",
+   "agree": 0.509
+  },
+  {
+   "i": 4,
+   "start": 30.8,
+   "end": 40.0,
+   "speaker": "Trainer",
+   "text": "Hape ho thusa bana hore ba tsebe ho arola lentswe ka dinoko kapa ka medumo. Hape ba tsebe ho kopanya",
+   "en": "Also it helps children so that they know how to divide a word by syllables or by sounds. Also they know how to combine",
+   "agree": 1.0
+  },
+  {
+   "i": 5,
+   "start": 40.0,
+   "end": 43.5,
+   "speaker": "Trainer",
+   "text": "medumo kapa dinoko ho aha lentswe.",
+   "en": "sounds or syllables to build a word.",
+   "agree": 1.0
+  },
+  {
+   "i": 6,
+   "start": 43.5,
+   "end": 51.0,
+   "speaker": "Trainer",
+   "text": "Hona ho bohlokwa haholo bane ke yona karolo ya pele eo bana ba ithutang yona ha ba ithuta ho bala.",
+   "en": "This is very important because it is the first part that children learn when they learn to read.",
+   "agree": 0.897
+  },
+  {
+   "i": 7,
+   "start": 51.0,
+   "end": 56.5,
+   "speaker": "Trainer",
+   "text": "Ya bobedi ntlha yona re e bitsa hore ke kutlwisiso ya ho bala.",
+   "en": "The second point we call it reading comprehension.",
+   "agree": 1.0
+  },
+  {
+   "i": 8,
+   "start": 56.5,
+   "end": 58.5,
+   "speaker": "Trainer",
+   "text": "Mona re batla",
+   "en": "Here we want",
+   "agree": 0.462
+  },
+  {
+   "i": 9,
+   "start": 60.0,
+   "end": 70.0,
+   "speaker": "Trainer",
+   "text": "Mona re batla moithuti e mong le e mong a utlwisise seo a se balang. Ngwana ha ana tsebo ya ho utlwisisa seo a se balang, ha eba neng a sa tsebe ho decoder.",
+   "en": "Here we want each and every learner to understand what they are reading. A child does not have the knowledge to understand what they are reading, if they do not know how to decoder.",
+   "agree": 0.915
+  },
+  {
+   "i": 10,
+   "start": 70.0,
+   "end": 73.0,
+   "speaker": "Trainer",
+   "text": "Ho bohlokwa haholo hore re qalelele mohapa.",
+   "en": "It is very important that we start from the beginning.",
+   "agree": 0.881
+  },
+  {
+   "i": 11,
+   "start": 73.0,
+   "end": 81.0,
+   "speaker": "Trainer",
+   "text": "Engwe hape karolo ya bohlokwa, yona re e bitsa hore ke tshehelo ya ho bala, e re tla reng ke reading motivation.",
+   "en": "Another important part, we call it reading support, which we will say is reading motivation.",
+   "agree": 0.927
+  },
+  {
+   "i": 12,
+   "start": 81.0,
+   "end": 88.5,
+   "speaker": "Trainer",
+   "text": "Ena he, e bohlokwa hobane mona re batla ho sebedisa mekgwa e fapaneng e tla",
+   "en": "This one, it is important because here we want to use different methods that will",
+   "agree": 1.0
+  },
+  {
+   "i": 13,
+   "start": 88.5,
+   "end": 99.9,
+   "speaker": "Trainer",
+   "text": "re badisa mekgwa e fapaneng e tla hohelang baithuti ho ba le tsheseho ya ho bala, ba rate ho bala, hape ba natifellwe ke seo ba se balang. Hape, hona ho tla ba thusa hore ba itshepe jwaloka babadi, hobane ba tlo be ba na le bokgoni ba ho bala.",
+   "en": "make us read different methods that will attract learners to have an interest in reading, they should love to read, and also they should enjoy what they are reading. Also, this will help them to trust themselves as readers, because they will have the ability to read.",
+   "agree": 0.928
+  },
+  {
+   "i": 14,
+   "start": 99.9,
+   "end": 103.9,
+   "speaker": "Trainer",
+   "text": "Jwale he bana, re ba ruta jwang hore ba be le tsheseho ya ho bala?",
+   "en": "Now then children, how do we teach them so that they have an interest in reading?",
+   "agree": 0.906
+  },
+  {
+   "i": 15,
+   "start": 103.9,
+   "end": 109.9,
+   "speaker": "Trainer",
+   "text": "Ho bohlokwa hore titjhere a ahe dikamano tse ntle le baithuti ba hae.",
+   "en": "It is important that a teacher builds good relationships with their learners.",
+   "agree": 0.441
+  },
+  {
+   "i": 16,
+   "start": 121.0,
+   "end": 126.0,
+   "speaker": "Trainer",
+   "text": "Mona ha re batla moithuti e mong le e mong a ikutloe a phutholohile ha a le ka phapusing.",
+   "en": "Here we want each and every learner to feel comfortable when they are in the classroom.",
+   "agree": 0.989
+  },
+  {
+   "i": 17,
+   "start": 126.0,
+   "end": 137.0,
+   "speaker": "Trainer",
+   "text": "Phapusi ya borutelo yona e tshwanetse e be sebaka seo e leng hore baithuti ha ba bapile ka hara yona ha ba tshabe ho etsa diphoso.",
+   "en": "The classroom itself must be a place where when learners are close in it they are not afraid to make mistakes.",
+   "agree": 0.86
+  },
+  {
+   "i": 18,
+   "start": 137.0,
+   "end": 148.5,
+   "speaker": "Trainer",
+   "text": "Hape wena o tla etsa bonnete ba hore phapusi ya hao e be sebaka seo bana ba natefelwang ke ho ithuta ka ho sebedisa dibapadi tse fapaneng",
+   "en": "Also you will make sure that your classroom is a place where children enjoy learning by using different toys",
+   "agree": 0.898
+  },
+  {
+   "i": 19,
+   "start": 148.5,
+   "end": 160.0,
+   "speaker": "Trainer",
+   "text": "Ka ho sebedisa dipapadi tse fapaneng kapa mesebetsi e meng hape e tla kgahlishang bana hore ba natefelwe hape ke ho bala hape ba be le tsheheho ya ho rata ho bala ka phapusing.",
+   "en": "By using different games or other activities also that will interest children so that they enjoy reading again and also they have an interest in loving to read in the classroom.",
+   "agree": 0.943
+  },
+  {
+   "i": 20,
+   "start": 160.0,
+   "end": 178.5,
+   "speaker": "Trainer",
+   "text": "Kereiti ya R yona ho bohlokwa hore re ntshetse pele kelohloko ya bana ya medumo. Mona re ka ho etsa ka mekgwa e fapaneng, ba ka mamela dipina, ba ka mamela dipuisano tseo ba di kentsang ha o le bona hore ba tle ba ahe tlotlontswe ya bona ya",
+   "en": "Grade R itself it is important that we develop children's awareness of sounds. Here we can do it in different ways, they can listen to songs, they can listen to conversations that they are involved in when you are with them so that they can build their vocabulary of",
+   "agree": 0.759
+  },
+  {
+   "i": 21,
+   "start": 178.5,
+   "end": 185.9,
+   "speaker": "Trainer",
+   "text": "hore ba tloba ba hlaotse ya bona ya mantšu, ebile ba tsebe ho hlahla medumo eo ba e utlwang ha o e bitsa ka phapusing.",
+   "en": "so that they will have distinguished their vocabulary of words, and also they know how to produce sounds that they hear when you call them in the classroom.",
+   "agree": 0.569
+  },
+  {
+   "i": 22,
+   "start": 185.9,
+   "end": 198.3,
+   "speaker": "Trainer",
+   "text": "Ebe ha re grading ya pele yona, mona re tshwanetse re tsebise maikutlo, re tsebelle hore re ruta bana bohlokoa ba kamano ya medumo ya Sesotho le ditlhaku tsa nnete-nete tseo.",
+   "en": "Then when we are in grade one, here we must introduce feelings, we must make sure that we teach children the importance of the relationship of Sesotho sounds and those real letters.",
+   "agree": 0.801
+  },
+  {
+   "i": 23,
+   "start": 198.3,
+   "end": 208.5,
+   "speaker": "Trainer",
+   "text": "Mona ha re ba ruta teng ke mona re ba rutang hore ba tsebe kamano ya ditlhaku le medumo.",
+   "en": "Here when we teach them is where we teach them so that they know the relationship of letters and sounds.",
+   "agree": 0.897
+  },
+  {
+   "i": 24,
+   "start": 208.5,
+   "end": 218.5,
+   "speaker": "Trainer",
+   "text": "le kamano ya ditlhaku le medumo. Hona ke hona ho bohlokoa haholo kereiting ena ho ba thusang hore ba ithute ho bala.",
+   "en": "and the relationship of letters and sounds. This is what is very important in this grade to help them so that they learn to read.",
+   "agree": 0.93
+  },
+  {
+   "i": 25,
+   "start": 218.5,
+   "end": 238.5,
+   "speaker": "Trainer",
+   "text": "Re bone ha morutietsana [teacher] a sebedisa papadi ya ho tshwasa ditlhapi. Hore o ne a etsa jwang sena? Moithuti e mong le e mong o ne a mamela modumo oo a o bitsang, e be o nka letlooa la hae, o tshwasa ka lona a kgethe modumo o nepahetseng. Dipapadi le tsona di a",
+   "en": "We saw when student teacher the teacher used the game of catching fish. How did they do this? Each and every learner listened to the sound that they called, and then they take their net, they catch with it and choose the correct sound. Games also they",
+   "agree": 0.829
+  },
+  {
+   "i": 26,
+   "start": 238.5,
+   "end": 243.6,
+   "speaker": "Trainer",
+   "text": "dipapetle. Dipapadi le tsona diaba thusa bana hore ba ikwetlisetse sena ka mokgwa o ba natefelang.",
+   "en": "games. Games also they help children so that they practice this in a way that they enjoy.",
+   "agree": 0.542
+  },
+  {
+   "i": 27,
+   "start": 243.6,
+   "end": 250.0,
+   "speaker": "Teacher",
+   "text": "[learner], ke batla modumo \"e\".",
+   "en": "[learner], I want the sound \"e\".",
+   "agree": 0.741
+  },
+  {
+   "i": 28,
+   "start": 250.0,
+   "end": 253.0,
+   "speaker": "Teacher",
+   "text": "Modumo \"e\".",
+   "en": "Sound \"e\".",
+   "agree": 0.875
+  },
+  {
+   "i": 29,
+   "start": 255.5,
+   "end": 263.0,
+   "speaker": "Teacher",
+   "text": "Aha. Tshwara modumo wa hao o phahamise ke bone. Ha re tsho, ke modumo mang oo?",
+   "en": "Aha. Hold your sound and lift it up so I can see. Let's say, what sound is that?",
+   "agree": 0.919
+  },
+  {
+   "i": 30,
+   "start": 263.0,
+   "end": 265.0,
+   "speaker": "Learners",
+   "text": "\"e\"",
+   "en": "\"e\"",
+   "agree": 1.0
+  },
+  {
+   "i": 31,
+   "start": 265.0,
+   "end": 267.5,
+   "speaker": "Teacher",
+   "text": "Ke modumo mang oo?",
+   "en": "What sound is that?",
+   "agree": 0.941
+  },
+  {
+   "i": 32,
+   "start": 267.5,
+   "end": 269.5,
+   "speaker": "Learners",
+   "text": "\"e\"",
+   "en": "\"e\"",
+   "agree": 1.0
+  },
+  {
+   "i": 33,
+   "start": 270.0,
+   "end": 280.0,
+   "speaker": "Teacher",
+   "text": "Ke modumo e. Modumo e o utlwahala ha re re emere. Ha re re emere, mme o kwetse emere.",
+   "en": "It is sound e. Sound e is heard when we say emere. When we say emere, mother has closed the bucket.",
+   "agree": 0.568
+  },
+  {
+   "i": 34,
+   "start": 280.0,
+   "end": 298.5,
+   "speaker": "Trainer",
+   "text": "Ho bala ka thello ho bohlokoa haholo, jeka ha ho utlwile, basuwe tsana ba rona ba ne ba hlalosa bohlokoa ba sena. Haholo ka phapusing, re khothalletsa hore ho be le dibuka tse ngata tse fapaneng, khoneng ya rona ya ho bala. Hona ho thusa le bana",
+   "en": "Reading with fluency is very important, just as you heard, our teachers were explaining the importance of this. Especially in the classroom, we encourage that there should be many different books, in our reading corner. This helps even children",
+   "agree": 0.904
+  },
+  {
+   "i": 35,
+   "start": 298.5,
+   "end": 308.5,
+   "speaker": "Trainer",
+   "text": "bona ya ho bala. Ho na ho thusa le bana hore ba tlwaele hore ho bala ke ntho e ba tshwanetseng ba e etse ka phapusing ka mehla, hape ke mokgwa o motle wa ho ba tlwaetsa ho bala ka dinako tsohle.",
+   "en": "their reading. This helps even children to get used to the fact that reading is something they must do in the classroom every day, also it is a good way to get them used to reading at all times.",
+   "agree": 0.958
+  },
+  {
+   "i": 36,
+   "start": 308.5,
+   "end": 328.5,
+   "speaker": "Trainer",
+   "text": "Dibuka tsa hao he, o etse bonnete ba hore dibuka tsa teng di maemong kapa boemong bo loketseng ba ithuti. Ha ba tshwanetse ba bale buka tse bonolo haholo, hape ha ba tshwanetse ba bale buka tse thata haholo.",
+   "en": "Your books then, you make sure that the books there are at the level or in the appropriate position for the learners. They must not read books that are too easy, and also they must not read books that are too difficult.",
+   "agree": 0.985
+  },
+  {
+   "i": 37,
+   "start": 328.5,
+   "end": 333.9,
+   "speaker": "Trainer",
+   "text": "Hape ha ba tshwanele ho bala dibuka tse thata haholo, hobane hoo ha ho no help-a hore ba bale ka tholloho.",
+   "en": "Also they must not read books that are too difficult, because that is not going to help-a them to read with fluency.",
+   "agree": 0.827
+  },
+  {
+   "i": 38,
+   "start": 333.9,
+   "end": 346.2,
+   "speaker": "Trainer",
+   "text": "Jwale he, re se re le khoneng ya rona ya ho bala. Mona ke hlopisitse dibuka tse fapaneng, ho na le tsa Sekgowa, tsa Sesotho. Re etsa tsena hobane re batla bana ba",
+   "en": "Now then, we are already in our reading corner. Here I have arranged different books, there are English ones, Sesotho ones. We do this because we want children to",
+   "agree": 0.936
+  },
+  {
+   "i": 39,
+   "start": 346.2,
+   "end": 358.5,
+   "speaker": "Trainer",
+   "text": "ikwetlisetse ho bala, ebile ba tloaelane le ho bala, ba be le nako eo ba e fumanang ka phapusing ya ho bala. Mohlomong ha ngwana a qetile ho etsa mosebetsi wa hae",
+   "en": "practice reading, and also get used to reading, they should have time that they get in the classroom to read. Maybe when a child has finished doing their work",
+   "agree": 0.925
+  },
+  {
+   "i": 40,
+   "start": 358.5,
+   "end": 374.42,
+   "speaker": "Trainer",
+   "text": "Hlomong ha ngwana a qetile ho etsa mosebetsi wa hae, o ka mo kgothalletsa ho tla khoneng ya ho bala dibuka, a tlo nka buka e mo kgahlishang. Ena he ke ya Sekgowa. A ka tla a ipalla yona buka ena, ha ba tla ba itlwaetse hore ba ithute",
+   "en": "Maybe when a child has finished doing their work, you can encourage them to come to the reading corner to read books, to come and take a book that interests them. This one then is of English. They can come and read this book for themselves, when they come they get used to learning",
+   "agree": 0.86
+  },
+  {
+   "i": 41,
+   "start": 374.42,
+   "end": 388.5,
+   "speaker": "Trainer",
+   "text": "ho bala ba le bang hape. Hlomong hape a ka tla a nka hape moithuti e mong, a nka ya Sesotho. Ke ena he ya Sesotho, ke ena. E ka le tlantle. Ke ya kgola he bana ba banyenyane ba ka rata ho e bala, fela le ba",
+   "en": "to read on their own again. Maybe also they can come and take another learner, take a Sesotho one. Here is the Sesotho one, here it is. It is very beautiful. It is of a frog then little children might like to read it, but even those",
+   "agree": 0.814
+  },
+  {
+   "i": 42,
+   "start": 388.5,
+   "end": 391.9,
+   "speaker": "Trainer",
+   "text": "na le bashanyana ba ka rata ho e bala. Fela le bana ba banyane ba ka e bala.",
+   "en": "there are boys who might like to read it. But even small children can read it.",
+   "agree": 0.851
+  },
+  {
+   "i": 43,
+   "start": 391.9,
+   "end": 399.5,
+   "speaker": "Trainer",
+   "text": "Ho baneng re hlohleletsa mokgwa ona tjee? Ke batla hore ba ithute baka, ba tlwaele ho bala hape ba be le tjantjello ya ho bala.",
+   "en": "Why do we encourage this method like this? I want them to learn to read, get used to reading and also have an eagerness to read.",
+   "agree": 0.806
+  },
+  {
+   "i": 44,
+   "start": 399.5,
+   "end": 408.5,
+   "speaker": "Trainer",
+   "text": "Hobane ha ba itlwaetsa ho bala, ba bala hafetša. Ke moo re eketsang tlotlontswe ya bona, hape re eketsa ratiso ya hore ba rate ho bala, ba tsebe ho bala hantle ka bokgoni.",
+   "en": "Because when they get used to reading, they read often. That is where we increase their vocabulary, and also we increase the love for them to love to read, so they know how to read well with ability.",
+   "agree": 0.717
+  },
+  {
+   "i": 45,
+   "start": 408.5,
+   "end": 419.6,
+   "speaker": "Trainer",
+   "text": "Re tshwanetse re ho thabela",
+   "en": "We must enjoy",
+   "agree": 0.593
+  },
+  {
+   "i": 46,
+   "start": 419.6,
+   "end": 433.97,
+   "speaker": "Trainer",
+   "text": "Re tshwanetse hore re kgothalletse baithuti hape ho bala ka bobedi. Ha bana ba bala ka bobedi, ba bala e bile ba kgona ho thusana, ba kgona ho emong ha a etsa phoso a mo thuse a mo lokise",
+   "en": "We must encourage learners also to read in pairs. When children read in pairs, they read and also they are able to help each other, they are able to when one makes a mistake help them and correct them",
+   "agree": 0.793
+  },
+  {
+   "i": 47,
+   "start": 433.97,
+   "end": 448.5,
+   "speaker": "Trainer",
+   "text": "hore, \"E-e, mona ha wa bala hantle, e tukkise.\" Mme ngwana mona o tla qapulisa medumo kapa a bale lentswe hape kapa a le arole ka dinoko kapa ka medumo hore a tle a tsebe ho le bala hantle.",
+   "en": "that, \"No, here you did not read well, correct it.\" And the child here will sound out the sounds or read the word again or divide it by syllables or by sounds so that they can know how to read it well.",
+   "agree": 0.852
+  },
+  {
+   "i": 48,
+   "start": 448.5,
+   "end": 452.6,
+   "speaker": "Learners",
+   "text": "ha ha bona o molo o",
+   "en": "at their home is easy is",
+   "agree": 1.0
+  },
+  {
+   "i": 49,
+   "start": 452.6,
+   "end": 459.6,
+   "speaker": "Learner",
+   "text": "madihotetso madihotetso a hlabaseboko a nthabana bahabo",
+   "en": "Madihotetso Madihotetso stabbed a worm at Nthabana of their people",
+   "agree": 0.273
+  },
+  {
+   "i": 50,
+   "start": 459.6,
+   "end": 468.0,
+   "speaker": "Trainer",
+   "text": "Katelolo ya grading ya boraro, ho bohloko hape hore bana ba be ba tsebile ho bala ka thello kaofela ha bona, hobane re batla bana ba be le bokgoni ba ho bala.",
+   "en": "Progress of grade three, it is important again that children should have known how to read with fluency all of them, because we want children to have the ability to read.",
+   "agree": 0.742
+  },
+  {
+   "i": 51,
+   "start": 468.0,
+   "end": 471.5,
+   "speaker": "Trainer",
+   "text": "Ntlha e nngwe hape e ke batlileng ke e lebala,",
+   "en": "Another point again that I wanted I forgot,",
+   "agree": 0.644
+  },
+  {
+   "i": 52,
+   "start": 471.5,
+   "end": 473.5,
+   "speaker": "Trainer",
+   "text": "o hopole hore",
+   "en": "you remember that",
+   "agree": 0.769
+  },
+  {
+   "i": 53,
+   "start": 478.5,
+   "end": 481.5,
+   "speaker": "Trainer",
+   "text": "Hape, e ke ba tšheleng ke lebala.",
+   "en": "Also, that I forgot.",
+   "agree": 0.0
+  },
+  {
+   "i": 54,
+   "start": 481.5,
+   "end": 496.34,
+   "speaker": "Trainer",
+   "text": "O hopole hle gore bana re swanetše re ba kgothaletše hape le ho isa dibuka malapeng. Hobane re batla ba balle batswadi ba bona. Le batswadi le bona ba bapala karolo e bohlokwa haholo gore bana ba bona",
+   "en": "You remember please that children we must encourage them also to take books to their homes. Because we want them to read to their parents. And parents also play a very important role so that their children",
+   "agree": 0.818
+  },
+  {
+   "i": 55,
+   "start": 496.34,
+   "end": 508.5,
+   "speaker": "Trainer",
+   "text": "ba tle ba be le bokgoni ba ho bala. Hobane ha ngwana a ntse a ikwetlisa ho bala khafetsa, moo re a bona gore ke moo teng a tla bang le bokgoni ba ho bala ka thello.",
+   "en": "can have the ability to read. Because when a child is practicing to read often, that is where we see that is where they will have the ability to read with fluency.",
+   "agree": 0.919
+  },
+  {
+   "i": 56,
+   "start": 508.5,
+   "end": 508.8,
+   "speaker": "Trainer",
+   "text": "Jwale he,",
+   "en": "Now then,",
+   "agree": 0.0
+  },
+  {
+   "i": 57,
+   "start": 508.5,
+   "end": 512.0,
+   "speaker": "Trainer",
+   "text": "Jwale he, ntlha ya ho qetela yona",
+   "en": "Now then, the last point itself",
+   "agree": 1.0
+  },
+  {
+   "i": 58,
+   "start": 512.0,
+   "end": 515.0,
+   "speaker": "Trainer",
+   "text": "ke ho aha tlotlontswe ya bana.",
+   "en": "is to build children's vocabulary.",
+   "agree": 0.931
+  },
+  {
+   "i": 59,
+   "start": 515.0,
+   "end": 520.0,
+   "speaker": "Trainer",
+   "text": "Re batla ho ntshetsapele tlotlontswe ya bona ka ho etsa jwang?",
+   "en": "We want to develop their vocabulary by doing what?",
+   "agree": 0.852
+  },
+  {
+   "i": 60,
+   "start": 520.0,
+   "end": 527.0,
+   "speaker": "Trainer",
+   "text": "Re batla hore bana ba fumane menyetla e mengata ya ho ikwetlisetsa ho bala ka phapusing.",
+   "en": "We want children to get many opportunities to practice reading in the classroom.",
+   "agree": 1.0
+  },
+  {
+   "i": 61,
+   "start": 527.0,
+   "end": 533.0,
+   "speaker": "Trainer",
+   "text": "Hobane ha ntse ba bala kgafetsa, ke moo ba tlwaelang",
+   "en": "Because as they read frequently, that is where they get used to",
+   "agree": 0.725
+  },
+  {
+   "i": 62,
+   "start": 533.0,
+   "end": 538.5,
+   "speaker": "Trainer",
+   "text": "e, dingolwa tse ba di balang, ebile hape ba ikwetlisetsa ho bala mantswe, ba qetelle ba se ba kgona ho a bala ntle le ho a",
+   "en": "yes, the texts that they read, and also they practice reading words, and they end up being able to read them without",
+   "agree": 0.798
+  },
+  {
+   "i": 63,
+   "start": 538.5,
+   "end": 543.5,
+   "speaker": "Trainer",
+   "text": "ho bile ba kgona ho bala, ntle le ho a peleta, ho ho ba thusa hore ba tsebe ho bala mantswe kapa dipolelo ka thello.",
+   "en": "even being able to read, without spelling them, to help them to know how to read words or sentences with fluency.",
+   "agree": 0.823
+  },
+  {
+   "i": 64,
+   "start": 543.5,
+   "end": 548.5,
+   "speaker": "Trainer",
+   "text": "Ebe ha bana ba ntse ba bala, re batla ho ba botsa dipotso.",
+   "en": "And then as the children are reading, we want to ask them questions.",
+   "agree": 0.911
+  },
+  {
+   "i": 65,
+   "start": 548.5,
+   "end": 552.5,
+   "speaker": "Trainer",
+   "text": "Dipotso tsona re di botsa jwang? Re di botsa qalong,",
+   "en": "How do we ask those questions? We ask them at the beginning,",
+   "agree": 0.86
+  },
+  {
+   "i": 66,
+   "start": 552.5,
+   "end": 566.5,
+   "speaker": "Trainer",
+   "text": "pele o ba badisa setshwantsho sa bona. O tla ba botsa dipotso ka setshwantsho seo hore, na ba nahana ho tla etsahala eng, kapa ke eng seo ba se bonang? Ebe he, o ba botsa dipotso hantse",
+   "en": "before you make them read their picture. You will ask them questions about that picture that, what do they think will happen, or what is it that they see? And then, you ask them questions while",
+   "agree": 0.811
+  },
+  {
+   "i": 67,
+   "start": 568.5,
+   "end": 583.0,
+   "speaker": "Trainer",
+   "text": "Ebe ha ba botsa dipotso hantse ba bala. Re bone ha [teacher] a badisa bana ba hae ka nako ya ho bala ka dihlopha. Itse ha bana ba hae ba ntse ba bala jwalo, ke ha a ba botsa dipotso hantse ba bala hore na ke eng e ba e utlwisisang ka pale eo ba e balang.",
+   "en": "And then when they ask questions while they read. We saw when the teacher made their children read during group reading. It happened that while their children were reading like that, that is when they asked them questions while they read as to what is it that they understand about that story they are reading.",
+   "agree": 0.899
+  },
+  {
+   "i": 68,
+   "start": 583.0,
+   "end": 585.0,
+   "speaker": "Teacher",
+   "text": "Okay, ha re emeng hanyane feela.",
+   "en": "Okay, let us stop just a little bit.",
+   "agree": 1.0
+  },
+  {
+   "i": 69,
+   "start": 585.0,
+   "end": 589.0,
+   "speaker": "Teacher",
+   "text": "Ke hobaneng o ne o nahana hore batswadi ba bona ba ba ikgantsha ka bona? Rehe?",
+   "en": "Why did you think that their parents are proud of them? Right?",
+   "agree": 0.026
+  },
+  {
+   "i": 70,
+   "start": 589.0,
+   "end": 595.0,
+   "speaker": "Teacher",
+   "text": "Hantse re bala mona, ho thwe batswadi ba bona ba ba ikgantsha ka bona. Hobaneng ba ba ikgantsha ka bona?",
+   "en": "While we are reading here, it is said their parents are proud of them. Why are they proud of them?",
+   "agree": 0.614
+  },
+  {
+   "i": 71,
+   "start": 601.3,
+   "end": 604.3,
+   "speaker": "Trainer",
+   "text": "Ha go tlo motho yo mongwe, ke no go bitsa fela o mamele.",
+   "en": "No other person should go, I will just call you, just listen.",
+   "agree": 0.611
+  },
+  {
+   "i": 72,
+   "start": 604.7,
+   "end": 607.7,
+   "speaker": "Trainer",
+   "text": "Go bane ba ikgantsha ka bona, batswadi ba bona.",
+   "en": "Because they are proud of them, their parents.",
+   "agree": 0.889
+  },
+  {
+   "i": 73,
+   "start": 609.7,
+   "end": 611.7,
+   "speaker": "Trainer",
+   "text": "Bala o utlwe.",
+   "en": "Read so you can hear.",
+   "agree": 0.083
+  },
+  {
+   "i": 74,
+   "start": 614.3,
+   "end": 617.7,
+   "speaker": "Trainer",
+   "text": "A re, \"Ba iphelela fela ha ba tswa sekolong.\"",
+   "en": "They say, \"They just live on their own when they come from school.\"",
+   "agree": 0.805
+  },
+  {
+   "i": 75,
+   "start": 617.7,
+   "end": 619.3,
+   "speaker": "Trainer",
+   "text": "Ema motho a ka re'ng?",
+   "en": "Wait, what can a person say?",
+   "agree": 0.1
+  },
+  {
+   "i": 76,
+   "start": 619.3,
+   "end": 625.7,
+   "speaker": "Learners",
+   "text": "Mme le ntate ha ba tswa sekolong ba se ba fihla ba etsa",
+   "en": "Mother and father, when they come from school they arrive and do",
+   "agree": 0.218
+  },
+  {
+   "i": 77,
+   "start": 625.7,
+   "end": 628.5,
+   "speaker": "Learners",
+   "text": "ba etsa mosebetsi wa bona",
+   "en": "they do their work",
+   "agree": 0.52
+  },
+  {
+   "i": 78,
+   "start": 629.6,
+   "end": 633.9,
+   "speaker": "Teacher",
+   "text": "Ba etsa mosebetsi wa bona wa sekolo. Ha bana ba bang ba etsa jwang? Ba ba bala, bona ba di bukeng.",
+   "en": "They do their school work. While other children do what? They read, they are in books.",
+   "agree": 0.511
+  },
+  {
+   "i": 79,
+   "start": 633.9,
+   "end": 643.3,
+   "speaker": "Trainer",
+   "text": "Ebe ha re botsa bana dipotso qetellong ha ba qeta ho bala pale eo, mona re batla ho fumana hore na bana ba na le bokhoni ba ho utlwisisa seo ba se badileng na.",
+   "en": "And then when we ask children questions at the end when they finish reading that story, here we want to find out if the children have the ability to understand what they have read.",
+   "agree": 0.911
+  },
+  {
+   "i": 80,
+   "start": 643.3,
+   "end": 652.6,
+   "speaker": "Trainer",
+   "text": "Jwale he, re batla ho ka o fa lona matitjhere a ho kgothaletsa bana ho bala, hape o ba fe maikutlo a mangata ka seo ba se badileng. Mona re",
+   "en": "Now then, we want to give you teachers ways to encourage children to read, and also give them lots of feedback on what they have read. Here we",
+   "agree": 0.831
+  },
+  {
+   "i": 81,
+   "start": 659.9,
+   "end": 673.0,
+   "speaker": "Trainer",
+   "text": "Ka tsela e ba sebadileng. Mona re bua ka feedback, re batla ho ba thalletsa, ho ba bontsha moo ba nepileng teng le moo ba sa nepang teng, hore o tle o ba thuse hore ba be le bokgoni ba ho bala.",
+   "en": "In the way they read. Here we talk about feedback, we want to support them, to show them where they got it right and where they did not get it right, so that you can help them to have the ability to read.",
+   "agree": 0.83
+  }
+ ],
+ "score": {
+  "value": 0.867,
+  "label": "engine agreement (proxy)",
+  "display": "86.7% engine agreement (proxy)",
+  "line": "Two engines (Gemini 3.5 Flash and Gemini 2.5 Pro) agree on 86.7% of characters across this 12-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
+ },
+ "agreement": {
+  "value": 0.867,
+  "label": "engine agreement (proxy)",
+  "display": "86.7% engine agreement (proxy)",
+  "line": "Two engines (Gemini 3.5 Flash and Gemini 2.5 Pro) agree on 86.7% of characters across this 12-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": [],
+ "meaning": {
+  "value": 9.1,
+  "label": "AI-judged (proxy)",
+  "display": "9.1 / 10 meaning recovered (AI-judged)",
+  "counts": {
+   "same": 20,
+   "partly": 4,
+   "different": 0,
+   "unclear": 1
+  },
+  "line": "Against the partner's own English subtitles, a model judged Rumi's English the same in 20, partly the same in 4 and different in 0 of 25 half-minute stretches (1 too fragmentary to judge). This measures listening and translation together."
+ }
+}

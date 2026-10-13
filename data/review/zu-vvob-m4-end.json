@@ -1,0 +1,991 @@
+{
+ "id": "zu-vvob-m4-end",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 21.1,
+   "end": 23.6,
+   "speaker": "Teacher",
+   "text": "Okay, ngicela ukuthi sithathe incwadi yethu.",
+   "en": "Okay, please let us take our book.",
+   "agree": 0.0
+  },
+  {
+   "i": 1,
+   "start": 24.5,
+   "end": 26.8,
+   "speaker": "Teacher",
+   "text": "Siyivule la ekhasini lokugcina.",
+   "en": "We open it here on the last page.",
+   "agree": 0.0
+  },
+  {
+   "i": 2,
+   "start": 27.9,
+   "end": 29.8,
+   "speaker": "Teacher",
+   "text": "Lapho sinemifanekiso khona.",
+   "en": "Where we have pictures.",
+   "agree": 0.0
+  },
+  {
+   "i": 3,
+   "start": 33.09,
+   "end": 36.39,
+   "speaker": "Teacher",
+   "text": "Okay ke bangane, asishukeni ke idolo bangane, asishukeni idolo.",
+   "en": "Okay then friends, let's shake the knee then friends, let's shake the knee.",
+   "agree": 0.9
+  },
+  {
+   "i": 4,
+   "start": 37.09,
+   "end": 38.39,
+   "speaker": "Teacher",
+   "text": "Okay, ngiyabonga ke bangane.",
+   "en": "Okay, thank you then friends.",
+   "agree": 0.962
+  },
+  {
+   "i": 5,
+   "start": 38.89,
+   "end": 39.89,
+   "speaker": "Teacher",
+   "text": "Okay, yini le bangane?",
+   "en": "Okay, what is this friends?",
+   "agree": 0.95
+  },
+  {
+   "i": 6,
+   "start": 40.29,
+   "end": 41.39,
+   "speaker": "Learners",
+   "text": "Yincwadi!",
+   "en": "It is a book!",
+   "agree": 0.875
+  },
+  {
+   "i": 7,
+   "start": 41.99,
+   "end": 42.69,
+   "speaker": "Teacher",
+   "text": "Yini lena?",
+   "en": "What is this?",
+   "agree": 1.0
+  },
+  {
+   "i": 8,
+   "start": 43.19,
+   "end": 44.89,
+   "speaker": "Learners",
+   "text": "Yincwadi!",
+   "en": "It is a book!",
+   "agree": 0.875
+  },
+  {
+   "i": 9,
+   "start": 45.39,
+   "end": 46.99,
+   "speaker": "Teacher",
+   "text": "Yincwadi le bangane.",
+   "en": "It is a book this, friends.",
+   "agree": 0.895
+  },
+  {
+   "i": 10,
+   "start": 47.39,
+   "end": 49.99,
+   "speaker": "Teacher",
+   "text": "Kodwa incwadi masiyivula siyivula kanjani?",
+   "en": "But a book when we open it, how do we open it?",
+   "agree": 0.927
+  },
+  {
+   "i": 11,
+   "start": 50.99,
+   "end": 53.99,
+   "speaker": "Learners",
+   "text": "Kusuka kwesokunxele kuya kwesokudle.",
+   "en": "From the left to the right.",
+   "agree": 0.229
+  },
+  {
+   "i": 12,
+   "start": 54.39,
+   "end": 55.99,
+   "speaker": "Teacher",
+   "text": "Siyivula ngani incwadi?",
+   "en": "We open the book with what?",
+   "agree": 1.0
+  },
+  {
+   "i": 13,
+   "start": 56.09,
+   "end": 58.09,
+   "speaker": "Learners",
+   "text": "Kusuka kwesokunxele.",
+   "en": "From the left.",
+   "agree": 0.053
+  },
+  {
+   "i": 14,
+   "start": 59.39,
+   "end": 61.49,
+   "speaker": "Learners",
+   "text": "Ngovula-seven!",
+   "en": "With open-seven!",
+   "agree": 0.077
+  },
+  {
+   "i": 15,
+   "start": 61.69,
+   "end": 62.99,
+   "speaker": "Teacher",
+   "text": "Ngovula-seven. Yini leyo ncwadi le?",
+   "en": "With open-seven. What is that book this?",
+   "agree": 0.667
+  },
+  {
+   "i": 16,
+   "start": 63.29,
+   "end": 64.49,
+   "speaker": "Learners",
+   "text": "Umgogodla!",
+   "en": "The spine!",
+   "agree": 1.0
+  },
+  {
+   "i": 17,
+   "start": 64.69,
+   "end": 70.69,
+   "speaker": "Teacher",
+   "text": "Umgogodla. Incwadi masiyivula, siqala kephi konje? Ka-left, siye kephi? Ka-right. Siyezwana bangani?",
+   "en": "The spine. A book when we open it, where do we start by the way? On the left, we go where? On the right. Do we understand each other friends?",
+   "agree": 1.0
+  },
+  {
+   "i": 18,
+   "start": 70.69,
+   "end": 71.69,
+   "speaker": "Learners",
+   "text": "Yebo.",
+   "en": "Yes.",
+   "agree": 0.0
+  },
+  {
+   "i": 19,
+   "start": 71.79,
+   "end": 79.69,
+   "speaker": "Teacher",
+   "text": "Okay-ke, ngifuna oyedwa-ke woz' am'fupi ozosifundisa ukuthi incwadi ivula... hhayi lapho mfupi, sibone.",
+   "en": "Okay then, I want one then, come short one who will teach us how the book opens... no, there shorty, let's see.",
+   "agree": 0.688
+  },
+  {
+   "i": 20,
+   "start": 80.09,
+   "end": 83.69,
+   "speaker": "Teacher",
+   "text": "Usivulele-ke incwadi ngozola-seven, ngovula-seven. Sibone.",
+   "en": "Open the book for us then with open-seven, with open-seven. Let's see.",
+   "agree": 0.782
+  },
+  {
+   "i": 21,
+   "start": 89.21,
+   "end": 90.01,
+   "speaker": "Teacher",
+   "text": "Niyambona?",
+   "en": "Do you see them?",
+   "agree": 1.0
+  },
+  {
+   "i": 22,
+   "start": 90.31,
+   "end": 90.71,
+   "speaker": "Learners",
+   "text": "Yes.",
+   "en": "Yes.",
+   "agree": 0.0
+  },
+  {
+   "i": 23,
+   "start": 91.01,
+   "end": 92.21,
+   "speaker": "Teacher",
+   "text": "Uyivula kahle bangani?",
+   "en": "Does they open it well friends?",
+   "agree": 1.0
+  },
+  {
+   "i": 24,
+   "start": 92.51,
+   "end": 92.91,
+   "speaker": "Learners",
+   "text": "Yes.",
+   "en": "Yes.",
+   "agree": 0.667
+  },
+  {
+   "i": 25,
+   "start": 93.11,
+   "end": 94.21,
+   "speaker": "Teacher",
+   "text": "Uyivula kahle bangani?",
+   "en": "Does they open it well friends?",
+   "agree": 1.0
+  },
+  {
+   "i": 26,
+   "start": 94.41,
+   "end": 94.81,
+   "speaker": "Learners",
+   "text": "Yes.",
+   "en": "Yes.",
+   "agree": 0.667
+  },
+  {
+   "i": 27,
+   "start": 94.91,
+   "end": 97.01,
+   "speaker": "Teacher",
+   "text": "Yes, uyivula kahle kakhulu.",
+   "en": "Yes, they open it very well.",
+   "agree": 1.0
+  },
+  {
+   "i": 28,
+   "start": 98.01,
+   "end": 104.21,
+   "speaker": "Teacher",
+   "text": "Okay ke bangani. Kodwa ukuze sikwazi ukuzwa uma kufundwa incwadi sisebenzisa ini?",
+   "en": "Okay then friends. But so that we can hear when a book is read, what do we use?",
+   "agree": 0.962
+  },
+  {
+   "i": 29,
+   "start": 104.41,
+   "end": 106.41,
+   "speaker": "Learners",
+   "text": "Izindlebe!",
+   "en": "Ears!",
+   "agree": 1.0
+  },
+  {
+   "i": 30,
+   "start": 106.71,
+   "end": 110.01,
+   "speaker": "Teacher",
+   "text": "Ake sizwe ke ukuthi uzomuzwa yini. Khuluma. Asimbonge.",
+   "en": "Let's hear then if you will hear them. Speak. Let's thank them.",
+   "agree": 0.961
+  },
+  {
+   "i": 31,
+   "start": 110.71,
+   "end": 111.41,
+   "speaker": "Learners",
+   "text": "Siyabonga.",
+   "en": "We thank you.",
+   "agree": 1.0
+  },
+  {
+   "i": 32,
+   "start": 111.61,
+   "end": 113.21,
+   "speaker": "Learner",
+   "text": "Eish, [inaudible].",
+   "en": "Eish, [inaudible].",
+   "agree": 0.0
+  },
+  {
+   "i": 33,
+   "start": 117.66,
+   "end": 118.16,
+   "speaker": "Learner",
+   "text": "Ngiyaphila.",
+   "en": "I am well.",
+   "agree": 1.0
+  },
+  {
+   "i": 34,
+   "start": 118.96,
+   "end": 120.66,
+   "speaker": "Teacher",
+   "text": "Hayi, bengathi bayasaba nje abangani.",
+   "en": "No, it seems like the friends are just afraid.",
+   "agree": 0.714
+  },
+  {
+   "i": 35,
+   "start": 121.36,
+   "end": 123.16,
+   "speaker": "Teacher",
+   "text": "Sizwa ngani? Hlala phansi mfowethu.",
+   "en": "We hear with what? Sit down brother.",
+   "agree": 0.727
+  },
+  {
+   "i": 36,
+   "start": 124.16,
+   "end": 124.66,
+   "speaker": "Teacher",
+   "text": "Khuluma kakhulu.",
+   "en": "Speak loudly.",
+   "agree": 1.0
+  },
+  {
+   "i": 37,
+   "start": 125.66,
+   "end": 126.26,
+   "speaker": "Learner",
+   "text": "Yeah.",
+   "en": "Yeah.",
+   "agree": 0.0
+  },
+  {
+   "i": 38,
+   "start": 126.86,
+   "end": 127.26,
+   "speaker": "Learner",
+   "text": "Ngiyaphila.",
+   "en": "I am well.",
+   "agree": 1.0
+  },
+  {
+   "i": 39,
+   "start": 128.86,
+   "end": 129.66,
+   "speaker": "Teacher",
+   "text": "Nami ngiyaphila.",
+   "en": "I am also well.",
+   "agree": 1.0
+  },
+  {
+   "i": 40,
+   "start": 129.96,
+   "end": 139.16,
+   "speaker": "Teacher",
+   "text": "Niyabona bangani? Umpompo lo, siyawuzwa noma umemeza usibiza emhlanganweni noma insimbi isikhalile ukuthi kenqe kenqe sizwa ngani? Ngezindlebe. Angithi bangani?",
+   "en": "Do you see, friends? This is a tap, we hear it when it shouts calling us to a meeting or when the bell has rung 'kenqe kenqe', what do we hear with? With ears. Isn't it, friends?",
+   "agree": 0.948
+  },
+  {
+   "i": 41,
+   "start": 139.96,
+   "end": 145.16,
+   "speaker": "Teacher",
+   "text": "Namhlanje-ke bangani u-ma'am uzosifundela indaba emnandi.",
+   "en": "Today, friends, ma'am is going to read us a nice story.",
+   "agree": 0.393
+  },
+  {
+   "i": 42,
+   "start": 145.62,
+   "end": 153.92,
+   "speaker": "Teacher",
+   "text": "uzosifundela indaba emnandi. Kwaku igama le-story sethu sikhuluma ngoSibongile. Sikhuluma ngani i-story sethu?",
+   "en": "They are going to read us a nice story. The name of our story, we are talking about Sibongile. What is our story talking about?",
+   "agree": 0.991
+  },
+  {
+   "i": 43,
+   "start": 154.22,
+   "end": 155.32,
+   "speaker": "Learners",
+   "text": "NgoSibongile!",
+   "en": "About Sibongile!",
+   "agree": 0.917
+  },
+  {
+   "i": 44,
+   "start": 155.72,
+   "end": 161.92,
+   "speaker": "Teacher",
+   "text": "NgoSibongile. USibongile kwakuyintombazanyana eyayincane nje, yayineminyaka ewu-",
+   "en": "About Sibongile. Sibongile was just a little girl, they were years old—",
+   "agree": 0.896
+  },
+  {
+   "i": 45,
+   "start": 162.92,
+   "end": 163.92,
+   "speaker": "Teacher",
+   "text": "Yayineminyaka emingaki?",
+   "en": "They were how many years old?",
+   "agree": 1.0
+  },
+  {
+   "i": 46,
+   "start": 164.02,
+   "end": 165.12,
+   "speaker": "Learners",
+   "text": "Ewu-five!",
+   "en": "Five!",
+   "agree": 1.0
+  },
+  {
+   "i": 47,
+   "start": 165.92,
+   "end": 166.92,
+   "speaker": "Teacher",
+   "text": "Niyambona uSibongile?",
+   "en": "Do you see Sibongile?",
+   "agree": 0.95
+  },
+  {
+   "i": 48,
+   "start": 167.22,
+   "end": 167.72,
+   "speaker": "Learners",
+   "text": "Yebo!",
+   "en": "Yes!",
+   "agree": 0.0
+  },
+  {
+   "i": 49,
+   "start": 168.02,
+   "end": 174.42,
+   "speaker": "Teacher",
+   "text": "Lalela-ke mngani. USibongile kwakuwusuku lwakhe olukhulu lokuqala esikoleni. Kwakuwusuku lani lwaSibongile?",
+   "en": "Listen then, friend. Sibongile, it was their big first day at school. It was what day for Sibongile?",
+   "agree": 0.673
+  },
+  {
+   "i": 50,
+   "start": 174.82,
+   "end": 175.22,
+   "speaker": "Learners",
+   "text": "Olukhulu lokuqala.",
+   "en": "The big first one.",
+   "agree": 1.0
+  },
+  {
+   "i": 51,
+   "start": 175.22,
+   "end": 178.02,
+   "speaker": "Teacher",
+   "text": "uS'bongile las'bongile olukhulu lokuqala es'koleni.",
+   "en": "Sibongile, yes Sibongile, the big first one at school.",
+   "agree": 0.18
+  },
+  {
+   "i": 52,
+   "start": 178.52,
+   "end": 182.62,
+   "speaker": "Teacher",
+   "text": "Kuthiwa uS'bongile bangani, wavuka ek'seni kakhulu ejabulel' ukuthi uyoqala kephi?",
+   "en": "It is said Sibongile, friends, woke up very early in the morning happy that they were going to start where?",
+   "agree": 0.962
+  },
+  {
+   "i": 53,
+   "start": 182.92,
+   "end": 183.82,
+   "speaker": "Learners",
+   "text": "Es'koleni.",
+   "en": "At school.",
+   "agree": 0.889
+  },
+  {
+   "i": 54,
+   "start": 184.12,
+   "end": 186.02,
+   "speaker": "Teacher",
+   "text": "Ejabulel' ukuthi uyoqala kuphi?",
+   "en": "Happy that they were going to start where?",
+   "agree": 0.966
+  },
+  {
+   "i": 55,
+   "start": 186.52,
+   "end": 187.82,
+   "speaker": "Learners",
+   "text": "Es'koleni.",
+   "en": "At school.",
+   "agree": 0.0
+  },
+  {
+   "i": 56,
+   "start": 188.22,
+   "end": 191.42,
+   "speaker": "Teacher",
+   "text": "Es'koleni. Nango-ke uS'bongile-ke bangani-ke.",
+   "en": "At school. There is Sibongile then, friends.",
+   "agree": 0.605
+  },
+  {
+   "i": 57,
+   "start": 191.82,
+   "end": 196.52,
+   "speaker": "Teacher",
+   "text": "Uya kumawakhe. Uyahamba. Mama, mama, mama, mama, mama, seng'ngingaya kogqoka ngiye es'koleni?",
+   "en": "They go to their mother. They go. Mother, mother, mother, mother, mother, can I go and dress now to go to school?",
+   "agree": 0.847
+  },
+  {
+   "i": 58,
+   "start": 196.82,
+   "end": 201.52,
+   "speaker": "Teacher",
+   "text": "Umawakhe bangani waphendula wathini? Yebo, usungaya S'bongile.",
+   "en": "Their mother, friends, answered and said what? Yes, you can go now, Sibongile.",
+   "agree": 0.932
+  },
+  {
+   "i": 59,
+   "start": 201.72,
+   "end": 203.42,
+   "speaker": "Teacher",
+   "text": "Waphendula wathini umawakhe?",
+   "en": "What did their mother answer and say?",
+   "agree": 0.889
+  },
+  {
+   "i": 60,
+   "start": 203.82,
+   "end": 205.42,
+   "speaker": "Learners",
+   "text": "Yebo, usungaya.",
+   "en": "Yes, you can go now.",
+   "agree": 0.538
+  },
+  {
+   "i": 61,
+   "start": 205.42,
+   "end": 207.07,
+   "speaker": "Teacher",
+   "text": "Usungaya. Wathi, \"Yebo, usungaya S'bongile.\"",
+   "en": "You can go now. They said, \"Yes, you can go now, Sibongile.\"",
+   "agree": 0.211
+  },
+  {
+   "i": 62,
+   "start": 207.07,
+   "end": 209.27,
+   "speaker": "Learners",
+   "text": "Yebo, mama wami.",
+   "en": "Yes, my mother.",
+   "agree": 0.143
+  },
+  {
+   "i": 63,
+   "start": 209.57,
+   "end": 210.07,
+   "speaker": "Teacher",
+   "text": "Bongi.",
+   "en": "Bongi.",
+   "agree": 0.4
+  },
+  {
+   "i": 64,
+   "start": 210.47,
+   "end": 216.57,
+   "speaker": "Teacher",
+   "text": "USibongile bangane wahamba wafika ekamereni lakhe uSibongile, wathatha amasokisi akhe [learner].",
+   "en": "Sibongile, friends, went and arrived in their room, Sibongile, they took their beautiful socks.",
+   "agree": 0.758
+  },
+  {
+   "i": 65,
+   "start": 216.97,
+   "end": 219.97,
+   "speaker": "Teacher",
+   "text": "ayele uSibongile wenzenjani? Wawaqoka bangane.",
+   "en": "And then Sibongile, what did they do? They wore them, friends.",
+   "agree": 0.909
+  },
+  {
+   "i": 66,
+   "start": 220.27,
+   "end": 222.27,
+   "speaker": "Teacher",
+   "text": "Wathi, \"Mama, mama, sengiyaya esikoleni?\"",
+   "en": "They said, \"Mother, mother, am I going to school now?\"",
+   "agree": 0.943
+  },
+  {
+   "i": 67,
+   "start": 222.47,
+   "end": 223.77,
+   "speaker": "Teacher",
+   "text": "Umama wakhe uzothini meqgoke kanje?",
+   "en": "What will their mother say when they are dressed like this?",
+   "agree": 0.794
+  },
+  {
+   "i": 68,
+   "start": 224.07,
+   "end": 224.57,
+   "speaker": "Learners",
+   "text": "Cha.",
+   "en": "No.",
+   "agree": 0.0
+  },
+  {
+   "i": 69,
+   "start": 224.87,
+   "end": 228.77,
+   "speaker": "Teacher",
+   "text": "Ngeke aze avume bangane, akakabi-right ukuthi angaya kephi? Esikoleni.",
+   "en": "They will never agree, friends, they are not yet right that they can go where? To school.",
+   "agree": 0.955
+  },
+  {
+   "i": 70,
+   "start": 228.97,
+   "end": 230.77,
+   "speaker": "Teacher",
+   "text": "Uma uqeda lapho kufanele agqokeni futhi?",
+   "en": "When you finish there, what must they wear again?",
+   "agree": 0.769
+  },
+  {
+   "i": 71,
+   "start": 231.17,
+   "end": 232.27,
+   "speaker": "Learners",
+   "text": "Izingubo.",
+   "en": "Clothes.",
+   "agree": 0.0
+  },
+  {
+   "i": 72,
+   "start": 232.77,
+   "end": 233.47,
+   "speaker": "Teacher",
+   "text": "Izingubo.",
+   "en": "Clothes.",
+   "agree": 1.0
+  },
+  {
+   "i": 73,
+   "start": 235.15,
+   "end": 235.95,
+   "speaker": "Learners",
+   "text": "Iyunifomu.",
+   "en": "Uniform.",
+   "agree": 0.0
+  },
+  {
+   "i": 74,
+   "start": 236.15,
+   "end": 243.85,
+   "speaker": "Teacher",
+   "text": "Iyunifomu yini? Iyunifomu yizingubo zesikole. Wacabanga uSibongile, wacabanga, wazibuka, wazibuka naye eyibuka uSibongile. Uthe esuka wakhumbula ukuthi, hhayibo, angigqoki kahle. Wagijima uSibongile wayothatha iyunifomu yakhe.",
+   "en": "Uniform, what is it? Uniform is school clothes. Sibongile thought, they thought, they looked at themselves, they looked at themselves, also looking at themselves, Sibongile. Then they remembered that, oh no, I am not dressed properly. Sibongile ran to go and take their uniform.",
+   "agree": 0.801
+  },
+  {
+   "i": 75,
+   "start": 244.15,
+   "end": 246.25,
+   "speaker": "Teacher",
+   "text": "Uzofika athini umama wakhe uma ucabanga esegqokile neyunifomu?",
+   "en": "What do you think their mother will say when they arrive and they are dressed in the uniform?",
+   "agree": 0.885
+  },
+  {
+   "i": 76,
+   "start": 246.85,
+   "end": 247.35,
+   "speaker": "Learner",
+   "text": "Uzothi,",
+   "en": "They will say,",
+   "agree": 1.0
+  },
+  {
+   "i": 77,
+   "start": 247.75,
+   "end": 252.85,
+   "speaker": "Teacher",
+   "text": "Yathi umama wakhe, yebo Sibongile, usumuhle ke manje. Usungahamba uye kephi? Esikoleni.",
+   "en": "Their mother said, yes Sibongile, you are beautiful now. You can go where now? To school.",
+   "agree": 0.963
+  },
+  {
+   "i": 78,
+   "start": 253.15,
+   "end": 256.85,
+   "speaker": "Teacher",
+   "text": "Umama wakhe wambiza, wahlangana noSibongile, wamphakela iphalishi",
+   "en": "Their mother called them, they met with Sibongile, they served their porridge",
+   "agree": 0.619
+  },
+  {
+   "i": 79,
+   "start": 263.0,
+   "end": 269.9,
+   "speaker": "Teacher",
+   "text": "Ngesabanga uSibongile, wamphakela iphalishi eyemenzela lona, wathi akahlale phansi adle. Waseke umama wakhe wathi, \"Thatha-ke isikhwama sakho sesikole.\"",
+   "en": "Because of Sibongile, they served their porridge that they had made for them, they said they should sit down and eat. Then their mother said, \"Take your school bag then.\"",
+   "agree": 0.89
+  },
+  {
+   "i": 80,
+   "start": 270.2,
+   "end": 272.8,
+   "speaker": "Teacher",
+   "text": "Wathatha uSibongile umama wakhe emthengela isikhwama sakhe esihle esidate.",
+   "en": "They took Sibongile, their mother buying their their beautiful bag that is smart.",
+   "agree": 0.74
+  },
+  {
+   "i": 81,
+   "start": 273.1,
+   "end": 276.6,
+   "speaker": "Teacher",
+   "text": "Wahamba uSibongile waye engadini wakhe imbali, waphathala umama wakhe, bangani. Siyezwa?",
+   "en": "Sibongile went, they went to the garden and picked a flower, they brought it to their mother, friends. Do we hear?",
+   "agree": 0.881
+  },
+  {
+   "i": 82,
+   "start": 277.1,
+   "end": 277.6,
+   "speaker": "Learners",
+   "text": "Yebo.",
+   "en": "Yes.",
+   "agree": 1.0
+  },
+  {
+   "i": 83,
+   "start": 278.1,
+   "end": 285.0,
+   "speaker": "Teacher",
+   "text": "Okay-ke bangani, into engifuna ukuyibona-ke njengamanje, umama ubalile la, wathi ene kwi-story sikamama, kwakukhona bani onje estoryini sikamama? Asiphakamise.",
+   "en": "Okay then friends, the thing I want to see right now, mother has read here, they said that in mother's story, who was there like this in mother's story? Let's raise hands.",
+   "agree": 0.85
+  },
+  {
+   "i": 84,
+   "start": 285.5,
+   "end": 286.5,
+   "speaker": "Learner",
+   "text": "USibongile.",
+   "en": "Sibongile.",
+   "agree": 0.9
+  },
+  {
+   "i": 85,
+   "start": 286.9,
+   "end": 289.8,
+   "speaker": "Teacher",
+   "text": "Kwakukhona uSibongile. USibongile kuthiwa wayemenzele",
+   "en": "There was Sibongile. Sibongile, it is said they had done for them",
+   "agree": 0.0
+  },
+  {
+   "i": 86,
+   "start": 292.78,
+   "end": 295.58,
+   "speaker": "Teacher",
+   "text": "Kwakukhona uSbongile. USbongile kuthiwa wayeneminyaka emingaki khona? Phakamisa.",
+   "en": "There was Sbongile. Sbongile, it is said how many years did they have there? Raise hand.",
+   "agree": 0.247
+  },
+  {
+   "i": 87,
+   "start": 295.98,
+   "end": 296.98,
+   "speaker": "Learners",
+   "text": "Eyisihlanu.",
+   "en": "Five.",
+   "agree": 0.0
+  },
+  {
+   "i": 88,
+   "start": 297.28,
+   "end": 298.08,
+   "speaker": "Teacher",
+   "text": "Wayeneminyaka emingaki?",
+   "en": "How many years did they have?",
+   "agree": 1.0
+  },
+  {
+   "i": 89,
+   "start": 298.38,
+   "end": 299.08,
+   "speaker": "Learners",
+   "text": "Eyisihlanu.",
+   "en": "Five.",
+   "agree": 0.7
+  },
+  {
+   "i": 90,
+   "start": 299.28,
+   "end": 300.88,
+   "speaker": "Teacher",
+   "text": "Ake ningikhombise uno u-five.",
+   "en": "Just show me five.",
+   "agree": 0.571
+  },
+  {
+   "i": 91,
+   "start": 302.08,
+   "end": 304.98,
+   "speaker": "Teacher",
+   "text": "Okay. Ubani omunye owayekhona la kulendaba ka-ma'am? Ya?",
+   "en": "Okay. Who else was there here in this story of ma'am? Yes?",
+   "agree": 1.0
+  },
+  {
+   "i": 92,
+   "start": 305.78,
+   "end": 306.88,
+   "speaker": "Learner",
+   "text": "Umama wakhe.",
+   "en": "Their mother.",
+   "agree": 1.0
+  },
+  {
+   "i": 93,
+   "start": 307.28,
+   "end": 309.38,
+   "speaker": "Teacher",
+   "text": "Umama wakhe bangani, angithi?",
+   "en": "Their mother, friends, right?",
+   "agree": 0.926
+  },
+  {
+   "i": 94,
+   "start": 309.88,
+   "end": 321.08,
+   "speaker": "Teacher",
+   "text": "Okay ke bangani, into esoyenza ke njengamanje, ngizocela [learner] [learner] bangisikele into abakade beyenza kanjani? Beyikhrayonile.",
+   "en": "Okay then friends, the thing we are going to do right now, I will ask [learner] and [learner] to cut for me the thing they had been doing how? They had crayoned it.",
+   "agree": 0.937
+  },
+  {
+   "i": 95,
+   "start": 321.58,
+   "end": 323.8,
+   "speaker": "Teacher",
+   "text": "Abanye bazobe bengigqokisela bani? USbongile.",
+   "en": "Others will be dressing up who for me? Sbongile.",
+   "agree": 0.767
+  },
+  {
+   "i": 96,
+   "start": 323.8,
+   "end": 327.1,
+   "speaker": "Teacher",
+   "text": "bengigqokisela bani? uSbongile.",
+   "en": "dressing up who for me? uSbongile.",
+   "agree": 0.31
+  },
+  {
+   "i": 97,
+   "start": 342.7,
+   "end": 351.0,
+   "speaker": "Teacher",
+   "text": "Okay, njengamanje ke bangani, into esizoyenza, sizokwakha umuntu la emakheleni la ebhodini.",
+   "en": "Okay, right now then friends, the thing we are going to do, we are going to build a person here in the blocks here on the board.",
+   "agree": 0.931
+  },
+  {
+   "i": 98,
+   "start": 351.5,
+   "end": 353.0,
+   "speaker": "Teacher",
+   "text": "Nge-glue. Sezwani?",
+   "en": "With glue. Do we hear each other?",
+   "agree": 0.5
+  },
+  {
+   "i": 99,
+   "start": 358.54,
+   "end": 360.84,
+   "speaker": "Teacher",
+   "text": "Dweba ubomuntu wakho ngifuna ukumbona esephelile.",
+   "en": "Draw your person, I want to see them when they are finished.",
+   "agree": 0.958
+  },
+  {
+   "i": 100,
+   "start": 364.74,
+   "end": 365.24,
+   "speaker": "Teacher",
+   "text": "Yini leyo?",
+   "en": "What is that?",
+   "agree": 0.778
+  },
+  {
+   "i": 101,
+   "start": 366.14,
+   "end": 366.84,
+   "speaker": "Learners",
+   "text": "Ikhala.",
+   "en": "A nose.",
+   "agree": 1.0
+  },
+  {
+   "i": 102,
+   "start": 367.14,
+   "end": 368.54,
+   "speaker": "Teacher",
+   "text": "Ikhala. Ya.",
+   "en": "A nose. Yes.",
+   "agree": 1.0
+  },
+  {
+   "i": 103,
+   "start": 375.64,
+   "end": 378.84,
+   "speaker": "Teacher",
+   "text": "Asilinde [learner]-ke sibone-ke. Very good. Mshayeleni izandla.",
+   "en": "Let's wait for [learner] then and see. Very good. Clap hands for them.",
+   "agree": 0.95
+  },
+  {
+   "i": 104,
+   "start": 379.64,
+   "end": 380.24,
+   "speaker": "Teacher",
+   "text": "Thank you.",
+   "en": "Thank you.",
+   "agree": 1.0
+  },
+  {
+   "i": 105,
+   "start": 381.04,
+   "end": 382.74,
+   "speaker": "Learners",
+   "text": "Very much.",
+   "en": "Very much.",
+   "agree": 1.0
+  },
+  {
+   "i": 106,
+   "start": 384.41,
+   "end": 390.11,
+   "speaker": "Learners",
+   "text": "Thank you much, keep it up, enjani la kithi la? Uuu!",
+   "en": "Thank you much, keep it up, how is it here at our place? Uuu!",
+   "agree": 0.0
+  }
+ ],
+ "score": {
+  "value": 0.84,
+  "label": "engine agreement (proxy)",
+  "display": "84.0% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 84.0% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 4 lines the engine heard in silence were removed.",
+  "removed_in_silence": 4
+ },
+ "agreement": {
+  "value": 0.84,
+  "label": "engine agreement (proxy)",
+  "display": "84.0% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 84.0% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 4 lines the engine heard in silence were removed.",
+  "removed_in_silence": 4
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

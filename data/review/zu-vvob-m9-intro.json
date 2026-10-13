@@ -1,0 +1,145 @@
+{
+ "id": "zu-vvob-m9-intro",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 1.5,
+   "end": 3.8,
+   "speaker": "Trainer",
+   "text": "Sanibonani futhi bothisha.",
+   "en": "Hello again teachers.",
+   "agree": 1.0
+  },
+  {
+   "i": 1,
+   "start": 4.0,
+   "end": 10.0,
+   "speaker": "Trainer",
+   "text": "Kule module sizokhuluma ngokufunda ngokuhlanganyela, okuyindlela yokufundisa ukufunda iningi lethu bothisha esike sicabange ukuthi ilula ukuyenza.",
+   "en": "In this module we will talk about shared reading, which is a method of teaching reading that most of us teachers sometimes think is easy to do.",
+   "agree": 1.0
+  },
+  {
+   "i": 2,
+   "start": 10.5,
+   "end": 13.5,
+   "speaker": "Trainer",
+   "text": "Njengoba sike sakhuluma ngokufunda kuzwakale, lapho abafundi belalela uthisha,",
+   "en": "As we have spoken about reading aloud, where the learners listen to the teacher,",
+   "agree": 1.0
+  },
+  {
+   "i": 3,
+   "start": 13.8,
+   "end": 18.0,
+   "speaker": "Trainer",
+   "text": "manje sebengene kwinxenye yokufunda lapho befunda kanye kanye nothisha.",
+   "en": "now they have entered the part of reading where they read together with the teacher.",
+   "agree": 0.986
+  },
+  {
+   "i": 4,
+   "start": 18.4,
+   "end": 21.4,
+   "speaker": "Trainer",
+   "text": "Sebenendima nabo abayidlalayo ekufundeni.",
+   "en": "They now have a role that they also play in reading.",
+   "agree": 1.0
+  },
+  {
+   "i": 5,
+   "start": 21.8,
+   "end": 24.4,
+   "speaker": "Trainer",
+   "text": "Ukufunda ngokuhlanganyela kuyithuba elihle",
+   "en": "Shared reading is a good opportunity",
+   "agree": 0.929
+  },
+  {
+   "i": 6,
+   "start": 29.0,
+   "end": 36.0,
+   "speaker": "Trainer",
+   "text": "Ukufunda ngokuhlanganyela kuyithuba elihle lokuthi abafundi bacabange futhi bakhulume ngombono wabo ngalokhu okwenzekayo endabeni.",
+   "en": "Shared reading is a good opportunity for learners to think and talk about their opinion on what is happening in the story.",
+   "agree": 0.992
+  },
+  {
+   "i": 7,
+   "start": 36.7,
+   "end": 39.5,
+   "speaker": "Trainer",
+   "text": "Emuva kokuqeda le-module uzokwazi:",
+   "en": "After finishing this module you will be able to:",
+   "agree": 0.939
+  },
+  {
+   "i": 8,
+   "start": 40.3,
+   "end": 44.0,
+   "speaker": "Trainer",
+   "text": "ukuqonda kabanzi ngokubaluleka kokwenza ukufunda ngokuhlanganyela.",
+   "en": "understand more about the importance of doing shared reading.",
+   "agree": 0.985
+  },
+  {
+   "i": 9,
+   "start": 44.5,
+   "end": 50.5,
+   "speaker": "Trainer",
+   "text": "Ukuchaza izigaba ezintathu zokufunda ngokuhlanganyela eziqhamuka ngaphambi kokufunda, ngesikhathi sokufunda, ngemva kokufunda.",
+   "en": "To explain the three stages of shared reading that come before reading, during reading, after reading.",
+   "agree": 1.0
+  },
+  {
+   "i": 10,
+   "start": 51.0,
+   "end": 57.5,
+   "speaker": "Trainer",
+   "text": "Ukuxoxa ngezigaba ongazilandela uma ufundisa ukufunda ngokuhlanganyela kanye nenhloso yokwenza ukufunda ngokuhlanganyela.",
+   "en": "To discuss the stages you can follow when you teach shared reading and the purpose of doing shared reading.",
+   "agree": 1.0
+  },
+  {
+   "i": 11,
+   "start": 58.0,
+   "end": 61.3,
+   "speaker": "Trainer",
+   "text": "Ukubona amakhono okuthuthukisa ukufunda ngokuhlanganyela.",
+   "en": "To identify the skills to develop shared reading.",
+   "agree": 1.0
+  },
+  {
+   "i": 12,
+   "start": 62.3,
+   "end": 63.0,
+   "speaker": "Trainer",
+   "text": "Asiqale.",
+   "en": "Let us start.",
+   "agree": 1.0
+  }
+ ],
+ "score": {
+  "value": 0.971,
+  "label": "engine agreement (proxy)",
+  "display": "97.1% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.1% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
+ },
+ "agreement": {
+  "value": 0.971,
+  "label": "engine agreement (proxy)",
+  "display": "97.1% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.1% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

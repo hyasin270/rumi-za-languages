@@ -101,6 +101,8 @@ section.block:first-of-type { border-top: 0; }
 .chip.measured .l { color: var(--navy); }
 .chip.ai .l { color: #8A4A00; }
 .chip.ai { border-style: dashed; }
+.chip.proxy .l { color: #5B4A8A; }
+.chip.proxy { border-style: dotted; }
 .chip.pending { background: var(--white); }
 .chip.pending .v { color: var(--muted); font-weight: 500; font-size: .9rem; }
 .chip-row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
@@ -494,3 +496,14 @@ a.chip:hover { border-color: var(--coral); }
 .nav-short { display: none; }
 @media (max-width: 600px) { .lang-switch .nav-long { display: none; } .lang-switch .nav-short { display: inline; } }
 @media (max-width: 420px) { .site-header .inner { gap: 6px; padding: 0 10px; } .lang-switch a { padding: 6px 7px; font-size: .8rem; } }
+
+/* Listening review: label meanings, notes above a language's list, correction hint, split lines, silence line */
+.rv-notes { display: grid; gap: 8px; max-width: 760px; margin: 4px 0 14px; }
+.rv-notes:empty { display: none; }
+.rv-note { margin: 0; font-size: .9rem; color: var(--ink); }
+.rv-group + .rv-note { margin: -4px 0 10px; font-size: .85rem; color: var(--muted); max-width: 760px; }
+.rv-mean { font-weight: 600; }
+.rv-hint { margin: 0; font-size: .8rem; color: var(--muted); }
+.rv-split { margin: 0 0 6px; font-size: .8rem; color: #8A4A00; }
+.rv-silence { margin: 4px 0 0; }
+.lang-partner { display: block; margin-top: 6px; max-width: none; }

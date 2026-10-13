@@ -1,0 +1,154 @@
+{
+ "id": "zu-vvob-m8-intro",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 5.1,
+   "end": 10.0,
+   "speaker": "Trainer",
+   "text": "Sanibonani. Le module izosifundisa kabanzi ngokubaluleka kokwenza abafundi bayiqondisise into abayifundayo.",
+   "en": "Hello. This module will teach us in detail about the importance of making learners understand what they are reading.",
+   "agree": 1.0
+  },
+  {
+   "i": 1,
+   "start": 10.6,
+   "end": 14.9,
+   "speaker": "Trainer",
+   "text": "Uke uzithole ufunda indaba uze uyiqede kodwa ungazi ukuthi ikhuluma ngani?",
+   "en": "Do you sometimes find yourself reading a story until you finish it but you do not know what it is talking about?",
+   "agree": 1.0
+  },
+  {
+   "i": 2,
+   "start": 15.6,
+   "end": 18.0,
+   "speaker": "Trainer",
+   "text": "Lokhu kuyenzeka, ikakhulukazi kubafundi.",
+   "en": "This happens, especially to learners.",
+   "agree": 1.0
+  },
+  {
+   "i": 3,
+   "start": 18.4,
+   "end": 24.9,
+   "speaker": "Trainer",
+   "text": "Lapho wena njengothisha ucabanga ukuthi indaba bayayilandela baze baphendule nemibuzo kanti abakuqondi.",
+   "en": "Where you as a teacher think that they are following the story until they even answer questions yet they do not understand.",
+   "agree": 1.0
+  },
+  {
+   "i": 4,
+   "start": 28.9,
+   "end": 33.3,
+   "speaker": "Trainer",
+   "text": "baze bephendule nemibuzo kanti abakuqondi abakufundayo.",
+   "en": "until they even answer questions yet they do not understand what they are reading.",
+   "agree": 0.0
+  },
+  {
+   "i": 5,
+   "start": 33.7,
+   "end": 40.5,
+   "speaker": "Trainer",
+   "text": "Yingakho kubalulekile ukuthi wazi izindlela ezenza umfundi akuqondisise lokho akufundayo aze afinyelele ekuphenduleni imibuzo.",
+   "en": "That is why it is important that you know ways that make a learner understand what they are reading until they reach answering questions.",
+   "agree": 1.0
+  },
+  {
+   "i": 6,
+   "start": 41.3,
+   "end": 44.3,
+   "speaker": "Trainer",
+   "text": "Emuva kokuqeda umsebenzi wale-module, uzokwazi",
+   "en": "After finishing the work of this module, you will be able",
+   "agree": 0.933
+  },
+  {
+   "i": 7,
+   "start": 44.8,
+   "end": 48.5,
+   "speaker": "Trainer",
+   "text": "ukuqonda ukuthi siyini isifundo sokuqondisisa nokubaluleka kwaso.",
+   "en": "to understand what a comprehension lesson is and its importance.",
+   "agree": 1.0
+  },
+  {
+   "i": 8,
+   "start": 49.5,
+   "end": 52.0,
+   "speaker": "Trainer",
+   "text": "Ukuxoxa ngezindlela zokuthuthukisa ukuqondisisa,",
+   "en": "To discuss ways of improving comprehension,",
+   "agree": 1.0
+  },
+  {
+   "i": 9,
+   "start": 52.8,
+   "end": 54.8,
+   "speaker": "Trainer",
+   "text": "ukuchaza amasu okuqondisisa,",
+   "en": "to explain comprehension strategies,",
+   "agree": 1.0
+  },
+  {
+   "i": 10,
+   "start": 55.5,
+   "end": 57.3,
+   "speaker": "Trainer",
+   "text": "nokuthi kwenziwa ngasiphi.",
+   "en": "and at which it is done.",
+   "agree": 1.0
+  },
+  {
+   "i": 11,
+   "start": 58.7,
+   "end": 61.3,
+   "speaker": "Trainer",
+   "text": "sisa nokuthi kwenziwa ngasiphi isikhathi.",
+   "en": "hension and at what time it is done.",
+   "agree": 0.225
+  },
+  {
+   "i": 12,
+   "start": 62.0,
+   "end": 66.5,
+   "speaker": "Trainer",
+   "text": "Nokukhombisa ukuqonda ukuthi ungakufundisa kanjani ukuqondisisa.",
+   "en": "And to show understanding of how you can teach comprehension.",
+   "agree": 1.0
+  },
+  {
+   "i": 13,
+   "start": 67.3,
+   "end": 68.3,
+   "speaker": "Trainer",
+   "text": "Asiqale.",
+   "en": "Let us start.",
+   "agree": 1.0
+  }
+ ],
+ "score": {
+  "value": 0.983,
+  "label": "engine agreement (proxy)",
+  "display": "98.3% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.3% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
+ },
+ "agreement": {
+  "value": 0.983,
+  "label": "engine agreement (proxy)",
+  "display": "98.3% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.3% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

@@ -12,7 +12,7 @@
    "speaker": "Trainer",
    "text": "Sanibonani futhi.",
    "en": "Hello again.",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 1,
@@ -21,7 +21,7 @@
    "speaker": "Trainer",
    "text": "Sisaqhubeka nokufunda. Njengamanje sesingena kwi-module yesibili emayelana nenqubekela phambili yokufunda ngokwamabanga ahlukene.",
    "en": "We are still continuing with learning. Right now we are entering the second module about the progression of reading according to different grades.",
-   "agree": null
+   "agree": 0.984
   },
   {
    "i": 2,
@@ -30,7 +30,7 @@
    "speaker": "Trainer",
    "text": "Le module ibalulekile ngoba inika umhlahlandlela ngenqubo yokuthuthuka kancane kancane ekufundeni kuze kufinyelele esimweni esingcono.",
    "en": "This module is important because it gives a guide about the process of progressing little by little in reading until reaching a better state.",
-   "agree": null
+   "agree": 0.992
   },
   {
    "i": 3,
@@ -39,7 +39,7 @@
    "speaker": "Trainer",
    "text": "Emva kokuqeda umsebenzi wale module, uzokwazi ukuqonda",
    "en": "After finishing the work of this module, you will be able to understand",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 4,
@@ -48,7 +48,7 @@
    "speaker": "Trainer",
    "text": "umsebenzi wale module uzokwazi ukuqonda inqubekela phambili yengqikithi kanye nokuqukethwe kwebanga ngalinye kusukela kokulula kuya kokunzima.",
    "en": "the work of this module you will be able to understand the progression of the theme and the content of each grade from the easy to the difficult.",
-   "agree": null
+   "agree": 0.972
   },
   {
    "i": 5,
@@ -57,7 +57,7 @@
    "speaker": "Trainer",
    "text": "Kule module uzofunda futhi ngezigaba eziyisithupha zokuthuthukisa ukufunda.",
    "en": "In this module you will also learn about the six stages of developing reading.",
-   "agree": null
+   "agree": 0.946
   },
   {
    "i": 6,
@@ -66,7 +66,7 @@
    "speaker": "Trainer",
    "text": "Ngithanda ukusebenzisa ulwazi lwami lwenqubekela phambili yokufunda nezigaba eziyisithupha ukubona izimpawu ngasinye ukuze ngifundise kangcono abafundi bami.",
    "en": "I would like to use my knowledge of reading progression and the six stages to see the signs of each so that I can teach my learners better.",
-   "agree": null
+   "agree": 0.981
   },
   {
    "i": 7,
@@ -75,7 +75,7 @@
    "speaker": "Trainer",
    "text": "Engingithanda sikuqaphele kakhulu ukubona amakhono okufunda",
    "en": "What I would like us to pay close attention to is to see reading skills",
-   "agree": null
+   "agree": 0.814
   },
   {
    "i": 8,
@@ -84,7 +84,7 @@
    "speaker": "Trainer",
    "text": "kufanele sikuqaphele kakhulu ukubona amakhono okufunda kuqala namakhono ebangeni lokuqala kuya kwelesithathu.",
    "en": "we must pay close attention to see reading skills first and skills in grade one to three.",
-   "agree": null
+   "agree": 0.907
   },
   {
    "i": 9,
@@ -93,18 +93,22 @@
    "speaker": "Trainer",
    "text": "Sesingaqala manje sifunde kabanzi ngenqubekela phambili yokufunda ngokwamabanga ahlukene.",
    "en": "We can start now and learn more about the progression of reading according to different grades.",
-   "agree": null
+   "agree": 0.989
   }
  ],
  "score": {
-  "value": null,
+  "value": 0.962,
   "label": "engine agreement (proxy)",
-  "line": "A second engine was not run on this recording; a native ear decides."
+  "display": "96.2% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 96.2% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
  },
  "agreement": {
-  "value": null,
+  "value": 0.962,
   "label": "engine agreement (proxy)",
-  "line": "A second engine was not run on this recording; a native ear decides."
+  "display": "96.2% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 96.2% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
  },
  "reference": {
   "kind": "none",

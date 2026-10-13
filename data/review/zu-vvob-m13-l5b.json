@@ -1,0 +1,602 @@
+{
+ "id": "zu-vvob-m13-l5b",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 19.5,
+   "end": 24.0,
+   "speaker": "Trainer",
+   "text": "In this lesson, the teacher is reading with a group of learners at a lower level.",
+   "en": "In this lesson, the teacher is reading with a group of learners at a lower level.",
+   "agree": null
+  },
+  {
+   "i": 1,
+   "start": 24.8,
+   "end": 27.0,
+   "speaker": "Trainer",
+   "text": "She is using a shared reading approach.",
+   "en": "They are using a shared reading approach.",
+   "agree": null
+  },
+  {
+   "i": 2,
+   "start": 27.8,
+   "end": 29.8,
+   "speaker": "Trainer",
+   "text": "Notice how she supports the learners.",
+   "en": "Notice how they support the learners.",
+   "agree": null
+  },
+  {
+   "i": 3,
+   "start": 33.41,
+   "end": 36.61,
+   "speaker": "Teacher",
+   "text": "Bangan' bam, sekuyisikhathi sokuthi sifunde.",
+   "en": "My friends, it is now time for us to read.",
+   "agree": null
+  },
+  {
+   "i": 4,
+   "start": 37.01,
+   "end": 48.31,
+   "speaker": "Teacher",
+   "text": "Sifunda ngamaqembu. Siyakhumbula ukuthi masifunda ngamaqembu, u-ma'am kuzoba khona iqembu lakhe namhlanje, iqembu lama-kiwi esizoqala ngalo, azohlala nalo phambili, sifunde nalo.",
+   "en": "We read in groups. We remember that when we read in groups, ma'am will have their group today, the kiwi group which we will start with, they will sit with it in front, we read with it.",
+   "agree": null
+  },
+  {
+   "i": 5,
+   "start": 48.31,
+   "end": 53.81,
+   "speaker": "Teacher",
+   "text": "Bese nina abanye nizobe senifunda ngababili, abanye bazofunda ngokuzimela.",
+   "en": "Then you others will then read in pairs, others will read independently.",
+   "agree": null
+  },
+  {
+   "i": 6,
+   "start": 53.81,
+   "end": 57.96,
+   "speaker": "Teacher",
+   "text": "Ukuze silungiselele-ke ukufunda kwethu, asicule-ke iculo lethu lokufunda.",
+   "en": "In order for us to prepare for our reading, let us sing our reading song.",
+   "agree": null
+  },
+  {
+   "i": 7,
+   "start": 57.96,
+   "end": 62.96,
+   "speaker": "Teacher",
+   "text": "Bantwana bakwethu, asicule ke iculo lethu lokufunda ngamaqembu. Asiqale ke.",
+   "en": "Children of ours, let us sing our song of reading in groups. Let us start then.",
+   "agree": null
+  },
+  {
+   "i": 8,
+   "start": 63.36,
+   "end": 70.96,
+   "speaker": "Learners",
+   "text": "Funda wena, funda yo, funda mina, funda yo. Isikhathi sesifikile.",
+   "en": "Read you, read yo, read me, read yo. The time has arrived.",
+   "agree": null
+  },
+  {
+   "i": 9,
+   "start": 71.56,
+   "end": 77.06,
+   "speaker": "Teacher",
+   "text": "Siyabonga kakhulu kakhulu. Sobe silicule ke. Abeze ke abangani bami amaKiwi beze bazofunda no-ma'am.",
+   "en": "Thank you very, very much. We will sing it then. Let my friends the Kiwis come, let them come and read with ma'am.",
+   "agree": null
+  },
+  {
+   "i": 10,
+   "start": 77.36,
+   "end": 80.56,
+   "speaker": "Teacher",
+   "text": "Ngathi besukuma ke, asiphinde ke sicule iculo lethu. Beze sicula.",
+   "en": "As they stand up, let us sing our song again. Let them come while we sing.",
+   "agree": null
+  },
+  {
+   "i": 11,
+   "start": 80.86,
+   "end": 81.76,
+   "speaker": "Learners",
+   "text": "Funda mina.",
+   "en": "Read me.",
+   "agree": null
+  },
+  {
+   "i": 12,
+   "start": 81.86,
+   "end": 82.16,
+   "speaker": "Teacher",
+   "text": "Beze.",
+   "en": "Let them come.",
+   "agree": null
+  },
+  {
+   "i": 13,
+   "start": 82.26,
+   "end": 83.06,
+   "speaker": "Learners",
+   "text": "funda yo.",
+   "en": "read yo.",
+   "agree": null
+  },
+  {
+   "i": 14,
+   "start": 83.16,
+   "end": 83.46,
+   "speaker": "Teacher",
+   "text": "Beze.",
+   "en": "Let them come.",
+   "agree": null
+  },
+  {
+   "i": 15,
+   "start": 83.56,
+   "end": 86.66,
+   "speaker": "Learners",
+   "text": "Funda mina, funda yo. Isikhathi se-",
+   "en": "Read me, read yo. The time of-",
+   "agree": null
+  },
+  {
+   "i": 16,
+   "start": 86.66,
+   "end": 92.16,
+   "speaker": "Learners",
+   "text": "Kukhona yo isikhathi esesifikile.",
+   "en": "There is yo the time that has arrived.",
+   "agree": null
+  },
+  {
+   "i": 17,
+   "start": 93.16,
+   "end": 99.16,
+   "speaker": "Teacher",
+   "text": "Ngileke bangani bami njengoba sesilana, siyakhumbula indaba esiyifundayo ithi Ngelikabani izinyo?",
+   "en": "Here I am my friends as we are here, we remember the story we are reading says Whose tooth is it?",
+   "agree": null
+  },
+  {
+   "i": 18,
+   "start": 99.16,
+   "end": 106.66,
+   "speaker": "Teacher",
+   "text": "Kodwa-ke sizoqala sibuyekeze imisindo eyakhe amagama akulendaba ethi Ngelikabani leli zinyo?",
+   "en": "But we will start by reviewing the sounds that build the words in this story that says Whose tooth is this?",
+   "agree": null
+  },
+  {
+   "i": 19,
+   "start": 107.06,
+   "end": 113.46,
+   "speaker": "Teacher",
+   "text": "Nanti-ke igama lethu lokuqala. Eh nanku umsindo, asiwubuke kuqala. Nanku umsindo, asiwubuke.",
+   "en": "Here is our first word. Eh here is the sound, let us look at it first. Here is the sound, let us look at it.",
+   "agree": null
+  },
+  {
+   "i": 20,
+   "start": 113.86,
+   "end": 114.76,
+   "speaker": "Teacher",
+   "text": "Uthini lo msindo?",
+   "en": "What does this sound say?",
+   "agree": null
+  },
+  {
+   "i": 21,
+   "start": 115.26,
+   "end": 115.66,
+   "speaker": "Teacher",
+   "text": "Nj.",
+   "en": "Nj.",
+   "agree": null
+  },
+  {
+   "i": 22,
+   "start": 116.46,
+   "end": 117.46,
+   "speaker": "Teacher",
+   "text": "Umsindo uthi",
+   "en": "The sound says",
+   "agree": null
+  },
+  {
+   "i": 23,
+   "start": 118.18,
+   "end": 120.28,
+   "speaker": "Teacher",
+   "text": "Msindo. Hhayi che sibili leli gama.",
+   "en": "Sound. No, indeed this word.",
+   "agree": null
+  },
+  {
+   "i": 24,
+   "start": 120.58,
+   "end": 121.38,
+   "speaker": "Teacher",
+   "text": "Bani lomsindo?",
+   "en": "Whose is this sound?",
+   "agree": null
+  },
+  {
+   "i": 25,
+   "start": 121.68,
+   "end": 122.08,
+   "speaker": "Teacher",
+   "text": "Ubani?",
+   "en": "Who is it?",
+   "agree": null
+  },
+  {
+   "i": 26,
+   "start": 122.38,
+   "end": 122.68,
+   "speaker": "Learner",
+   "text": "T.",
+   "en": "T.",
+   "agree": null
+  },
+  {
+   "i": 27,
+   "start": 122.88,
+   "end": 123.28,
+   "speaker": "Teacher",
+   "text": "U-T.",
+   "en": "T.",
+   "agree": null
+  },
+  {
+   "i": 28,
+   "start": 124.08,
+   "end": 124.88,
+   "speaker": "Teacher",
+   "text": "Nanti elakho.",
+   "en": "Here is yours.",
+   "agree": null
+  },
+  {
+   "i": 29,
+   "start": 125.88,
+   "end": 126.78,
+   "speaker": "Teacher",
+   "text": "Le. Okay.",
+   "en": "This. Okay.",
+   "agree": null
+  },
+  {
+   "i": 30,
+   "start": 126.88,
+   "end": 132.88,
+   "speaker": "Teacher",
+   "text": "Umunthu nomunthu ngizomnika izincezu zakhe zemsindo akhe ini? Igama. Ngifuna ukubona ukuthi nisawakhumbula yini.",
+   "en": "Each and every person I will give them their pieces of sound to build what? A word. I want to see if you still remember them.",
+   "agree": null
+  },
+  {
+   "i": 31,
+   "start": 132.98,
+   "end": 134.28,
+   "speaker": "Teacher",
+   "text": "Ngininika umzuzu owodwa.",
+   "en": "I am giving you one minute.",
+   "agree": null
+  },
+  {
+   "i": 32,
+   "start": 135.18,
+   "end": 136.28,
+   "speaker": "Teacher",
+   "text": "Sivule. Yebo.",
+   "en": "Let's open. Yes.",
+   "agree": null
+  },
+  {
+   "i": 33,
+   "start": 149.67,
+   "end": 157.47,
+   "speaker": "Teacher",
+   "text": "Ngenkathi ulakha igama, ufunde le phansi, uyifunde imisindo ukuze igama olakhayo lakhe ini? Umqondo.",
+   "en": "While you build the word, read down here, read the sounds so that the word you build makes what? Sense.",
+   "agree": null
+  },
+  {
+   "i": 34,
+   "start": 157.97,
+   "end": 159.17,
+   "speaker": "Teacher",
+   "text": "Angithi igama eliphelele?",
+   "en": "Isn't it a complete word?",
+   "agree": null
+  },
+  {
+   "i": 35,
+   "start": 159.47,
+   "end": 161.37,
+   "speaker": "Teacher",
+   "text": "Lima kanje, igama eliphelele.",
+   "en": "It stands like this, a complete word.",
+   "agree": null
+  },
+  {
+   "i": 36,
+   "start": 162.17,
+   "end": 167.67,
+   "speaker": "Teacher",
+   "text": "Into enizoyenza-ke manje, ngizoninika amagama, ngizowandlala la phansi.",
+   "en": "The thing you are going to do now, I will give you words, I will lay them down here.",
+   "agree": null
+  },
+  {
+   "i": 37,
+   "start": 168.37,
+   "end": 173.17,
+   "speaker": "Teacher",
+   "text": "Ngifuna-ke manje ukhethe igama elifana naleli.",
+   "en": "I want you now to choose a word that is like this one.",
+   "agree": null
+  },
+  {
+   "i": 38,
+   "start": 175.27,
+   "end": 178.17,
+   "speaker": "Teacher",
+   "text": "thathe igama elifana naleli olakhile.",
+   "en": "take a word that is like this one you built.",
+   "agree": null
+  },
+  {
+   "i": 39,
+   "start": 178.17,
+   "end": 182.07,
+   "speaker": "Teacher",
+   "text": "Yila esobona khona-ke ukuthi ngempela ngempela amagama ethu siwakhe kahle yini.",
+   "en": "This is where we will see then if indeed, indeed we built our words well.",
+   "agree": null
+  },
+  {
+   "i": 40,
+   "start": 182.17,
+   "end": 184.17,
+   "speaker": "Teacher",
+   "text": "Hamba ulithathe ulibeke eduze kwakho naso.",
+   "en": "Go and take it and put it near you, there it is.",
+   "agree": null
+  },
+  {
+   "i": 41,
+   "start": 192.87,
+   "end": 195.47,
+   "speaker": "Teacher",
+   "text": "Ngiyabonga-ke bangani bami, sesiwathathile sonke.",
+   "en": "Thank you then my friends, we have all taken them.",
+   "agree": null
+  },
+  {
+   "i": 42,
+   "start": 197.07,
+   "end": 197.57,
+   "speaker": "Learners",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": null
+  },
+  {
+   "i": 43,
+   "start": 197.97,
+   "end": 198.47,
+   "speaker": "Teacher",
+   "text": "Ngempela.",
+   "en": "Indeed.",
+   "agree": null
+  },
+  {
+   "i": 44,
+   "start": 199.07,
+   "end": 200.27,
+   "speaker": "Teacher",
+   "text": "Ha, cha, ngiyalibona.",
+   "en": "Ha, no, I see it.",
+   "agree": null
+  },
+  {
+   "i": 45,
+   "start": 204.63,
+   "end": 208.23,
+   "speaker": "Teacher",
+   "text": "Ha, cha, ngiyalibona impela liyahambisana nezitshalo. Elakho igama olakhile?",
+   "en": "Ha, no, I see it indeed, it goes along with plants. Yours, the word you built?",
+   "agree": null
+  },
+  {
+   "i": 46,
+   "start": 208.53,
+   "end": 209.73,
+   "speaker": "Learner",
+   "text": "Elingakhi izitshalo.",
+   "en": "The one that does not build plants.",
+   "agree": null
+  },
+  {
+   "i": 47,
+   "start": 211.13,
+   "end": 216.23,
+   "speaker": "Teacher",
+   "text": "Sakhumbula amagama ekufanele siwafunde kuqala ngaphambi kokuba senzenjani? Sifunde indaba yethu ethini? Ngelikabani leli zinyo?",
+   "en": "We remembered the words that we should read first before we do what? Read our story that says what? Whose tooth is this?",
+   "agree": null
+  },
+  {
+   "i": 48,
+   "start": 216.63,
+   "end": 218.53,
+   "speaker": "Teacher",
+   "text": "Isihloko sendaba yethu. Funda [learner].",
+   "en": "The title of our story. Read, [learner].",
+   "agree": null
+  },
+  {
+   "i": 49,
+   "start": 219.13,
+   "end": 226.33,
+   "speaker": "Learners",
+   "text": "Ulozi waye egadini le ntlansi eyibona into [learner].",
+   "en": "Ulozi was in the garden, this fish seeing a beautiful thing.",
+   "agree": null
+  },
+  {
+   "i": 50,
+   "start": 226.43,
+   "end": 226.93,
+   "speaker": "Learner",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": null
+  },
+  {
+   "i": 51,
+   "start": 233.87,
+   "end": 238.17,
+   "speaker": "Learner",
+   "text": "into engajwayelekile [learner].",
+   "en": "an unusual thing, [learner].",
+   "agree": null
+  },
+  {
+   "i": 52,
+   "start": 238.27,
+   "end": 241.37,
+   "speaker": "Teacher",
+   "text": "Okay, siyabonga. Siyabonga kakhulu bangani bami.",
+   "en": "Okay, thank you. Thank you very much my friends.",
+   "agree": null
+  },
+  {
+   "i": 53,
+   "start": 242.87,
+   "end": 247.17,
+   "speaker": "Teacher",
+   "text": "Ngizokubuza-ke nje imibuzo emibili emithathu ukubona ukuthi besiyilalele yini lendaba.",
+   "en": "I will just ask you two or three questions to see if we were listening to this story.",
+   "agree": null
+  },
+  {
+   "i": 54,
+   "start": 247.37,
+   "end": 248.87,
+   "speaker": "Teacher",
+   "text": "Ulwazi watholani engadini?",
+   "en": "What did Ulwazi find in the garden?",
+   "agree": null
+  },
+  {
+   "i": 55,
+   "start": 249.57,
+   "end": 249.97,
+   "speaker": "Learner",
+   "text": "Yebo.",
+   "en": "Yes.",
+   "agree": null
+  },
+  {
+   "i": 56,
+   "start": 250.07,
+   "end": 250.67,
+   "speaker": "Teacher",
+   "text": "Izinyo.",
+   "en": "A tooth.",
+   "agree": null
+  },
+  {
+   "i": 57,
+   "start": 250.37,
+   "end": 254.97,
+   "speaker": "Teacher",
+   "text": "Wathola izinyo. Okay? Izinyo wathi melithatha walibeka kuphi? Kusiphi isitho somzimba?",
+   "en": "They found a tooth. Okay? The tooth, when they took it, where did they put it? On which body part?",
+   "agree": null
+  },
+  {
+   "i": 58,
+   "start": 255.07,
+   "end": 255.57,
+   "speaker": "Learners",
+   "text": "Esandleni.",
+   "en": "On the hand.",
+   "agree": null
+  },
+  {
+   "i": 59,
+   "start": 255.67,
+   "end": 258.17,
+   "speaker": "Teacher",
+   "text": "Walibeka kuphi? Esandleni.",
+   "en": "Where did they put it? On the hand.",
+   "agree": null
+  },
+  {
+   "i": 60,
+   "start": 258.57,
+   "end": 262.57,
+   "speaker": "Teacher",
+   "text": "Ngiyabonga kakhulu-ke bangani bami. Sizophinde futhi siqhubeke.",
+   "en": "Thank you very much then my friends. We will also continue again.",
+   "agree": null
+  },
+  {
+   "i": 61,
+   "start": 264.4,
+   "end": 268.6,
+   "speaker": "Teacher",
+   "text": "ngakhulu ke bangani bami, sizophinda futhi siqhubeke kusasa.",
+   "en": "very much then my friends, we will also continue again tomorrow.",
+   "agree": null
+  },
+  {
+   "i": 62,
+   "start": 269.9,
+   "end": 272.9,
+   "speaker": "Teacher",
+   "text": "U-ma'am uzobe esebhala ukuthi sonke sifunde kanjani.",
+   "en": "Ma'am will then write how we all read.",
+   "agree": null
+  },
+  {
+   "i": 63,
+   "start": 274.1,
+   "end": 274.6,
+   "speaker": "Teacher",
+   "text": "Okay?",
+   "en": "Okay?",
+   "agree": null
+  }
+ ],
+ "score": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides. 3 lines the engine heard in silence were removed.",
+  "removed_in_silence": 3
+ },
+ "agreement": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides. 3 lines the engine heard in silence were removed.",
+  "removed_in_silence": 3
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

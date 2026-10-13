@@ -1,0 +1,2128 @@
+{
+ "id": "xh-fw-ggr-lesson",
+ "lang": "xh",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 6.0,
+   "end": 6.4,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 1,
+   "start": 6.9,
+   "end": 10.4,
+   "speaker": "Teacher",
+   "text": "Uyaqhubekeka uyafunda. Indlovu mazi khawuleze zize emethini.",
+   "en": "You continue reading. Elephants, please hurry up and come to the mat.",
+   "agree": 0.966
+  },
+  {
+   "i": 2,
+   "start": 12.9,
+   "end": 15.2,
+   "speaker": "Teacher",
+   "text": "I-group leader ithathe incwadi.",
+   "en": "The group leader should take the book.",
+   "agree": 0.633
+  },
+  {
+   "i": 3,
+   "start": 15.8,
+   "end": 16.5,
+   "speaker": "Learner",
+   "text": "Andinayo mna.",
+   "en": "I don't have one.",
+   "agree": 0.0
+  },
+  {
+   "i": 4,
+   "start": 17.0,
+   "end": 18.1,
+   "speaker": "Learner",
+   "text": "Andinayo nam hayi sana.",
+   "en": "I don't have one either, oh baby.",
+   "agree": 0.409
+  },
+  {
+   "i": 5,
+   "start": 18.3,
+   "end": 18.9,
+   "speaker": "Teacher",
+   "text": "Hayi sana.",
+   "en": "Oh baby.",
+   "agree": 1.0
+  },
+  {
+   "i": 6,
+   "start": 19.2,
+   "end": 19.7,
+   "speaker": "Learner",
+   "text": "Asifani.",
+   "en": "We are not the same.",
+   "agree": 0.143
+  },
+  {
+   "i": 7,
+   "start": 20.1,
+   "end": 20.4,
+   "speaker": "Teacher",
+   "text": "Heyi!",
+   "en": "Hey!",
+   "agree": 0.0
+  },
+  {
+   "i": 8,
+   "start": 20.9,
+   "end": 21.9,
+   "speaker": "Teacher",
+   "text": "Yiza, yiza, yiza.",
+   "en": "Come, come, come.",
+   "agree": 0.5
+  },
+  {
+   "i": 9,
+   "start": 27.46,
+   "end": 28.56,
+   "speaker": "Teacher",
+   "text": "Yiza, yiza, yiza.",
+   "en": "Come, come, come.",
+   "agree": 0.071
+  },
+  {
+   "i": 10,
+   "start": 29.06,
+   "end": 30.16,
+   "speaker": "Learner",
+   "text": "I-group leader.",
+   "en": "The group leader.",
+   "agree": 0.143
+  },
+  {
+   "i": 11,
+   "start": 31.06,
+   "end": 32.66,
+   "speaker": "Teacher",
+   "text": "Suki pencil, suki pencil.",
+   "en": "Remove the pencil, remove the pencil.",
+   "agree": 0.435
+  },
+  {
+   "i": 12,
+   "start": 33.16,
+   "end": 38.06,
+   "speaker": "Teacher",
+   "text": "Bahlala ngendawu, kuba kaloku kukho abantu abathatha iindawo kwabanye abantu abazothi gcugcugcuthi apha.",
+   "en": "They sit in their places, because of course there are people who take places from other people who will squeeze in here.",
+   "agree": 0.657
+  },
+  {
+   "i": 13,
+   "start": 38.16,
+   "end": 39.66,
+   "speaker": "Learner",
+   "text": "Apha eyam indawo ibona le ndawo.",
+   "en": "Here, my place is this place.",
+   "agree": 0.0
+  },
+  {
+   "i": 14,
+   "start": 40.56,
+   "end": 42.36,
+   "speaker": "Teacher",
+   "text": "Khawuleza, khawuleza, khawuleza.",
+   "en": "Hurry up, hurry up, hurry up.",
+   "agree": 1.0
+  },
+  {
+   "i": 15,
+   "start": 42.66,
+   "end": 43.46,
+   "speaker": "Learner",
+   "text": "I-group leader.",
+   "en": "The group leader.",
+   "agree": 0.071
+  },
+  {
+   "i": 16,
+   "start": 43.96,
+   "end": 45.36,
+   "speaker": "Teacher",
+   "text": "Heyi, nale group leader.",
+   "en": "Hey, and this group leader.",
+   "agree": 0.773
+  },
+  {
+   "i": 17,
+   "start": 46.56,
+   "end": 47.26,
+   "speaker": "Teacher",
+   "text": "Enkosi.",
+   "en": "Thank you.",
+   "agree": 1.0
+  },
+  {
+   "i": 18,
+   "start": 48.66,
+   "end": 49.56,
+   "speaker": "Learner",
+   "text": "I-group leader yase [inaudible].",
+   "en": "The group leader of [inaudible].",
+   "agree": 0.0
+  },
+  {
+   "i": 19,
+   "start": 49.66,
+   "end": 51.06,
+   "speaker": "Teacher",
+   "text": "Hlala kakuhle ke, hlala kakuhle.",
+   "en": "Sit nicely then, sit nicely.",
+   "agree": 0.9
+  },
+  {
+   "i": 20,
+   "start": 51.36,
+   "end": 52.56,
+   "speaker": "Learner",
+   "text": "Khawume ndihlale apha.",
+   "en": "Wait let me sit here.",
+   "agree": 0.0
+  },
+  {
+   "i": 21,
+   "start": 52.86,
+   "end": 53.86,
+   "speaker": "Teacher",
+   "text": "Hlala kakuhle.",
+   "en": "Sit nicely.",
+   "agree": 0.077
+  },
+  {
+   "i": 22,
+   "start": 54.16,
+   "end": 55.16,
+   "speaker": "Learner",
+   "text": "Khawume ndihlale apha.",
+   "en": "Wait let me sit here.",
+   "agree": 0.0
+  },
+  {
+   "i": 23,
+   "start": 57.95,
+   "end": 59.75,
+   "speaker": "Learner",
+   "text": "Kufuneka siqale ngokuya.",
+   "en": "We must start with that.",
+   "agree": 0.217
+  },
+  {
+   "i": 24,
+   "start": 60.25,
+   "end": 61.95,
+   "speaker": "Teacher",
+   "text": "Ndiqale ngokuya endaweni yokuthi, mamelani ke.",
+   "en": "I should start with that instead of saying, listen then.",
+   "agree": 0.5
+  },
+  {
+   "i": 25,
+   "start": 62.55,
+   "end": 65.75,
+   "speaker": "Teacher",
+   "text": "Xa ndithi kuni, heyi kukho abasebefunda vele nje. Mamelani.",
+   "en": "When I say to you, hey there are those who are already reading. Listen.",
+   "agree": 0.679
+  },
+  {
+   "i": 26,
+   "start": 66.45,
+   "end": 69.45,
+   "speaker": "Teacher",
+   "text": "I- okay, ndijahile. Andinako.",
+   "en": "The- okay, I am in a hurry. I cannot.",
+   "agree": 0.24
+  },
+  {
+   "i": 27,
+   "start": 69.95,
+   "end": 71.45,
+   "speaker": "Teacher",
+   "text": "Jonga napha kum. Mamelani ke.",
+   "en": "Look here at me. Listen then.",
+   "agree": 0.185
+  },
+  {
+   "i": 28,
+   "start": 72.35,
+   "end": 74.35,
+   "speaker": "Teacher",
+   "text": "Sizawuva umntu ngamnye efunda.",
+   "en": "We will hear each person reading.",
+   "agree": 0.897
+  },
+  {
+   "i": 29,
+   "start": 74.85,
+   "end": 77.95,
+   "speaker": "Teacher",
+   "text": "Kodwa ke namhlanje sifuna ukugcin' ixesha ngoba sikhawulezis' ukufunda, uyaqonda?",
+   "en": "But then today we want to save time because we are speeding up the reading, do you understand?",
+   "agree": 0.766
+  },
+  {
+   "i": 30,
+   "start": 78.45,
+   "end": 84.25,
+   "speaker": "Teacher",
+   "text": "Uthi xa ufunda, ehm, sibe sitheni kaloku ngoba besisenza i- i- i- i-- i- i- i- i- i- i- i- i- i- i-- i- i-- i- i- i- an's i-shared reading, besisenze ntoni?",
+   "en": "You say when you read, ehm, what did we say then because we were doing i- i- i- i- i- i- i- i- i- i- i- i- i- i- i- i- i- i- i- an's i-shared reading, what had we done?",
+   "agree": 0.646
+  },
+  {
+   "i": 31,
+   "start": 84.75,
+   "end": 85.95,
+   "speaker": "Teacher",
+   "text": "Yintoni ebendiyenzile kuqala?",
+   "en": "What is it that I had done first?",
+   "agree": 0.107
+  },
+  {
+   "i": 32,
+   "start": 89.54,
+   "end": 92.84,
+   "speaker": "Teacher",
+   "text": "Ntoni ebendiyenzile xa ndingalazi igama okanye xa ndingaqondi igama? Yes.",
+   "en": "What had I done when I do not know the word or when I do not understand the word? Yes.",
+   "agree": 0.817
+  },
+  {
+   "i": 33,
+   "start": 93.44,
+   "end": 95.44,
+   "speaker": "Learners",
+   "text": "Uqala ulibulijile igama.",
+   "en": "First you look at the word.",
+   "agree": 0.217
+  },
+  {
+   "i": 34,
+   "start": 95.94,
+   "end": 98.64,
+   "speaker": "Teacher",
+   "text": "Uyiqala ulibulijile igama ndiyaliqalela, andithi?",
+   "en": "First you look at the word, I start it, right?",
+   "agree": 0.511
+  },
+  {
+   "i": 35,
+   "start": 99.54,
+   "end": 100.94,
+   "speaker": "Teacher",
+   "text": "Ntoni enye esiyikhumbulayo?",
+   "en": "What else do we remember?",
+   "agree": 1.0
+  },
+  {
+   "i": 36,
+   "start": 101.34,
+   "end": 104.94,
+   "speaker": "Learners",
+   "text": "Xa uli-lead-ile igama uyaxoxa.",
+   "en": "When you have lead the word, you discuss.",
+   "agree": 0.69
+  },
+  {
+   "i": 37,
+   "start": 105.34,
+   "end": 107.64,
+   "speaker": "Teacher",
+   "text": "Xa ndili-lead-e igama ndiyaxoxa. Hayi ke.",
+   "en": "When I have lead the word, I discuss. No then.",
+   "agree": 0.744
+  },
+  {
+   "i": 38,
+   "start": 107.94,
+   "end": 108.64,
+   "speaker": "Teacher",
+   "text": "Ikhona enye into?",
+   "en": "Is there another thing?",
+   "agree": 1.0
+  },
+  {
+   "i": 39,
+   "start": 108.94,
+   "end": 112.34,
+   "speaker": "Learners",
+   "text": "Xa ulibulijile. Xa ulibulijile igama uyaxoxa.",
+   "en": "When you have looked at it. When you have looked at the word, you discuss.",
+   "agree": 0.0
+  },
+  {
+   "i": 40,
+   "start": 112.34,
+   "end": 112.64,
+   "speaker": "Teacher",
+   "text": "Ha-ah.",
+   "en": "No.",
+   "agree": 0.0
+  },
+  {
+   "i": 41,
+   "start": 113.14,
+   "end": 115.24,
+   "speaker": "Learner",
+   "text": "Okay, umntu uqala alibulijile igama uyaliqala.",
+   "en": "Okay, a person first looks at the word, they start it.",
+   "agree": 0.568
+  },
+  {
+   "i": 42,
+   "start": 115.24,
+   "end": 118.14,
+   "speaker": "Teacher",
+   "text": "Ha-ah, ndizawuthetha lanto zimbini qha ezinto bendizifuna.",
+   "en": "No, I will say those two things only, those things I wanted.",
+   "agree": 0.929
+  },
+  {
+   "i": 43,
+   "start": 118.14,
+   "end": 119.34,
+   "speaker": "Teacher",
+   "text": "Okay. Mamela ke.",
+   "en": "Okay. Listen then.",
+   "agree": 0.0
+  },
+  {
+   "i": 44,
+   "start": 121.12,
+   "end": 124.22,
+   "speaker": "Teacher",
+   "text": "Mamela ke sizawuqala apha. Masiqale [learner] kodwa.",
+   "en": "Listen then, we will start here. Let's start with [learner] though.",
+   "agree": 0.96
+  },
+  {
+   "i": 45,
+   "start": 124.72,
+   "end": 128.72,
+   "speaker": "Teacher",
+   "text": "Then ke size apha. And then siphinde sibuyele pha, andithi? Okay.",
+   "en": "Then so we come here. And then we go back there again, right? Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 46,
+   "start": 129.12,
+   "end": 131.22,
+   "speaker": "Teacher",
+   "text": "Sizawukuva ke. Ah, okay. Hayi, yima.",
+   "en": "We will hear then. Ah, okay. No, wait.",
+   "agree": 0.839
+  },
+  {
+   "i": 47,
+   "start": 132.22,
+   "end": 132.72,
+   "speaker": "Teacher",
+   "text": "[learner]?",
+   "en": "[learner]?",
+   "agree": 1.0
+  },
+  {
+   "i": 48,
+   "start": 133.52,
+   "end": 135.22,
+   "speaker": "Teacher",
+   "text": "Sithini isihloko seleli bali kuqala?",
+   "en": "What does the title of this story say first?",
+   "agree": 0.914
+  },
+  {
+   "i": 49,
+   "start": 135.52,
+   "end": 141.12,
+   "speaker": "Learners",
+   "text": "Amabaso okutya okunempilo.",
+   "en": "Presents of healthy food.",
+   "agree": 0.88
+  },
+  {
+   "i": 50,
+   "start": 141.52,
+   "end": 144.72,
+   "speaker": "Teacher",
+   "text": "Kodwa ke nithe [learner]. Andithi i-choir?",
+   "en": "But then I said [learner]. Isn't it a choir?",
+   "agree": 0.784
+  },
+  {
+   "i": 51,
+   "start": 145.52,
+   "end": 146.12,
+   "speaker": "Teacher",
+   "text": "[learner]?",
+   "en": "[learner]?",
+   "agree": 1.0
+  },
+  {
+   "i": 52,
+   "start": 146.92,
+   "end": 147.42,
+   "speaker": "Teacher",
+   "text": "Yithini?",
+   "en": "Say it?",
+   "agree": 0.0
+  },
+  {
+   "i": 53,
+   "start": 147.82,
+   "end": 148.32,
+   "speaker": "Learner",
+   "text": "Ama-",
+   "en": "Ama-",
+   "agree": 0.0
+  },
+  {
+   "i": 54,
+   "start": 150.94,
+   "end": 151.34,
+   "speaker": "Teacher",
+   "text": "Thini?",
+   "en": "Say what?",
+   "agree": 1.0
+  },
+  {
+   "i": 55,
+   "start": 151.74,
+   "end": 155.94,
+   "speaker": "Learner",
+   "text": "Amabaso okutya okunempilo.",
+   "en": "Presents of healthy food.",
+   "agree": 0.0
+  },
+  {
+   "i": 56,
+   "start": 156.04,
+   "end": 159.94,
+   "speaker": "Teacher",
+   "text": "Okay. Mamelani uzoqala qalele kumina. Qala kumina ke.",
+   "en": "Okay. Listen you will start start with me. Start with me then.",
+   "agree": 0.64
+  },
+  {
+   "i": 57,
+   "start": 160.44,
+   "end": 165.94,
+   "speaker": "Learner",
+   "text": "Umama ufaka i-apile epokisini.",
+   "en": "Mother puts an apple in the box.",
+   "agree": 0.931
+  },
+  {
+   "i": 58,
+   "start": 167.74,
+   "end": 172.44,
+   "speaker": "Learner",
+   "text": "UKabelo ucela ibhotile yejusi.",
+   "en": "Kabelo asks for a bottle of juice.",
+   "agree": 1.0
+  },
+  {
+   "i": 59,
+   "start": 172.74,
+   "end": 178.94,
+   "speaker": "Teacher",
+   "text": "Mamelani ke [learner], ndicela unifunde kahle ungathi, uKabelo ucela.",
+   "en": "Listen then [learner], please read well for us, don't say, Kabelo asks.",
+   "agree": 0.937
+  },
+  {
+   "i": 60,
+   "start": 178.48,
+   "end": 181.58,
+   "speaker": "Teacher",
+   "text": "Ukabelo ucela ibhotile yejusi.",
+   "en": "Kabelo asks for a bottle of juice.",
+   "agree": 0.31
+  },
+  {
+   "i": 61,
+   "start": 183.58,
+   "end": 184.08,
+   "speaker": "Teacher",
+   "text": "Yandiva?",
+   "en": "Did you hear me?",
+   "agree": 0.0
+  },
+  {
+   "i": 62,
+   "start": 184.58,
+   "end": 188.88,
+   "speaker": "Teacher",
+   "text": "Kaloku asifuni kwenza njeba sithi, mh mh mh mh mh mh mh.",
+   "en": "Because we don't want to do like this and say, mh mh mh mh mh mh mh.",
+   "agree": 0.537
+  },
+  {
+   "i": 63,
+   "start": 189.38,
+   "end": 190.48,
+   "speaker": "Teacher",
+   "text": "Ne? Okay.",
+   "en": "Right? Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 64,
+   "start": 191.88,
+   "end": 194.58,
+   "speaker": "Learners",
+   "text": "Ukabelo ucela ibhotile yejusi.",
+   "en": "Kabelo asks for a bottle of juice.",
+   "agree": 1.0
+  },
+  {
+   "i": 65,
+   "start": 194.98,
+   "end": 195.88,
+   "speaker": "Teacher",
+   "text": "Phind' uzame kwakhona.",
+   "en": "Try again.",
+   "agree": 0.95
+  },
+  {
+   "i": 66,
+   "start": 196.28,
+   "end": 198.08,
+   "speaker": "Teacher",
+   "text": "Ukabelo ucela ibhotile yejusi.",
+   "en": "Kabelo asks for a bottle of juice.",
+   "agree": 1.0
+  },
+  {
+   "i": 67,
+   "start": 198.58,
+   "end": 200.58,
+   "speaker": "Learner",
+   "text": "Ukabelo ucela ibhotile yejusi.",
+   "en": "Kabelo asks for a bottle of juice.",
+   "agree": 1.0
+  },
+  {
+   "i": 68,
+   "start": 200.98,
+   "end": 201.58,
+   "speaker": "Teacher",
+   "text": "Very good.",
+   "en": "Very good.",
+   "agree": 1.0
+  },
+  {
+   "i": 69,
+   "start": 201.88,
+   "end": 203.48,
+   "speaker": "Teacher",
+   "text": "Okay. Funda le elandelayo.",
+   "en": "Okay. Read this next one.",
+   "agree": 0.5
+  },
+  {
+   "i": 70,
+   "start": 212.31,
+   "end": 215.61,
+   "speaker": "Teacher",
+   "text": "Awujonganga apha ke wena? Uyabhala pha umsebenzi wakho phaya?",
+   "en": "Are you not looking here? Are you writing your work over there?",
+   "agree": 1.0
+  },
+  {
+   "i": 71,
+   "start": 216.61,
+   "end": 217.31,
+   "speaker": "Learner",
+   "text": "Ufunda ntoni?",
+   "en": "What are you reading?",
+   "agree": 0.167
+  },
+  {
+   "i": 72,
+   "start": 219.61,
+   "end": 220.21,
+   "speaker": "Learners",
+   "text": "Hayi. Hayi.",
+   "en": "No. No.",
+   "agree": 0.0
+  },
+  {
+   "i": 73,
+   "start": 220.31,
+   "end": 222.21,
+   "speaker": "Learner",
+   "text": "Nda- nda- u- gqada.",
+   "en": "I- I- to- jump over.",
+   "agree": 0.067
+  },
+  {
+   "i": 74,
+   "start": 222.61,
+   "end": 223.71,
+   "speaker": "Teacher",
+   "text": "Okay, bangapho miss up.",
+   "en": "Okay, they are there miss up.",
+   "agree": 0.905
+  },
+  {
+   "i": 75,
+   "start": 224.21,
+   "end": 226.11,
+   "speaker": "Teacher",
+   "text": "Bangapho mi-stress apha kule group.",
+   "en": "They are there mi-stress here in this group.",
+   "agree": 0.912
+  },
+  {
+   "i": 76,
+   "start": 226.71,
+   "end": 229.61,
+   "speaker": "Teacher",
+   "text": "Abanye abantu abajonganga kule ndawo sifunda kuyo.",
+   "en": "Other people are not looking at this place where we are reading.",
+   "agree": 1.0
+  },
+  {
+   "i": 77,
+   "start": 230.11,
+   "end": 233.01,
+   "speaker": "Teacher",
+   "text": "Uzawuhlala phantsi ke if awufuni ukuhlala kule group.",
+   "en": "You will sit down then if you don't want to sit in this group.",
+   "agree": 0.981
+  },
+  {
+   "i": 78,
+   "start": 233.91,
+   "end": 234.61,
+   "speaker": "Teacher",
+   "text": "Imi- imi-",
+   "en": "Imi- imi-",
+   "agree": 1.0
+  },
+  {
+   "i": 79,
+   "start": 240.3,
+   "end": 241.7,
+   "speaker": "Teacher",
+   "text": "Im im im im.",
+   "en": "Im im im im.",
+   "agree": 0.364
+  },
+  {
+   "i": 80,
+   "start": 248.4,
+   "end": 251.1,
+   "speaker": "Learner",
+   "text": "Ndakubhaqa kaBhelo.",
+   "en": "I will catch you Kabelo.",
+   "agree": 0.944
+  },
+  {
+   "i": 81,
+   "start": 252.0,
+   "end": 253.1,
+   "speaker": "Learner",
+   "text": "usiba.",
+   "en": "feather.",
+   "agree": 1.0
+  },
+  {
+   "i": 82,
+   "start": 253.9,
+   "end": 255.5,
+   "speaker": "Learner",
+   "text": "itshokolethi.",
+   "en": "chocolate.",
+   "agree": 1.0
+  },
+  {
+   "i": 83,
+   "start": 255.8,
+   "end": 259.5,
+   "speaker": "Teacher",
+   "text": "Okay, good. Ubabize kakuhle la magama kodwa ke ngoku masiphinde siwafunde kakuhle.",
+   "en": "Okay, good. You called those words well but now let's read them well again.",
+   "agree": 0.899
+  },
+  {
+   "i": 84,
+   "start": 260.2,
+   "end": 264.0,
+   "speaker": "Teacher",
+   "text": "Ndakubhaqa kaBhelo, usiba, itshokolethi.",
+   "en": "I will catch you Kabelo, feather, chocolate.",
+   "agree": 0.973
+  },
+  {
+   "i": 85,
+   "start": 264.7,
+   "end": 268.4,
+   "speaker": "Learners",
+   "text": "Ndakubhaqa kaBhelo, usiba, itshokolethi.",
+   "en": "I will catch you Kabelo, feather, chocolate.",
+   "agree": 0.351
+  },
+  {
+   "i": 86,
+   "start": 267.96,
+   "end": 270.66,
+   "speaker": "Learner",
+   "text": "Ngapha kwakukhona isiba intshokolethi.",
+   "en": "This side there was a feather a chocolate.",
+   "agree": 0.0
+  },
+  {
+   "i": 87,
+   "start": 270.76,
+   "end": 272.66,
+   "speaker": "Teacher",
+   "text": "Phinda ufunde kakuhle ujong' amagama.",
+   "en": "Read well again looking at the words.",
+   "agree": 0.771
+  },
+  {
+   "i": 88,
+   "start": 273.26,
+   "end": 276.46,
+   "speaker": "Learner",
+   "text": "Ngapha kwakukhona isiba intshokolethi.",
+   "en": "This side there was a feather a chocolate.",
+   "agree": 0.595
+  },
+  {
+   "i": 89,
+   "start": 276.56,
+   "end": 277.46,
+   "speaker": "Teacher",
+   "text": "Very good. Qhubekeka.",
+   "en": "Very good. Continue.",
+   "agree": 1.0
+  },
+  {
+   "i": 90,
+   "start": 278.46,
+   "end": 279.16,
+   "speaker": "Teacher",
+   "text": "Qhubekeka.",
+   "en": "Continue.",
+   "agree": 1.0
+  },
+  {
+   "i": 91,
+   "start": 280.16,
+   "end": 294.56,
+   "speaker": "Learner",
+   "text": "Ba za ku ba za ku ba a i i o u u si sa so.",
+   "en": "Ba za ku ba za ku ba a i i o u u si sa so.",
+   "agree": 0.732
+  },
+  {
+   "i": 92,
+   "start": 295.46,
+   "end": 295.86,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 0.0
+  },
+  {
+   "i": 93,
+   "start": 298.47,
+   "end": 299.57,
+   "speaker": "Learner",
+   "text": "Sancwana.",
+   "en": "Sancwana.",
+   "agree": 0.0
+  },
+  {
+   "i": 94,
+   "start": 300.07,
+   "end": 300.57,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 0.0
+  },
+  {
+   "i": 95,
+   "start": 301.37,
+   "end": 302.07,
+   "speaker": "Learner",
+   "text": "Uku",
+   "en": "To",
+   "agree": 1.0
+  },
+  {
+   "i": 96,
+   "start": 302.67,
+   "end": 304.27,
+   "speaker": "Teacher",
+   "text": "Zo, phinde uphinde uqale qale naye.",
+   "en": "Zo, start start again with them.",
+   "agree": 0.485
+  },
+  {
+   "i": 97,
+   "start": 304.57,
+   "end": 306.27,
+   "speaker": "Teacher",
+   "text": "Abanye abasancoli nina, animva?",
+   "en": "Others are you not whispering, don't you hear them?",
+   "agree": 0.0
+  },
+  {
+   "i": 98,
+   "start": 306.57,
+   "end": 306.97,
+   "speaker": "Learner",
+   "text": "Uku",
+   "en": "To",
+   "agree": 1.0
+  },
+  {
+   "i": 99,
+   "start": 307.27,
+   "end": 310.27,
+   "speaker": "Teacher",
+   "text": "Okay, yima yima yima yima. Ujonge, ijonge apha ukuba ithini na into ekakhona.",
+   "en": "Okay, wait wait wait wait. Look, look here at what is there.",
+   "agree": 0.63
+  },
+  {
+   "i": 100,
+   "start": 310.47,
+   "end": 311.27,
+   "speaker": "Learner",
+   "text": "Buti shara.",
+   "en": "Buti shara.",
+   "agree": 0.5
+  },
+  {
+   "i": 101,
+   "start": 311.47,
+   "end": 313.47,
+   "speaker": "Teacher",
+   "text": "Andifuni umva. Umnye kaloku umntu ofundayo, andithi?",
+   "en": "I don't want to hear. It is only one person reading, right?",
+   "agree": 0.857
+  },
+  {
+   "i": 102,
+   "start": 314.07,
+   "end": 318.47,
+   "speaker": "Teacher",
+   "text": "So ndifuna umamela yena ngoku, xa nifunda yona nina ngoku indlebe yam ivulekile kweli cala, ne?",
+   "en": "So I want to listen to them now, when you read now my ear is open on this side, right?",
+   "agree": 0.967
+  },
+  {
+   "i": 103,
+   "start": 318.97,
+   "end": 321.97,
+   "speaker": "Teacher",
+   "text": "Okay, so ujonga nje, ufund' umntu oyi-one.",
+   "en": "Okay, so you just look, only one person reads.",
+   "agree": 0.921
+  },
+  {
+   "i": 104,
+   "start": 322.57,
+   "end": 323.17,
+   "speaker": "Teacher",
+   "text": "Seven?",
+   "en": "Seven?",
+   "agree": 0.0
+  },
+  {
+   "i": 105,
+   "start": 323.57,
+   "end": 323.97,
+   "speaker": "Learner",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 106,
+   "start": 329.92,
+   "end": 330.32,
+   "speaker": "Teacher",
+   "text": "Sivale?",
+   "en": "Should we close?",
+   "agree": 0.0
+  },
+  {
+   "i": 107,
+   "start": 330.82,
+   "end": 333.82,
+   "speaker": "Teacher",
+   "text": "Okay, ndiyazi ukuba niyathanda ukufunda kodwa ke mna. Okay, qhubekeka ke.",
+   "en": "Okay, I know that you like to read but as for me. Okay, continue then.",
+   "agree": 0.696
+  },
+  {
+   "i": 108,
+   "start": 334.32,
+   "end": 342.32,
+   "speaker": "Learner",
+   "text": "Baza kufaka i-ball i sana za so kutya.",
+   "en": "They will put a-ball i sana za so to eat.",
+   "agree": 0.811
+  },
+  {
+   "i": 109,
+   "start": 343.12,
+   "end": 348.82,
+   "speaker": "Learner",
+   "text": "ku qo qo pa ka.",
+   "en": "ku qo qo pa ka.",
+   "agree": 0.714
+  },
+  {
+   "i": 110,
+   "start": 349.82,
+   "end": 351.32,
+   "speaker": "Learners",
+   "text": "Qopaka.",
+   "en": "Qopaka.",
+   "agree": 0.0
+  },
+  {
+   "i": 111,
+   "start": 351.72,
+   "end": 355.12,
+   "speaker": "Teacher",
+   "text": "Mamelani ke bantwana bam, hayi masiphinde, yima [learner].",
+   "en": "Listen then my children, no let's repeat, wait [learner].",
+   "agree": 0.51
+  },
+  {
+   "i": 112,
+   "start": 355.72,
+   "end": 356.52,
+   "speaker": "Teacher",
+   "text": "Qala ke, Baza",
+   "en": "Start then, They will",
+   "agree": 1.0
+  },
+  {
+   "i": 113,
+   "start": 360.41,
+   "end": 361.31,
+   "speaker": "Teacher",
+   "text": "Qalake apha, baza.",
+   "en": "Start here, they will.",
+   "agree": 0.25
+  },
+  {
+   "i": 114,
+   "start": 361.81,
+   "end": 363.01,
+   "speaker": "Learner",
+   "text": "Baza kukhwaca.",
+   "en": "They will pack.",
+   "agree": 0.308
+  },
+  {
+   "i": 115,
+   "start": 363.31,
+   "end": 363.61,
+   "speaker": "Teacher",
+   "text": "Good.",
+   "en": "Good.",
+   "agree": 0.0
+  },
+  {
+   "i": 116,
+   "start": 364.01,
+   "end": 372.71,
+   "speaker": "Learner",
+   "text": "Ibhokisi, ibho- ibhokisana za zokutya ekhobhaka.",
+   "en": "The box, the bo- small boxes of food in the cupboard.",
+   "agree": 0.578
+  },
+  {
+   "i": 117,
+   "start": 373.01,
+   "end": 376.81,
+   "speaker": "Teacher",
+   "text": "Very good. Khawulezile ngoku, uyibon' uba uphikisile inantsi kakancinci.",
+   "en": "Very good. You were fast now, you see that you corrected this one a little bit.",
+   "agree": 0.824
+  },
+  {
+   "i": 118,
+   "start": 377.31,
+   "end": 378.01,
+   "speaker": "Teacher",
+   "text": "Nimamele nina?",
+   "en": "Are you listening?",
+   "agree": 1.0
+  },
+  {
+   "i": 119,
+   "start": 378.31,
+   "end": 380.51,
+   "speaker": "Teacher",
+   "text": "Okay. Masikhe siqhubekeke ke.",
+   "en": "Okay. Let's continue then.",
+   "agree": 0.63
+  },
+  {
+   "i": 120,
+   "start": 381.21,
+   "end": 381.91,
+   "speaker": "Teacher",
+   "text": "Ulandelayo.",
+   "en": "The next one.",
+   "agree": 0.9
+  },
+  {
+   "i": 121,
+   "start": 391.08,
+   "end": 399.68,
+   "speaker": "Learner",
+   "text": "Umama upha iintsapho iisana zokutya. Utitshalakazi uphethe amabhaso.",
+   "en": "Mother gives the families small babies of food. The female teacher is holding prizes.",
+   "agree": 0.833
+  },
+  {
+   "i": 122,
+   "start": 400.18,
+   "end": 400.58,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 123,
+   "start": 401.18,
+   "end": 403.78,
+   "speaker": "Teacher",
+   "text": "Kukho ntoni phayana emva kokutya, zokutya? Kukho ntoni?",
+   "en": "What is there over there after food, of food? What is there?",
+   "agree": 0.75
+  },
+  {
+   "i": 124,
+   "start": 404.38,
+   "end": 404.88,
+   "speaker": "Learner",
+   "text": "Isinqe.",
+   "en": "A waist.",
+   "agree": 0.667
+  },
+  {
+   "i": 125,
+   "start": 405.18,
+   "end": 406.28,
+   "speaker": "Teacher",
+   "text": "Isinqe. Isinqe sithetha ntoni?",
+   "en": "A waist. What does a waist mean?",
+   "agree": 0.857
+  },
+  {
+   "i": 126,
+   "start": 406.78,
+   "end": 407.68,
+   "speaker": "Teacher",
+   "text": "Isinqe sithetha ntoni?",
+   "en": "What does a waist mean?",
+   "agree": 0.905
+  },
+  {
+   "i": 127,
+   "start": 408.08,
+   "end": 408.38,
+   "speaker": "Learner",
+   "text": "Ima.",
+   "en": "Stop.",
+   "agree": 1.0
+  },
+  {
+   "i": 128,
+   "start": 408.78,
+   "end": 409.48,
+   "speaker": "Teacher",
+   "text": "Ima, andithi?",
+   "en": "Stop, isn't it?",
+   "agree": 1.0
+  },
+  {
+   "i": 129,
+   "start": 409.98,
+   "end": 410.38,
+   "speaker": "Learners",
+   "text": "Yes.",
+   "en": "Yes.",
+   "agree": 1.0
+  },
+  {
+   "i": 130,
+   "start": 410.98,
+   "end": 413.78,
+   "speaker": "Teacher",
+   "text": "Okay. Ehm, qhubeka.",
+   "en": "Okay. Ehm, continue.",
+   "agree": 0.875
+  },
+  {
+   "i": 131,
+   "start": 414.78,
+   "end": 415.28,
+   "speaker": "Teacher",
+   "text": "ufunde.",
+   "en": "read.",
+   "agree": 0.0
+  },
+  {
+   "i": 132,
+   "start": 421.75,
+   "end": 424.95,
+   "speaker": "Learner",
+   "text": "Mayakhupha ibhokisana izonkya.",
+   "en": "May take out the small box the breads.",
+   "agree": 0.31
+  },
+  {
+   "i": 133,
+   "start": 425.75,
+   "end": 426.15,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 134,
+   "start": 426.95,
+   "end": 430.45,
+   "speaker": "Learner",
+   "text": "Utitshalakazi uphethe amabhaso.",
+   "en": "The female teacher is holding prizes.",
+   "agree": 1.0
+  },
+  {
+   "i": 135,
+   "start": 430.95,
+   "end": 431.75,
+   "speaker": "Teacher",
+   "text": "Amabhaso.",
+   "en": "Prizes.",
+   "agree": 1.0
+  },
+  {
+   "i": 136,
+   "start": 432.05,
+   "end": 433.75,
+   "speaker": "Teacher",
+   "text": "Okay. Wawuqlandile ayi?",
+   "en": "Okay. You had finished it, right?",
+   "agree": 0.19
+  },
+  {
+   "i": 137,
+   "start": 436.45,
+   "end": 440.95,
+   "speaker": "Learner",
+   "text": "Babonisa utitshalakazi.",
+   "en": "They show the female teacher.",
+   "agree": 0.864
+  },
+  {
+   "i": 138,
+   "start": 441.45,
+   "end": 446.35,
+   "speaker": "Learner",
+   "text": "Ibhokisana zonke.",
+   "en": "Small box all.",
+   "agree": 0.0
+  },
+  {
+   "i": 139,
+   "start": 450.73,
+   "end": 452.63,
+   "speaker": "Teacher",
+   "text": "Phindela kancinci phambi ko zabo.",
+   "en": "Go back a little bit before their.",
+   "agree": 0.5
+  },
+  {
+   "i": 140,
+   "start": 452.83,
+   "end": 453.03,
+   "speaker": "Teacher",
+   "text": "I.",
+   "en": "The.",
+   "agree": 1.0
+  },
+  {
+   "i": 141,
+   "start": 453.53,
+   "end": 455.73,
+   "speaker": "Learner",
+   "text": "Ibhokisana zabo.",
+   "en": "Their small box.",
+   "agree": 1.0
+  },
+  {
+   "i": 142,
+   "start": 455.93,
+   "end": 458.83,
+   "speaker": "Teacher",
+   "text": "Okay. Yifunde yonke ke ngoku la esasivakalisi. Qale qaleni.",
+   "en": "Okay. Read that whole sentence now. Start from the beginning.",
+   "agree": 0.821
+  },
+  {
+   "i": 143,
+   "start": 459.63,
+   "end": 466.63,
+   "speaker": "Learner",
+   "text": "Ba ba bonisa utitshalakazi ibhokisana zabo.",
+   "en": "They they show the female teacher their small box.",
+   "agree": 0.929
+  },
+  {
+   "i": 144,
+   "start": 466.73,
+   "end": 468.33,
+   "speaker": "Teacher",
+   "text": "Very good. Olandelayo.",
+   "en": "Very good. Next one.",
+   "agree": 1.0
+  },
+  {
+   "i": 145,
+   "start": 468.73,
+   "end": 470.23,
+   "speaker": "Teacher",
+   "text": "Masive ke qha khona.",
+   "en": "Let us hear only there.",
+   "agree": 0.421
+  },
+  {
+   "i": 146,
+   "start": 472.03,
+   "end": 472.93,
+   "speaker": "Teacher",
+   "text": "NguKabelo.",
+   "en": "It is Kabelo.",
+   "agree": 0.0
+  },
+  {
+   "i": 147,
+   "start": 473.73,
+   "end": 474.23,
+   "speaker": "Learner",
+   "text": "Ngu",
+   "en": "It is",
+   "agree": 0.0
+  },
+  {
+   "i": 148,
+   "start": 479.19,
+   "end": 484.19,
+   "speaker": "Learner",
+   "text": "Ku su ku ku ku base.",
+   "en": "Ku su ku ku ku base.",
+   "agree": 0.263
+  },
+  {
+   "i": 149,
+   "start": 484.69,
+   "end": 485.49,
+   "speaker": "Teacher",
+   "text": "Ufunda phi ngoku?",
+   "en": "Where are you reading now?",
+   "agree": 1.0
+  },
+  {
+   "i": 150,
+   "start": 485.99,
+   "end": 486.29,
+   "speaker": "Learner",
+   "text": "Hayi.",
+   "en": "No.",
+   "agree": 0.0
+  },
+  {
+   "i": 151,
+   "start": 487.69,
+   "end": 489.19,
+   "speaker": "Learner",
+   "text": "Ukhabelo.",
+   "en": "Kabelo.",
+   "agree": 0.0
+  },
+  {
+   "i": 152,
+   "start": 489.49,
+   "end": 489.79,
+   "speaker": "Teacher",
+   "text": "Yes.",
+   "en": "Yes.",
+   "agree": 1.0
+  },
+  {
+   "i": 153,
+   "start": 490.19,
+   "end": 491.69,
+   "speaker": "Learner",
+   "text": "Ubasele.",
+   "en": "They have lit a fire.",
+   "agree": 0.714
+  },
+  {
+   "i": 154,
+   "start": 492.19,
+   "end": 493.49,
+   "speaker": "Teacher",
+   "text": "Phala ubhalwe ntoni?",
+   "en": "What is written there?",
+   "agree": 0.579
+  },
+  {
+   "i": 155,
+   "start": 494.19,
+   "end": 501.19,
+   "speaker": "Learner",
+   "text": "NgoLwesibini ngoLwesithathu ngoLwesine.",
+   "en": "On Tuesday on Wednesday on Thursday.",
+   "agree": 0.053
+  },
+  {
+   "i": 156,
+   "start": 505.69,
+   "end": 507.69,
+   "speaker": "Teacher",
+   "text": "Owu phinde undifundele kaloku.",
+   "en": "Oh, read for me again then.",
+   "agree": 0.069
+  },
+  {
+   "i": 157,
+   "start": 508.8,
+   "end": 510.5,
+   "speaker": "Teacher",
+   "text": "Owu, phinde ulifunde elo gama.",
+   "en": "Oh, read that word again.",
+   "agree": 0.75
+  },
+  {
+   "i": 158,
+   "start": 511.3,
+   "end": 513.5,
+   "speaker": "Learner",
+   "text": "Obu, obuntu.",
+   "en": "This, humanity.",
+   "agree": 0.0
+  },
+  {
+   "i": 159,
+   "start": 513.8,
+   "end": 514.3,
+   "speaker": "Teacher",
+   "text": "Jonga.",
+   "en": "Look.",
+   "agree": 1.0
+  },
+  {
+   "i": 160,
+   "start": 514.9,
+   "end": 517.0,
+   "speaker": "Teacher",
+   "text": "Ndiphinde ndilifunde ke ngoku, khawulezise ke ngoku. Obu-",
+   "en": "Read it again now, hurry up now. This-",
+   "agree": 0.889
+  },
+  {
+   "i": 161,
+   "start": 517.1,
+   "end": 518.2,
+   "speaker": "Learner",
+   "text": "Obumthubi.",
+   "en": "Yellow.",
+   "agree": 0.667
+  },
+  {
+   "i": 162,
+   "start": 518.5,
+   "end": 520.8,
+   "speaker": "Teacher",
+   "text": "Qale ekuqaleni jonga, fe sasi vakalise. Phindele.",
+   "en": "Start from the beginning look, at that sentence. Go back.",
+   "agree": 0.674
+  },
+  {
+   "i": 163,
+   "start": 521.0,
+   "end": 521.7,
+   "speaker": "Teacher",
+   "text": "UKabelo,",
+   "en": "Kabelo,",
+   "agree": 1.0
+  },
+  {
+   "i": 164,
+   "start": 521.9,
+   "end": 522.8,
+   "speaker": "Learner",
+   "text": "UKabelo,",
+   "en": "Kabelo,",
+   "agree": 1.0
+  },
+  {
+   "i": 165,
+   "start": 523.0,
+   "end": 530.5,
+   "speaker": "Learner",
+   "text": "Mhm, uthe ubaselwa ukodu.",
+   "en": "Mhm, they said they are rewarded only.",
+   "agree": 0.739
+  },
+  {
+   "i": 166,
+   "start": 530.6,
+   "end": 531.8,
+   "speaker": "Teacher",
+   "text": "Uh-uh. Ngo-",
+   "en": "Uh-uh. With-",
+   "agree": 0.778
+  },
+  {
+   "i": 167,
+   "start": 532.8,
+   "end": 536.4,
+   "speaker": "Learner",
+   "text": "ngobuso obum-",
+   "en": "with a face that is-",
+   "agree": 0.917
+  },
+  {
+   "i": 168,
+   "start": 538.49,
+   "end": 541.49,
+   "speaker": "Learner",
+   "text": "busi obumthubi.",
+   "en": "honey that is yellow.",
+   "agree": 0.0
+  },
+  {
+   "i": 169,
+   "start": 541.99,
+   "end": 546.39,
+   "speaker": "Teacher",
+   "text": "Yes. Khawuleza ke ngoku andithi? Sithi uKabelo ubhaselwa ngobusi obumthubi.",
+   "en": "Yes. Hurry up now, right? We say Kabelo is rewarded with yellow honey.",
+   "agree": 0.736
+  },
+  {
+   "i": 170,
+   "start": 546.69,
+   "end": 548.79,
+   "speaker": "Teacher",
+   "text": "Andithi? Sifuna ukhawulezisa xa sifunda ne?",
+   "en": "Right? We want to hurry up when we read, right?",
+   "agree": 0.902
+  },
+  {
+   "i": 171,
+   "start": 549.09,
+   "end": 549.59,
+   "speaker": "Learners",
+   "text": "Yes ma'am.",
+   "en": "Yes ma'am.",
+   "agree": 0.0
+  },
+  {
+   "i": 172,
+   "start": 549.89,
+   "end": 552.49,
+   "speaker": "Teacher",
+   "text": "Okay. Khawuzame elandelayo ke, isentence yesibini.",
+   "en": "Okay. Try the next one then, the second sentence.",
+   "agree": 0.596
+  },
+  {
+   "i": 173,
+   "start": 552.89,
+   "end": 553.29,
+   "speaker": "Learners",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 174,
+   "start": 553.79,
+   "end": 555.59,
+   "speaker": "Teacher",
+   "text": "Masizame leyo elandelayo. Jik' iphepha.",
+   "en": "Let's try that next one. Turn the page.",
+   "agree": 0.639
+  },
+  {
+   "i": 175,
+   "start": 555.89,
+   "end": 557.49,
+   "speaker": "Learner",
+   "text": "Asimeni [inaudible] asimeni.",
+   "en": "Let's stand [inaudible] let's stand.",
+   "agree": 0.133
+  },
+  {
+   "i": 176,
+   "start": 557.89,
+   "end": 559.99,
+   "speaker": "Teacher",
+   "text": "Ujonge kule ndawo ofunda kuyo ke.",
+   "en": "Look at this place where you are reading then.",
+   "agree": 0.906
+  },
+  {
+   "i": 177,
+   "start": 561.29,
+   "end": 568.58,
+   "speaker": "Learner",
+   "text": "uLulu u-ubhaselwa ngobusi",
+   "en": "Lulu is- is rewarded with honey",
+   "agree": 0.6
+  },
+  {
+   "i": 178,
+   "start": 568.58,
+   "end": 573.38,
+   "speaker": "Learner",
+   "text": "baselwa ngobuso obumthubi.",
+   "en": "rewarded with a yellow face.",
+   "agree": 0.52
+  },
+  {
+   "i": 179,
+   "start": 574.38,
+   "end": 575.98,
+   "speaker": "Teacher",
+   "text": "Yes, obumthubi naye ne?",
+   "en": "Yes, yellow also, right?",
+   "agree": 0.81
+  },
+  {
+   "i": 180,
+   "start": 576.48,
+   "end": 578.48,
+   "speaker": "Teacher",
+   "text": "Phind' uyifunde kwakhona. Yifunde kahle ke ngoku.",
+   "en": "Read it again. Read it well now.",
+   "agree": 0.935
+  },
+  {
+   "i": 181,
+   "start": 579.38,
+   "end": 582.98,
+   "speaker": "Learner",
+   "text": "Ululu ubaselwa ngobuso obumthubi.",
+   "en": "Lulu is being lit up by a yellow face.",
+   "agree": 0.719
+  },
+  {
+   "i": 182,
+   "start": 583.68,
+   "end": 584.48,
+   "speaker": "Teacher",
+   "text": "Very good.",
+   "en": "Very good.",
+   "agree": 1.0
+  },
+  {
+   "i": 183,
+   "start": 584.78,
+   "end": 586.98,
+   "speaker": "Teacher",
+   "text": "Uyabona ke ngoku ukuba ufunde kahle, uyakhawulezisa?",
+   "en": "Do you see now that you read well, you are speeding up?",
+   "agree": 0.86
+  },
+  {
+   "i": 184,
+   "start": 587.68,
+   "end": 588.58,
+   "speaker": "Teacher",
+   "text": "Yes. Iza.",
+   "en": "Yes. Come.",
+   "agree": 1.0
+  },
+  {
+   "i": 185,
+   "start": 592.08,
+   "end": 598.82,
+   "speaker": "Learner",
+   "text": "Utitshala ka u",
+   "en": "The teacher of u-",
+   "agree": 0.786
+  },
+  {
+   "i": 186,
+   "start": 598.82,
+   "end": 601.82,
+   "speaker": "Learner",
+   "text": "lakazi. Uba",
+   "en": "-lakazi. Uba-",
+   "agree": 0.9
+  },
+  {
+   "i": 187,
+   "start": 602.42,
+   "end": 602.92,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 188,
+   "start": 603.22,
+   "end": 604.12,
+   "speaker": "Teacher",
+   "text": "Yima ke. Yima, yima.",
+   "en": "Wait then. Wait, wait.",
+   "agree": 0.824
+  },
+  {
+   "i": 189,
+   "start": 604.62,
+   "end": 610.12,
+   "speaker": "Teacher",
+   "text": "Gqaphinde ulifunde because uthe utitshalakazi. Asifuni la ndawo utitshala. Gqaphinde ulifunde kakuhle.",
+   "en": "Read it again because you said female teacher. We don't want that part of teacher. Read it again well.",
+   "agree": 0.899
+  },
+  {
+   "i": 190,
+   "start": 610.82,
+   "end": 612.82,
+   "speaker": "Learner",
+   "text": "Utitshalakazi.",
+   "en": "Female teacher.",
+   "agree": 1.0
+  },
+  {
+   "i": 191,
+   "start": 613.32,
+   "end": 615.12,
+   "speaker": "Teacher",
+   "text": "Phinde ulifunde kakuhle ukhawulezise.",
+   "en": "Read it again well and speed up.",
+   "agree": 0.861
+  },
+  {
+   "i": 192,
+   "start": 615.62,
+   "end": 621.82,
+   "speaker": "Learner",
+   "text": "Utitshalakazi. UBhaka ufunxa okuninigi.",
+   "en": "Female teacher. Bhaka sucks up a lot.",
+   "agree": 0.838
+  },
+  {
+   "i": 193,
+   "start": 622.12,
+   "end": 623.42,
+   "speaker": "Learner",
+   "text": "Utitshalakazi",
+   "en": "Female teacher",
+   "agree": 1.0
+  },
+  {
+   "i": 194,
+   "start": 630.12,
+   "end": 637.62,
+   "speaker": "Learner",
+   "text": "Utitshala kazi ubhaqa ukutya okungenalunambatho.",
+   "en": "Female teacher finds food that has no taste.",
+   "agree": 0.787
+  },
+  {
+   "i": 195,
+   "start": 638.12,
+   "end": 642.02,
+   "speaker": "Learner",
+   "text": "Utitshala kazi ubhaqa ukutya okuphi okunge-",
+   "en": "Female teacher finds which food that has no-",
+   "agree": 0.738
+  },
+  {
+   "i": 196,
+   "start": 642.32,
+   "end": 643.12,
+   "speaker": "Teacher",
+   "text": "Okungena-",
+   "en": "That has no-",
+   "agree": 0.0
+  },
+  {
+   "i": 197,
+   "start": 643.62,
+   "end": 653.22,
+   "speaker": "Teacher",
+   "text": "Very good. Niyibonile uba wenze ntoni? Ufundile, wafunda ne? Waxotha utitshala kazi but wakhe wathini? Waphinde wabuyela back, wayiqalela, wayifunda ke ngoku iyonke la sivakalisi.",
+   "en": "Very good. Did you see what they did? They read, they read, right? They chased the female teacher but what did they do? They went back again, started it over, and read it now, the whole of that sentence.",
+   "agree": 0.918
+  },
+  {
+   "i": 198,
+   "start": 653.72,
+   "end": 655.52,
+   "speaker": "Teacher",
+   "text": "Kukho abantu abangxolayo.",
+   "en": "There are people making noise.",
+   "agree": 0.792
+  },
+  {
+   "i": 199,
+   "start": 656.42,
+   "end": 658.22,
+   "speaker": "Teacher",
+   "text": "[learner], gqibela uba ufunde.",
+   "en": "[learner], finish reading.",
+   "agree": 0.0
+  },
+  {
+   "i": 200,
+   "start": 659.9,
+   "end": 660.9,
+   "speaker": "Teacher",
+   "text": "Ne? Okay.",
+   "en": "Right? Okay.",
+   "agree": 0.857
+  },
+  {
+   "i": 201,
+   "start": 661.9,
+   "end": 664.3,
+   "speaker": "Teacher",
+   "text": "Okay. Now, um,",
+   "en": "Okay. Now, um,",
+   "agree": 0.818
+  },
+  {
+   "i": 202,
+   "start": 666.5,
+   "end": 667.1,
+   "speaker": "Teacher",
+   "text": "Khawuleza.",
+   "en": "Hurry up.",
+   "agree": 1.0
+  },
+  {
+   "i": 203,
+   "start": 667.7,
+   "end": 669.5,
+   "speaker": "Teacher",
+   "text": "Sishiyekelwe yimizuzu emibini qha.",
+   "en": "We are left with only two minutes.",
+   "agree": 0.909
+  },
+  {
+   "i": 204,
+   "start": 670.9,
+   "end": 678.3,
+   "speaker": "Learner",
+   "text": "Ba- ba- bavuyela babavuyela amabhaso o-",
+   "en": "They- they- they are happy for they are happy for the prizes o-",
+   "agree": 0.972
+  },
+  {
+   "i": 205,
+   "start": 679.5,
+   "end": 679.9,
+   "speaker": "Teacher",
+   "text": "Aba.",
+   "en": "These.",
+   "agree": 0.333
+  },
+  {
+   "i": 206,
+   "start": 680.9,
+   "end": 682.4,
+   "speaker": "Learner",
+   "text": "Aba. Aba",
+   "en": "These. These",
+   "agree": 0.0
+  },
+  {
+   "i": 207,
+   "start": 688.74,
+   "end": 691.04,
+   "speaker": "Learner",
+   "text": "Aba wawafumele.",
+   "en": "These that they received.",
+   "agree": 0.214
+  },
+  {
+   "i": 208,
+   "start": 691.44,
+   "end": 693.24,
+   "speaker": "Teacher",
+   "text": "Ngaliphinde lelo gama. Abawa-",
+   "en": "Repeat that word. These that they-",
+   "agree": 0.444
+  },
+  {
+   "i": 209,
+   "start": 693.54,
+   "end": 694.94,
+   "speaker": "Learner",
+   "text": "Abawafumele.",
+   "en": "These that they received.",
+   "agree": 0.818
+  },
+  {
+   "i": 210,
+   "start": 695.34,
+   "end": 697.64,
+   "speaker": "Teacher",
+   "text": "Phinde kweliqala eli la esasivakalisi.",
+   "en": "Repeat from the beginning of that sentence.",
+   "agree": 0.622
+  },
+  {
+   "i": 211,
+   "start": 698.34,
+   "end": 701.54,
+   "speaker": "Learner",
+   "text": "Babuyela amabhasho abawafumele.",
+   "en": "They are happy for the prizes they received.",
+   "agree": 0.9
+  },
+  {
+   "i": 212,
+   "start": 701.84,
+   "end": 703.94,
+   "speaker": "Teacher",
+   "text": "Ewe, that's better. That's better.",
+   "en": "Yes, that's better. That's better.",
+   "agree": 0.968
+  },
+  {
+   "i": 213,
+   "start": 713.44,
+   "end": 715.34,
+   "speaker": "Learner",
+   "text": "Bayatya bezi.",
+   "en": "They eat, they-",
+   "agree": 0.417
+  },
+  {
+   "i": 214,
+   "start": 716.14,
+   "end": 716.74,
+   "speaker": "Teacher",
+   "text": "zi.",
+   "en": "-zi-",
+   "agree": 0.0
+  },
+  {
+   "i": 215,
+   "start": 717.67,
+   "end": 721.27,
+   "speaker": "Learner",
+   "text": "Bayatya bezibhudeli ku-",
+   "en": "They eat, drinking greedily to-",
+   "agree": 0.273
+  },
+  {
+   "i": 216,
+   "start": 721.67,
+   "end": 722.37,
+   "speaker": "Teacher",
+   "text": "Kudela.",
+   "en": "To satisfaction.",
+   "agree": 0.833
+  },
+  {
+   "i": 217,
+   "start": 722.67,
+   "end": 723.47,
+   "speaker": "Learner",
+   "text": "Kudela.",
+   "en": "To satisfaction.",
+   "agree": 0.0
+  },
+  {
+   "i": 218,
+   "start": 724.27,
+   "end": 726.87,
+   "speaker": "Learner",
+   "text": "Ka- kamnandi.",
+   "en": "Ni- nicely.",
+   "agree": 1.0
+  },
+  {
+   "i": 219,
+   "start": 727.17,
+   "end": 728.77,
+   "speaker": "Teacher",
+   "text": "Yiphinde uyifundele la sentence.",
+   "en": "Read that sentence again.",
+   "agree": 0.548
+  },
+  {
+   "i": 220,
+   "start": 729.27,
+   "end": 733.87,
+   "speaker": "Learner",
+   "text": "Bayatya bezibhudela ka- kamnandi kamnandi.",
+   "en": "They eat, drinking greedily ni- nicely nicely.",
+   "agree": 0.9
+  },
+  {
+   "i": 221,
+   "start": 734.27,
+   "end": 738.47,
+   "speaker": "Teacher",
+   "text": "Kamnandi. Andithi? Bayatya bezibhudela kamnandi.",
+   "en": "Nicely. Isn't it? They eat, drinking greedily nicely.",
+   "agree": 0.978
+  },
+  {
+   "i": 222,
+   "start": 738.77,
+   "end": 745.47,
+   "speaker": "Teacher",
+   "text": "Okay. Sizawuphinda sifumane i- i- i- elinye ithuba lokufunda. Kodwa ke khumbulani",
+   "en": "Okay. We will get a- a- another chance to read. But then remember",
+   "agree": 0.342
+  },
+  {
+   "i": 223,
+   "start": 749.95,
+   "end": 752.35,
+   "speaker": "Teacher",
+   "text": "awufundi, uh uh uh uh.",
+   "en": "you don't read, uh uh uh uh.",
+   "agree": 0.8
+  },
+  {
+   "i": 224,
+   "start": 752.95,
+   "end": 756.35,
+   "speaker": "Teacher",
+   "text": "Andithi? Asifuni lonto, sifuna ufunda utyibilika, sifunde kahle.",
+   "en": "Isn't it? We don't want that, we want fluent reading, reading well.",
+   "agree": 0.85
+  },
+  {
+   "i": 225,
+   "start": 756.65,
+   "end": 762.65,
+   "speaker": "Teacher",
+   "text": "Xa ungayiqondi into, uphinde wayi um um um [learner], ufunde, uphinde uyifunde kwakhona.",
+   "en": "When you don't understand something, you go back um um um [learner], you read, and read it again.",
+   "agree": 0.593
+  },
+  {
+   "i": 226,
+   "start": 762.95,
+   "end": 763.95,
+   "speaker": "Teacher",
+   "text": "Qokelelani incwadi.",
+   "en": "Collect the books.",
+   "agree": 0.333
+  },
+  {
+   "i": 227,
+   "start": 764.45,
+   "end": 765.65,
+   "speaker": "Learner",
+   "text": "Qokelelani incwadi.",
+   "en": "Collect the books.",
+   "agree": 0.167
+  },
+  {
+   "i": 228,
+   "start": 765.95,
+   "end": 766.25,
+   "speaker": "Teacher",
+   "text": "Yes.",
+   "en": "Yes.",
+   "agree": 0.0
+  },
+  {
+   "i": 229,
+   "start": 766.95,
+   "end": 769.45,
+   "speaker": "Teacher",
+   "text": "Nikin' incwadi. Nikin' incwadi. Nikeza ngeencwadi.",
+   "en": "Give the books. Give the books. Hand over the books.",
+   "agree": 0.533
+  },
+  {
+   "i": 230,
+   "start": 771.95,
+   "end": 772.65,
+   "speaker": "Learner",
+   "text": "Bayalwa.",
+   "en": "They are fighting.",
+   "agree": 0.0
+  },
+  {
+   "i": 231,
+   "start": 783.48,
+   "end": 784.88,
+   "speaker": "Teacher",
+   "text": "Phakam' iye desikeni.",
+   "en": "Stand up and go to the desk.",
+   "agree": 0.0
+  }
+ ],
+ "score": {
+  "value": 0.723,
+  "label": "engine agreement (proxy)",
+  "display": "72.3% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 72.3% of characters across this 14-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 6 lines the engine heard in silence were removed.",
+  "removed_in_silence": 6
+ },
+ "agreement": {
+  "value": 0.723,
+  "label": "engine agreement (proxy)",
+  "display": "72.3% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 72.3% of characters across this 14-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 6 lines the engine heard in silence were removed.",
+  "removed_in_silence": 6
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": [],
+ "meaning": {
+  "value": 7.9,
+  "label": "AI-judged (proxy)",
+  "display": "7.9 / 10 meaning recovered (AI-judged)",
+  "counts": {
+   "same": 20,
+   "partly": 3,
+   "different": 4,
+   "unclear": 0
+  },
+  "line": "Against the partner's own English subtitles, a model judged Rumi's English the same in 20, partly the same in 3 and different in 4 of 27 half-minute stretches (0 too fragmentary to judge). This measures listening and translation together."
+ }
+}

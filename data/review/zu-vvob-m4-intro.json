@@ -12,7 +12,7 @@
    "speaker": "Trainer",
    "text": "Sanibonani. Le module imayelana nokuqonda imisindo kanye nolwazi lwemisindo.",
    "en": "Hello everyone. This module is about phonological awareness and phonics.",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 1,
@@ -21,7 +21,7 @@
    "speaker": "Trainer",
    "text": "Siyazi ukuthi izingane zifika ebangeni lika-grade R sezikwazi ukukhuluma.",
    "en": "We know that children arrive in grade R already knowing how to speak.",
-   "agree": null
+   "agree": 0.986
   },
   {
    "i": 2,
@@ -30,7 +30,7 @@
    "speaker": "Trainer",
    "text": "Njengothisha, sikhuthaza ukuthi uxoxe nabo cishe ngayo yonke into.",
    "en": "As a teacher, we encourage that you talk with them about almost everything.",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 3,
@@ -39,7 +39,7 @@
    "speaker": "Trainer",
    "text": "Yingakho kubalulekile ukugxilisa ulwazi lwemisindo ukuze bawuzwe umsindo indlela obizwa ngayo.",
    "en": "That is why it is important to instill phonics so that they hear the sound, the way it is pronounced.",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 4,
@@ -48,7 +48,7 @@
    "speaker": "Trainer",
    "text": "ukuze bawuzwe umsindo, indlela obizwa ngayo, bakwazi nokuwehlukanisa ngokuwuzwa.",
    "en": "so that they hear the sound, the way it is pronounced, and they are also able to distinguish it by hearing it.",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 5,
@@ -57,7 +57,7 @@
    "speaker": "Trainer",
    "text": "Ingxenye yokuqala ye-module iphathelene nokuqonda imisindo.",
    "en": "The first part of the module is about phonological awareness.",
-   "agree": null
+   "agree": 0.948
   },
   {
    "i": 6,
@@ -66,7 +66,7 @@
    "speaker": "Trainer",
    "text": "Ingxenye yesibili ye-module ikhuluma ngolwazi lwemisindo.",
    "en": "The second part of the module talks about phonics.",
-   "agree": null
+   "agree": 0.946
   },
   {
    "i": 7,
@@ -75,7 +75,7 @@
    "speaker": "Trainer",
    "text": "Emuva kokuqeda le-module, uzokwazi ukuhlukanisa kanye nokuqonda imisindo ehlukahlukene.",
    "en": "After finishing this module, you will be able to distinguish and understand different sounds.",
-   "agree": null
+   "agree": 0.965
   },
   {
    "i": 8,
@@ -84,7 +84,7 @@
    "speaker": "Trainer",
    "text": "Ukubaluleka kokuqonda imisindo nokwazi ukuqonda imisindo.",
    "en": "The importance of phonological awareness and knowing how to understand sounds.",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 9,
@@ -93,7 +93,7 @@
    "speaker": "Trainer",
    "text": "Ukwehlukanisa ongwaqa, onkamisa",
    "en": "Distinguishing consonants, vowels",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 10,
@@ -102,7 +102,7 @@
    "speaker": "Trainer",
    "text": "ukwehlukanisa ongwaqa, onkamisa, namagama.",
    "en": "distinguishing consonants, vowels, and words.",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 11,
@@ -111,7 +111,7 @@
    "speaker": "Trainer",
    "text": "Ukuhlukanisa, ukuhlanganisa kanye nokuhumusha imisindo.",
    "en": "Segmenting, blending and translating sounds.",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 12,
@@ -120,7 +120,7 @@
    "speaker": "Trainer",
    "text": "Ukufundisa nokuhola ulwazi lwemisindo.",
    "en": "Teaching and guiding phonics.",
-   "agree": null
+   "agree": 0.973
   },
   {
    "i": 13,
@@ -129,18 +129,22 @@
    "speaker": "Trainer",
    "text": "Kulungile ke. Asiqale.",
    "en": "Alright then. Let's start.",
-   "agree": null
+   "agree": 1.0
   }
  ],
  "score": {
-  "value": null,
+  "value": 0.986,
   "label": "engine agreement (proxy)",
-  "line": "A second engine was not run on this recording; a native ear decides."
+  "display": "98.6% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.6% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
  },
  "agreement": {
-  "value": null,
+  "value": 0.986,
   "label": "engine agreement (proxy)",
-  "line": "A second engine was not run on this recording; a native ear decides."
+  "display": "98.6% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.6% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
  },
  "reference": {
   "kind": "none",

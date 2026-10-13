@@ -1,0 +1,370 @@
+{
+ "id": "en-fw-plc-how",
+ "lang": "en",
+ "engine": "OpenAI gpt-4o-transcribe",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 6.81,
+   "end": 10.53,
+   "speaker": "Speaker 1",
+   "text": "PLCs, it's important that you have a structure.",
+   "en": "PLCs, it's important that you have a structure.",
+   "agree": 1.0
+  },
+  {
+   "i": 1,
+   "start": 10.71,
+   "end": 22.71,
+   "speaker": "Speaker 1",
+   "text": "Otherwise, you're going to end up talking about all sorts of things, right? Okay, so let's look at one example that you can use as a structure. One, we're going to get to a PLC.",
+   "en": "Otherwise, you're going to end up talking about all sorts of things, right? Okay, so let's look at one example that you can use as a structure. One, we're going to get to a PLC.",
+   "agree": 0.982
+  },
+  {
+   "i": 2,
+   "start": 23.07,
+   "end": 34.23,
+   "speaker": "Speaker 1",
+   "text": "Right? And in our session, we're going to decide as a group, okay, what do we want to talk about? These are different topics or different...",
+   "en": "Right? And in our session, we're going to decide as a group, okay, what do we want to talk about? These are different topics or different...",
+   "agree": 0.977
+  },
+  {
+   "i": 3,
+   "start": 34.89,
+   "end": 46.77,
+   "speaker": "Speaker 1",
+   "text": "There are quite a number of topics like how do I manage my class?",
+   "en": "There are quite a number of topics like how do I manage my class?",
+   "agree": 0.0
+  },
+  {
+   "i": 4,
+   "start": 46.89,
+   "end": 55.17,
+   "speaker": "Speaker 1",
+   "text": "The classroom management, right? The behavior in class.",
+   "en": "The classroom management, right? The behavior in class.",
+   "agree": 0.0
+  },
+  {
+   "i": 5,
+   "start": 56.07,
+   "end": 65.49,
+   "speaker": "Speaker 1",
+   "text": "Effective teaching and learning if our classroom is not organised, if our classroom is not managed well. So things like that, that can be a topic on its own.",
+   "en": "Effective teaching and learning if our classroom is not organised, if our classroom is not managed well. So things like that, that can be a topic on its own.",
+   "agree": 0.935
+  },
+  {
+   "i": 6,
+   "start": 66.99,
+   "end": 78.63,
+   "speaker": "Speaker 1",
+   "text": "straight into the actual teaching practice, what am I doing in class? Like, how do I teach comprehension? Right? So, yes, so any topic that you are deciding on then",
+   "en": "straight into the actual teaching practice, what am I doing in class? Like, how do I teach comprehension? Right? So, yes, so any topic that you are deciding on then",
+   "agree": 0.981
+  },
+  {
+   "i": 7,
+   "start": 79.95,
+   "end": 91.51,
+   "speaker": "Speaker 1",
+   "text": "becomes the focus of that session. That's number one. Number two, we need to sit now and share, okay, what is happening?",
+   "en": "becomes the focus of that session. That's number one. Number two, we need to sit now and share, okay, what is happening?",
+   "agree": 0.947
+  },
+  {
+   "i": 8,
+   "start": 91.65,
+   "end": 105.15,
+   "speaker": "Speaker 1",
+   "text": "Exactly now, how is this currently happening? What am I doing as a teacher? How do I do it? How do I teach it? What strategies am I using currently?",
+   "en": "Exactly now, how is this currently happening? What am I doing as a teacher? How do I do it? How do I teach it? What strategies am I using currently?",
+   "agree": 0.838
+  },
+  {
+   "i": 9,
+   "start": 105.87,
+   "end": 117.51,
+   "speaker": "Speaker 1",
+   "text": "How are my learners responding to my teaching, right? Why am I saying that it's not working in my class?",
+   "en": "How are my learners responding to my teaching, right? Why am I saying that it's not working in my class?",
+   "agree": 0.0
+  },
+  {
+   "i": 10,
+   "start": 118.11,
+   "end": 127.71,
+   "speaker": "Speaker 1",
+   "text": "because it is now a shared topic, right? We have established that a number of us are having a problem with this, right?",
+   "en": "because it is now a shared topic, right? We have established that a number of us are having a problem with this, right?",
+   "agree": 0.722
+  },
+  {
+   "i": 11,
+   "start": 128.49,
+   "end": 140.73,
+   "speaker": "Speaker 1",
+   "text": "Moving on to step three can look like, okay, can we articulate what, can we describe the goal now, where do we want to?",
+   "en": "Moving on to step three can look like, okay, can we articulate what, can we describe the goal now, where do we want to?",
+   "agree": 0.956
+  },
+  {
+   "i": 12,
+   "start": 141.57,
+   "end": 147.51,
+   "speaker": "Speaker 1",
+   "text": "Right, are we able to kind of know when this is working right?",
+   "en": "Right, are we able to kind of know when this is working right?",
+   "agree": 0.95
+  },
+  {
+   "i": 13,
+   "start": 148.17,
+   "end": 159.99,
+   "speaker": "Speaker 1",
+   "text": "What needs to be happening, how do I need to be teaching it, what learners are able to do?",
+   "en": "What needs to be happening, how do I need to be teaching it, what learners are able to do?",
+   "agree": 0.161
+  },
+  {
+   "i": 14,
+   "start": 160.06,
+   "end": 172.47,
+   "speaker": "Speaker 1",
+   "text": "of teaching and learning, right? So that we are clear about what it looks like when it's done right. So now this is a great opportunity for us now to use that evidence-based",
+   "en": "of teaching and learning, right? So that we are clear about what it looks like when it's done right. So now this is a great opportunity for us now to use that evidence-based",
+   "agree": 0.941
+  },
+  {
+   "i": 15,
+   "start": 173.01,
+   "end": 183.99,
+   "speaker": "Speaker 1",
+   "text": "knowledge or strategies, right? So we open stuff that talks about that, right? And then we kind of read up about, okay, sure.",
+   "en": "knowledge or strategies, right? So we open stuff that talks about that, right? And then we kind of read up about, okay, sure.",
+   "agree": 0.975
+  },
+  {
+   "i": 16,
+   "start": 184.41,
+   "end": 196.89,
+   "speaker": "Speaker 1",
+   "text": "This is what it looks like, and we can do that prior, right? We can also just check, okay, what do we need to read up on before we come to our session for the PLCs.",
+   "en": "This is what it looks like, and we can do that prior, right? We can also just check, okay, what do we need to read up on before we come to our session for the PLCs.",
+   "agree": 0.873
+  },
+  {
+   "i": 17,
+   "start": 198.39,
+   "end": 209.31,
+   "speaker": "Speaker 1",
+   "text": "Now we are getting more ideas exactly what is evidence-based knowledge or strategies saying about this particular instruction.",
+   "en": "Now we are getting more ideas exactly what is evidence-based knowledge or strategies saying about this particular instruction.",
+   "agree": 0.896
+  },
+  {
+   "i": 18,
+   "start": 209.97,
+   "end": 223.65,
+   "speaker": "Speaker 1",
+   "text": "And we have a picture. Now, collaboration. We think as a group, okay, then if this is how it looks like, what are the things that we're supposed to be doing?",
+   "en": "And we have a picture. Now, collaboration. We think as a group, okay, then if this is how it looks like, what are the things that we're supposed to be doing?",
+   "agree": 0.94
+  },
+  {
+   "i": 19,
+   "start": 224.01,
+   "end": 235.35,
+   "speaker": "Speaker 1",
+   "text": "We are given here the ideas of how we can do this, what can we take from here and bring it to our context in our classrooms.",
+   "en": "We are given here the ideas of how we can do this, what can we take from here and bring it to our context in our classrooms.",
+   "agree": 0.746
+  },
+  {
+   "i": 20,
+   "start": 236.25,
+   "end": 248.01,
+   "speaker": "Speaker 1",
+   "text": "Options that you can take or strategies that you can use and see, talk about those, what are they going to need, how are they going to work in our context, and which ones are really like...",
+   "en": "Options that you can take or strategies that you can use and see, talk about those, what are they going to need, how are they going to work in our context, and which ones are really like...",
+   "agree": 0.896
+  },
+  {
+   "i": 21,
+   "start": 248.31,
+   "end": 261.51,
+   "speaker": "Speaker 1",
+   "text": "And easy to kind of really that this is something that we can pin and say, okay, we're going to move forward and go and try them in class, right?",
+   "en": "And easy to kind of really that this is something that we can pin and say, okay, we're going to move forward and go and try them in class, right?",
+   "agree": 0.667
+  },
+  {
+   "i": 22,
+   "start": 262.05,
+   "end": 273.57,
+   "speaker": "Speaker 1",
+   "text": "Remember, because first we did see what are we currently doing and what are these new strategies that we can try out?",
+   "en": "Remember, because first we did see what are we currently doing and what are these new strategies that we can try out?",
+   "agree": 0.704
+  },
+  {
+   "i": 23,
+   "start": 273.99,
+   "end": 285.27,
+   "speaker": "Speaker 1",
+   "text": "So you decide on those options and say, ok, we're going to go into our classrooms and try out these new strategies and we're going to pay attention to",
+   "en": "So you decide on those options and say, ok, we're going to go into our classrooms and try out these new strategies and we're going to pay attention to",
+   "agree": 0.912
+  },
+  {
+   "i": 24,
+   "start": 286.41,
+   "end": 295.71,
+   "speaker": "Speaker 1",
+   "text": "What the learners are doing, how are they responding to the new instruction that I am now bringing in.",
+   "en": "What the learners are doing, how are they responding to the new instruction that I am now bringing in.",
+   "agree": 0.92
+  },
+  {
+   "i": 25,
+   "start": 296.79,
+   "end": 303.15,
+   "speaker": "Speaker 1",
+   "text": "After we have chosen or we have pinned those, we definitely",
+   "en": "After we have chosen or we have pinned those, we definitely",
+   "agree": 1.0
+  },
+  {
+   "i": 26,
+   "start": 304.17,
+   "end": 315.21,
+   "speaker": "Speaker 1",
+   "text": "Open up to saying, okay, on our next session, this is what we're going to do. We're going to share and reflect on how did it go first before we even start.",
+   "en": "Open up to saying, okay, on our next session, this is what we're going to do. We're going to share and reflect on how did it go first before we even start.",
+   "agree": 1.0
+  },
+  {
+   "i": 27,
+   "start": 315.99,
+   "end": 327.75,
+   "speaker": "Speaker 1",
+   "text": "Another option, another focus of the PLC. We're going to share how it went, how are the strategies that we implemented are going.",
+   "en": "Another option, another focus of the PLC. We're going to share how it went, how are the strategies that we implemented are going.",
+   "agree": 0.968
+  },
+  {
+   "i": 28,
+   "start": 328.11,
+   "end": 337.23,
+   "speaker": "Speaker 1",
+   "text": "And also how do we sustain those as well, and share all that, right? So yes, so that's how the structure can look like.",
+   "en": "And also how do we sustain those as well, and share all that, right? So yes, so that's how the structure can look like.",
+   "agree": 0.965
+  },
+  {
+   "i": 29,
+   "start": 337.53,
+   "end": 350.07,
+   "speaker": "Speaker 1",
+   "text": "Right, and then you know that you will be following that structure. Keep it simple, don't get into details. One, we're going to decide on the focus. Two, we're going to share on current experience.",
+   "en": "Right, and then you know that you will be following that structure. Keep it simple, don't get into details. One, we're going to decide on the focus. Two, we're going to share on current experience.",
+   "agree": 0.984
+  },
+  {
+   "i": 30,
+   "start": 350.37,
+   "end": 362.01,
+   "speaker": "Speaker 1",
+   "text": "And while we are sharing on current experience, we are going to look at what am I doing?",
+   "en": "And while we are sharing on current experience, we are going to look at what am I doing?",
+   "agree": 0.0
+  },
+  {
+   "i": 31,
+   "start": 362.79,
+   "end": 374.19,
+   "speaker": "Speaker 1",
+   "text": "Add the learner's responses in what I'm doing. And then three, we're going to look up what exactly does our goal look like?",
+   "en": "Add the learner's responses in what I'm doing. And then three, we're going to look up what exactly does our goal look like?",
+   "agree": 0.675
+  },
+  {
+   "i": 32,
+   "start": 374.55,
+   "end": 386.25,
+   "speaker": "Speaker 1",
+   "text": "Right? What does it involve? Then that is a learning, I said it was a learning part, right? Where we may have to go out. And then lastly, we're going to look at options",
+   "en": "Right? What does it involve? Then that is a learning, I said it was a learning part, right? Where we may have to go out. And then lastly, we're going to look at options",
+   "agree": 0.907
+  },
+  {
+   "i": 33,
+   "start": 386.43,
+   "end": 397.41,
+   "speaker": "Speaker 1",
+   "text": "After we have seen that, okay, this is what it looks like, and what options can we do, what practices, what strategies can we take back to our classroom, and then we're going to reflect on that.",
+   "en": "After we have seen that, okay, this is what it looks like, and what options can we do, what practices, what strategies can we take back to our classroom, and then we're going to reflect on that.",
+   "agree": 0.984
+  },
+  {
+   "i": 34,
+   "start": 399.21,
+   "end": 406.95,
+   "speaker": "Speaker 1",
+   "text": "So, those are my questions with PLCs. For me, this is such a critical",
+   "en": "So, those are my questions with PLCs. For me, this is such a critical",
+   "agree": 0.833
+  },
+  {
+   "i": 35,
+   "start": 408.27,
+   "end": 419.19,
+   "speaker": "Speaker 1",
+   "text": "Activity that a group of teachers can do, because one, it builds relationships among teachers.",
+   "en": "Activity that a group of teachers can do, because one, it builds relationships among teachers.",
+   "agree": 0.077
+  },
+  {
+   "i": 36,
+   "start": 420.15,
+   "end": 432.99,
+   "speaker": "Speaker 1",
+   "text": "Find out something and say I don't know this, can you please tell me quickly how do you do it in your class.",
+   "en": "Find out something and say I don't know this, can you please tell me quickly how do you do it in your class.",
+   "agree": 0.019
+  },
+  {
+   "i": 37,
+   "start": 434.13,
+   "end": 443.25,
+   "speaker": "Speaker 1",
+   "text": "the relationship will be built in those teachers. I encourage teachers to kind of really put up those PLCs.",
+   "en": "the relationship will be built in those teachers. I encourage teachers to kind of really put up those PLCs.",
+   "agree": 0.695
+  }
+ ],
+ "score": {
+  "value": 0.789,
+  "label": "engine agreement (proxy)",
+  "display": "78.9% engine agreement (proxy)",
+  "line": "Two engines (OpenAI gpt-4o-transcribe and Soniox v5) agree on 78.9% of characters across this 8-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 1 lines the engine heard in silence were removed.",
+  "removed_in_silence": 1
+ },
+ "agreement": {
+  "value": 0.789,
+  "label": "engine agreement (proxy)",
+  "display": "78.9% engine agreement (proxy)",
+  "line": "Two engines (OpenAI gpt-4o-transcribe and Soniox v5) agree on 78.9% of characters across this 8-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 1 lines the engine heard in silence were removed.",
+  "removed_in_silence": 1
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No written transcript of this recording exists."
+ },
+ "sources": []
+}

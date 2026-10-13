@@ -27,7 +27,7 @@
    "i": 2,
    "start": 5.1,
    "end": 10.1,
-   "speaker": "Trainer",
+   "speaker": "Teacher",
    "text": "Kajeno re tlo tla re bopa mantswe. Re tlo bopa",
    "en": "Today we are going to come and build words. We are going to build",
    "agree": 1.0
@@ -45,7 +45,7 @@
    "i": 4,
    "start": 11.1,
    "end": 20.0,
-   "speaker": "Trainer",
+   "speaker": "Teacher",
    "text": "Re tlo bopa mantswe. Mantswe a rona ha re tlo tla re a bopa, re tlo tla re a bopela mona letlapeng la rona. O tlo tla o kgetha medumo o mametse",
    "en": "We are going to build words. Our words when we come to build them, we are going to come and build them here on our board. You will come and choose sounds while listening",
    "agree": 0.964
@@ -587,7 +587,7 @@
    "end": 243.9,
    "speaker": "Teacher",
    "text": "A-a, ha ho bale yena a le mong. Re tla bala le yena ka morao, akere?",
-   "en": "No, let him not read alone. We will read with him afterwards, right?",
+   "en": "No, let them not read alone. We will read with them afterwards, right?",
    "agree": 0.656
   },
   {
@@ -702,16 +702,16 @@
    "i": 77,
    "start": 268.5,
    "end": 273.1,
-   "speaker": "Trainer",
+   "speaker": "Teacher",
    "text": "Hame a pheha, o pheha dijo o tshela eng dijong?",
-   "en": "When mother cooks, she cooks food, she puts what in the food?",
+   "en": "When mother cooks, they cook food, they put what in the food?",
    "agree": 0.0
   },
   {
    "i": 78,
    "start": 273.1,
    "end": 275.0,
-   "speaker": "Trainer",
+   "speaker": "Teacher",
    "text": "Tamati.",
    "en": "Tamati.",
    "agree": 0.0
@@ -721,17 +721,31 @@
   "value": 0.843,
   "label": "engine agreement (proxy)",
   "display": "84.3% engine agreement (proxy)",
-  "line": "Two engines (Gemini 3.5 Flash and Gemini 2.5 Pro) agree on 84.3% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+  "line": "Two engines (Gemini 3.5 Flash and Gemini 2.5 Pro) agree on 84.3% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
  },
  "agreement": {
   "value": 0.843,
   "label": "engine agreement (proxy)",
   "display": "84.3% engine agreement (proxy)",
-  "line": "Two engines (Gemini 3.5 Flash and Gemini 2.5 Pro) agree on 84.3% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+  "line": "Two engines (Gemini 3.5 Flash and Gemini 2.5 Pro) agree on 84.3% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
  },
  "reference": {
   "kind": "none",
   "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
  },
- "sources": []
+ "sources": [],
+ "meaning": {
+  "value": 9.5,
+  "label": "AI-judged (proxy)",
+  "display": "9.5 / 10 meaning recovered (AI-judged)",
+  "counts": {
+   "same": 9,
+   "partly": 1,
+   "different": 0,
+   "unclear": 0
+  },
+  "line": "Against the partner's own English subtitles, a model judged Rumi's English the same in 9, partly the same in 1 and different in 0 of 10 half-minute stretches (0 too fragmentary to judge). This measures listening and translation together."
+ }
 }

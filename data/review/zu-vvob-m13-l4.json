@@ -1,0 +1,233 @@
+{
+ "id": "zu-vvob-m13-l4",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 2,
+ "turns_version": 2,
+ "turns": [
+  {
+   "i": 0,
+   "start": 20.5,
+   "end": 22.0,
+   "speaker": "Teacher",
+   "text": "Okay, so namhlanje",
+   "en": "Okay, so today",
+   "agree": null
+  },
+  {
+   "i": 1,
+   "start": 22.9,
+   "end": 24.5,
+   "speaker": "Teacher",
+   "text": "sizofunda ngama-sound.",
+   "en": "we will learn about sounds.",
+   "agree": null
+  },
+  {
+   "i": 2,
+   "start": 25.4,
+   "end": 27.0,
+   "speaker": "Teacher",
+   "text": "Sizofunda ngama-sound.",
+   "en": "We will learn about sounds.",
+   "agree": null
+  },
+  {
+   "i": 3,
+   "start": 27.3,
+   "end": 28.0,
+   "speaker": "Learners",
+   "text": "Sounds.",
+   "en": "Sounds.",
+   "agree": null
+  },
+  {
+   "i": 4,
+   "start": 28.5,
+   "end": 30.0,
+   "speaker": "Teacher",
+   "text": "Sizofunda ngama-sound.",
+   "en": "We will learn about sounds.",
+   "agree": null
+  },
+  {
+   "i": 5,
+   "start": 30.3,
+   "end": 31.0,
+   "speaker": "Learners",
+   "text": "Sounds.",
+   "en": "Sounds.",
+   "agree": null
+  },
+  {
+   "i": 6,
+   "start": 53.88,
+   "end": 55.98,
+   "speaker": "Teacher",
+   "text": "Okay, bafundi. Namhlanje sizofunda ngezilwane.",
+   "en": "Okay, learners. Today we will learn about animals.",
+   "agree": null
+  },
+  {
+   "i": 7,
+   "start": 57.28,
+   "end": 58.58,
+   "speaker": "Teacher",
+   "text": "Yiziphi izilwane enizaziyo?",
+   "en": "Which animals do you know?",
+   "agree": null
+  },
+  {
+   "i": 8,
+   "start": 60.08,
+   "end": 60.68,
+   "speaker": "Learner",
+   "text": "Inja.",
+   "en": "A dog.",
+   "agree": null
+  },
+  {
+   "i": 9,
+   "start": 61.38,
+   "end": 61.88,
+   "speaker": "Learner",
+   "text": "Ikati.",
+   "en": "A cat.",
+   "agree": null
+  },
+  {
+   "i": 10,
+   "start": 84.59,
+   "end": 87.39,
+   "speaker": "Teacher",
+   "text": "Okay, so namhlanje sizofunda ngama-vowel.",
+   "en": "Okay, so today we will learn about vowels.",
+   "agree": null
+  },
+  {
+   "i": 11,
+   "start": 88.39,
+   "end": 90.09,
+   "speaker": "Teacher",
+   "text": "Sizofunda ngama-vowel.",
+   "en": "We will learn about vowels.",
+   "agree": null
+  },
+  {
+   "i": 12,
+   "start": 115.96,
+   "end": 117.36,
+   "speaker": "Teacher",
+   "text": "Okay, ngicela ukubuza.",
+   "en": "Okay, I would like to ask.",
+   "agree": null
+  },
+  {
+   "i": 13,
+   "start": 118.16,
+   "end": 119.96,
+   "speaker": "Teacher",
+   "text": "Uma ubheka la, yini le oyibonayo?",
+   "en": "When you look here, what is this that you see?",
+   "agree": null
+  },
+  {
+   "i": 14,
+   "start": 138.84,
+   "end": 140.94,
+   "speaker": "Teacher",
+   "text": "Okay, ngicela ningitshele, yini eniyibonayo la?",
+   "en": "Okay, please tell me, what is it that you see here?",
+   "agree": null
+  },
+  {
+   "i": 15,
+   "start": 142.34,
+   "end": 143.04,
+   "speaker": "Learners",
+   "text": "I-poster.",
+   "en": "A poster.",
+   "agree": null
+  },
+  {
+   "i": 16,
+   "start": 144.34,
+   "end": 144.94,
+   "speaker": "Teacher",
+   "text": "I-poster.",
+   "en": "A poster.",
+   "agree": null
+  },
+  {
+   "i": 17,
+   "start": 146.24,
+   "end": 147.44,
+   "speaker": "Teacher",
+   "text": "Yini enye eniyibonayo?",
+   "en": "What else do you see?",
+   "agree": null
+  },
+  {
+   "i": 18,
+   "start": 148.94,
+   "end": 149.74,
+   "speaker": "Learners",
+   "text": "Amagama.",
+   "en": "Words.",
+   "agree": null
+  },
+  {
+   "i": 19,
+   "start": 151.24,
+   "end": 151.94,
+   "speaker": "Teacher",
+   "text": "Amagama.",
+   "en": "Words.",
+   "agree": null
+  },
+  {
+   "i": 20,
+   "start": 161.56,
+   "end": 177.56,
+   "speaker": "Learners",
+   "text": "umkhondo wakhe awulona. Uma uqobo lwabo ekholile uthabani wayefika ethula izingoma zokugqoma.",
+   "en": "their track is not it. When their real self is satisfied, Thabani would arrive presenting gqom songs.",
+   "agree": null
+  },
+  {
+   "i": 21,
+   "start": 178.84,
+   "end": 190.34,
+   "speaker": "Learners",
+   "text": "omazobumbonga noma esho izinkomo. Kwakukhona ababili ababefana okukhulu abazwane.",
+   "en": "who will praise them or mention cattle. There were two who were very similar who got along.",
+   "agree": null
+  },
+  {
+   "i": 22,
+   "start": 244.35,
+   "end": 248.45,
+   "speaker": "Teacher",
+   "text": "A print-rich classroom is a classroom where",
+   "en": "A print-rich classroom is a classroom where",
+   "agree": null
+  }
+ ],
+ "score": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides.",
+  "removed_in_silence": 0
+ },
+ "agreement": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides.",
+  "removed_in_silence": 0
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

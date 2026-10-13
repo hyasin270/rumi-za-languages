@@ -2,17 +2,26 @@
  "id": "af-fleurs-2",
  "lang": "af",
  "engine": "Soniox v5",
- "version": 1,
- "turns_version": 1,
+ "version": 2,
+ "turns_version": 2,
  "turns": [
   {
    "i": 0,
    "start": 0.0,
+   "end": 9.66,
+   "speaker": "Speaker 1",
+   "text": "Kommun se beleid het beplande ouerskap gediskwalifiseer as gevolg van 'n onbesliste ondersoek oor hoe",
+   "en": "Komen's policy disqualified Planned Parenthood as a result of an undecided investigation into how Planned Parenthood's representative, Cliff Stearns, spent their money and reported what was carried out.",
+   "agree": null
+  },
+  {
+   "i": 1,
+   "start": 9.66,
    "end": 20.28,
    "speaker": "Speaker 1",
-   "text": "Kommun se beleid het beplande ouerskap gediskwalifiseer as gevolg van 'n onbesliste ondersoek oor hoe beplande ouerskap se verteenwoordiger, Cliff Stearns, hulle geld spandeer het en gerapporteer wat uitgevoer is.",
-   "en": "Komen's policy disqualified Planned Parenthood as a result of an undecided investigation into how Planned Parenthood's representative, Cliff Stearns, spent their money and reported what was carried out.",
-   "agree": 0.99
+   "text": "beplande ouerskap se verteenwoordiger, Cliff Stearns, hulle geld spandeer het en gerapporteer wat uitgevoer is.",
+   "en": "(continued)",
+   "agree": null
   }
  ],
  "score": {

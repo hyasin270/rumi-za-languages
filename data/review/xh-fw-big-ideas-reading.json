@@ -1,0 +1,1480 @@
+{
+ "id": "xh-fw-big-ideas-reading",
+ "lang": "xh",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 7.5,
+   "end": 9.1,
+   "speaker": "Trainer",
+   "text": "Ukufundisa abantwana ukufunda sisakhona.",
+   "en": "Teaching children to read, we are still on it.",
+   "agree": 0.974
+  },
+  {
+   "i": 1,
+   "start": 9.8,
+   "end": 12.8,
+   "speaker": "Trainer",
+   "text": "Nanjengase siphinde ke ayisakhona ndithi kufuneke ubanike isiseko esomeleleyo.",
+   "en": "And as I repeat then, we are still on it, I say you need to give them a strong foundation.",
+   "agree": 0.831
+  },
+  {
+   "i": 2,
+   "start": 13.4,
+   "end": 18.9,
+   "speaker": "Trainer",
+   "text": "Kukho izinto ezithile futhi, zintlanu ke izinto ekufuneke uzenzile ke xa ufundisa abantwana ukufunda.",
+   "en": "There are certain things also, there are five things then that you need to do when you teach children to read.",
+   "agree": 0.879
+  },
+  {
+   "i": 3,
+   "start": 19.4,
+   "end": 20.4,
+   "speaker": "Trainer",
+   "text": "Ezingundoqo.",
+   "en": "The key ones.",
+   "agree": 0.909
+  },
+  {
+   "i": 4,
+   "start": 21.9,
+   "end": 25.1,
+   "speaker": "Trainer",
+   "text": "Eyokuqala, lulwazi lokusetyenziswa kwezandi zamagama.",
+   "en": "The first one, is the knowledge of the use of word sounds.",
+   "agree": 0.824
+  },
+  {
+   "i": 5,
+   "start": 25.8,
+   "end": 27.1,
+   "speaker": "Trainer",
+   "text": "Eyesibini, sifumana",
+   "en": "The second, we find",
+   "agree": 0.667
+  },
+  {
+   "i": 6,
+   "start": 29.0,
+   "end": 37.7,
+   "speaker": "Trainer",
+   "text": "lokusetyenziswa kwezandimazwi. Eyesibini yifonetiki. Eyesithathu sisigama. Eyesine kufuneka umtshibiliko. Eyokugqibela yingqiqo.",
+   "en": "of the use of speech sounds. The second is phonetics. The third is vocabulary. The fourth, fluency is needed. The last is comprehension.",
+   "agree": 0.61
+  },
+  {
+   "i": 7,
+   "start": 38.4,
+   "end": 39.3,
+   "speaker": "Trainer",
+   "text": "Eyokuqala,",
+   "en": "The first one,",
+   "agree": 1.0
+  },
+  {
+   "i": 8,
+   "start": 40.0,
+   "end": 46.9,
+   "speaker": "Trainer",
+   "text": "apho ndisithi bendisithi khona ulwazi lokusetyenziswa kwezandimazwi, kuqala abantwana kufuneke beqaphele into yokuba igama ngalinye liphohlisa isandi.",
+   "en": "where I say I was saying there, the knowledge of the use of speech sounds, first children need to notice that each word makes a sound.",
+   "agree": 0.885
+  },
+  {
+   "i": 9,
+   "start": 47.4,
+   "end": 48.1,
+   "speaker": "Teacher",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": 1.0
+  },
+  {
+   "i": 10,
+   "start": 48.7,
+   "end": 49.1,
+   "speaker": "Learners",
+   "text": "Qha.",
+   "en": "Only.",
+   "agree": 0.0
+  },
+  {
+   "i": 11,
+   "start": 50.7,
+   "end": 51.4,
+   "speaker": "Teacher",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": 1.0
+  },
+  {
+   "i": 12,
+   "start": 55.9,
+   "end": 58.3,
+   "speaker": "Teacher",
+   "text": "Hayibo, masiphinde. Masimamele ukuthi [learner].",
+   "en": "Oh no, let's repeat. Let's listen to say [learner].",
+   "agree": 0.143
+  },
+  {
+   "i": 13,
+   "start": 59.2,
+   "end": 59.6,
+   "speaker": "Learners",
+   "text": "Qha.",
+   "en": "Only.",
+   "agree": 0.0
+  },
+  {
+   "i": 14,
+   "start": 60.94,
+   "end": 62.14,
+   "speaker": "Teacher",
+   "text": "Ubiz' ibheka ngaphi izinto? Ayikho.",
+   "en": "Where are you looking at things? There is none.",
+   "agree": 0.0
+  },
+  {
+   "i": 15,
+   "start": 62.54,
+   "end": 63.54,
+   "speaker": "Teacher",
+   "text": "Kabini. Okay.",
+   "en": "Twice. Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 16,
+   "start": 64.14,
+   "end": 70.14,
+   "speaker": "Trainer",
+   "text": "Eyesibini, i-phonetic, kuqala kujongwa unxulumano phakathi konobumba nesandi.",
+   "en": "The second, phonetic, first we look at the relationship between the letter and the sound.",
+   "agree": 0.689
+  },
+  {
+   "i": 17,
+   "start": 73.04,
+   "end": 73.64,
+   "speaker": "Learners",
+   "text": "Yho!",
+   "en": "Oh!",
+   "agree": 0.0
+  },
+  {
+   "i": 18,
+   "start": 73.74,
+   "end": 74.14,
+   "speaker": "Learners",
+   "text": "Yho!",
+   "en": "Oh!",
+   "agree": 0.0
+  },
+  {
+   "i": 19,
+   "start": 74.34,
+   "end": 74.94,
+   "speaker": "Teacher",
+   "text": "Khawuleza.",
+   "en": "Hurry up.",
+   "agree": 1.0
+  },
+  {
+   "i": 20,
+   "start": 75.74,
+   "end": 77.04,
+   "speaker": "Learners",
+   "text": "E!",
+   "en": "E!",
+   "agree": 0.0
+  },
+  {
+   "i": 21,
+   "start": 77.24,
+   "end": 78.64,
+   "speaker": "Trainer",
+   "text": "Eyesithathu, isigama.",
+   "en": "The third, vocabulary.",
+   "agree": 1.0
+  },
+  {
+   "i": 22,
+   "start": 79.04,
+   "end": 86.64,
+   "speaker": "Trainer",
+   "text": "Xa ke ngoku unamagama owaziyo, andithi, uyakwazi ukuwasebenzisa la magama, uyakwazi ukuwasebenzisa ekubhaleni, uyakwazi ukuwasebenzisa ekuthetheni kuba kaloku uyawazi la magama athetha ntoni na.",
+   "en": "When now you have words that you know, right, you are able to use these words, you are able to use them in writing, you are able to use them in speaking because of course you know what these words mean.",
+   "agree": 0.921
+  },
+  {
+   "i": 23,
+   "start": 87.34,
+   "end": 88.54,
+   "speaker": "Teacher",
+   "text": "Kanti ikhangaphi?",
+   "en": "But where is it looking?",
+   "agree": 0.25
+  },
+  {
+   "i": 24,
+   "start": 90.53,
+   "end": 92.33,
+   "speaker": "Teacher",
+   "text": "Kanti rhanciwe, kusuke kutheni?",
+   "en": "But 'rhanciwe' [surrounded], what has happened?",
+   "agree": 0.759
+  },
+  {
+   "i": 25,
+   "start": 92.73,
+   "end": 97.23,
+   "speaker": "Teacher",
+   "text": "Leliphi igama elilula elinolisisebenzisa endaweni ka rhanciwe?",
+   "en": "Which is the simple word that you can use instead of 'rhanciwe'?",
+   "agree": 0.82
+  },
+  {
+   "i": 26,
+   "start": 97.83,
+   "end": 98.73,
+   "speaker": "Teacher",
+   "text": "Ewe ke. Ewe ke.",
+   "en": "Yes indeed. Yes indeed.",
+   "agree": 0.0
+  },
+  {
+   "i": 27,
+   "start": 100.13,
+   "end": 102.53,
+   "speaker": "Teacher",
+   "text": "Ya, iyajikelezwe. Very good. Iyajikelezwe.",
+   "en": "Yes, it is surrounded. Very good. It is surrounded.",
+   "agree": 0.789
+  },
+  {
+   "i": 28,
+   "start": 102.63,
+   "end": 107.13,
+   "speaker": "Teacher",
+   "text": "Andithi? Ligama elilula esilisebenzisa qho, ujikelezwe. Andithi? Okay.",
+   "en": "Right? It is a simple word that we use always, surrounded. Right? Okay.",
+   "agree": 0.831
+  },
+  {
+   "i": 29,
+   "start": 107.63,
+   "end": 110.13,
+   "speaker": "Trainer",
+   "text": "Eyesine, uFundo ngoTshibiliko.",
+   "en": "The fourth, Reading with Fluency.",
+   "agree": 0.929
+  },
+  {
+   "i": 30,
+   "start": 110.63,
+   "end": 113.13,
+   "speaker": "Trainer",
+   "text": "Apha ke, andithi uyawazi amagama akho?",
+   "en": "Here then, right, you know your words?",
+   "agree": 1.0
+  },
+  {
+   "i": 31,
+   "start": 113.63,
+   "end": 116.73,
+   "speaker": "Trainer",
+   "text": "Uyafunda ke ngoku, uyaqhubekeka, ufunda kakuhle.",
+   "en": "You read now, you proceed, you read well.",
+   "agree": 0.867
+  },
+  {
+   "i": 32,
+   "start": 119.38,
+   "end": 124.38,
+   "speaker": "Trainer",
+   "text": "uyafunda ke ngoku, uyaqhubekeka, ufunda kakuhle isivakalisi, ibali, njalo njalo.",
+   "en": "you read now, you proceed, you read well the sentence, the story, and so on.",
+   "agree": 1.0
+  },
+  {
+   "i": 33,
+   "start": 124.68,
+   "end": 125.88,
+   "speaker": "Teacher",
+   "text": "Funda kakuhle ke [learner].",
+   "en": "Read well then [learner].",
+   "agree": 0.143
+  },
+  {
+   "i": 34,
+   "start": 126.28,
+   "end": 129.28,
+   "speaker": "Learner",
+   "text": "[learner] ucela ibhotile yejusi.",
+   "en": "[learner] asks for a bottle of juice.",
+   "agree": 0.621
+  },
+  {
+   "i": 35,
+   "start": 129.68,
+   "end": 132.78,
+   "speaker": "Teacher",
+   "text": "Phind' uzame kwakhona. [learner] ucela ibhotile yejusi.",
+   "en": "Try again. [learner] asks for a bottle of juice.",
+   "agree": 0.9
+  },
+  {
+   "i": 36,
+   "start": 133.28,
+   "end": 135.78,
+   "speaker": "Learner",
+   "text": "[learner] ucela ibhotile yejusi.",
+   "en": "[learner] asks for a bottle of juice.",
+   "agree": 0.862
+  },
+  {
+   "i": 37,
+   "start": 136.08,
+   "end": 138.28,
+   "speaker": "Teacher",
+   "text": "Very good. Okay. Ulandelayo?",
+   "en": "Very good. Okay. Next?",
+   "agree": 1.0
+  },
+  {
+   "i": 38,
+   "start": 138.78,
+   "end": 142.78,
+   "speaker": "Trainer",
+   "text": "Eyokugqibela, hayi ke, inxasa ke ilapha ekugqibeleni yingqiqo.",
+   "en": "The last, oh well, the support is here at the end, it is comprehension.",
+   "agree": 0.915
+  },
+  {
+   "i": 39,
+   "start": 143.18,
+   "end": 149.41,
+   "speaker": "Trainer",
+   "text": "Ingqiqo ke kuxa ufunda ibali okanye ufunda lonto umntana, lonto umntana ayifundayo, afunde, njengoba efunda ngo",
+   "en": "Comprehension is when you read a story or you read that thing child, that thing the child reads, they read, as they read about",
+   "agree": 0.852
+  },
+  {
+   "i": 40,
+   "start": 149.41,
+   "end": 156.41,
+   "speaker": "Trainer",
+   "text": "lonto umntana ayifundayo, afunde njengoba efunda ngokutyibilika nje ke ngoku uyakwazi uyiqonda lento ayifundayo.",
+   "en": "that thing the child reads, they read as they read with fluency, now they are able to understand this thing they are reading.",
+   "agree": 0.882
+  },
+  {
+   "i": 41,
+   "start": 156.81,
+   "end": 162.41,
+   "speaker": "Teacher",
+   "text": "Jongani apha enifanekisweni. Lo mkhuza uthini? Kutheni ekhuza? Ndifuna ukuqonda ukuba ubani umntana ojonga lomfanekiso? Buza.",
+   "en": "Look here at the picture. What is this exclamation saying? Why is they exclaiming? I want to understand who is the child looking at this picture? Ask.",
+   "agree": 0.667
+  },
+  {
+   "i": 42,
+   "start": 163.51,
+   "end": 166.81,
+   "speaker": "Learner",
+   "text": "Lo mntana mkhulu ebethinze incinci.",
+   "en": "This child is big, the other one is small.",
+   "agree": 0.471
+  },
+  {
+   "i": 43,
+   "start": 167.31,
+   "end": 169.01,
+   "speaker": "Teacher",
+   "text": "Very good. Buza.",
+   "en": "Very good. Ask.",
+   "agree": 0.929
+  },
+  {
+   "i": 44,
+   "start": 172.51,
+   "end": 175.41,
+   "speaker": "Trainer",
+   "text": "Masiqale ngolwazi losetyenziso lwezandi mazwi.",
+   "en": "Let's start with the knowledge of the use of speech sounds.",
+   "agree": 0.8
+  },
+  {
+   "i": 45,
+   "start": 176.21,
+   "end": 179.16,
+   "speaker": "Trainer",
+   "text": "Ithini lonto yona lonto leyo? Indima yokuqala ithi,",
+   "en": "What does that say, that very thing? The first part says,",
+   "agree": 0.49
+  },
+  {
+   "i": 46,
+   "start": 179.16,
+   "end": 184.56,
+   "speaker": "Trainer",
+   "text": "Into enoyibamba kuqala ithi kufuneke yonke lento ibe yintetho, kungabikho nto ibhalwayo, andithi?",
+   "en": "The thing you can grasp first says all of this must be speech, there should be nothing written, right?",
+   "agree": 0.872
+  },
+  {
+   "i": 47,
+   "start": 185.46,
+   "end": 189.76,
+   "speaker": "Trainer",
+   "text": "Siyeva izandi ezenzekayo entethweni, emagameni.",
+   "en": "We hear the sounds that happen in speech, in words.",
+   "agree": 1.0
+  },
+  {
+   "i": 48,
+   "start": 190.26,
+   "end": 196.96,
+   "speaker": "Trainer",
+   "text": "Siyamamela ke into yokuba ingaba sikhona na isingqi esenzekayo, yiyo lonto ke ngoku pha ezantsi siyacula kakhulu.",
+   "en": "We listen then to whether there is a rhythm happening, that is why now down there we sing a lot.",
+   "agree": 0.973
+  },
+  {
+   "i": 49,
+   "start": 197.46,
+   "end": 200.36,
+   "speaker": "Learners",
+   "text": "Ulele tishala wam yiva.",
+   "en": "You are asleep my teacher, hear.",
+   "agree": 0.273
+  },
+  {
+   "i": 50,
+   "start": 200.36,
+   "end": 204.16,
+   "speaker": "Learners",
+   "text": "Bayalunda, thatha iincwadi.",
+   "en": "They are learning, take the books.",
+   "agree": 0.0
+  },
+  {
+   "i": 51,
+   "start": 204.16,
+   "end": 206.16,
+   "speaker": "Learners",
+   "text": "Ufunda.",
+   "en": "Reading.",
+   "agree": 0.0
+  },
+  {
+   "i": 52,
+   "start": 207.55,
+   "end": 219.05,
+   "speaker": "Learners",
+   "text": "U waji u lo hambelisayo uthi a andinamali. E ekhokhweni. I ilahlekile. O o tshonileyo. U ulele.",
+   "en": "U the watch that goes says a I have no money. E at the kitchen. I it is lost. O the one who is late. U is asleep.",
+   "agree": 0.144
+  },
+  {
+   "i": 53,
+   "start": 219.55,
+   "end": 229.05,
+   "speaker": "Trainer",
+   "text": "Asiculi nje senzele into yokuba bamamele into yokuba kukho izandi, kukho xa simane sihle simane sinyuka njalo njalo njalo njalo.",
+   "en": "We don't just sing so that they listen to the fact that there are sounds, there is when we keep going down and keep going up and so on and so on.",
+   "agree": 0.833
+  },
+  {
+   "i": 54,
+   "start": 230.35,
+   "end": 232.05,
+   "speaker": "Trainer",
+   "text": "Enye indlela ilula ke.",
+   "en": "Another way is easy then.",
+   "agree": 0.952
+  },
+  {
+   "i": 55,
+   "start": 233.05,
+   "end": 235.05,
+   "speaker": "Trainer",
+   "text": "Uqala apha emagameni akhe.",
+   "en": "You start here with their names.",
+   "agree": 0.68
+  },
+  {
+   "i": 56,
+   "start": 236.05,
+   "end": 236.35,
+   "speaker": "Trainer",
+   "text": "Mh.",
+   "en": "Mh.",
+   "agree": 0.5
+  },
+  {
+   "i": 57,
+   "start": 241.14,
+   "end": 242.84,
+   "speaker": "Teacher",
+   "text": "Nibe okay, ubani igama lakho?",
+   "en": "Be okay, what is your name?",
+   "agree": 0.889
+  },
+  {
+   "i": 58,
+   "start": 243.24,
+   "end": 244.24,
+   "speaker": "Teacher",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": 1.0
+  },
+  {
+   "i": 59,
+   "start": 244.44,
+   "end": 245.64,
+   "speaker": "Teacher",
+   "text": "Ngaliqhwabele elo gama.",
+   "en": "Clap for that name.",
+   "agree": 0.182
+  },
+  {
+   "i": 60,
+   "start": 245.94,
+   "end": 248.54,
+   "speaker": "Learners",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": 0.188
+  },
+  {
+   "i": 61,
+   "start": 248.94,
+   "end": 250.24,
+   "speaker": "Teacher",
+   "text": "Siliqhawule kangaphi?",
+   "en": "How many times did we break it?",
+   "agree": 0.4
+  },
+  {
+   "i": 62,
+   "start": 250.54,
+   "end": 251.24,
+   "speaker": "Learners",
+   "text": "Kahlanu.",
+   "en": "Five times.",
+   "agree": 1.0
+  },
+  {
+   "i": 63,
+   "start": 251.44,
+   "end": 254.34,
+   "speaker": "Teacher",
+   "text": "Kahlanu, liqhawulwa kahlanu lona igama [learner].",
+   "en": "Five times, it is broken five times, the name of [learner].",
+   "agree": 0.774
+  },
+  {
+   "i": 64,
+   "start": 255.04,
+   "end": 255.84,
+   "speaker": "Teacher",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": 0.75
+  },
+  {
+   "i": 65,
+   "start": 256.14,
+   "end": 257.64,
+   "speaker": "Learners",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": 0.667
+  },
+  {
+   "i": 66,
+   "start": 257.84,
+   "end": 259.74,
+   "speaker": "Teacher",
+   "text": "I- Hayi jonga le clever qhekweni.",
+   "en": "I- No, look at this clever one in the corner.",
+   "agree": 0.581
+  },
+  {
+   "i": 67,
+   "start": 259.94,
+   "end": 263.24,
+   "speaker": "Teacher",
+   "text": "Siqala apho ke, kuba kaloku bayawathanda amagama abo, bayawazi.",
+   "en": "We start there then, because of course they love their names, they know them.",
+   "agree": 0.933
+  },
+  {
+   "i": 68,
+   "start": 263.34,
+   "end": 268.23,
+   "speaker": "Teacher",
+   "text": "So yile nto ibenza ke ngoku bakwazi ukukhawulezisa, beve ke ngoku ukuba okay, kukho izandi ezahlukileyo ezilapha kweli gama.",
+   "en": "So that is what makes them now able to speed up, they hear now that okay, there are different sounds that are here in this name.",
+   "agree": 0.86
+  },
+  {
+   "i": 69,
+   "start": 268.23,
+   "end": 271.53,
+   "speaker": "Trainer",
+   "text": "ezilapha kweli gama. Eyesibini ke, i-phonetic.",
+   "en": "that are here in this name. The second one then, phonetic.",
+   "agree": 0.326
+  },
+  {
+   "i": 70,
+   "start": 273.23,
+   "end": 277.93,
+   "speaker": "Trainer",
+   "text": "Mamela ke sithini. Sithi abantwana kufuneke beyiqondile into yokuba",
+   "en": "Listen then to what we say. We say children must understand that",
+   "agree": 0.985
+  },
+  {
+   "i": 71,
+   "start": 279.03,
+   "end": 281.53,
+   "speaker": "Trainer",
+   "text": "isivakalisi senzwe ngamagama.",
+   "en": "a sentence is made of words.",
+   "agree": 0.964
+  },
+  {
+   "i": 72,
+   "start": 282.33,
+   "end": 287.53,
+   "speaker": "Trainer",
+   "text": "Amagama enziwe ngamalungu. Amalungu enziwe ngonobumba.",
+   "en": "Words are made of syllables. Syllables are made of letters.",
+   "agree": 1.0
+  },
+  {
+   "i": 73,
+   "start": 288.23,
+   "end": 288.93,
+   "speaker": "Trainer",
+   "text": "Umzekelo.",
+   "en": "An example.",
+   "agree": 1.0
+  },
+  {
+   "i": 74,
+   "start": 289.83,
+   "end": 294.53,
+   "speaker": "Trainer",
+   "text": "Umama ubeleke usana. Ngamagama amathathu lawo.",
+   "en": "Mother is carrying a baby. Those are three words.",
+   "agree": 0.977
+  },
+  {
+   "i": 75,
+   "start": 295.23,
+   "end": 296.72,
+   "speaker": "Trainer",
+   "text": "Kodwa siyakwazi ukuphula sithi, u-ma-ma, u-be-le-ke",
+   "en": "But we can break them and say, mo-ther, is-car-ry-ing",
+   "agree": 0.633
+  },
+  {
+   "i": 76,
+   "start": 296.72,
+   "end": 300.22,
+   "speaker": "Teacher",
+   "text": "umama ubeleke usana.",
+   "en": "mother is carrying a baby.",
+   "agree": 0.211
+  },
+  {
+   "i": 77,
+   "start": 301.02,
+   "end": 302.52,
+   "speaker": "Teacher",
+   "text": "Masijonge ke ngoku kumama.",
+   "en": "Let us look now at mother.",
+   "agree": 0.96
+  },
+  {
+   "i": 78,
+   "start": 303.52,
+   "end": 304.92,
+   "speaker": "Teacher",
+   "text": "u ma ma.",
+   "en": "m o t h e r.",
+   "agree": 0.0
+  },
+  {
+   "i": 79,
+   "start": 305.92,
+   "end": 312.52,
+   "speaker": "Trainer",
+   "text": "Kufuneke baqhubekeke bayazi ke into yokuba apha kumama wenziwe ngu u m a m a.",
+   "en": "They must continue to know that here in mother it is made of m o t h e r.",
+   "agree": 0.882
+  },
+  {
+   "i": 80,
+   "start": 313.32,
+   "end": 315.12,
+   "speaker": "Teacher",
+   "text": "Ndilobele u m.",
+   "en": "Write for me m.",
+   "agree": 0.923
+  },
+  {
+   "i": 81,
+   "start": 319.22,
+   "end": 320.72,
+   "speaker": "Teacher",
+   "text": "Thatha umfundi.",
+   "en": "Take a learner.",
+   "agree": 0.929
+  },
+  {
+   "i": 82,
+   "start": 321.02,
+   "end": 324.52,
+   "speaker": "Teacher",
+   "text": "Bha. Mjonge. Bajongise. Babonise. Bha.",
+   "en": "Bha. Look at them. Make them look. Show them. Bha.",
+   "agree": 0.545
+  },
+  {
+   "i": 83,
+   "start": 324.82,
+   "end": 325.12,
+   "speaker": "Learners",
+   "text": "Bha.",
+   "en": "Bha.",
+   "agree": 0.0
+  },
+  {
+   "i": 84,
+   "start": 329.2,
+   "end": 329.5,
+   "speaker": "Learners",
+   "text": "Pha!",
+   "en": "Pha!",
+   "agree": 0.0
+  },
+  {
+   "i": 85,
+   "start": 329.7,
+   "end": 331.1,
+   "speaker": "Teacher",
+   "text": "Leli gama lino-p. Khawuzibone?",
+   "en": "This word has p. Can you see for yourself?",
+   "agree": 0.5
+  },
+  {
+   "i": 86,
+   "start": 331.4,
+   "end": 331.9,
+   "speaker": "Learners",
+   "text": "Ipesika.",
+   "en": "Peach.",
+   "agree": 1.0
+  },
+  {
+   "i": 87,
+   "start": 332.0,
+   "end": 333.3,
+   "speaker": "Teacher",
+   "text": "Ipesika. Mhm, very good. Beka phantsi.",
+   "en": "Peach. Mhm, very good. Put down.",
+   "agree": 1.0
+  },
+  {
+   "i": 88,
+   "start": 333.6,
+   "end": 334.9,
+   "speaker": "Trainer",
+   "text": "Eyesithathu, isigama.",
+   "en": "The third, vocabulary.",
+   "agree": 1.0
+  },
+  {
+   "i": 89,
+   "start": 335.6,
+   "end": 344.6,
+   "speaker": "Trainer",
+   "text": "Ungacingi ke into yokuba xa bekwazi ukuphula lamagama, bawaphule ngamalungu, baphinde bawabadibanise babe ngamagama, bayawazi amagama.",
+   "en": "Do not think that when they can break these words, break them into syllables, and then join them again to be words, they know the words.",
+   "agree": 0.992
+  },
+  {
+   "i": 90,
+   "start": 344.9,
+   "end": 347.4,
+   "speaker": "Trainer",
+   "text": "Isigama lithetha into yokuba ndiyalazi eli gama,",
+   "en": "Vocabulary means that I know this word,",
+   "agree": 1.0
+  },
+  {
+   "i": 91,
+   "start": 348.1,
+   "end": 352.6,
+   "speaker": "Trainer",
+   "text": "lithetha ntoni eli gama, ndiyakwazi ukulisebenzisa kwisivakalisi naxa ndibala.",
+   "en": "what does this word mean, I can use it in a sentence and when I count.",
+   "agree": 0.974
+  },
+  {
+   "i": 92,
+   "start": 353.2,
+   "end": 354.4,
+   "speaker": "Trainer",
+   "text": "Sisigama ke eso.",
+   "en": "That is vocabulary then.",
+   "agree": 1.0
+  },
+  {
+   "i": 93,
+   "start": 361.11,
+   "end": 366.11,
+   "speaker": "Trainer",
+   "text": "Elayike ke beqokelela amagama, isigama sabo siyakhula, siye sikhula, siye sikhula.",
+   "en": "As they collect words, their vocabulary grows, it grows, it grows.",
+   "agree": 0.603
+  },
+  {
+   "i": 94,
+   "start": 366.61,
+   "end": 368.11,
+   "speaker": "Trainer",
+   "text": "Yiyona nto ibalulekileyo ke leyo.",
+   "en": "That is the important thing then.",
+   "agree": 0.844
+  },
+  {
+   "i": 95,
+   "start": 368.81,
+   "end": 370.41,
+   "speaker": "Trainer",
+   "text": "Umzekelo, masithathe eli gama.",
+   "en": "For example, let us take this word.",
+   "agree": 1.0
+  },
+  {
+   "i": 96,
+   "start": 371.91,
+   "end": 372.91,
+   "speaker": "Trainer",
+   "text": "Niyalibona eli gama?",
+   "en": "Do you see this word?",
+   "agree": 0.895
+  },
+  {
+   "i": 97,
+   "start": 374.01,
+   "end": 376.81,
+   "speaker": "Trainer",
+   "text": "Bazokwazi ukulifunda bathi yayirhanqwe, yayirhanqwe.",
+   "en": "They will be able to read it and say it was surrounded, it was surrounded.",
+   "agree": 0.98
+  },
+  {
+   "i": 98,
+   "start": 377.51,
+   "end": 380.11,
+   "speaker": "Trainer",
+   "text": "Sukucinga into yokuba bayalazi into yokuba lithetha ntoni na.",
+   "en": "Do not think that they know what it means.",
+   "agree": 0.75
+  },
+  {
+   "i": 99,
+   "start": 380.71,
+   "end": 384.31,
+   "speaker": "Trainer",
+   "text": "Kufuneke ke ngoku nilithethe nithi nqonqole ngalo into yokuba lithetha uthini eli gama?",
+   "en": "You must now talk about it and drill it as to what does this word mean?",
+   "agree": 0.744
+  },
+  {
+   "i": 100,
+   "start": 384.81,
+   "end": 386.31,
+   "speaker": "Trainer",
+   "text": "Ingaba likhona eli gama?",
+   "en": "Is this word there?",
+   "agree": 0.348
+  },
+  {
+   "i": 101,
+   "start": 386.4,
+   "end": 390.9,
+   "speaker": "Teacher",
+   "text": "Lithetha ukuthini eligama? Ingaba likhona elinye igama mhlawumbi elithetha into efanayo neli gama?",
+   "en": "What does this word mean? Is there another word maybe that means the same thing as this word?",
+   "agree": 0.844
+  },
+  {
+   "i": 102,
+   "start": 392.0,
+   "end": 393.8,
+   "speaker": "Teacher",
+   "text": "Ukhulisa ke ngoku intoni? Isigama sakho.",
+   "en": "You are growing now what? Your vocabulary.",
+   "agree": 0.763
+  },
+  {
+   "i": 103,
+   "start": 394.4,
+   "end": 396.0,
+   "speaker": "Teacher",
+   "text": "Xa ndithi rhangqiwe, kusuke kutheni?",
+   "en": "When I say surrounded, what happens?",
+   "agree": 0.794
+  },
+  {
+   "i": 104,
+   "start": 397.0,
+   "end": 401.0,
+   "speaker": "Teacher",
+   "text": "Ndifuna igama elilula eninokulisebenzisa endaweni ka rhangqa.",
+   "en": "I want an easy word that you can use instead of surround.",
+   "agree": 0.733
+  },
+  {
+   "i": 105,
+   "start": 401.8,
+   "end": 402.6,
+   "speaker": "Teacher",
+   "text": "Ewe ke, ewe ke?",
+   "en": "Yes then, yes then?",
+   "agree": 0.077
+  },
+  {
+   "i": 106,
+   "start": 403.3,
+   "end": 403.9,
+   "speaker": "Learner",
+   "text": "Yijikelezwe.",
+   "en": "Be circled.",
+   "agree": 0.636
+  },
+  {
+   "i": 107,
+   "start": 404.3,
+   "end": 408.2,
+   "speaker": "Teacher",
+   "text": "Ya, yijikelezwe. Very good. Yaye yijikelezwe, andithi?",
+   "en": "Yes, be circled. Very good. It was circled, right?",
+   "agree": 0.592
+  },
+  {
+   "i": 108,
+   "start": 408.6,
+   "end": 412.8,
+   "speaker": "Teacher",
+   "text": "Ligama elilula esinokulisebenzisa rhoqo ukujikelezwe, andithi?",
+   "en": "It is an easy word that we can use often, circled, right?",
+   "agree": 0.8
+  },
+  {
+   "i": 109,
+   "start": 413.1,
+   "end": 413.5,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 110,
+   "start": 414.4,
+   "end": 415.1,
+   "speaker": "Teacher",
+   "text": "Eyesine.",
+   "en": "The fourth.",
+   "agree": 1.0
+  },
+  {
+   "i": 111,
+   "start": 419.46,
+   "end": 422.26,
+   "speaker": "Trainer",
+   "text": "Eyesine, ufundo ngotshibileko.",
+   "en": "The fourth, reading with fluency.",
+   "agree": 0.0
+  },
+  {
+   "i": 112,
+   "start": 423.06,
+   "end": 434.66,
+   "speaker": "Trainer",
+   "text": "Mamela ke, ufundo ngotshibileko kuthetha ntoni? Kuthetha into yokuba ingaba bayakwazi ukufunda ngokukhawuleleza betshibilika? Kwaye ingaba lento bayifundayo, lamagama abawafundayo, abawabiza kakuhle na?",
+   "en": "Listen then, reading with fluency means what? It means whether they can read quickly and fluently? And whether this thing they are reading, these words they are reading, they pronounce them well?",
+   "agree": 0.908
+  },
+  {
+   "i": 113,
+   "start": 435.36,
+   "end": 439.66,
+   "speaker": "Learner",
+   "text": "[learner] ucela ibhotile ye-juice.",
+   "en": "[learner] is asking for a bottle of juice.",
+   "agree": 0.844
+  },
+  {
+   "i": 114,
+   "start": 441.16,
+   "end": 442.36,
+   "speaker": "Trainer",
+   "text": "Ndizawufunda ke.",
+   "en": "I will read then.",
+   "agree": 1.0
+  },
+  {
+   "i": 115,
+   "start": 444.66,
+   "end": 447.06,
+   "speaker": "Learner",
+   "text": "Ndi ya hamba.",
+   "en": "I am going.",
+   "agree": 0.0
+  },
+  {
+   "i": 116,
+   "start": 447.15,
+   "end": 452.95,
+   "speaker": "Teacher",
+   "text": "ndiyahamba ngomso ndiyalungisa.",
+   "en": "I am going tomorrow I am preparing.",
+   "agree": 0.467
+  },
+  {
+   "i": 117,
+   "start": 454.15,
+   "end": 454.45,
+   "speaker": "Teacher",
+   "text": "Mh.",
+   "en": "Mh.",
+   "agree": 0.0
+  },
+  {
+   "i": 118,
+   "start": 455.45,
+   "end": 456.65,
+   "speaker": "Teacher",
+   "text": "Mandifunde kakuhle ke ngoku.",
+   "en": "Let me read well now.",
+   "agree": 0.593
+  },
+  {
+   "i": 119,
+   "start": 457.25,
+   "end": 463.15,
+   "speaker": "Teacher",
+   "text": "Ndiyahamba ngomso. Ndiyalungisa. Ndinethikithi lohambo. Ndivuyile.",
+   "en": "I am going tomorrow. I am preparing. I have a ticket for the trip. I am happy.",
+   "agree": 0.968
+  },
+  {
+   "i": 120,
+   "start": 463.45,
+   "end": 467.35,
+   "speaker": "Teacher",
+   "text": "Nizame ke khona. [learner] ucela ibhotile yejusi.",
+   "en": "Try then there. [learner] asks for a bottle of juice.",
+   "agree": 0.844
+  },
+  {
+   "i": 121,
+   "start": 467.75,
+   "end": 470.55,
+   "speaker": "Learners",
+   "text": "[learner] ucela ibhotile yejusi.",
+   "en": "[learner] asks for a bottle of juice.",
+   "agree": 1.0
+  },
+  {
+   "i": 122,
+   "start": 470.65,
+   "end": 473.15,
+   "speaker": "Teacher",
+   "text": "Very good. Okay. Ulandelayo.",
+   "en": "Very good. Okay. Next.",
+   "agree": 1.0
+  },
+  {
+   "i": 123,
+   "start": 473.65,
+   "end": 478.12,
+   "speaker": "Trainer",
+   "text": "Okoke kukufunda ngotyibilika. Xa ufunda kakuhle",
+   "en": "That is reading with fluency. When you read well",
+   "agree": 0.13
+  },
+  {
+   "i": 124,
+   "start": 478.12,
+   "end": 480.42,
+   "speaker": "Trainer",
+   "text": "kukufunda ngokutyibilika. Xa ufunda kakuhle.",
+   "en": "it is reading with fluency. When you read well.",
+   "agree": 1.0
+  },
+  {
+   "i": 125,
+   "start": 480.92,
+   "end": 487.62,
+   "speaker": "Trainer",
+   "text": "Kuncida ntoni ke ukufunda ngokutyibilika? Kuncida into yokuba uyive lento uyifundayo, uyiqonde, uyonwabele, ukwazi nothetha ngayo.",
+   "en": "What does reading with fluency help with then? It helps with the fact that you hear this thing you are reading, you understand it, you enjoy it, and you are able to talk about it.",
+   "agree": 0.6
+  },
+  {
+   "i": 126,
+   "start": 488.62,
+   "end": 490.42,
+   "speaker": "Trainer",
+   "text": "Eyesihlanu ke, ingqiqo.",
+   "en": "The fifth one then, comprehension.",
+   "agree": 1.0
+  },
+  {
+   "i": 127,
+   "start": 491.12,
+   "end": 495.12,
+   "speaker": "Trainer",
+   "text": "Oh, mamela ke, yona ndoqo ke loo, ingqiqo.",
+   "en": "Oh, listen then, that is the core, comprehension.",
+   "agree": 0.947
+  },
+  {
+   "i": 128,
+   "start": 496.02,
+   "end": 498.42,
+   "speaker": "Trainer",
+   "text": "Umntana kufuneka ayiqonde lento ayifundayo.",
+   "en": "A child needs to understand this thing they are reading.",
+   "agree": 0.976
+  },
+  {
+   "i": 129,
+   "start": 498.92,
+   "end": 499.32,
+   "speaker": "Trainer",
+   "text": "Andithi?",
+   "en": "Isn't it?",
+   "agree": 1.0
+  },
+  {
+   "i": 130,
+   "start": 499.72,
+   "end": 503.72,
+   "speaker": "Trainer",
+   "text": "Ayazi into yokuba ufunda ngantoni na, akwazi ukuphendula imibuzo.",
+   "en": "They must know what they are reading about, and be able to answer questions.",
+   "agree": 0.889
+  },
+  {
+   "i": 131,
+   "start": 504.22,
+   "end": 507.34,
+   "speaker": "Trainer",
+   "text": "Imibuzo ke, angaphenduli imibuzo enempendulo.",
+   "en": "Questions then, they should not just answer questions with answers.",
+   "agree": 0.977
+  },
+  {
+   "i": 132,
+   "start": 507.34,
+   "end": 516.44,
+   "speaker": "Trainer",
+   "text": "aphendule imibuzo enempendulo ezifumaneka ebalini kuphela. Akwazi nokuphendula imibuzo enentsingiselo ezifihlakeleyo kwalapha ebalini.",
+   "en": "they should answer questions with answers that are found in the story only. They must also be able to answer questions with hidden meanings right here in the story.",
+   "agree": 0.947
+  },
+  {
+   "i": 133,
+   "start": 516.84,
+   "end": 518.64,
+   "speaker": "Teacher",
+   "text": "Ifika kanjani ukuthi isigulise?",
+   "en": "How does it come to make us sick?",
+   "agree": 0.933
+  },
+  {
+   "i": 134,
+   "start": 518.94,
+   "end": 526.24,
+   "speaker": "Teacher",
+   "text": "Ndifuna ukuyazi ba, kuthiwa isuka kanjani kwezinto ekuthiwa ziqhamuke nemifuno nento igulise thina?",
+   "en": "I want to know that, how is it said it comes from things that are said to be fruits and vegetables and make us sick?",
+   "agree": 0.814
+  },
+  {
+   "i": 135,
+   "start": 526.34,
+   "end": 528.14,
+   "speaker": "Teacher",
+   "text": "Yenzeka njani lonto? Clean up manje?",
+   "en": "How does that happen? Clean up now?",
+   "agree": 0.706
+  },
+  {
+   "i": 136,
+   "start": 530.34,
+   "end": 534.14,
+   "speaker": "Learner",
+   "text": "Kufuneka uqale u-uvase iqhamu before ulitye.",
+   "en": "You must first wa- wash the fruit before you eat it.",
+   "agree": 0.837
+  },
+  {
+   "i": 137,
+   "start": 537.8,
+   "end": 540.1,
+   "speaker": "Teacher",
+   "text": "Uthini umbuzo wam? Umbuzo wam uthi yeyiphi into ekufuneka uyithini?",
+   "en": "What is my question? My question says which is the thing that you must do what to?",
+   "agree": 0.2
+  },
+  {
+   "i": 138,
+   "start": 540.3,
+   "end": 541.1,
+   "speaker": "Learners",
+   "text": "Ukuyihlamba.",
+   "en": "To wash it.",
+   "agree": 0.0
+  },
+  {
+   "i": 139,
+   "start": 541.6,
+   "end": 543.6,
+   "speaker": "Teacher",
+   "text": "Uzi-, uzihlamba iziqhamo phambi kokuba uthini?",
+   "en": "You wa-, you wash fruits before you do what?",
+   "agree": 0.674
+  },
+  {
+   "i": 140,
+   "start": 543.9,
+   "end": 544.4,
+   "speaker": "Learners",
+   "text": "Uzitye.",
+   "en": "You eat them.",
+   "agree": 1.0
+  },
+  {
+   "i": 141,
+   "start": 544.7,
+   "end": 549.8,
+   "speaker": "Teacher",
+   "text": "Ukuba utye iziqhamo nemifuno ungayihlambanga kanti inale ntolongwane, kuzakwenzeka ntoni?",
+   "en": "If you eat fruits and vegetables without washing them yet they have this germ, what will happen?",
+   "agree": 0.736
+  },
+  {
+   "i": 142,
+   "start": 550.1,
+   "end": 550.8,
+   "speaker": "Learners",
+   "text": "Izakugulisa.",
+   "en": "It will make you sick.",
+   "agree": 0.364
+  },
+  {
+   "i": 143,
+   "start": 551.0,
+   "end": 552.3,
+   "speaker": "Teacher",
+   "text": "Izakugulisa. Asigqithe ke.",
+   "en": "It will make you sick. Let us pass then.",
+   "agree": 0.583
+  },
+  {
+   "i": 144,
+   "start": 552.9,
+   "end": 556.7,
+   "speaker": "Trainer",
+   "text": "Mamela ke. Ndibane nento ezintlanu ke mna ke endiye ndizibuze.",
+   "en": "Listen then. I have five things myself that I usually ask myself.",
+   "agree": 0.55
+  },
+  {
+   "i": 145,
+   "start": 557.9,
+   "end": 558.8,
+   "speaker": "Trainer",
+   "text": "Kwenzeka ntoni?",
+   "en": "What is happening?",
+   "agree": 0.5
+  },
+  {
+   "i": 146,
+   "start": 561.8,
+   "end": 562.2,
+   "speaker": "Trainer",
+   "text": "Iphi?",
+   "en": "Where?",
+   "agree": 1.0
+  },
+  {
+   "i": 147,
+   "start": 563.0,
+   "end": 563.8,
+   "speaker": "Trainer",
+   "text": "Yenzeka nini?",
+   "en": "When does it happen?",
+   "agree": 0.833
+  },
+  {
+   "i": 148,
+   "start": 565.0,
+   "end": 566.3,
+   "speaker": "Trainer",
+   "text": "Kutheni isenzeke?",
+   "en": "Why did it happen?",
+   "agree": 0.938
+  },
+  {
+   "i": 149,
+   "start": 567.4,
+   "end": 567.99,
+   "speaker": "Trainer",
+   "text": "Lonto ke [learner] into yokuba bayazi na ukuba",
+   "en": "With that then I am trying to see if they know that",
+   "agree": 0.614
+  },
+  {
+   "i": 150,
+   "start": 567.99,
+   "end": 576.29,
+   "speaker": "Trainer",
+   "text": "Lonto ke [learner] into yokuba bayazi into yokuba xa baphendula loo mibuzo mihlanu, bayayazi ke ngoku into yokuba okay, banalo ulwazi abanalo ngalento babeyifunda.",
+   "en": "With that then I am trying to see if they know that when they answer those five questions, they know now that okay, they have the knowledge they have about what they were reading.",
+   "agree": 0.728
+  },
+  {
+   "i": 151,
+   "start": 576.99,
+   "end": 581.39,
+   "speaker": "Trainer",
+   "text": "Masijonge ke enye yendlela onoyisebenzisa xa abantwana begqibile ukufunda ibali.",
+   "en": "Let us look then at one of the ways you can use when children have finished reading a story.",
+   "agree": 1.0
+  },
+  {
+   "i": 152,
+   "start": 581.99,
+   "end": 584.29,
+   "speaker": "Trainer",
+   "text": "Umzekelo. Jonga phaya.",
+   "en": "An example. Look there.",
+   "agree": 1.0
+  },
+  {
+   "i": 153,
+   "start": 585.49,
+   "end": 586.69,
+   "speaker": "Trainer",
+   "text": "Sithini isihloko?",
+   "en": "What does the title say?",
+   "agree": 1.0
+  },
+  {
+   "i": 154,
+   "start": 587.49,
+   "end": 588.79,
+   "speaker": "Trainer",
+   "text": "Ibisenzekaphi lento?",
+   "en": "Where was this happening?",
+   "agree": 0.947
+  },
+  {
+   "i": 155,
+   "start": 589.79,
+   "end": 592.39,
+   "speaker": "Trainer",
+   "text": "Ngabaphi abalinganiswa abakhoyo apha kweli bali lam?",
+   "en": "Who are the characters that are here in this story of mine?",
+   "agree": 0.98
+  },
+  {
+   "i": 156,
+   "start": 592.99,
+   "end": 594.69,
+   "speaker": "Trainer",
+   "text": "Yintoni ingxaki kweli bali lam?",
+   "en": "What is the problem in this story of mine?",
+   "agree": 0.967
+  },
+  {
+   "i": 157,
+   "start": 595.69,
+   "end": 597.39,
+   "speaker": "Trainer",
+   "text": "Zeziphi izinto eziye zenzeka?",
+   "en": "What are the things that happened?",
+   "agree": 1.0
+  },
+  {
+   "i": 158,
+   "start": 597.99,
+   "end": 599.39,
+   "speaker": "Trainer",
+   "text": "Ekugqibeni isonjululwe njani?",
+   "en": "In the end how was it resolved?",
+   "agree": 0.0
+  },
+  {
+   "i": 159,
+   "start": 602.07,
+   "end": 606.37,
+   "speaker": "Trainer",
+   "text": "Eyokugqibela ke, ingaba uthini umxholo weli bali niqeda ukulifunda?",
+   "en": "The last one then, what does the theme of this story say that you have just finished reading?",
+   "agree": 0.908
+  }
+ ],
+ "score": {
+  "value": 0.836,
+  "label": "engine agreement (proxy)",
+  "display": "83.6% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 83.6% of characters across this 11-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 7 lines the engine heard in silence were removed.",
+  "removed_in_silence": 7
+ },
+ "agreement": {
+  "value": 0.836,
+  "label": "engine agreement (proxy)",
+  "display": "83.6% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 83.6% of characters across this 11-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 7 lines the engine heard in silence were removed.",
+  "removed_in_silence": 7
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": [],
+ "meaning": {
+  "value": 8.8,
+  "label": "AI-judged (proxy)",
+  "display": "8.8 / 10 meaning recovered (AI-judged)",
+  "counts": {
+   "same": 16,
+   "partly": 5,
+   "different": 0,
+   "unclear": 0
+  },
+  "line": "Against the partner's own English subtitles, a model judged Rumi's English the same in 16, partly the same in 5 and different in 0 of 21 half-minute stretches (0 too fragmentary to judge). This measures listening and translation together."
+ }
+}

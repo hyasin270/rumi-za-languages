@@ -1,0 +1,163 @@
+{
+ "id": "zu-vvob-m7-intro",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 3.5,
+   "end": 8.5,
+   "speaker": "Trainer",
+   "text": "Sanibonani futhi. Siyanamukela futhi kwi-module ekhuluma ngolwazi magama.",
+   "en": "Hello again. We welcome you again to the module that talks about vocabulary.",
+   "agree": 0.986
+  },
+  {
+   "i": 1,
+   "start": 9.0,
+   "end": 16.5,
+   "speaker": "Trainer",
+   "text": "Kule module, sizokhuluma kabanzi ngokubaluleka kokuthuthukisa ulwazi magama ukuze abafundi bakwazi ukufunda, ukukhuluma kanye nokubhala.",
+   "en": "In this module, we will talk in detail about the importance of developing vocabulary so that learners are able to read, speak and write.",
+   "agree": 0.992
+  },
+  {
+   "i": 2,
+   "start": 17.5,
+   "end": 25.5,
+   "speaker": "Trainer",
+   "text": "Ingxenye enkulu ye-module ibhekene nokuchaza indima edlalwa ulwazi magama ekufundiseni ukufunda.",
+   "en": "A large part of the module deals with explaining the role played by vocabulary in teaching reading.",
+   "agree": 0.8
+  },
+  {
+   "i": 3,
+   "start": 26.6,
+   "end": 28.5,
+   "speaker": "Trainer",
+   "text": "ukufunda.",
+   "en": "reading.",
+   "agree": 1.0
+  },
+  {
+   "i": 4,
+   "start": 31.1,
+   "end": 37.0,
+   "speaker": "Trainer",
+   "text": "Emuva kokuqeda le module, uzokwazi ukuhlela izigaba ezahlukene zamagama,",
+   "en": "After completing this module, you will be able to organize different categories of words,",
+   "agree": 1.0
+  },
+  {
+   "i": 5,
+   "start": 37.6,
+   "end": 40.9,
+   "speaker": "Trainer",
+   "text": "ukuchaza indima edlalwa wulwazi magama uma ufunda,",
+   "en": "to explain the role played by vocabulary when reading,",
+   "agree": 0.959
+  },
+  {
+   "i": 6,
+   "start": 41.5,
+   "end": 46.0,
+   "speaker": "Trainer",
+   "text": "ukuhlela imisebenzi yabafundi abazoyenza uma ufundisa ulwazi magama,",
+   "en": "to organize activities for learners to do when you teach vocabulary,",
+   "agree": 0.985
+  },
+  {
+   "i": 7,
+   "start": 46.5,
+   "end": 50.5,
+   "speaker": "Trainer",
+   "text": "nokuchaza amasu ahlukene okuthuthukisa ulwazi magama.",
+   "en": "and to explain different strategies to develop vocabulary.",
+   "agree": 0.981
+  },
+  {
+   "i": 8,
+   "start": 52.8,
+   "end": 54.8,
+   "speaker": "Trainer",
+   "text": "Ngike ngicabange ukuthi,",
+   "en": "I sometimes think that,",
+   "agree": 1.0
+  },
+  {
+   "i": 9,
+   "start": 55.7,
+   "end": 57.8,
+   "speaker": "Trainer",
+   "text": "mangaki amagama engiwaziyo?",
+   "en": "how many words do I know?",
+   "agree": 1.0
+  },
+  {
+   "i": 10,
+   "start": 58.3,
+   "end": 58.8,
+   "speaker": "Trainer",
+   "text": "Ngingakwazi ukuwasebenzisa emshweni?",
+   "en": "Can I use them in a sentence?",
+   "agree": 0.971
+  },
+  {
+   "i": 11,
+   "start": 58.8,
+   "end": 61.4,
+   "speaker": "Trainer",
+   "text": "Ngingakwazi ukuwasebenzisa emshweni?",
+   "en": "Can I use them in a sentence?",
+   "agree": 0.971
+  },
+  {
+   "i": 12,
+   "start": 62.0,
+   "end": 63.9,
+   "speaker": "Trainer",
+   "text": "Ngiyayazi incazelo yalawo magama?",
+   "en": "Do I know the meaning of those words?",
+   "agree": 1.0
+  },
+  {
+   "i": 13,
+   "start": 64.8,
+   "end": 66.4,
+   "speaker": "Trainer",
+   "text": "Sizophendula le mibuzo.",
+   "en": "We will answer these questions.",
+   "agree": 1.0
+  },
+  {
+   "i": 14,
+   "start": 67.5,
+   "end": 68.3,
+   "speaker": "Trainer",
+   "text": "Asiqale.",
+   "en": "Let us start.",
+   "agree": 1.0
+  }
+ ],
+ "score": {
+  "value": 0.953,
+  "label": "engine agreement (proxy)",
+  "display": "95.3% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 95.3% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
+ },
+ "agreement": {
+  "value": 0.953,
+  "label": "engine agreement (proxy)",
+  "display": "95.3% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 95.3% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

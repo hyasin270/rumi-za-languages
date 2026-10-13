@@ -147,7 +147,10 @@
     const k = String(label || "").toLowerCase();
     if (!k) return ["", ""];
     if (k.includes("not run")) return [RZ.ui("label_not_run", "not run"), "pending"];
-    if (k.includes("ai") || k.includes("proxy")) return [RZ.ui("label_ai", "AI-judged"), "ai"];
+    // "AI-judged" = a model scored it; "proxy" / "engine agreement" = two engines compared, nobody judged anything (COS, 13 Oct)
+    if (k.includes("ai-judged")) return [RZ.ui("label_ai", "AI-judged"), "ai"];
+    if (k.includes("proxy") || k.includes("engine agreement")) return [RZ.ui("label_proxy", "proxy"), "proxy"];
+    if (k.includes("ai")) return [RZ.ui("label_ai", "AI-judged"), "ai"];
     if (k.includes("measured")) return [RZ.ui("label_measured", "measured"), "measured"];
     if (k.includes("pending")) return [RZ.ui("label_pending", "native ear pending"), "pending"];
     return [label, "measured"];

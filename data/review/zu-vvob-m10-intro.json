@@ -12,7 +12,7 @@
    "speaker": "Trainer",
    "text": "Sanibonani futhi bothisha.",
    "en": "Hello again teachers.",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 1,
@@ -21,7 +21,7 @@
    "speaker": "Trainer",
    "text": "Asikhulume ngokufunda ngamaqembu aholwa nguthisha.",
    "en": "Let us talk about reading in groups led by the teacher.",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 2,
@@ -30,7 +30,7 @@
    "speaker": "Trainer",
    "text": "Ukufundisa abafundi ngokwamazinga abo okufunda kuyindlela ebalulekile eyenza ukwazi ukubona ukuthi abafundi bayathuthuka yini ekufundeni.",
    "en": "Teaching learners according to their reading levels is an important way that makes you able to see if the learners are progressing in reading.",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 3,
@@ -39,7 +39,7 @@
    "speaker": "Trainer",
    "text": "Kubalulekile ukuthi ukwazi ukukhetha izincwadi ezisesezingeni labo ukuze bangazitholi sebebhekene nenkinga yokufunda izincwadi ezilukhuni kakhulu.",
    "en": "It is important that you are able to choose books that are at their level so that they do not find themselves facing the problem of reading books that are too difficult.",
-   "agree": null
+   "agree": 0.952
   },
   {
    "i": 4,
@@ -48,7 +48,7 @@
    "speaker": "Trainer",
    "text": "bebhekene nenkinga yokufunda izincwadi ezilula kakhulu.",
    "en": "facing the problem of reading books that are too easy.",
-   "agree": null
+   "agree": 0.981
   },
   {
    "i": 5,
@@ -57,7 +57,7 @@
    "speaker": "Trainer",
    "text": "Emuva kokuqeda umsebenzi wale-module, uzokwazi ukuqonda ukufunda ngamaqembu aholwa nguthisha,",
    "en": "After finishing the work of this module, you will be able to understand reading in groups led by the teacher,",
-   "agree": null
+   "agree": 0.978
   },
   {
    "i": 6,
@@ -66,7 +66,7 @@
    "speaker": "Trainer",
    "text": "ukubalula izindlela zokwakha amaqembu ngokwamazinga okufunda kwabafundi,",
    "en": "to list the ways of forming groups according to the reading levels of the learners,",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 7,
@@ -75,7 +75,7 @@
    "speaker": "Trainer",
    "text": "ukuqonda izigaba ezisetshenziswayo ukwenza isifundo sokufunda ngamaqembu,",
    "en": "to understand the stages used to do a lesson of reading in groups,",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 8,
@@ -84,7 +84,7 @@
    "speaker": "Trainer",
    "text": "ukwakha imisebenzi efanelekile yesifundo sokufunda ngamaqembu,",
    "en": "to create appropriate activities for a lesson of reading in groups,",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 9,
@@ -93,7 +93,7 @@
    "speaker": "Trainer",
    "text": "nokubalula izindlela ezingasetshenziswa ukuhlola isifundo sokufunda ngamaqembu.",
    "en": "and to list the ways that can be used to assess a lesson of reading in groups.",
-   "agree": null
+   "agree": 0.91
   },
   {
    "i": 10,
@@ -102,7 +102,7 @@
    "speaker": "Trainer",
    "text": "ukuhlola isifundo sokufunda ngamaqembu.",
    "en": "to assess a lesson of reading in groups.",
-   "agree": null
+   "agree": 1.0
   },
   {
    "i": 11,
@@ -111,18 +111,22 @@
    "speaker": "Trainer",
    "text": "Asiqale.",
    "en": "Let us begin.",
-   "agree": null
+   "agree": 1.0
   }
  ],
  "score": {
-  "value": null,
+  "value": 0.979,
   "label": "engine agreement (proxy)",
-  "line": "A second engine was not run on this recording; a native ear decides."
+  "display": "97.9% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.9% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
  },
  "agreement": {
-  "value": null,
+  "value": 0.979,
   "label": "engine agreement (proxy)",
-  "line": "A second engine was not run on this recording; a native ear decides."
+  "display": "97.9% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.9% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
  },
  "reference": {
   "kind": "none",

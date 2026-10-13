@@ -1,0 +1,604 @@
+{
+ "id": "zu-vvob-m10-l5",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 20.5,
+   "end": 23.2,
+   "speaker": "Teacher",
+   "text": "Okay, bafundi. Namhlanje sizofunda incwadi.",
+   "en": "Okay, learners. Today we are going to read a book.",
+   "agree": 0.0
+  },
+  {
+   "i": 1,
+   "start": 24.2,
+   "end": 28.0,
+   "speaker": "Teacher",
+   "text": "Le ncwadi yethu inesihloko esithi, 'UThemba Ufuna Ukudlala'.",
+   "en": "This book of ours has the title that says, 'Themba Wants To Play'.",
+   "agree": 0.0
+  },
+  {
+   "i": 2,
+   "start": 29.0,
+   "end": 31.2,
+   "speaker": "Teacher",
+   "text": "Ngaphambi kokuba siqale ukufunda,",
+   "en": "Before we start reading,",
+   "agree": 0.0
+  },
+  {
+   "i": 3,
+   "start": 31.67,
+   "end": 33.57,
+   "speaker": "Teacher",
+   "text": "Sizofunda ngamaqembu, niyezwa?",
+   "en": "We will read in groups, do you hear?",
+   "agree": 1.0
+  },
+  {
+   "i": 4,
+   "start": 34.17,
+   "end": 37.57,
+   "speaker": "Teacher",
+   "text": "Isifundo sethu esizokhuluma ngaso umphako wendlela.",
+   "en": "Our lesson that we will talk about is provisions for the journey.",
+   "agree": 1.0
+  },
+  {
+   "i": 5,
+   "start": 37.77,
+   "end": 39.37,
+   "speaker": "Teacher",
+   "text": "Siyazi umphako ukuthi yini, angithi?",
+   "en": "We know what provisions are, right?",
+   "agree": 1.0
+  },
+  {
+   "i": 6,
+   "start": 39.57,
+   "end": 40.07,
+   "speaker": "Learners",
+   "text": "Yebo.",
+   "en": "Yes.",
+   "agree": 1.0
+  },
+  {
+   "i": 7,
+   "start": 40.37,
+   "end": 41.07,
+   "speaker": "Teacher",
+   "text": "Yini umphako?",
+   "en": "What are provisions?",
+   "agree": 1.0
+  },
+  {
+   "i": 8,
+   "start": 41.67,
+   "end": 44.07,
+   "speaker": "Learner",
+   "text": "Umphako owuphatha esikoleni.",
+   "en": "Provisions that you carry to school.",
+   "agree": 1.0
+  },
+  {
+   "i": 9,
+   "start": 44.37,
+   "end": 51.57,
+   "speaker": "Teacher",
+   "text": "Umphako owuphatha esikoleni, uwuphatha esontweni, ungawuphatha noma kuphi umphako. Kodwa ilokhu kudla osuke uzokuphatha kuphi? Endleleni.",
+   "en": "Provisions that you carry to school, you carry them to church, you can carry provisions anywhere. But it is this food that you will carry where? On the way.",
+   "agree": 0.97
+  },
+  {
+   "i": 10,
+   "start": 52.07,
+   "end": 55.07,
+   "speaker": "Teacher",
+   "text": "Nginamagama-ke la, grade one, enginawo.",
+   "en": "I have these words here, grade one, that I have.",
+   "agree": 0.639
+  },
+  {
+   "i": 11,
+   "start": 55.87,
+   "end": 57.07,
+   "speaker": "Teacher",
+   "text": "Ngizobe ngizofunda",
+   "en": "I will be reading",
+   "agree": 0.0
+  },
+  {
+   "i": 12,
+   "start": 59.02,
+   "end": 62.02,
+   "speaker": "Teacher",
+   "text": "enginawo. Ngizofuna ozongifundela lamagama ami awu-two.",
+   "en": "that I have. I will want someone who will read for me these two words of mine.",
+   "agree": 0.491
+  },
+  {
+   "i": 13,
+   "start": 62.62,
+   "end": 64.52,
+   "speaker": "Teacher",
+   "text": "Nantoke igama elizofundwa. Okuqala.",
+   "en": "Here is the word to be read. The first one.",
+   "agree": 0.697
+  },
+  {
+   "i": 14,
+   "start": 65.02,
+   "end": 65.82,
+   "speaker": "Teacher",
+   "text": "Yes, [learner]?",
+   "en": "Yes, [learner]?",
+   "agree": 0.889
+  },
+  {
+   "i": 15,
+   "start": 66.42,
+   "end": 67.22,
+   "speaker": "Learner",
+   "text": "Umkhovu.",
+   "en": "Umkhovu.",
+   "agree": 1.0
+  },
+  {
+   "i": 16,
+   "start": 67.82,
+   "end": 69.82,
+   "speaker": "Teacher",
+   "text": "Okay, uthi lithi umkhovu. Asifunde sonke.",
+   "en": "Okay, they say it says umkhovu. Let us all read.",
+   "agree": 1.0
+  },
+  {
+   "i": 17,
+   "start": 70.42,
+   "end": 72.02,
+   "speaker": "Learners",
+   "text": "Umkhovu.",
+   "en": "Umkhovu.",
+   "agree": 1.0
+  },
+  {
+   "i": 18,
+   "start": 72.42,
+   "end": 73.02,
+   "speaker": "Teacher",
+   "text": "Uqinisile?",
+   "en": "Is they correct?",
+   "agree": 1.0
+  },
+  {
+   "i": 19,
+   "start": 73.32,
+   "end": 73.92,
+   "speaker": "Learners",
+   "text": "Yebo.",
+   "en": "Yes.",
+   "agree": 1.0
+  },
+  {
+   "i": 20,
+   "start": 74.02,
+   "end": 77.52,
+   "speaker": "Teacher",
+   "text": "Sozothatha-ke leli gama lethu siliyibeke la eshadini. Igama lethu lokuqala.",
+   "en": "We will then take this word of ours and put it here on the chart. Our first word.",
+   "agree": 0.89
+  },
+  {
+   "i": 21,
+   "start": 77.82,
+   "end": 80.52,
+   "speaker": "Teacher",
+   "text": "Igama lethu lesibili, ngicela ozolifunda.",
+   "en": "Our second word, I ask for someone who will read it.",
+   "agree": 1.0
+  },
+  {
+   "i": 22,
+   "start": 82.02,
+   "end": 83.52,
+   "speaker": "Learner",
+   "text": "Izithelo.",
+   "en": "Izithelo.",
+   "agree": 1.0
+  },
+  {
+   "i": 23,
+   "start": 84.42,
+   "end": 85.52,
+   "speaker": "Teacher",
+   "text": "Lithini grade one?",
+   "en": "What does it say grade one?",
+   "agree": 0.824
+  },
+  {
+   "i": 24,
+   "start": 85.92,
+   "end": 88.42,
+   "speaker": "Learners",
+   "text": "Izithelo.",
+   "en": "Izithelo.",
+   "agree": 1.0
+  },
+  {
+   "i": 25,
+   "start": 89.49,
+   "end": 91.89,
+   "speaker": "Learners",
+   "text": "Izithelo.",
+   "en": "Izithelo.",
+   "agree": 1.0
+  },
+  {
+   "i": 26,
+   "start": 92.39,
+   "end": 95.19,
+   "speaker": "Teacher",
+   "text": "Okay, lithi izithelo. Igama lethu lesibili.",
+   "en": "Okay, it says izithelo. Our second word.",
+   "agree": 1.0
+  },
+  {
+   "i": 27,
+   "start": 95.99,
+   "end": 101.69,
+   "speaker": "Teacher",
+   "text": "Igama elithi umkhovu lichaza isilwane esithize esihlala ngaphansi kwamanzi grade one.",
+   "en": "The word umkhovu describes a certain creature that lives under the water grade one.",
+   "agree": 0.964
+  },
+  {
+   "i": 28,
+   "start": 102.89,
+   "end": 108.89,
+   "speaker": "Teacher",
+   "text": "Kunesisho-ke esithi ilanga malibalele kakhulu likhipha umkhovu etsheni.",
+   "en": "There is an idiom that says when the sun is very hot it brings the umkhovu out of the stone.",
+   "agree": 0.957
+  },
+  {
+   "i": 29,
+   "start": 109.29,
+   "end": 112.19,
+   "speaker": "Teacher",
+   "text": "Nangoku umkhovu usuyophuma lapha etsheni ngoba ilanga liyashisa. Siyezwa na?",
+   "en": "Even now the umkhovu will come out here from the stone because the sun is hot. Do we hear?",
+   "agree": 0.878
+  },
+  {
+   "i": 30,
+   "start": 112.59,
+   "end": 112.99,
+   "speaker": "Learners",
+   "text": "Yebo.",
+   "en": "Yes.",
+   "agree": 1.0
+  },
+  {
+   "i": 31,
+   "start": 113.39,
+   "end": 116.09,
+   "speaker": "Teacher",
+   "text": "Ake size kuleli lethu eliwu-number two, izithelo.",
+   "en": "Let us come to this one of ours which is number two, izithelo.",
+   "agree": 0.915
+  },
+  {
+   "i": 32,
+   "start": 116.59,
+   "end": 118.45,
+   "speaker": "Teacher",
+   "text": "Ama-fruit akhiwa esihlahleni abese eyadliwa. Yilona-ke le gama elithi",
+   "en": "Fruit that is picked from a tree and then eaten. It is this word that says",
+   "agree": 0.382
+  },
+  {
+   "i": 33,
+   "start": 118.45,
+   "end": 121.25,
+   "speaker": "Teacher",
+   "text": "abeseyadliwa. Yilona ke leli gama lithini?",
+   "en": "and then eaten. What is this word then?",
+   "agree": 0.0
+  },
+  {
+   "i": 34,
+   "start": 121.25,
+   "end": 122.25,
+   "speaker": "Learners",
+   "text": "Izithenjwa.",
+   "en": "Izithenjwa.",
+   "agree": 1.0
+  },
+  {
+   "i": 35,
+   "start": 122.45,
+   "end": 126.25,
+   "speaker": "Teacher",
+   "text": "So sizosebenza namhlanje ne-group eyodwa yethu ama-zebra.",
+   "en": "So we will work today with one group of ours, the zebras.",
+   "agree": 0.875
+  },
+  {
+   "i": 36,
+   "start": 126.55,
+   "end": 132.25,
+   "speaker": "Teacher",
+   "text": "Uma ngabe ke ama-zebra esezosukuma eze la ngaphambili, ngizocela ama-zebra awu-eight kuphela engizosebenza nawo.",
+   "en": "When the zebras are about to stand up and come here to the front, I will ask for only eight zebras that I will work with.",
+   "agree": 0.955
+  },
+  {
+   "i": 37,
+   "start": 132.75,
+   "end": 140.75,
+   "speaker": "Teacher",
+   "text": "Bayasukuma ke abawu-eight la ama-zebra awu-eight, azozela ngaphambili, azohlala, azo-forma i-circle ame kanje ahlale phansi. Right?",
+   "en": "The eight stand up here, the eight zebras, they will come to the front, they will sit, they will form a circle like this and sit down. Right?",
+   "agree": 0.873
+  },
+  {
+   "i": 38,
+   "start": 141.15,
+   "end": 142.75,
+   "speaker": "Teacher",
+   "text": "Bese kuthi ama-elephant.",
+   "en": "Then the elephants.",
+   "agree": 1.0
+  },
+  {
+   "i": 39,
+   "start": 143.25,
+   "end": 148.75,
+   "speaker": "Teacher",
+   "text": "Ama-elephant lawa ahleli la, awu-four, ngizonibhebhezela ihlobo ne-",
+   "en": "These elephants sitting here, four of them, I will fan you summer and-",
+   "agree": 0.375
+  },
+  {
+   "i": 40,
+   "start": 148.44,
+   "end": 151.44,
+   "speaker": "Teacher",
+   "text": "na, nzongidwebela uhlobo lezithelo ozithandayo.",
+   "en": "and, you will draw for me the type of fruits that you like.",
+   "agree": 0.467
+  },
+  {
+   "i": 41,
+   "start": 151.84,
+   "end": 153.94,
+   "speaker": "Teacher",
+   "text": "Nazi la ehlathini. Nanti ishadi lethu.",
+   "en": "Here they are in the forest. Here is our chart.",
+   "agree": 0.889
+  },
+  {
+   "i": 42,
+   "start": 154.24,
+   "end": 161.64,
+   "speaker": "Teacher",
+   "text": "Phezulu uzoqala ubhale igama lakho, bese uyangidwebela izithelo ozithandayo kulelo kulelo phepha lelo eliphambi kwakho. Ama-elephant lawo. Sizwana?",
+   "en": "At the top you will start by writing your name, then you draw for me the fruits that you like on that on that paper that is in front of you. Those are elephants. Do we hear each other?",
+   "agree": 0.93
+  },
+  {
+   "i": 43,
+   "start": 162.24,
+   "end": 162.74,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 44,
+   "start": 162.74,
+   "end": 169.54,
+   "speaker": "Teacher",
+   "text": "Ake sikhumbuzane-ke bangani bami ukuthi sithe kunje isihloko sethu sitheni? Sithe umphako wendlela.",
+   "en": "Let us remind each other then my friends that we said what is our title? We said food for the journey.",
+   "agree": 0.969
+  },
+  {
+   "i": 45,
+   "start": 169.94,
+   "end": 171.44,
+   "speaker": "Teacher",
+   "text": "Umphako wendlela.",
+   "en": "Food for the journey.",
+   "agree": 1.0
+  },
+  {
+   "i": 46,
+   "start": 171.84,
+   "end": 173.34,
+   "speaker": "Teacher",
+   "text": "Qala-ke siphethe isihloko ufunde.",
+   "en": "Start then holding the title and read.",
+   "agree": 0.688
+  },
+  {
+   "i": 47,
+   "start": 173.94,
+   "end": 177.46,
+   "speaker": "Learners",
+   "text": "IsiZulu nabalingani.",
+   "en": "IsiZulu and peers.",
+   "agree": 0.421
+  },
+  {
+   "i": 48,
+   "start": 177.46,
+   "end": 183.06,
+   "speaker": "Learner",
+   "text": "lali balele likhipha umkhovu etsheni.",
+   "en": "it was hot, bringing out the goblin from the stone.",
+   "agree": 0.889
+  },
+  {
+   "i": 49,
+   "start": 183.26,
+   "end": 185.06,
+   "speaker": "Teacher",
+   "text": "Okay, sifunde lolandelayo.",
+   "en": "Okay, let's read the next one.",
+   "agree": 0.917
+  },
+  {
+   "i": 50,
+   "start": 185.66,
+   "end": 193.06,
+   "speaker": "Learner",
+   "text": "Sahamba nabangani bami saya o-Old Mutual Gardens.",
+   "en": "We went with my friends and went to Old Mutual Gardens.",
+   "agree": 0.646
+  },
+  {
+   "i": 51,
+   "start": 193.26,
+   "end": 196.26,
+   "speaker": "Teacher",
+   "text": "Sithe mangabe likhipha umkhovu etsheni lisuke linjani?",
+   "en": "We said when it brings out the goblin from the stone, how is it?",
+   "agree": 1.0
+  },
+  {
+   "i": 52,
+   "start": 196.56,
+   "end": 197.66,
+   "speaker": "Learners",
+   "text": "Lishisa.",
+   "en": "It is hot.",
+   "agree": 1.0
+  },
+  {
+   "i": 53,
+   "start": 197.86,
+   "end": 200.06,
+   "speaker": "Teacher",
+   "text": "Uthi lisuke linjani? Lishisa.",
+   "en": "You say how is it? It is hot.",
+   "agree": 1.0
+  },
+  {
+   "i": 54,
+   "start": 200.56,
+   "end": 202.26,
+   "speaker": "Teacher",
+   "text": "Okay, kukhona umbuzo?",
+   "en": "Okay, is there a question?",
+   "agree": 0.526
+  },
+  {
+   "i": 55,
+   "start": 208.33,
+   "end": 210.13,
+   "speaker": "Teacher",
+   "text": "Okay, kukhona umbuzo futhi enginawo.",
+   "en": "Okay, there is another question that I have.",
+   "agree": 0.353
+  },
+  {
+   "i": 56,
+   "start": 210.63,
+   "end": 213.53,
+   "speaker": "Teacher",
+   "text": "Okay, omunye umbuzo enginawo, babehamba. Babehamba nobani?",
+   "en": "Okay, another question that I have, they were traveling. Who were they traveling with?",
+   "agree": 1.0
+  },
+  {
+   "i": 57,
+   "start": 213.83,
+   "end": 214.63,
+   "speaker": "Learners",
+   "text": "Nabangan' babo.",
+   "en": "With their friends.",
+   "agree": 0.923
+  },
+  {
+   "i": 58,
+   "start": 214.83,
+   "end": 215.23,
+   "speaker": "Teacher",
+   "text": "Sonke?",
+   "en": "All of us?",
+   "agree": 1.0
+  },
+  {
+   "i": 59,
+   "start": 215.43,
+   "end": 216.53,
+   "speaker": "Learners",
+   "text": "Nabangan' babo.",
+   "en": "With their friends.",
+   "agree": 0.923
+  },
+  {
+   "i": 60,
+   "start": 216.63,
+   "end": 218.23,
+   "speaker": "Teacher",
+   "text": "Babehamba nabangan' babo. Okay.",
+   "en": "They were traveling with their friends. Okay.",
+   "agree": 0.964
+  },
+  {
+   "i": 61,
+   "start": 218.53,
+   "end": 227.13,
+   "speaker": "Learner",
+   "text": "Babevela ehlane lazipha lathi finga qeda saqhubeka nohambo lwethu.",
+   "en": "They were coming from the wilderness, it gave us, it said fold, finish, we continued with our journey.",
+   "agree": 0.723
+  },
+  {
+   "i": 62,
+   "start": 227.83,
+   "end": 231.83,
+   "speaker": "Teacher",
+   "text": "Ngiyabonga kakhulu-ke ngane zami, nifunde kahle nonke, niyezwa?",
+   "en": "Thank you very much then my children, you all read well, do you hear?",
+   "agree": 0.983
+  },
+  {
+   "i": 63,
+   "start": 232.03,
+   "end": 232.33,
+   "speaker": "Learners",
+   "text": "Yebo.",
+   "en": "Yes.",
+   "agree": 0.0
+  }
+ ],
+ "score": {
+  "value": 0.86,
+  "label": "engine agreement (proxy)",
+  "display": "86.0% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 86.0% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
+ },
+ "agreement": {
+  "value": 0.86,
+  "label": "engine agreement (proxy)",
+  "display": "86.0% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 86.0% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

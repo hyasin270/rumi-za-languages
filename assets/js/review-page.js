@@ -32,26 +32,94 @@
   // how-to steps (numbered) and the score-label legend
   const steps = RZ.raw("review.howto.steps");
   $("how-steps").innerHTML = Array.isArray(steps) ? steps.map((x) => `<li>${RZ.inline(x)}</li>`).join("") : `<li>${RZ.placeholder("review.howto.steps")}</li>`;
-  $("labels-list").innerHTML = ["measured", "proxy", "pending"].map((k) => `<li>${H("review.scores." + k)}</li>`).join("");
+  $("labels-list").innerHTML = ["measured", "proxy", "ai_judged", "pending", "read_sentence"].filter((k) => has("review.scores." + k)).map((k) => `<li>${H("review.scores." + k)}</li>`).join("");
 
   const [index] = await Promise.all([RZ.load("data/review/index.json"), FB.init()]);
   const RECS = ((index && index.recordings) || []).filter((r) => r && r.id && r.lang);
   const byId = Object.fromEntries(RECS.map((r) => [r.id, r]));
   const langsPresent = ORDER.filter((l) => RECS.some((r) => r.lang === l)).concat([...new Set(RECS.map((r) => r.lang))].filter((l) => !ORDER.includes(l)));
 
-  /* ---------- scores: the chip text says what the number is ---------- */
+  /* ---------- scores: the chip text says what the number is ----------
+   * Proxy = two engines compared (engine agreement); AI-judged = a model scored it (the meaning check); measured = against a
+   * same-language reference. The chip carries that word, and its one-line meaning (review.labels.<kind>_meaning). */
+  function kindOf(label) {
+    const k = String(label || "").toLowerCase();
+    if (k.includes("ai-judged")) return "ai";
+    if (k.includes("engine agreement") || k.includes("proxy")) return "proxy";
+    if (k.includes("measured")) return "measured";
+    if (k.includes("pending") || k.includes("not run")) return "pending";
+    return RZ.labelOf(label)[1] || "";
+  }
+  const LABEL_KEY = { proxy: "proxy", ai: "ai_judged", measured: "measured", pending: "pending" };
+  const chipWord = (cls) => (LABEL_KEY[cls] ? T("review.labels." + LABEL_KEY[cls]) : "");
+  const chipMeaning = (cls) => (LABEL_KEY[cls] && has("review.labels." + LABEL_KEY[cls] + "_meaning") ? RZ.t("review.labels." + LABEL_KEY[cls] + "_meaning") : "");
+  // the chip already names the label, so a display's trailing "(proxy)" / "(measured)" / "(AI-judged)" is dropped
+  const bareDisplay = (d) => String(d).replace(/\s*\(([^()]*(?:\([^()]*\))?[^()]*)\)\s*$/, (m, x) => (/proxy|measured|ai-judged|automated/i.test(x) ? "" : m));
   function scoreChip(sc) {
-    if (!sc) return `<span class="chip pending"><span class="v">${RZ.esc(T("review.scores.no_score"))}</span></span>`;
-    const s = RZ.score(sc), [lab, cls] = RZ.labelOf(s.label), n = Number(s.value);
-    const l = cls === "ai" ? T("review.scores.chip_proxy") : cls === "measured" ? T("review.scores.chip_measured") : cls === "pending" ? T("review.scores.chip_pending") : lab;
+    const none = `<span class="chip pending"><span class="v">${RZ.esc(T("review.scores.no_score"))}</span></span>`;
+    if (!sc) return none;
+    const s = RZ.score(sc), cls = kindOf(s.label), n = Number(s.value);
     let txt;
-    if (s.display) txt = String(s.display);
-    else if (s.value === null || s.value === undefined || Number.isNaN(n)) return `<span class="chip pending"><span class="v">${RZ.esc(T("review.scores.no_score"))}</span></span>`;
+    if (s.display) txt = bareDisplay(s.display);
+    else if (s.value === null || s.value === undefined || Number.isNaN(n)) return none;
     // a proxy value is engine AGREEMENT (1 − CER): show the disagreement, rounded up; a measured value is a CER
-    else if (cls === "ai" && n <= 1) txt = T("review.scores.agreement_label", { pct: pctUp(1 - n) });
+    else if (cls === "proxy" && n <= 1) txt = T("review.scores.agreement_label", { pct: pctUp(1 - n) });
     else if (n <= 1) txt = T("review.scores.cer_label", { pct: pctUp(n) });
     else txt = RZ.trunc(n, 1) + "/10";
-    return `<span class="chip ${cls}"><span class="v rv-v">${RZ.esc(txt)}</span>${l ? `<span class="l">${RZ.esc(l)}</span>` : ""}</span>`;
+    const word = chipWord(cls), mean = chipMeaning(cls);
+    return `<span class="chip ${cls}"${mean ? ` title="${RZ.esc(mean)}"` : ""}><span class="v rv-v">${RZ.esc(txt)}</span>${word ? `<span class="l">${RZ.esc(word)}</span>` : ""}</span>`;
+  }
+  /** A score's own line without STT3's trailing silence sentence (the page prints ED3's words for it once, below). */
+  const SILENCE_RE = /\s*\d+ lines? the engine heard in silence (?:were|was) removed\.?/gi;
+  const silenceLine = (n) => (n > 0 ? T(n === 1 ? "review.scores.removed_in_silence_one" : "review.scores.removed_in_silence", { n }) : "");
+
+  /* ---------- names: a word typed against [learner] / [teacher] / [school] shows as that placeholder ----------
+   * The same word-by-word alignment the feedback service applies before it returns a row; used here for the reviewer's own
+   * copy shown straight after Save, so a child's name never appears on the page even for a moment. */
+  const PH_RE = /\[(?:learner|teacher|school)\]/i;
+  const bare = (w) => w.toLowerCase().replace(/^[^\p{L}\p{N}\[]+|[^\p{L}\p{N}\]]+$/gu, "");
+  function maskNames(turnText, text) {
+    const a = String(turnText || "").split(/\s+/).filter(Boolean), b = String(text || "").split(/\s+/).filter(Boolean);
+    if (!b.length || !a.some((w) => PH_RE.test(w))) return { text: String(text || ""), names: [] };
+    const n = a.length, m = b.length, D = Array.from({ length: n + 1 }, (_, i) => Array.from({ length: m + 1 }, (_, j) => (i ? (j ? 0 : i) : j)));
+    const sub = (i, j) => (PH_RE.test(a[i]) || bare(a[i]) === bare(b[j]) ? 0 : 1);
+    for (let i = 1; i <= n; i++) for (let j = 1; j <= m; j++) D[i][j] = Math.min(D[i - 1][j - 1] + sub(i - 1, j - 1), D[i - 1][j] + 1, D[i][j - 1] + 1);
+    const out = b.slice(), names = [], masked = new Set(), extra = new Set();
+    let i = n, j = m;
+    for (; i > 0 && j > 0;) {
+      if (D[i][j] === D[i - 1][j - 1] + sub(i - 1, j - 1)) {
+        const ph = a[i - 1].match(PH_RE);
+        if (ph && !PH_RE.test(b[j - 1])) {
+          const w = b[j - 1], core = w.replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, "");
+          if (core) { names.push(core); out[j - 1] = w.replace(core, ph[0]); masked.add(j - 1); }
+        }
+        i--; j--;
+      } else if (D[i][j] === D[i - 1][j] + 1) i--;
+      else { extra.add(j - 1); j--; }
+    }
+    for (; j > 0; j--) extra.add(j - 1);
+    // a second capitalised word typed next to a masked one ("Nkawu Dlamini" against one [learner]) is part of the same name
+    let grew = true;
+    while (grew) {
+      grew = false;
+      for (const k of [...extra]) {
+        if ((masked.has(k - 1) || masked.has(k + 1)) && /^\p{Lu}/u.test(b[k].replace(/^[^\p{L}]+/u, ""))) {
+          names.push(b[k].replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, "")); out[k] = ""; masked.add(k); extra.delete(k); grew = true;
+        }
+      }
+    }
+    return { text: out.filter((w) => w !== "").join(" "), names };
+  }
+  function scrub(text, names) {
+    let t = String(text || "");
+    names.filter((x) => /^\p{Lu}/u.test(x)).forEach((x) => { t = t.replace(new RegExp("(^|[^\\p{L}])" + x.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "(?![\\p{L}])", "giu"), "$1[learner]"); });
+    return t;
+  }
+  /** The reviewer's own submission as the page may show it. */
+  function shownCopy(body) {
+    if (!body.turn_text) return body;
+    const c = maskNames(body.turn_text, body.correction);
+    return Object.assign({}, body, { correction: body.correction ? c.text : body.correction, note: body.note ? scrub(body.note, c.names) : body.note });
   }
 
   /* ---------- reviewer (name required, remembered on this device only) ---------- */
@@ -103,7 +171,7 @@
       setH(statusNode, res.state === "sent" ? okKey : "review.status.offline");
       statusNode.className = "rv-status " + (res.state === "sent" ? "ok" : "wait");
       // the service caches GET for a few seconds: show the reviewer's own words straight away
-      if (current === rec) addComment(Object.assign({}, body, { received_at: new Date().toISOString(), pending: res.state === "queued" }), true);
+      if (current === rec) addComment(Object.assign({}, shownCopy(body), { received_at: new Date().toISOString(), pending: res.state === "queued" }), true);
       return res.state;
     }
     statusNode.innerHTML = ""; statusNode.className = "rv-status err";
@@ -188,10 +256,19 @@
     $("list-heading").textContent = lang ? RZ.langName(lang) : T("review.switcher.all");
     if (!index) { $("list-notice").innerHTML = RZ.soon(""); return; }
     $("list-notice").innerHTML = list.length ? "" : `<p class="soon">${H("review.switcher.empty", { lang: RZ.langName(lang) })}</p>`;
+    // above one language's list: ED3's line for that language, why English is here, and what the score labels can and cannot say
+    const notes = $("list-notes"); notes.innerHTML = "";
+    if (lang && list.length) {
+      const p = (k) => (has(k) ? notes.append(el("p", { class: "rv-note", html: H(k) })) : null);
+      p("review.partner_notes." + lang);
+      p("review.switcher.note." + lang);
+      if (list.some((r) => r.source === "partner")) p("review.scores.partner_reference");
+      if (list.some((r) => r.kind === "read_speech")) p("review.scores.read_sentence");
+    }
     const groups = lang ? [[lang, list]] : langsPresent.map((l) => [l, list.filter((r) => r.lang === l)]);
     groups.forEach(([l, recs]) => {
       if (!recs.length) return;
-      if (!lang) host.append(el("h2", { class: "rv-group" }, RZ.langName(l)));
+      if (!lang) host.append(el("h2", { class: "rv-group" }, RZ.langName(l)), has("review.switcher.note." + l) ? el("p", { class: "rv-note", html: H("review.switcher.note." + l) }) : "");
       // partner recordings first, then public; shortest first inside each
       const sorted = recs.slice().sort((a, b) => (a.source === "public") - (b.source === "public") || (a.duration || 0) - (b.duration || 0));
       host.append(el("ul", { class: "rv-grid" }, sorted.map((r) => el("li", {}, card(r)))));
@@ -222,11 +299,12 @@
       const k = turnKey(tu, idx);
       const box = el("div", { class: "fb-turn" });
       const status = el("span", { class: "rv-status", role: "status" });
-      const corr = el("textarea", { rows: "2", maxlength: "2000", lang: rec.lang, id: `corr-${idx}`, placeholder: has("review.turn.correction_placeholder") ? RZ.t("review.turn.correction_placeholder") : "" });
+      const corr = el("textarea", { rows: "2", maxlength: "2000", lang: rec.lang, id: `corr-${idx}`, "aria-describedby": `corr-hint-${idx}`, placeholder: has("review.turn.correction_placeholder") ? RZ.t("review.turn.correction_placeholder") : "" });
       const note = el("input", { type: "text", maxlength: "2000", id: `note-${idx}`, placeholder: has("review.turn.note_placeholder") ? RZ.t("review.turn.note_placeholder") : "" });
       const send = el("button", { type: "submit", class: "btn small primary", html: H("review.turn.submit"), disabled: !FB.enabled });
       const form = el("form", { class: "fb-form", hidden: true, novalidate: true },
         el("label", { for: `corr-${idx}`, html: H("review.turn.correction_label") }), corr,
+        el("p", { class: "rv-hint", id: `corr-hint-${idx}`, html: H("review.correction_hint") }),
         el("label", { for: `note-${idx}`, html: H("review.turn.note_label") }), note,
         el("div", { class: "rv-actions" }, send));
       let verdict = null;
@@ -249,7 +327,8 @@
       const sharePanel = shareRow(rec, Object.assign({ idx }, tu));
       sharePanel.hidden = true;
       shareBtn.addEventListener("click", () => { sharePanel.hidden = !sharePanel.hidden; shareBtn.setAttribute("aria-expanded", String(!sharePanel.hidden)); });
-      box.append(el("div", { class: "fb-row" }, ...btns, shareBtn), status, form, sharePanel);
+      const split = tu.agree !== null && tu.agree !== undefined && Number(tu.agree) < 0.5 && has("review.turn.split_hint");
+      box.append(split ? el("p", { class: "rv-split", html: H("review.turn.split_hint") }) : "", el("div", { class: "fb-row" }, ...btns, shareBtn), status, form, sharePanel);
       return box;
     };
   }
@@ -344,7 +423,7 @@
       if (m.type === "youtube") data.video = { youtube_id: m.youtube_id, start: m.start || 0, end: m.end, title: rec.title, channel: rec.partner, url: `https://www.youtube.com/watch?v=${m.youtube_id}` };
       const credit = m.type === "youtube" ? undefined : [rec.title, rec.partner].filter(Boolean).join(" · ");
       player = new SyncPlayer($("player-host"), data, { key: rec.id, startAt: t, credit,
-        english: has("review.player.english_toggle") ? RZ.t("review.player.english_toggle") : undefined, turnExtra: turns.length ? turnFeedback(rec, stt && (stt.version != null ? stt.version : stt.turns_version != null ? stt.turns_version : undefined)) : null });
+        english: has("review.player.english_toggle") ? RZ.t("review.player.english_toggle") : undefined, turnExtra: turns.length ? turnFeedback(rec, stt && (stt.turns_version != null ? stt.turns_version : stt.version != null ? stt.version : undefined)) : null });
       SyncPlayer.byLang[rec.lang] = player;   // the coaching report's timestamps play this recording
       $("player-host").querySelector(".sync").classList.add("rv-sync");
       if (!turns.length) $("player-host").append(el("p", { class: "soon rv-soon", html: H("review.player.no_transcript") }));
@@ -352,10 +431,17 @@
     }
     // this recording's numbers: agreement is a proxy; a measured CER appears only where a verbatim same-language reference exists
     const sc = $("rec-scores"), parts = [];
-    const line = (s) => `<div class="score-line">${scoreChip(s)} ${RZ.score(s).line ? `<span class="note">${RZ.esc(RZ.score(s).line)}</span>` : ""}</div>`;
+    const line = (s) => {
+      const x = RZ.score(s), cls = kindOf(x.label), mean = chipMeaning(cls);
+      const txt = String(x.line || "").replace(SILENCE_RE, "").trim();
+      return `<div class="score-line">${scoreChip(s)} <span class="note">${mean ? `<span class="rv-mean">${RZ.esc(mean)}</span> ` : ""}${RZ.esc(txt)}</span></div>`;
+    };
     const main = (stt && stt.score) || rec.score;
     if (main) parts.push(line(main));
     if (stt && stt.agreement && JSON.stringify(stt.agreement) !== JSON.stringify(main)) parts.push(line(stt.agreement));
+    if (stt && stt.meaning) parts.push(line(stt.meaning));
+    const silent = Math.max(0, ...[main, stt && stt.agreement].map((x) => Number(x && x.removed_in_silence) || 0));
+    if (silent) parts.push(`<p class="note rv-silence">${RZ.esc(silenceLine(silent))}</p>`);
     if (stt && stt.reference && stt.reference.line) parts.push(`<p class="note">${RZ.esc(stt.reference.line)}</p>`);
     if (stt && (stt.sources || []).length) parts.push(`<p class="note">${RZ.esc(RZ.ui("sources_label", "Sources"))} ${RZ.cite(stt.sources)}</p>`);
     sc.innerHTML = parts.join("");
@@ -402,17 +488,26 @@
     document.title = baseTitle();
     renderTabs(); renderList(); loadCounts(); footnotes();
   }
+  /** A link to an id that is not (or no longer) in index.json: say so, and point at that language's list (the id starts with its code). */
+  const idLang = (id) => { const c = String(id).split("-")[0]; return langsPresent.includes(c) ? c : null; };
+  function notFound(id) {
+    const c = idLang(id);
+    const raw = has("review.player.not_found") ? RZ.raw("review.player.not_found") : null;
+    if (!raw) return H("review.player.no_transcript");
+    return RZ.inline(c ? String(raw).replace(/\(review\.html\)/g, "(review.html?lang=" + c + ")") : String(raw));
+  }
   function route(fromLink) {
     const q = new URLSearchParams(location.search);
     const r = q.get("r"), l = q.get("lang");
     lang = l && langsPresent.includes(l) ? l : null;
+    if (r && !byId[r] && !lang) lang = idLang(r);
     if (r && byId[r]) {
       const turn = q.get("turn");
       return openRec(r, { t: parseT(q.get("t")), turn: turn !== null && /^\d+$/.test(turn) ? Number(turn) : null, fromLink });
     }
     showList();
     if (l && !lang && index) $("list-notice").innerHTML = `<p class="soon">${H("review.switcher.empty", { lang: RZ.langName(l) })}</p>`;
-    if (r) $("list-notice").innerHTML = index ? `<p class="soon" role="alert">${H("review.player.no_transcript")}</p>` : RZ.soon("");
+    if (r) $("list-notice").innerHTML = index ? `<p class="soon" role="alert">${notFound(r)}</p>` : RZ.soon("");
   }
   function go(p) {
     const q = new URLSearchParams();

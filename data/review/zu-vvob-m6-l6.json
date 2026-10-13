@@ -2,8 +2,8 @@
  "id": "zu-vvob-m6-l6",
  "lang": "zu",
  "engine": "Gemini 2.5 Pro",
- "version": 1,
- "turns_version": 1,
+ "version": 3,
+ "turns_version": 3,
  "turns": [
   {
    "i": 0,
@@ -173,7 +173,7 @@
    "end": 87.19,
    "speaker": "Teacher",
    "text": "Uthi uzwa umsindo ng.",
-   "en": "She says she hears the sound ng.",
+   "en": "They say they hear the sound ng.",
    "agree": 0.95
   },
   {
@@ -182,7 +182,7 @@
    "end": 88.69,
    "speaker": "Teacher",
    "text": "Uthi uzwa umsindo bani?",
-   "en": "She says she hears what sound?",
+   "en": "They say they hear which sound?",
    "agree": 0.955
   },
   {
@@ -209,7 +209,7 @@
    "end": 103.82,
    "speaker": "Teacher",
    "text": "Uthi uzwe igama elithini? Ilungelo.",
-   "en": "She says she heard what word? Ilungelo.",
+   "en": "They say they heard what word? Ilungelo.",
    "agree": 1.0
   },
   {
@@ -236,7 +236,7 @@
    "end": 114.82,
    "speaker": "Teacher",
    "text": "Njengamanje bangani, sonke sithathe igama elithi ilungelo. Ngifuna silishayele izandla, sithole ukuthi lakhiwe ngamalunga amangaki.",
-   "en": "Right now friends, let's all take the word ilungelo. I want us to clap for it, to find out how many syllables it is made of.",
+   "en": "Right now friends, let us all take the word ilungelo. I want us to clap for it, to find out how many syllables it is made of.",
    "agree": 0.992
   },
   {
@@ -263,7 +263,7 @@
    "end": 123.96,
    "speaker": "Teacher",
    "text": "sonke ke ilungelo. I-lu-nge-lo.",
-   "en": "everyone then ilungelo. I-lu-nge-lo.",
+   "en": "Everyone then, ilungelo. I-lu-nge-lo.",
    "agree": 0.31
   },
   {
@@ -308,7 +308,7 @@
    "end": 133.46,
    "speaker": "Teacher",
    "text": "Uthi mane, uqinisile yini?",
-   "en": "He says four, is he correct?",
+   "en": "They say four, is they correct?",
    "agree": 1.0
   },
   {
@@ -371,7 +371,7 @@
    "end": 158.03,
    "speaker": "Teacher",
    "text": "sike ebhokisini lami, uyacimeza, uthatha into noma yini azoyifica la phakathi uyayithatha, uyayiphakamisa, uyasitshela ukuthi uthole ini ebhokisini likamisi, angithi?",
-   "en": "come to my box, they close their eyes, they take anything they find inside here, they take it, they lift it up, they tell us what they found in miss's box, right?",
+   "en": "When they get to my box, they close their eyes, take whatever they find inside, take it, lift it up, and tell us what they found in miss's box, right?",
    "agree": 0.981
   },
   {
@@ -389,7 +389,7 @@
    "end": 165.03,
    "speaker": "Teacher",
    "text": "ufake isandla, uyathatha, uyaphakamisa.",
-   "en": "put your hand in, take, lift up.",
+   "en": "put your hand in, take, lift it up.",
    "agree": 0.972
   },
   {
@@ -470,7 +470,7 @@
    "end": 188.95,
    "speaker": "Teacher",
    "text": "Mangaki amalunga asifuni?",
-   "en": "How many syllables do we want?",
+   "en": "How many syllables, we don't want?",
    "agree": 1.0
   },
   {
@@ -488,7 +488,7 @@
    "end": 191.45,
    "speaker": "Teacher",
    "text": "Yebo, mathathu mngani.",
-   "en": "Yes, three friend.",
+   "en": "Yes, three, friend.",
    "agree": 1.0
   },
   {
@@ -614,7 +614,7 @@
    "end": 222.06,
    "speaker": "Teacher",
    "text": "Bese kuba namuphi futhi sim'khethele?",
-   "en": "Then which one again should we choose for it?",
+   "en": "Then which one again should we choose for them?",
    "agree": 0.972
   },
   {
@@ -695,7 +695,7 @@
    "end": 251.31,
    "speaker": "Learners",
    "text": "Ingulube.",
-   "en": "Pig.",
+   "en": "Ingulube.",
    "agree": 1.0
   },
   {
@@ -713,7 +713,7 @@
    "end": 253.81,
    "speaker": "Learners",
    "text": "Ingulube.",
-   "en": "Pig.",
+   "en": "Ingulube.",
    "agree": 1.0
   },
   {
@@ -722,7 +722,7 @@
    "end": 256.81,
    "speaker": "Teacher",
    "text": "Okay, walibeka u-miss igama elithi ingulube.",
-   "en": "Okay, miss placed the word pig.",
+   "en": "Okay, miss placed the word ingulube.",
    "agree": 0.024
   },
   {
@@ -740,7 +740,7 @@
    "end": 259.81,
    "speaker": "Teacher",
    "text": "Uphatheleni u-miss?",
-   "en": "What is miss holding?",
+   "en": "What has miss brought?",
    "agree": 0.444
   },
   {
@@ -749,7 +749,7 @@
    "end": 261.81,
    "speaker": "Learners",
    "text": "Ingulube.",
-   "en": "Pig.",
+   "en": "Ingulube.",
    "agree": 0.0
   },
   {
@@ -767,7 +767,7 @@
    "end": 265.31,
    "speaker": "Learners",
    "text": "Ingulube.",
-   "en": "Pig.",
+   "en": "Ingulube.",
    "agree": 1.0
   },
   {
@@ -821,7 +821,7 @@
    "end": 285.03,
    "speaker": "Teacher",
    "text": "Ngifuna ungakhele igama elithi ngena. Uzongakhela igama elithini?",
-   "en": "I want you to build the word ngena. Which word will you build for me?",
+   "en": "I want you to build the word ngena. You will build what word for me?",
    "agree": 1.0
   },
   {
@@ -974,7 +974,7 @@
    "end": 352.11,
    "speaker": "Learner",
    "text": "ki ze ju yi di wa e o me chi a h he i m u le ke m re ti wu si u wa po q p tsi shi bo c m",
-   "en": "ki ze ju yi di wa e o me chi a h he i m u le ke m re ti wu si u wa po q p tsi shi bo c m",
+   "en": "ki ze ju yi di wa e o me chi a h they i m u le ke m re ti wu si u wa po q p tsi shi bo c m",
    "agree": 0.682
   },
   {
@@ -988,16 +988,18 @@
   }
  ],
  "score": {
-  "value": 0.883,
+  "value": 0.917,
   "label": "engine agreement (proxy)",
-  "display": "88.3% engine agreement (proxy)",
-  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 88.3% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+  "display": "91.7% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 91.7% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 6 lines the engine heard in silence were removed.",
+  "removed_in_silence": 6
  },
  "agreement": {
-  "value": 0.883,
+  "value": 0.917,
   "label": "engine agreement (proxy)",
-  "display": "88.3% engine agreement (proxy)",
-  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 88.3% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+  "display": "91.7% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 91.7% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 6 lines the engine heard in silence were removed.",
+  "removed_in_silence": 6
  },
  "reference": {
   "kind": "none",

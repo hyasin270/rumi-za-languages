@@ -2,17 +2,26 @@
  "id": "af-fleurs-1",
  "lang": "af",
  "engine": "Soniox v5",
- "version": 1,
- "turns_version": 1,
+ "version": 2,
+ "turns_version": 2,
  "turns": [
   {
    "i": 0,
    "start": 0.0,
+   "end": 10.5,
+   "speaker": "Speaker 1",
+   "text": "Maar die verbruikersmark raak in skootrekenaars sal radikaal verskil, en verander wees na ACES die",
+   "en": "But the consumer market regarding laptops will differ radically, and be changed after ACES received the 2007 Taiwan sustainable award from the Chief Executive, Wan, of the Republic of China.",
+   "agree": null
+  },
+  {
+   "i": 1,
+   "start": 10.5,
    "end": 21.96,
    "speaker": "Speaker 1",
-   "text": "Maar die verbruikersmark raak in skootrekenaars sal radikaal verskil, en verander wees na ACES die 2007 Taiwan-onderhoubare toekenning ontvang het van die Uitvoerende Hoof, Wan, van die Republiek van China.",
-   "en": "But the consumer market regarding laptops will differ radically, and be changed after ACES received the 2007 Taiwan sustainable award from the Chief Executive, Wan, of the Republic of China.",
-   "agree": 0.866
+   "text": "2007 Taiwan-onderhoubare toekenning ontvang het van die Uitvoerende Hoof, Wan, van die Republiek van China.",
+   "en": "(continued)",
+   "agree": null
   }
  ],
  "score": {

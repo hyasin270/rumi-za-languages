@@ -1,0 +1,359 @@
+{
+ "id": "zu-vvob-m11-l5",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 21.0,
+   "end": 24.8,
+   "speaker": "Trainer",
+   "text": "Manje-ke, ngaphambi kokuba siqale ukufunda ngokuzimela,",
+   "en": "Now then, before we start reading independently,",
+   "agree": null
+  },
+  {
+   "i": 1,
+   "start": 25.5,
+   "end": 28.5,
+   "speaker": "Trainer",
+   "text": "kumele siqale ngokufunda ngokubambisana.",
+   "en": "we must start by reading together.",
+   "agree": null
+  },
+  {
+   "i": 2,
+   "start": 29.3,
+   "end": 31.8,
+   "speaker": "Trainer",
+   "text": "Lokhu sikwenza ngokufunda ngababili.",
+   "en": "This we do by reading in pairs.",
+   "agree": null
+  },
+  {
+   "i": 3,
+   "start": 31.67,
+   "end": 34.07,
+   "speaker": "Teacher",
+   "text": "Ngizocela abathathu manje abazozala lana.",
+   "en": "I will ask for three now who will come here.",
+   "agree": null
+  },
+  {
+   "i": 4,
+   "start": 34.77,
+   "end": 38.57,
+   "speaker": "Teacher",
+   "text": "Oyedwa uzobe efunda ngokuzimela, uzosifundela kuwini? Kwiphephandaba lakhe.",
+   "en": "One will be reading independently, they will read for us from what? From their newspaper.",
+   "agree": null
+  },
+  {
+   "i": 5,
+   "start": 39.27,
+   "end": 41.87,
+   "speaker": "Teacher",
+   "text": "Bese kubekhona abawu-two abazofunda ngokushintshana.",
+   "en": "Then there will be two who will read by taking turns.",
+   "agree": null
+  },
+  {
+   "i": 6,
+   "start": 42.17,
+   "end": 44.67,
+   "speaker": "Teacher",
+   "text": "Kuzofunda omunye, omunye futhi abuye afunde.",
+   "en": "One will read, and then the other will read again.",
+   "agree": null
+  },
+  {
+   "i": 7,
+   "start": 45.27,
+   "end": 49.97,
+   "speaker": "Teacher",
+   "text": "Ngizoqala ngizoqala ngokuthi ngicele oyedwa-ke ozofunda iphephandaba lakhe.",
+   "en": "I will start, I will start by asking for one then who will read their newspaper.",
+   "agree": null
+  },
+  {
+   "i": 8,
+   "start": 50.77,
+   "end": 52.07,
+   "speaker": "Teacher",
+   "text": "Eh ozofunda ngokuzimela.",
+   "en": "Eh, who will read independently.",
+   "agree": null
+  },
+  {
+   "i": 9,
+   "start": 52.97,
+   "end": 54.37,
+   "speaker": "Teacher",
+   "text": "Eh woza [learner].",
+   "en": "Eh, come [learner].",
+   "agree": null
+  },
+  {
+   "i": 10,
+   "start": 62.19,
+   "end": 64.39,
+   "speaker": "Teacher",
+   "text": "Uzohamba uyothatha iphephandaba ozolifunda.",
+   "en": "You will go and take the newspaper that you will read.",
+   "agree": null
+  },
+  {
+   "i": 11,
+   "start": 64.99,
+   "end": 68.69,
+   "speaker": "Teacher",
+   "text": "Uzothatha iphephandaba lakho laphaya etafuleni ozolifunda, bese uyohamba uyohlala lapha phansi.",
+   "en": "You will take your newspaper over there on the table that you will read, and then you will go and sit down here.",
+   "agree": null
+  },
+  {
+   "i": 12,
+   "start": 69.09,
+   "end": 70.69,
+   "speaker": "Teacher",
+   "text": "Hamba ke uyothatha lapha iphephandaba.",
+   "en": "Go then and take the newspaper here.",
+   "agree": null
+  },
+  {
+   "i": 13,
+   "start": 73.09,
+   "end": 75.59,
+   "speaker": "Teacher",
+   "text": "Uzohlala laphayana kuleya-cushion. Hlala lapho ke phansi.",
+   "en": "You will sit over there on that cushion. Sit down there then.",
+   "agree": null
+  },
+  {
+   "i": 14,
+   "start": 76.29,
+   "end": 78.09,
+   "speaker": "Teacher",
+   "text": "Bese ngizocela abanye abawu-two.",
+   "en": "Then I will ask for another two.",
+   "agree": null
+  },
+  {
+   "i": 15,
+   "start": 78.39,
+   "end": 84.69,
+   "speaker": "Teacher",
+   "text": "Laba abeza abawu-two bazofunda nabo ngokushintshana. Kuzofunda omunye aqede ebese omunye eqala futhi azofunda.",
+   "en": "These two who are coming will also read by taking turns. One will read and finish and then the other will start again and read.",
+   "agree": null
+  },
+  {
+   "i": 16,
+   "start": 85.19,
+   "end": 86.49,
+   "speaker": "Teacher",
+   "text": "Eh, [learner].",
+   "en": "Eh, [learner].",
+   "agree": null
+  },
+  {
+   "i": 17,
+   "start": 91.68,
+   "end": 95.48,
+   "speaker": "Teacher",
+   "text": "Eh, [learner]. Woza. [learner], uphi? Woza. Zifunde.",
+   "en": "Eh, [learner]. Come. [learner], where are you? Come. Read.",
+   "agree": null
+  },
+  {
+   "i": 18,
+   "start": 96.48,
+   "end": 101.38,
+   "speaker": "Teacher",
+   "text": "Uzohamba-ke nawe uye lapha etafuleni, uyothatha incwadi ozoyifunda, eh, ebhalwe u-awu, uMnumzane Nkawu.",
+   "en": "You will go too to the table, you will go and take the book you will read, eh, titled, oh, \"Mr Monkey\".",
+   "agree": null
+  },
+  {
+   "i": 19,
+   "start": 102.08,
+   "end": 105.68,
+   "speaker": "Teacher",
+   "text": "UMnumzane Nkawu. Uzohamba uyoyithatha lapha etafuleni, uzohamba uyoyifunda.",
+   "en": "\"Mr Monkey\" (the book). You will go and take it here on the table, you will go and read it.",
+   "agree": null
+  },
+  {
+   "i": 20,
+   "start": 106.68,
+   "end": 107.98,
+   "speaker": "Teacher",
+   "text": "UMnumzane Nkawu.",
+   "en": "\"Mr Monkey\" (the book).",
+   "agree": null
+  },
+  {
+   "i": 21,
+   "start": 108.88,
+   "end": 112.48,
+   "speaker": "Teacher",
+   "text": "Sizoqala-ke sifunde. Sizofunda kanye kanye-ke sonke.",
+   "en": "We will start then and read. We will read all together then, all of us.",
+   "agree": null
+  },
+  {
+   "i": 22,
+   "start": 113.08,
+   "end": 118.98,
+   "speaker": "Teacher",
+   "text": "Laba abahleli lapha phansi, umuntu uyaqhubeka nomsebenzi wakhe, uyezwa? [learner] sethu uzo-",
+   "en": "Those who are sitting down here, each person continues with their work, do you hear? Our [learner] will-",
+   "agree": null
+  },
+  {
+   "i": 23,
+   "start": 120.16,
+   "end": 124.96,
+   "speaker": "Teacher",
+   "text": "nomsebenzi wakhe, niyezwa? [learner] sethu, wena uzofunda ngokuzimela, uzofunda iphephandaba, ufunde ngokuzimela.",
+   "en": "with their work, do you hear? Our [learner], you will read independently, you will read the newspaper, read independently.",
+   "agree": null
+  },
+  {
+   "i": 24,
+   "start": 125.46,
+   "end": 130.96,
+   "speaker": "Teacher",
+   "text": "Bese kuthi laba abanye abawu-two, [learner] [learner], bazofunda ngababili bona. Nizofunda nobabili ke nina. Siyezwana?",
+   "en": "And then these other two, [learner] and [learner], they will read in pairs. You will both read then. Do we understand each other?",
+   "agree": null
+  },
+  {
+   "i": 25,
+   "start": 131.76,
+   "end": 133.96,
+   "speaker": "Teacher",
+   "text": "Qalani ke nifunde. Funda ke [learner] sethu.",
+   "en": "Start then and read. Read then, our [learner].",
+   "agree": null
+  },
+  {
+   "i": 26,
+   "start": 135.76,
+   "end": 145.96,
+   "speaker": "Learners",
+   "text": "Ukhishwe umkhankaso wezokuphepha eRanki yaMateki.",
+   "en": "A safety campaign has been launched at the Taxi Rank.",
+   "agree": null
+  },
+  {
+   "i": 27,
+   "start": 146.46,
+   "end": 146.96,
+   "speaker": "Learners",
+   "text": "Isi-",
+   "en": "Isi-",
+   "agree": null
+  },
+  {
+   "i": 28,
+   "start": 148.96,
+   "end": 150.48,
+   "speaker": "Learners",
+   "text": "Ukhuthazwa",
+   "en": "Encouraged",
+   "agree": null
+  },
+  {
+   "i": 29,
+   "start": 150.48,
+   "end": 160.58,
+   "speaker": "Learner",
+   "text": "de isisi. Ukuqinisekisa ukuthi ababili bafika emakhaya bephephile.",
+   "en": "de isisi. To ensure that both arrive home safe.",
+   "agree": null
+  },
+  {
+   "i": 30,
+   "start": 161.68,
+   "end": 172.58,
+   "speaker": "Learner",
+   "text": "Akugcini ukulandelwa kwemithetho yemigwaqo.",
+   "en": "It does not end with following the rules of the road.",
+   "agree": null
+  },
+  {
+   "i": 31,
+   "start": 173.78,
+   "end": 178.98,
+   "speaker": "Learner",
+   "text": "Ukuphela kepha",
+   "en": "Only ending but",
+   "agree": null
+  },
+  {
+   "i": 32,
+   "start": 180.51,
+   "end": 191.73,
+   "speaker": "Learner",
+   "text": "khetha, khetha abashayeli kumele baphinde baqinisekise ukuthi imizimba",
+   "en": "choose, choose drivers must also ensure that their bodies",
+   "agree": null
+  },
+  {
+   "i": 33,
+   "start": 191.73,
+   "end": 201.51,
+   "speaker": "Learner",
+   "text": "yabo ikwesimo esifanele khona bezokwazi ukusheshisa baphephe.",
+   "en": "are in the right condition so they will be able to speed up and be safe.",
+   "agree": null
+  },
+  {
+   "i": 34,
+   "start": 211.22,
+   "end": 227.22,
+   "speaker": "Learner",
+   "text": "khusheleke bakweme izimo ezingavimbelekile ezingadala izingozi.",
+   "en": "be protected and avoid unavoidable situations that can cause accidents.",
+   "agree": null
+  },
+  {
+   "i": 35,
+   "start": 227.72,
+   "end": 234.52,
+   "speaker": "Teacher",
+   "text": "Siyabonga, siyabonga kakhulu [learner]. Usifundele kahle. Siyabonga kakhulu. Asimshayele izandla [learner]. Ufunde kahle.",
+   "en": "Thank you, thank you very much [learner]. You read well for us. Thank you very much. Let's clap hands for [learner]. They read well.",
+   "agree": null
+  },
+  {
+   "i": 36,
+   "start": 234.82,
+   "end": 239.22,
+   "speaker": "Learners",
+   "text": "Halala [learner], halala.",
+   "en": "Hooray [learner], hooray.",
+   "agree": null
+  }
+ ],
+ "score": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides.",
+  "removed_in_silence": 0
+ },
+ "agreement": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides.",
+  "removed_in_silence": 0
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

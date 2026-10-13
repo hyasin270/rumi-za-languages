@@ -1,6 +1,39 @@
 {
  "recordings": [
   {
+   "id": "en-fw-plc-how",
+   "lang": "en",
+   "langs_spoken": [
+    {
+     "lang": "en",
+     "share": 1.0
+    }
+   ],
+   "title": "How do we do the PLC",
+   "title_en": "How a professional learning community meets",
+   "source": "partner",
+   "partner": "Funda Wande",
+   "kind": "training",
+   "duration": 455.28,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/en-fw-plc-how.mp4",
+    "poster": "assets/media/en-fw-plc-how.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": 0.789,
+    "label": "engine agreement (proxy)",
+    "display": "78.9% engine agreement (proxy)",
+    "line": "Two engines (OpenAI gpt-4o-transcribe and Soniox v5) agree on 78.9% of characters across this 8-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 1 lines the engine heard in silence were removed.",
+    "removed_in_silence": 1
+   },
+   "drive_file_id": "1S7BEmpF_vhfodGg80yfYIG6hjubl_hv6"
+  },
+  {
    "id": "en-fw-plc-start",
    "lang": "en",
    "langs_spoken": [
@@ -25,10 +58,11 @@
    },
    "has_coaching": false,
    "score": {
-    "value": 0.77,
+    "value": 0.774,
     "label": "engine agreement (proxy)",
-    "display": "77.0% engine agreement (proxy)",
-    "line": "Two engines (OpenAI gpt-4o-transcribe and Soniox v5) agree on 77.0% of characters across this 3-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+    "display": "77.4% engine agreement (proxy)",
+    "line": "Two engines (OpenAI gpt-4o-transcribe and Soniox v5) agree on 77.4% of characters across this 3-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 1 lines the engine heard in silence were removed.",
+    "removed_in_silence": 1
    },
    "drive_file_id": "15LSCpnPW17-OH7SVpl_CVO2luwxkj3Po"
   },
@@ -60,9 +94,80 @@
     "value": 0.843,
     "label": "engine agreement (proxy)",
     "display": "84.3% engine agreement (proxy)",
-    "line": "Two engines (Gemini 3.5 Flash and Gemini 2.5 Pro) agree on 84.3% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+    "line": "Two engines (Gemini 3.5 Flash and Gemini 2.5 Pro) agree on 84.3% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
    },
    "drive_file_id": "1wEpYT3OHD1RzM6UqjSGjHS7khRbWNDM5"
+  },
+  {
+   "id": "st-fw-teaching-reading",
+   "lang": "st",
+   "langs_spoken": [
+    {
+     "lang": "st",
+     "share": 0.98
+    },
+    {
+     "lang": "en",
+     "share": 0.02
+    }
+   ],
+   "title": "Teaching Reading Overview",
+   "title_en": "An overview of teaching reading",
+   "source": "partner",
+   "partner": "Funda Wande",
+   "kind": "training",
+   "duration": 680.56,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/st-fw-teaching-reading.mp4",
+    "poster": "assets/media/st-fw-teaching-reading.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": 0.867,
+    "label": "engine agreement (proxy)",
+    "display": "86.7% engine agreement (proxy)",
+    "line": "Two engines (Gemini 3.5 Flash and Gemini 2.5 Pro) agree on 86.7% of characters across this 12-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
+   },
+   "drive_file_id": "10PzVfxe2Qoo51HtcjIkPAkoisBVj2RLa"
+  },
+  {
+   "id": "xh-fw-big-ideas-reading",
+   "lang": "xh",
+   "langs_spoken": [
+    {
+     "lang": "xh",
+     "share": 1.0
+    }
+   ],
+   "title": "Big Ideas in Reading (2)",
+   "title_en": "Big ideas in reading, part 2",
+   "source": "partner",
+   "partner": "Funda Wande",
+   "kind": "training",
+   "duration": 625.64,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/xh-fw-big-ideas-reading.mp4",
+    "poster": "assets/media/xh-fw-big-ideas-reading.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": 0.836,
+    "label": "engine agreement (proxy)",
+    "display": "83.6% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 83.6% of characters across this 11-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 7 lines the engine heard in silence were removed.",
+    "removed_in_silence": 7
+   },
+   "drive_file_id": "1kPmqkVANt3jS2f1zFnFAy2xF5ynkIXI2"
   },
   {
    "id": "xh-fw-coaching-prep",
@@ -93,12 +198,50 @@
    },
    "has_coaching": false,
    "score": {
-    "value": 0.808,
+    "value": 0.796,
     "label": "engine agreement (proxy)",
-    "display": "80.8% engine agreement (proxy)",
-    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 80.8% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+    "display": "79.6% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 79.6% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 2 lines the engine heard in silence were removed.",
+    "removed_in_silence": 2
    },
    "drive_file_id": "1cI1EDtTU6s0SxbdZWUNwrjW9UeeNgBDY"
+  },
+  {
+   "id": "xh-fw-ggr-lesson",
+   "lang": "xh",
+   "langs_spoken": [
+    {
+     "lang": "xh",
+     "share": 0.9
+    },
+    {
+     "lang": "en",
+     "share": 0.1
+    }
+   ],
+   "title": "The GGR Lesson",
+   "title_en": "The Group Guided Reading lesson",
+   "source": "partner",
+   "partner": "Funda Wande",
+   "kind": "classroom",
+   "duration": 802.13,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/xh-fw-ggr-lesson.mp4",
+    "poster": "assets/media/xh-fw-ggr-lesson.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": 0.723,
+    "label": "engine agreement (proxy)",
+    "display": "72.3% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 72.3% of characters across this 14-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 6 lines the engine heard in silence were removed.",
+    "removed_in_silence": 6
+   },
+   "drive_file_id": "1nYB6NEOiNrMVMYq6y55F4Mx9NhU8PE20"
   },
   {
    "id": "xh-fw-what-is-orf",
@@ -117,7 +260,7 @@
    "title_en": "What is oral reading fluency, part 1",
    "source": "partner",
    "partner": "Funda Wande",
-   "kind": "training",
+   "kind": "classroom",
    "duration": 211.84,
    "media": {
     "type": "mp4",
@@ -132,7 +275,8 @@
     "value": 0.83,
     "label": "engine agreement (proxy)",
     "display": "83.0% engine agreement (proxy)",
-    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 83.0% of characters across this 4-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 83.0% of characters across this 4-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
    },
    "drive_file_id": "1mEN2vjYRcGILXMg4sysyJ2qkcbVrjI1c"
   },
@@ -168,9 +312,47 @@
     "value": 0.988,
     "label": "engine agreement (proxy)",
     "display": "98.8% engine agreement (proxy)",
-    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.8% of characters across this 1-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.8% of characters across this 1-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
    },
    "drive_file_id": "1u3qW3-50l4uUbUl8458RfR3cSP_Igg8Y"
+  },
+  {
+   "id": "zu-vvob-m10",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 0.98
+    },
+    {
+     "lang": "en",
+     "share": 0.02
+    }
+   ],
+   "title": "Module 10 · Ukufunda ngamaqembu okuholwa nguthisha",
+   "title_en": "Module 10 · Group guided reading",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "classroom",
+   "duration": 288.8,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m10.mp4",
+    "poster": "assets/media/zu-vvob-m10.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": 0.839,
+    "label": "engine agreement (proxy)",
+    "display": "83.9% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 83.9% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 2 lines the engine heard in silence were removed.",
+    "removed_in_silence": 2
+   },
+   "drive_file_id": "1_tOEOXF2u_4gtkwNlLrqVnO72eT2QNBo"
   },
   {
    "id": "zu-vvob-m10-intro",
@@ -197,11 +379,50 @@
    },
    "has_coaching": false,
    "score": {
-    "value": null,
+    "value": 0.979,
     "label": "engine agreement (proxy)",
-    "line": "A second engine was not run on this recording; a native ear decides."
+    "display": "97.9% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.9% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
    },
    "drive_file_id": "1S2l6mMw0CecEHbCxqCEWxE8yjJArkr6K"
+  },
+  {
+   "id": "zu-vvob-m10-l5",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 0.9
+    },
+    {
+     "lang": "en",
+     "share": 0.1
+    }
+   ],
+   "title": "Module 10 · Ukufunda ngamaqembu okuholwa nguthisha · Lesson 5",
+   "title_en": "Module 10 · Group guided reading · Lesson 5",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "classroom",
+   "duration": 244.44,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m10-l5.mp4",
+    "poster": "assets/media/zu-vvob-m10-l5.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": 0.86,
+    "label": "engine agreement (proxy)",
+    "display": "86.0% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 86.0% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
+   },
+   "drive_file_id": "1D8jnYylkixrVfOKwDkiIJzM_R4f99kAq"
   },
   {
    "id": "zu-vvob-m11-intro",
@@ -231,9 +452,42 @@
     "value": 0.911,
     "label": "engine agreement (proxy)",
     "display": "91.1% engine agreement (proxy)",
-    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 91.1% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 91.1% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
    },
    "drive_file_id": "10wXxEEqDlJVgjC8Re1QQH7YsEJrZtPRk"
+  },
+  {
+   "id": "zu-vvob-m11-l5",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 11 · Ukufunda ngababili nokufunda ngokuzimela · Lesson 5 · Ukufundisa ukufunda ngokuzimela",
+   "title_en": "Module 11 · Paired and independent reading · Lesson 5 · Teaching independent reading",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "classroom",
+   "duration": 243.88,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m11-l5.mp4",
+    "poster": "assets/media/zu-vvob-m11-l5.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": null,
+    "label": "engine agreement (proxy)",
+    "line": "A second engine was not run on this recording; a native ear decides.",
+    "removed_in_silence": 0
+   },
+   "drive_file_id": "1qDy-iy3yx4R4claebfl45XDSGoOxbUyk"
   },
   {
    "id": "zu-vvob-m12-intro",
@@ -260,9 +514,11 @@
    },
    "has_coaching": false,
    "score": {
-    "value": null,
+    "value": 0.979,
     "label": "engine agreement (proxy)",
-    "line": "A second engine was not run on this recording; a native ear decides."
+    "display": "97.9% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.9% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
    },
    "drive_file_id": "1b6yQoNCdqhDQCHCfI8yR8EqJDuHR7whl"
   },
@@ -294,9 +550,69 @@
     "value": 0.974,
     "label": "engine agreement (proxy)",
     "display": "97.4% engine agreement (proxy)",
-    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.4% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.4% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
    },
    "drive_file_id": "15wS1vySfHl8l7hGS044k6DWgiHD28Kbe"
+  },
+  {
+   "id": "zu-vvob-m13-l4",
+   "lang": "zu",
+   "langs_spoken": [],
+   "title": "Module 13 · Ukugqugquzela usiko lokufunda emabangeni aphansi · Lesson 4 · Indawo enothile ngemibhalo",
+   "title_en": "Module 13 · Building a reading culture · Lesson 4 · A print-rich classroom",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "training",
+   "duration": 249.33,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m13-l4.mp4",
+    "poster": "assets/media/zu-vvob-m13-l4.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": null,
+    "label": "engine agreement (proxy)",
+    "line": "A second engine was not run on this recording; a native ear decides.",
+    "removed_in_silence": 0
+   },
+   "drive_file_id": "1RPdyDvrG9l7OPXvWmwfrul0p6pFllBnr"
+  },
+  {
+   "id": "zu-vvob-m13-l5b",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 13 · Lesson 5 (B) · Ukufunda neqembu elisezingeni eliphansi",
+   "title_en": "Module 13 · Lesson 5, part B · Reading with a group at a lower level",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "classroom",
+   "duration": 296.16,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m13-l5b.mp4",
+    "poster": "assets/media/zu-vvob-m13-l5b.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": null,
+    "label": "engine agreement (proxy)",
+    "line": "A second engine was not run on this recording; a native ear decides. 3 lines the engine heard in silence were removed.",
+    "removed_in_silence": 3
+   },
+   "drive_file_id": "1--v5intcXT-SNbbiYrV0V37lU8knbTIq"
   },
   {
    "id": "zu-vvob-m2-intro",
@@ -323,9 +639,11 @@
    },
    "has_coaching": false,
    "score": {
-    "value": null,
+    "value": 0.962,
     "label": "engine agreement (proxy)",
-    "line": "A second engine was not run on this recording; a native ear decides."
+    "display": "96.2% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 96.2% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
    },
    "drive_file_id": "125E8Ejdm6DWb3HdYkUrnCuJqWFntnSs6"
   },
@@ -357,9 +675,112 @@
     "value": 0.984,
     "label": "engine agreement (proxy)",
     "display": "98.4% engine agreement (proxy)",
-    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.4% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.4% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
    },
    "drive_file_id": "1jhAnKbbjWZr4D32mTwk18aNX2fp0goc7"
+  },
+  {
+   "id": "zu-vvob-m3-l3b",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 3 · Ukufunda kokuqala ebangeni R · Lesson 3 (B)",
+   "title_en": "Module 3 · Emergent reading in Grade R · Lesson 3, part B",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "classroom",
+   "duration": 384.48,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m3-l3b.mp4",
+    "poster": "assets/media/zu-vvob-m3-l3b.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": null,
+    "label": "engine agreement (proxy)",
+    "line": "A second engine was not run on this recording; a native ear decides. 2 lines the engine heard in silence were removed.",
+    "removed_in_silence": 2
+   },
+   "drive_file_id": "10n1B_kow1cM4AtVL3xxuOpdPfuJVyt_S"
+  },
+  {
+   "id": "zu-vvob-m4-5",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 4 & 5 · Ulwazi lwemisindo · Imisindo",
+   "title_en": "Modules 4 and 5 · Phonological awareness · Phonics",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "classroom",
+   "duration": 327.85,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m4-5.mp4",
+    "poster": "assets/media/zu-vvob-m4-5.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": 0.91,
+    "label": "engine agreement (proxy)",
+    "display": "91.0% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 91.0% of characters across this 6-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 1 line the engine heard in silence was removed.",
+    "removed_in_silence": 1
+   },
+   "drive_file_id": "1eD1FmxrnazC45G4b4GIOnybLKxbj-JQg"
+  },
+  {
+   "id": "zu-vvob-m4-end",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 0.8
+    },
+    {
+     "lang": "en",
+     "share": 0.2
+    }
+   ],
+   "title": "Module 4 · Isiphetho · Ukufunda kokuqala ebangeni R",
+   "title_en": "Module 4 · Conclusion · Emergent reading in Grade R",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "classroom",
+   "duration": 397.92,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m4-end.mp4",
+    "poster": "assets/media/zu-vvob-m4-end.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": 0.84,
+    "label": "engine agreement (proxy)",
+    "display": "84.0% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 84.0% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 4 lines the engine heard in silence were removed.",
+    "removed_in_silence": 4
+   },
+   "drive_file_id": "1vIn1TBFO-DcnqgfmQyD9CRlFNhSzMHK1"
   },
   {
    "id": "zu-vvob-m4-intro",
@@ -390,9 +811,11 @@
    },
    "has_coaching": false,
    "score": {
-    "value": null,
+    "value": 0.986,
     "label": "engine agreement (proxy)",
-    "line": "A second engine was not run on this recording; a native ear decides."
+    "display": "98.6% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.6% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
    },
    "drive_file_id": "1mGoi0Ri4Zw6BtLSyoz9Ywy3WHJ9Yswei"
   },
@@ -420,8 +843,47 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.974,
+    "label": "engine agreement (proxy)",
+    "display": "97.4% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.4% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
+   },
    "drive_file_id": "1M5Am0FbfUeYu4QXfm8QXYWDbty8YuSQt"
+  },
+  {
+   "id": "zu-vvob-m6",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 6 · Ulwazimagama",
+   "title_en": "Module 6 · Vocabulary",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "classroom",
+   "duration": 305.32,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m6.mp4",
+    "poster": "assets/media/zu-vvob-m6.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": 0.921,
+    "label": "engine agreement (proxy)",
+    "display": "92.1% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 92.1% of characters across this 6-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 1 line the engine heard in silence was removed.",
+    "removed_in_silence": 1
+   },
+   "drive_file_id": "1PpTc7Ex617vdqSVSA5GxckUKa5Mm8GX9"
   },
   {
    "id": "zu-vvob-m6-intro",
@@ -448,9 +910,11 @@
    },
    "has_coaching": false,
    "score": {
-    "value": null,
+    "value": 0.971,
     "label": "engine agreement (proxy)",
-    "line": "A second engine was not run on this recording; a native ear decides."
+    "display": "97.1% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.1% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
    },
    "drive_file_id": "1ximKMvR_lG6_94qPSqot3tPRwlUQC5Pg"
   },
@@ -481,14 +945,51 @@
     "start": 0,
     "end": null
    },
-   "has_coaching": false,
+   "has_coaching": true,
    "score": {
-    "value": 0.883,
+    "value": 0.917,
     "label": "engine agreement (proxy)",
-    "display": "88.3% engine agreement (proxy)",
-    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 88.3% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+    "display": "91.7% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 91.7% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 6 lines the engine heard in silence were removed.",
+    "removed_in_silence": 6
    },
    "drive_file_id": "13gsd4GaQvKkhs6nudPHoGOdv9n8TOqTL"
+  },
+  {
+   "id": "zu-vvob-m7-8",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 0.95
+    },
+    {
+     "lang": "en",
+     "share": 0.05
+    }
+   ],
+   "title": "Module 7 & 8 · Ukufunda ngokuhlanganyela",
+   "title_en": "Modules 7 and 8 · Shared reading",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "classroom",
+   "duration": 352.36,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m7-8.mp4",
+    "poster": "assets/media/zu-vvob-m7-8.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": null,
+    "label": "engine agreement (proxy)",
+    "line": "A second engine was not run on this recording; a native ear decides. 1 line the engine heard in silence was removed.",
+    "removed_in_silence": 1
+   },
+   "drive_file_id": "1UcSps-u7WspmemLAdBH-cRl27Gs5Yiks"
   },
   {
    "id": "zu-vvob-m7-intro",
@@ -514,8 +1015,46 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.953,
+    "label": "engine agreement (proxy)",
+    "display": "95.3% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 95.3% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
+   },
    "drive_file_id": "1vOznqyxfP477iBq6r2dTYq6vqtgHy4Re"
+  },
+  {
+   "id": "zu-vvob-m7-l7",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 7 · Lesson 7 · Ukufundisa ukufunda kuzwakale nolwazimagama",
+   "title_en": "Module 7 · Lesson 7 · Teaching reading aloud and vocabulary",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "classroom",
+   "duration": 350.32,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m7-l7.mp4",
+    "poster": "assets/media/zu-vvob-m7-l7.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": {
+    "value": null,
+    "label": "engine agreement (proxy)",
+    "line": "A second engine was not run on this recording; a native ear decides. 3 lines the engine heard in silence were removed.",
+    "removed_in_silence": 3
+   },
+   "drive_file_id": "1HyM4Fkf6EjEwO_xmpoTsDIRWRSvhALHy"
   },
   {
    "id": "zu-vvob-m8-intro",
@@ -541,7 +1080,13 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.983,
+    "label": "engine agreement (proxy)",
+    "display": "98.3% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.3% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
+   },
    "drive_file_id": "13TO77gfBIw8GfP7lVNsk25sjb7PxH96K"
   },
   {
@@ -568,7 +1113,13 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.971,
+    "label": "engine agreement (proxy)",
+    "display": "97.1% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.1% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+    "removed_in_silence": 0
+   },
    "drive_file_id": "1SRAXbjTnZA-uHCmKsc2vlr9q7nnLRFNc"
   },
   {

@@ -127,13 +127,15 @@
   "value": 0.911,
   "label": "engine agreement (proxy)",
   "display": "91.1% engine agreement (proxy)",
-  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 91.1% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 91.1% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
  },
  "agreement": {
   "value": 0.911,
   "label": "engine agreement (proxy)",
   "display": "91.1% engine agreement (proxy)",
-  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 91.1% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 91.1% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
  },
  "reference": {
   "kind": "none",

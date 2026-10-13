@@ -2,8 +2,8 @@
  "id": "xh-fw-what-is-orf",
  "lang": "xh",
  "engine": "Gemini 2.5 Pro",
- "version": 1,
- "turns_version": 1,
+ "version": 2,
+ "turns_version": 2,
  "turns": [
   {
    "i": 0,
@@ -20,7 +20,7 @@
    "end": 41.5,
    "speaker": "Learner",
    "text": "wayelambe kakhulu, engenakutya. Wahamba-hamba ekhangela ukutya. Wabona abantwana abazidlalelayo. Wabaleqa abo bantwana.",
-   "en": "he was very hungry, having no food. He walked around looking for food. He saw children playing by themselves. He chased those children.",
+   "en": "they were very hungry, having no food. They walked around looking for food. They saw children playing by themselves. They chased those children.",
    "agree": 0.868
   },
   {
@@ -551,7 +551,7 @@
    "end": 192.59,
    "speaker": "Teacher",
    "text": "[learner], ndicela iincwadi zam.",
-   "en": "[learner], I ask for my books.",
+   "en": "[learner], please give me my books.",
    "agree": 0.962
   },
   {
@@ -562,23 +562,46 @@
    "text": "[learner].",
    "en": "[learner].",
    "agree": 0.8
+  },
+  {
+   "i": 62,
+   "start": 198.99,
+   "end": 199.29,
+   "speaker": "Teacher",
+   "text": "Ewe.",
+   "en": "Yes.",
+   "agree": 0.0
   }
  ],
  "score": {
   "value": 0.83,
   "label": "engine agreement (proxy)",
   "display": "83.0% engine agreement (proxy)",
-  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 83.0% of characters across this 4-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 83.0% of characters across this 4-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
  },
  "agreement": {
   "value": 0.83,
   "label": "engine agreement (proxy)",
   "display": "83.0% engine agreement (proxy)",
-  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 83.0% of characters across this 4-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 83.0% of characters across this 4-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "removed_in_silence": 0
  },
  "reference": {
   "kind": "none",
   "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
  },
- "sources": []
+ "sources": [],
+ "meaning": {
+  "value": 9.2,
+  "label": "AI-judged (proxy)",
+  "display": "9.2 / 10 meaning recovered (AI-judged)",
+  "counts": {
+   "same": 6,
+   "partly": 1,
+   "different": 0,
+   "unclear": 0
+  },
+  "line": "Against the partner's own English subtitles, a model judged Rumi's English the same in 6, partly the same in 1 and different in 0 of 7 half-minute stretches (0 too fragmentary to judge). This measures listening and translation together."
+ }
 }

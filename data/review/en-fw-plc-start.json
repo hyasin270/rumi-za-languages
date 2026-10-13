@@ -115,16 +115,18 @@
   }
  ],
  "score": {
-  "value": 0.77,
+  "value": 0.774,
   "label": "engine agreement (proxy)",
-  "display": "77.0% engine agreement (proxy)",
-  "line": "Two engines (OpenAI gpt-4o-transcribe and Soniox v5) agree on 77.0% of characters across this 3-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+  "display": "77.4% engine agreement (proxy)",
+  "line": "Two engines (OpenAI gpt-4o-transcribe and Soniox v5) agree on 77.4% of characters across this 3-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 1 lines the engine heard in silence were removed.",
+  "removed_in_silence": 1
  },
  "agreement": {
-  "value": 0.77,
+  "value": 0.774,
   "label": "engine agreement (proxy)",
-  "display": "77.0% engine agreement (proxy)",
-  "line": "Two engines (OpenAI gpt-4o-transcribe and Soniox v5) agree on 77.0% of characters across this 3-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+  "display": "77.4% engine agreement (proxy)",
+  "line": "Two engines (OpenAI gpt-4o-transcribe and Soniox v5) agree on 77.4% of characters across this 3-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score. 1 lines the engine heard in silence were removed.",
+  "removed_in_silence": 1
  },
  "reference": {
   "kind": "none",

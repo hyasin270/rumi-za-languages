@@ -9,7 +9,7 @@
    "i": 0,
    "start": 11.7,
    "end": 13.38,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "I-theme yam, ebendisenza i-lesson, i-theme yam,",
    "en": "My theme, when I was doing the lesson, my theme,",
    "agree": null
@@ -18,7 +18,7 @@
    "i": 1,
    "start": 15.92,
    "end": 16.22,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "isihloko sayo,",
    "en": "its title,",
    "agree": null
@@ -27,7 +27,7 @@
    "i": 2,
    "start": 16.58,
    "end": 16.91,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "ibizi-phonics.",
    "en": "was phonics.",
    "agree": null
@@ -38,7 +38,7 @@
    "end": 20.68,
    "speaker": "Teacher",
    "text": "UnguNontshaba. Nantsiya. Ngubani igama lakhe?",
-   "en": "It's Nontshaba. There she is. What is her name?",
+   "en": "It's Nontshaba. There they are. What is their name?",
    "agree": null
   },
   {
@@ -56,7 +56,7 @@
    "end": 22.97,
    "speaker": "Teacher",
    "text": "Ngubani igama lakhe?",
-   "en": "What is her name?",
+   "en": "What is their name?",
    "agree": null
   },
   {
@@ -65,7 +65,7 @@
    "end": 25.67,
    "speaker": "Teacher",
    "text": "Igama linguNontshaba. Igama lakhe ngubani?",
-   "en": "The name is Nontshaba. What is her name?",
+   "en": "The name is Nontshaba. What is their name?",
    "agree": null
   },
   {
@@ -92,7 +92,7 @@
    "end": 35.24,
    "speaker": "Teacher",
    "text": "Uniphathele ibali elithini?",
-   "en": "She has brought you what kind of story?",
+   "en": "They have brought you what kind of story?",
    "agree": null
   },
   {
@@ -108,7 +108,7 @@
    "i": 11,
    "start": 37.74,
    "end": 38.94,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "I'm Miss [teacher],",
    "en": "I'm Miss [teacher],",
    "agree": null
@@ -117,7 +117,7 @@
    "i": 12,
    "start": 41.47,
    "end": 42.14,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "u-teacher [school].",
    "en": "the teacher at [school].",
    "agree": null
@@ -126,7 +126,7 @@
    "i": 13,
    "start": 44.39,
    "end": 45.16,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "kwa-grade 1A.",
    "en": "in grade 1A.",
    "agree": null
@@ -171,7 +171,7 @@
    "i": 18,
    "start": 52.46,
    "end": 54.86,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "I-phonics ezithetha ngomtshato.",
    "en": "The phonics that talk about a wedding.",
    "agree": null
@@ -198,7 +198,7 @@
    "i": 21,
    "start": 60.92,
    "end": 63.37,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Ndababonisa isandi esingu-tsh.",
    "en": "I showed them the sound that is 'tsh'.",
    "agree": null
@@ -209,7 +209,7 @@
    "end": 67.22,
    "speaker": "Teacher",
    "text": "Umtshana wakhe uPriscilla uzakucula.",
-   "en": "Her niece Priscilla is going to sing.",
+   "en": "Their niece Priscilla is going to sing.",
    "agree": null
   },
   {
@@ -218,7 +218,7 @@
    "end": 69.72,
    "speaker": "Learners",
    "text": "Umtshana wakhe uPriscilla",
-   "en": "Her niece Priscilla",
+   "en": "Their niece Priscilla",
    "agree": null
   },
   {
@@ -227,7 +227,7 @@
    "end": 73.48,
    "speaker": "Learners",
    "text": "Umtshana wakhe uPriscilla uzakucula.",
-   "en": "Her niece Priscilla is going to sing.",
+   "en": "Their niece Priscilla is going to sing.",
    "agree": null
   },
   {
@@ -236,7 +236,7 @@
    "end": 79.88,
    "speaker": "Teacher",
    "text": "Umtsha- umtshana wakhe uPriscilla uzakucula.",
-   "en": "The nie- her niece Priscilla is going to sing.",
+   "en": "The nie- their niece Priscilla is going to sing.",
    "agree": null
   },
   {
@@ -245,7 +245,7 @@
    "end": 82.74,
    "speaker": "Learners",
    "text": "Umtshana wakhe uPriscilla uzakucula.",
-   "en": "Her niece Priscilla is going to sing.",
+   "en": "Their niece Priscilla is going to sing.",
    "agree": null
   },
   {
@@ -270,7 +270,7 @@
    "i": 29,
    "start": 88.14,
    "end": 90.74,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "And then ngoku ke nibachazele into yokuba isandi esingu-tsh.",
    "en": "And then now you explain to them that the sound is 'tsh'.",
    "agree": null
@@ -333,7 +333,7 @@
    "i": 36,
    "start": 101.67,
    "end": 103.07,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Kusohlulwa kathathu",
    "en": "It is divided three times",
    "agree": null
@@ -342,7 +342,7 @@
    "i": 37,
    "start": 104.71,
    "end": 107.83,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Kusohlulwa kathathu ngezandi ezintathu, sakhiwa ngezandi ezintathu. U-t...",
    "en": "It is divided three times by three sounds, it is built with three sounds. u-t...",
    "agree": null
@@ -351,7 +351,7 @@
    "i": 38,
    "start": 111.96,
    "end": 112.95,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Esesibini ngu-s...",
    "en": "The second one is 's'...",
    "agree": null
@@ -387,7 +387,7 @@
    "i": 42,
    "start": 128.85,
    "end": 132.0,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Amanye amagama amatsha endiwafumeneyo ibe yinto umtshana, umtshakazi, umyeni.",
    "en": "Other new words that I found were 'umtshana' (niece/nephew), 'umtshakazi' (bride), 'umyeni' (groom).",
    "agree": null
@@ -432,7 +432,7 @@
    "i": 47,
    "start": 150.16,
    "end": 156.04,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Sifuna izichazi zethu ke ngoku. I-step sam sesithathu, sizichasi zam.",
    "en": "We want our opposites now. My third step, my opposites.",
    "agree": null
@@ -488,7 +488,7 @@
    "end": 166.64,
    "speaker": "Learner",
    "text": "Ulapha kumtshato.",
-   "en": "He/she is here at the wedding.",
+   "en": "They are here at the wedding.",
    "agree": null
   },
   {
@@ -504,7 +504,7 @@
    "i": 55,
    "start": 168.34,
    "end": 173.04,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Sawelala kwi-step sethu sesine. I-step sethu sithi ne...",
    "en": "We crossed over to our fourth step. Our step says ne...",
    "agree": null
@@ -513,7 +513,7 @@
    "i": 56,
    "start": 174.82,
    "end": 178.48,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Bathi u-teacher yila ebanike isivakalisi esithi umtshakazi utshayela ntoni? Ibala.",
    "en": "They say the teacher is the one who gave them the sentence that says the bride sweeps what? The yard.",
    "agree": null
@@ -603,7 +603,7 @@
    "i": 66,
    "start": 206.58,
    "end": 214.06,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Sawuyela kwi-step sesihlanu. I-step sezivakalisi, apho ndicele bona bandakhele ntoni? Izivakalisi.",
    "en": "We went to the fifth step. The step of sentences, where I asked them to build for me what? Sentences.",
    "agree": null
@@ -612,7 +612,7 @@
    "i": 67,
    "start": 215.94,
    "end": 223.82,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Ndababonisa izivakalisi zibhalwa njani. Isivakalisi sinesibizo, sibe nesenzi. Ndabafundela eso sivakalisi bendi sibekile.",
    "en": "I showed them how sentences are written. A sentence has a noun, and has a verb. I read for them that sentence I had put up.",
    "agree": null
@@ -621,7 +621,7 @@
    "i": 68,
    "start": 224.84,
    "end": 227.85,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Ndathi mabanokheleleke ngokubona izibhamandiphezu bona izivakalisi zabo.",
    "en": "I said they should be inspired by seeing the capital letters for their sentences.",
    "agree": null
@@ -648,7 +648,7 @@
    "i": 71,
    "start": 234.91,
    "end": 240.53,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Abantwana ndibanika umsebenzi ngokomgangatho wabo wokuqonda.",
    "en": "The children, I give them work according to their level of understanding.",
    "agree": null
@@ -657,7 +657,7 @@
    "i": 72,
    "start": 242.3,
    "end": 244.94,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Apha eklasini yam, ku-grade one, ndinamaqela ngamaqela.",
    "en": "Here in my class, in grade one, I have groups by groups.",
    "agree": null
@@ -666,7 +666,7 @@
    "i": 73,
    "start": 245.74,
    "end": 248.74,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Kukh' abakwazi ukubhala, kukh' abangakwazi ukubhala.",
    "en": "There are those who can write, there are those who cannot write.",
    "agree": null
@@ -675,7 +675,7 @@
    "i": 74,
    "start": 249.36,
    "end": 250.02,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Mtshana.",
    "en": "Niece/nephew.",
    "agree": null
@@ -684,7 +684,7 @@
    "i": 75,
    "start": 251.7,
    "end": 259.2,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Abanye ndibanike umsebenzi wokubhala, babhal' ok'ke, abanye ndibanike umsebenzi wokukopa amagama, abanye ndibanike umsebenzi wokukopa izivakalisi.",
    "en": "Some I give them work of writing, they write then, others I give them work of copying words, others I give them work of copying sentences.",
    "agree": null
@@ -711,7 +711,7 @@
    "i": 78,
    "start": 265.58,
    "end": 270.09,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Abanye ndibonike umsebenzi woba mabachathise, abanye ndibanike umsebenzi woba maba-",
    "en": "Others I gave them work that they should match, others I gave them work that they should-",
    "agree": null
@@ -720,7 +720,7 @@
    "i": 79,
    "start": 270.67,
    "end": 272.47,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Mabakwazi ukohlula igama.",
    "en": "They should be able to break down the word.",
    "agree": null
@@ -855,7 +855,7 @@
    "i": 94,
    "start": 316.15,
    "end": 316.55,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Eke.",
    "en": "Okay.",
    "agree": null
@@ -864,7 +864,7 @@
    "i": 95,
    "start": 316.95,
    "end": 320.41,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Ndabanika ke ngoku umsebenzi we-class, basebenza ngokwamaqela.",
    "en": "I gave them now the class work, they worked according to groups.",
    "agree": null
@@ -873,7 +873,7 @@
    "i": 96,
    "start": 320.99,
    "end": 323.79,
-   "speaker": "Teacher",
+   "speaker": "Teacher (interview)",
    "text": "Apho besenza khona yintoni? I-shared, besenza i-shared reading.",
    "en": "Where they were doing what? I-shared, they were doing shared reading.",
    "agree": null
@@ -902,7 +902,7 @@
    "end": 336.6,
    "speaker": "Teacher",
    "text": "Ubuze ukuba uzakucula njani kumtshato kaNonhlanhla.",
-   "en": "She asked how she is going to sing at Nonhlanhla's wedding.",
+   "en": "They asked how they are going to sing at Nonhlanhla's wedding.",
    "agree": null
   },
   {
@@ -911,7 +911,7 @@
    "end": 339.6,
    "speaker": "Teacher",
    "text": "Wasebeza watsho.",
-   "en": "She whispered and said.",
+   "en": "They whispered and said.",
    "agree": null
   },
   {
