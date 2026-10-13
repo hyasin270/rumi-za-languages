@@ -35,7 +35,7 @@
   $("labels-list").innerHTML = ["measured", "proxy", "ai_judged", "pending", "read_sentence"].filter((k) => has("review.scores." + k)).map((k) => `<li>${H("review.scores." + k)}</li>`).join("");
 
   const [index] = await Promise.all([RZ.load("data/review/index.json"), feedback.init()]);
-  const RECS = ((index && index.recordings) || []).filter((r) => r && r.id && r.lang);
+  const RECS = ((index && index.recordings) || []).filter((r) => r && r.id && r.lang && !r.hidden);   // hidden: kept on file, off the lists
   const byId = Object.fromEntries(RECS.map((r) => [r.id, r]));
   const langsPresent = ORDER.filter((l) => RECS.some((r) => r.lang === l)).concat([...new Set(RECS.map((r) => r.lang))].filter((l) => !ORDER.includes(l)));
 

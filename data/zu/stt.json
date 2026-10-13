@@ -1,613 +1,1006 @@
 {
  "lang": "zu",
+ "rec_id": "zu-vvob-m6-l6",
+ "engine": "Gemini 2.5 Pro",
+ "turns_version": 3,
  "video": {
-  "youtube_id": "U5GLqE4Ox1U",
-  "title": "Phonics - isiZulu",
-  "channel": "Mindset Teach",
-  "url": "https://www.youtube.com/watch?v=U5GLqE4Ox1U",
+  "youtube_id": null,
+  "title": "Module 6 · Imisindo · Lesson 6 · Ukuhlola imisindo",
+  "title_en": "Module 6 · Phonics · Lesson 6 · Checking sounds",
+  "channel": "VVOB",
+  "url": "review.html?r=zu-vvob-m6-l6",
   "start": 0,
-  "end": 355.8
+  "end": 368.9
+ },
+ "media": {
+  "type": "mp4",
+  "src": "assets/media/zu-vvob-m6-l6.mp4",
+  "poster": "assets/media/zu-vvob-m6-l6.jpg",
+  "youtube_id": null,
+  "start": 0,
+  "end": null
  },
  "turns": [
   {
-   "start": 10.19,
-   "end": 18.19,
+   "i": 0,
+   "start": 34.32,
+   "end": 39.32,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Ngicela sise sise sishukumise ingqondo, si si sitshele ukuthi ngqondo, vuleka, manje sengifuna ukufunda.",
-   "en": "I ask that we work we work we shake the mind, we we we tell it that mind, open up, now I want to learn."
+   "text": "Okay bangani bami, namhlanje sizofunda umlolozelo omusha othi ilungelo.",
+   "en": "Okay my friends, today we are going to learn a new rhyme called 'ilungelo' (right).",
+   "agree": 1.0
   },
   {
-   "start": 19.28,
-   "end": 26.47,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "I am going to teach the the the language.",
-   "en": "I am going to teach the the the language."
-  },
-  {
-   "start": 27.48,
-   "end": 31.67,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "The language has got four skills. There is listening and speaking,",
-   "en": "The language has got four skills. There is listening and speaking,"
-  },
-  {
-   "start": 32.87,
-   "end": 34.9,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "there is writing, phonics.",
-   "en": "there is writing, phonics."
-  },
-  {
-   "start": 35.33,
-   "end": 35.71,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "and reading.",
-   "en": "and reading."
-  },
-  {
-   "start": 36.98,
-   "end": 46.98,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Okwamakhwela, ushay' okhaphi. Ohh yiyo le nto! Cha, awuyibizi mfela.",
-   "en": "Of the whistles, you hit the ones who are out. Ohh it's this thing! No, you don't call it, really."
-  },
-  {
-   "start": 47.74,
-   "end": 50.34,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Oh hhayi, ngiyesaba.",
-   "en": "Oh no, I am scared."
-  },
-  {
-   "start": 50.74,
-   "end": 60.44,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Alikho igama elihle, elihle, elihle, njengelikaJesu.",
-   "en": "There is no name beautiful, beautiful, beautiful, like that of Jesus."
-  },
-  {
-   "start": 61.36,
-   "end": 64.16,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "A B C D E F G",
-   "en": "A B C D E F G"
-  },
-  {
-   "start": 64.96,
-   "end": 67.07,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "They learn by practicing things.",
-   "en": "They learn by practicing things."
-  },
-  {
-   "start": 67.76,
-   "end": 80.97,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "That is why I use to do the warm-ups where they they act, recite. I include the the phonics and the sounds in in my lesson so that when I I take them",
-   "en": "That is why I use to do the warm-ups where they they act, recite. I include the the phonics and the sounds in in my lesson so that when I I take them"
-  },
-  {
-   "start": 83.8,
-   "end": 89.4,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "to remember what we have done in the morning before we start the lesson.",
-   "en": "to remember what we have done in the morning before we start the lesson."
-  },
-  {
-   "start": 92.4,
-   "end": 94.4,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Ayofund' u-a.",
-   "en": "Let's go learn 'a'."
-  },
-  {
-   "start": 97.08,
-   "end": 107.69,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Ayofund' u-a, ayofund' u-e, ayofund' u-i, ayofund' u-o, ayofund' u-u.",
-   "en": "Let's go learn 'a', let's go learn 'e', let's go learn 'i', let's go learn 'o', let's go learn 'u'."
-  },
-  {
-   "start": 110.44,
-   "end": 110.8,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Siyenze.",
-   "en": "Let's do it."
-  },
-  {
-   "start": 111.52,
-   "end": 114.75,
+   "i": 1,
+   "start": 39.72,
+   "end": 43.32,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Yenza njalo ke mngani wami. Sengiyafunda ke mina, uyalalela wena.",
-   "en": "Do that then my friend. I am now reading then, me, you are listening, you."
+   "text": "Sizosukuma size ngaphambili sizowusho umlolozelo. Siyasukuma.",
+   "en": "We will stand up and come to the front to say the rhyme. We are standing up.",
+   "agree": 1.0
   },
   {
-   "start": 115.92,
-   "end": 117.52,
+   "i": 2,
+   "start": 43.82,
+   "end": 45.52,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Isithunywa senkosi.",
-   "en": "The messenger of the king."
+   "text": "Asihambeni ke. Sonke siyahamba.",
+   "en": "Let's go then. Everyone is walking.",
+   "agree": 0.931
   },
   {
-   "start": 118.67,
-   "end": 122.12,
-   "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "UThemba umfana wale othuthiwe.",
-   "en": "Themba the boy of there who has been moved."
-  },
-  {
-   "start": 124.39,
-   "end": 126.66,
-   "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Umfana owayethenjwa endaweni.",
-   "en": "The boy who was trusted in the area."
-  },
-  {
-   "start": 127.66,
-   "end": 130.66,
-   "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Ngizofunda ke mina, wena ufunde emva kwa...",
-   "en": "I will read then, me, you read after..."
-  },
-  {
-   "start": 130.86,
-   "end": 131.36,
+   "i": 3,
+   "start": 46.12,
+   "end": 50.32,
    "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Thisha!",
-   "en": "Teacher!"
+   "text": "Uthi tshiki tshiki unelungelo yinina.",
+   "en": "It says tshiki tshiki do you have a right?",
+   "agree": 0.972
   },
   {
-   "start": 132.51,
-   "end": 133.26,
-   "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Wena uzofunda emva kwa...",
-   "en": "You will read after..."
-  },
-  {
-   "start": 133.46,
-   "end": 134.26,
+   "i": 4,
+   "start": 50.52,
+   "end": 51.12,
    "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Thisha!",
-   "en": "Teacher!"
-  },
-  {
-   "start": 134.9,
-   "end": 135.86,
-   "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Aziyeke bangani.",
-   "en": "Leave them, friends."
-  },
-  {
-   "start": 137.31,
-   "end": 143.61,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "UThemba umfana wakwaLanga othunyiwe endaweni.",
-   "en": "Themba the boy from Langa's place who was sent in the area."
-  },
-  {
-   "start": 144.91,
-   "end": 149.11,
-   "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Lokhu kwakwenziwa ukuthi uyisithunywa senkosi.",
-   "en": "This was done because he is a messenger of the king."
-  },
-  {
-   "start": 150.01,
-   "end": 150.31,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Lokhu",
-   "en": "This"
-  },
-  {
-   "start": 150.57,
-   "end": 156.56,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Lokhu kwakwenziwa ukuthi uyisithunywa senkosi.",
-   "en": "This was done because he is a messenger of the king."
-  },
-  {
-   "start": 157.83,
-   "end": 162.64,
-   "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Ubani umuntu okukhulunywa ngaye laphaya endabeni? [learner]?",
-   "en": "Who is the person being spoken about over there in the story? [learner]?"
-  },
-  {
-   "start": 164.42,
-   "end": 164.72,
-   "speaker": "Learner",
-   "kind": "classroom",
-   "text": "UThemba.",
-   "en": "Themba."
-  },
-  {
-   "start": 165.13,
-   "end": 167.75,
-   "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "UThemba. Uqinisile [learner]?",
-   "en": "Themba. Is [learner] correct?"
-  },
-  {
-   "start": 168.35,
-   "end": 168.85,
-   "speaker": "Learners",
-   "kind": "classroom",
    "text": "Yebo!",
-   "en": "Yes!"
+   "en": "Yes!",
+   "agree": 1.0
   },
   {
-   "start": 169.55,
-   "end": 170.85,
+   "i": 5,
+   "start": 51.52,
+   "end": 52.12,
+   "speaker": "Learners",
+   "text": "Vele!",
+   "en": "Indeed!",
+   "agree": 1.0
+  },
+  {
+   "i": 6,
+   "start": 52.52,
+   "end": 55.12,
+   "speaker": "Learners",
+   "text": "Ilungelo ngelakho.",
+   "en": "The right is yours.",
+   "agree": 1.0
+  },
+  {
+   "i": 7,
+   "start": 55.52,
+   "end": 56.12,
+   "speaker": "Learners",
+   "text": "Yebo!",
+   "en": "Yes!",
+   "agree": 0.0
+  },
+  {
+   "i": 8,
+   "start": 61.79,
+   "end": 63.09,
+   "speaker": "Learners",
+   "text": "Yebo, vele.",
+   "en": "Yes, indeed.",
+   "agree": 1.0
+  },
+  {
+   "i": 9,
+   "start": 63.39,
+   "end": 65.49,
+   "speaker": "Learners",
+   "text": "Ilungelo lungelo lami.",
+   "en": "The right is my right.",
+   "agree": 0.762
+  },
+  {
+   "i": 10,
+   "start": 65.99,
+   "end": 67.49,
+   "speaker": "Learners",
+   "text": "Yebo, vele.",
+   "en": "Yes, indeed.",
+   "agree": 1.0
+  },
+  {
+   "i": 11,
+   "start": 67.79,
+   "end": 70.09,
+   "speaker": "Learners",
+   "text": "Ilungelo lungelo lethu.",
+   "en": "The right is our right.",
+   "agree": 0.636
+  },
+  {
+   "i": 12,
+   "start": 70.39,
+   "end": 73.49,
+   "speaker": "Learners",
+   "text": "Awekho amalungelo awethu.",
+   "en": "There are no rights of ours.",
+   "agree": 0.708
+  },
+  {
+   "i": 13,
+   "start": 73.89,
+   "end": 76.89,
+   "speaker": "Learners",
+   "text": "Awekho amalungelo awethu.",
+   "en": "There are no rights of ours.",
+   "agree": 0.917
+  },
+  {
+   "i": 14,
+   "start": 77.19,
+   "end": 78.49,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Mshayeleni izandla.",
-   "en": "Clap hands for him/her."
+   "text": "Nizizwa uthi kumnandi kanjani?",
+   "en": "Do you feel how nice it is?",
+   "agree": 0.793
   },
   {
-   "start": 173.75,
-   "end": 178.15,
+   "i": 15,
+   "start": 78.89,
+   "end": 80.49,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "UThemba kuthiwa ubenomsebenzi aye ewenza enkosini.",
-   "en": "Themba, it is said he had a job that he used to do for the king."
+   "text": "Okay, hlala phansi-ke bangani.",
+   "en": "Okay, sit down then friends.",
+   "agree": 0.893
   },
   {
-   "start": 179.75,
-   "end": 180.75,
+   "i": 16,
+   "start": 80.69,
+   "end": 83.49,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Awu, njalo kodwa?",
-   "en": "Oh, always though?"
+   "text": "Imuphi umsindo kodwa enilokhu niwuzwa kakhulu kulo mlolozelo?",
+   "en": "But which sound do you keep hearing the most in this rhyme?",
+   "agree": 0.75
   },
   {
-   "start": 182.35,
-   "end": 183.85,
+   "i": 17,
+   "start": 83.59,
+   "end": 84.19,
+   "speaker": "Teacher",
+   "text": "[learner]?",
+   "en": "[learner]?",
+   "agree": 1.0
+  },
+  {
+   "i": 18,
+   "start": 84.89,
+   "end": 87.19,
+   "speaker": "Teacher",
+   "text": "Uthi uzwa umsindo ng.",
+   "en": "They say they hear the sound ng.",
+   "agree": 0.95
+  },
+  {
+   "i": 19,
+   "start": 87.29,
+   "end": 88.69,
+   "speaker": "Teacher",
+   "text": "Uthi uzwa umsindo bani?",
+   "en": "They say they hear which sound?",
+   "agree": 0.955
+  },
+  {
+   "i": 20,
+   "start": 92.82,
+   "end": 101.02,
+   "speaker": "Teacher",
+   "text": "Njengamanje ke bangani bami, sengifuna umngani ozongipha igama akalizwile kumlolozelo elino-ng.",
+   "en": "Right now my friends, I want a friend who will give me a word they heard in the rhyme that has ng.",
+   "agree": 0.946
+  },
+  {
+   "i": 21,
+   "start": 101.32,
+   "end": 101.82,
    "speaker": "Learner",
-   "kind": "classroom",
-   "text": "Ukhuza izinkomo.",
-   "en": "He herds the cattle."
+   "text": "Ilungelo.",
+   "en": "Ilungelo.",
+   "agree": 0.25
   },
   {
-   "start": 184.35,
-   "end": 187.75,
+   "i": 22,
+   "start": 102.12,
+   "end": 103.82,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Yilapho-ke indaba yethu bangani bami. Sizodlula-ke manje.",
-   "en": "It is there then our story my friends. We will move on then now."
+   "text": "Uthi uzwe igama elithini? Ilungelo.",
+   "en": "They say they heard what word? Ilungelo.",
+   "agree": 1.0
   },
   {
-   "start": 188.65,
-   "end": 193.25,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "Then we move from the story with the relevant phones and",
-   "en": "Then we move from the story with the relevant phones and"
-  },
-  {
-   "start": 193.7,
-   "end": 195.6,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "and sounds to to writing.",
-   "en": "and sounds to to writing."
-  },
-  {
-   "start": 196.7,
-   "end": 198.6,
+   "i": 23,
+   "start": 104.02,
+   "end": 105.82,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Sifuna ukubhala phela manje, angithi?",
-   "en": "We want to write of course now, right?"
+   "text": "Ngithi sonke sizwe igama elithi ilungelo?",
+   "en": "Did we all hear the word ilungelo?",
+   "agree": 0.95
   },
   {
-   "start": 199.0,
-   "end": 201.3,
-   "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Sizobhala kanjani kodwa singalungisanga izandla?",
-   "en": "How will we write though without having prepared the hands?"
-  },
-  {
-   "start": 201.9,
-   "end": 203.6,
-   "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Ungabhala manje ungazange walungisa izandla?",
-   "en": "Can you write now without having prepared the hands?"
-  },
-  {
-   "start": 203.7,
-   "end": 209.39,
-   "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Mangithi thatha ipeni ubhale, angithi sithatha izandla, Asizicele izandla zibuye khona sobabili.",
-   "en": "When I say take a pen and write, isn't it we take the hands, Let's ask the hands to come back so that we both."
-  },
-  {
-   "start": 209.89,
-   "end": 215.79,
+   "i": 24,
+   "start": 106.12,
+   "end": 107.02,
    "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Sandla sami, sandla sami, uphina?",
-   "en": "My hand, my hand, where are you?"
+   "text": "Oh, okay.",
+   "en": "Oh, okay.",
+   "agree": 1.0
   },
   {
-   "start": 217.29,
-   "end": 221.92,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Sahlala kahle, sahlala kahle, ubiza.",
-   "en": "We sat well, we sat well, you are calling."
-  },
-  {
-   "start": 222.92,
-   "end": 225.92,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Ngibona, ngibona.",
-   "en": "I see, I see."
-  },
-  {
-   "start": 230.32,
-   "end": 232.02,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "One, two, three.",
-   "en": "One, two, three."
-  },
-  {
-   "start": 232.96,
-   "end": 234.62,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "One, two, three.",
-   "en": "One, two, three."
-  },
-  {
-   "start": 235.12,
-   "end": 242.82,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "Our writing should should have these new sounds. Then from writing, we move to the to reading.",
-   "en": "Our writing should should have these new sounds. Then from writing, we move to the to reading."
-  },
-  {
-   "start": 244.91,
-   "end": 245.21,
-   "speaker": "Learner",
-   "kind": "classroom",
-   "text": "Ithole.",
-   "en": "A calf."
-  },
-  {
-   "start": 244.91,
-   "end": 248.18,
-   "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Ithole, ngibone, ithole, lithini.",
-   "en": "A calf, let me see, a calf, what does it say."
-  },
-  {
-   "start": 256.06,
-   "end": 261.43,
+   "i": 25,
+   "start": 107.12,
+   "end": 114.82,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Wumuhla kabani namhlanje? Zingaki izinsuku namhlanje enyangeni? Yazi, [learner]?",
-   "en": "It is the day of what today? How many are the days today in the month? Do you know, [learner]?"
+   "text": "Njengamanje bangani, sonke sithathe igama elithi ilungelo. Ngifuna silishayele izandla, sithole ukuthi lakhiwe ngamalunga amangaki.",
+   "en": "Right now friends, let us all take the word ilungelo. I want us to clap for it, to find out how many syllables it is made of.",
+   "agree": 0.992
   },
   {
-   "start": 262.03,
-   "end": 263.43,
-   "speaker": "Learner",
-   "kind": "classroom",
-   "text": "Amashumi amabili nantathu.",
-   "en": "Twenty and three."
-  },
-  {
-   "start": 263.93,
-   "end": 268.0,
+   "i": 26,
+   "start": 115.02,
+   "end": 116.92,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Amashumi amabili nantathu. Zingaki ke manje izinsuku namhlanje enyangeni?",
-   "en": "Twenty and three. How many then now are the days today in the month?"
+   "text": "Okay, siyahamba sonke ke. Ilungelo.",
+   "en": "Okay, let's go everyone. Ilungelo.",
+   "agree": 1.0
   },
   {
-   "start": 268.1,
-   "end": 270.5,
+   "i": 27,
+   "start": 117.42,
+   "end": 119.52,
    "speaker": "Learners",
-   "kind": "classroom",
-   "text": "Amashumi amabili nantathu.",
-   "en": "Twenty and three."
+   "text": "I-lu-nge-lo.",
+   "en": "I-lu-nge-lo.",
+   "agree": 0.091
   },
   {
-   "start": 270.8,
-   "end": 273.0,
+   "i": 28,
+   "start": 120.46,
+   "end": 123.96,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Kanje, kuyiphi ke inyanga? [learner]?",
-   "en": "So, which month is it then? [learner]?"
+   "text": "sonke ke ilungelo. I-lu-nge-lo.",
+   "en": "Everyone then, ilungelo. I-lu-nge-lo.",
+   "agree": 0.31
   },
   {
-   "start": 273.5,
-   "end": 274.2,
-   "speaker": "Learner",
-   "kind": "classroom",
-   "text": "UMfumfu.",
-   "en": "UMfumfu."
-  },
-  {
-   "start": 274.8,
-   "end": 276.25,
-   "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Grade 1, ubani igama lenyanga?",
-   "en": "Grade 1, what is the name of the month?"
-  },
-  {
-   "start": 277.0,
-   "end": 278.1,
+   "i": 29,
+   "start": 124.06,
+   "end": 125.46,
    "speaker": "Learners",
-   "kind": "classroom",
-   "text": "UMfumfu!",
-   "en": "UMfumfu!"
+   "text": "I-lu-nge-lo.",
+   "en": "I-lu-nge-lo.",
+   "agree": 0.0
   },
   {
-   "start": 281.29,
-   "end": 282.0,
+   "i": 30,
+   "start": 125.76,
+   "end": 126.76,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "2014.",
-   "en": "2014."
+   "text": "Sizwile kahle?",
+   "en": "Did we hear well?",
+   "agree": 1.0
   },
   {
-   "start": 286.1,
-   "end": 286.8,
-   "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Umuntu ubhala igama lakhe. Syezwana?",
-   "en": "A person writes his/her name. Do we understand each other?"
-  },
-  {
-   "start": 287.3,
-   "end": 287.7,
+   "i": 31,
+   "start": 126.96,
+   "end": 127.46,
    "speaker": "Learners",
-   "kind": "classroom",
    "text": "Yebo.",
-   "en": "Yes."
+   "en": "Yes.",
+   "agree": 1.0
   },
   {
-   "start": 288.22,
-   "end": 292.8,
+   "i": 32,
+   "start": 127.76,
+   "end": 131.46,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Syezwana? Bese kuba umhla. Nangu umhla sesiwubhalile lapha, angithi?",
-   "en": "Do we understand each other? And then it is the date. Here is the date we have already written it here, right?"
+   "text": "Okay. Mangakhi amalunga akhandeleli gama? [learner].",
+   "en": "Okay. How many syllables make up this word? [learner].",
+   "agree": 0.833
   },
   {
-   "start": 293.58,
-   "end": 296.95,
+   "i": 33,
+   "start": 131.96,
+   "end": 133.46,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Bese, mase uwubhalile ke, uzoshiya imigqa laphaya mangaki?",
-   "en": "And then, when you have written it then, you will leave how many lines over there?"
+   "text": "Uthi mane, uqinisile yini?",
+   "en": "They say four, is they correct?",
+   "agree": 1.0
   },
   {
-   "start": 297.55,
-   "end": 297.95,
+   "i": 34,
+   "start": 133.76,
+   "end": 134.46,
+   "speaker": "Learners",
+   "text": "Yebo.",
+   "en": "Yes.",
+   "agree": 1.0
+  },
+  {
+   "i": 35,
+   "start": 134.76,
+   "end": 136.76,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Kanye.",
-   "en": "One."
+   "text": "Okay, asiphinde sishaye futhi okokugcina.",
+   "en": "Okay, let's clap again for the last time.",
+   "agree": 1.0
   },
   {
-   "start": 300.25,
-   "end": 303.85,
+   "i": 36,
+   "start": 137.06,
+   "end": 139.46,
+   "speaker": "Learners",
+   "text": "I-lu-nge-lo.",
+   "en": "I-lu-nge-lo.",
+   "agree": 0.727
+  },
+  {
+   "i": 37,
+   "start": 139.46,
+   "end": 142.96,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Uzobe se uyabhala lapha emgqeni kanye, njengoba nami ngibhale kanye.",
-   "en": "You will then be writing here on the line once, just as I also wrote once."
+   "text": "Yebo. Mane. Okay. Njengamanje ngifuna umngani",
+   "en": "Yes. Four. Okay. Right now I want a friend",
+   "agree": 1.0
   },
   {
-   "start": 304.35,
-   "end": 304.95,
+   "i": 38,
+   "start": 143.96,
+   "end": 146.96,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Syezwana?",
-   "en": "Do we understand each other?"
+   "text": "ozoza la ebhokisini lami.",
+   "en": "who will come here to my box.",
+   "agree": 1.0
   },
   {
-   "start": 306.07,
-   "end": 317.17,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "I think networking is the most tool to be used. They must talk to other teachers, network with the neighboring schools, look for information, eh, so that they could",
-   "en": "I think networking is the most tool to be used. They must talk to other teachers, network with the neighboring schools, look for information, eh, so that they could"
+   "i": 39,
+   "start": 147.66,
+   "end": 150.76,
+   "speaker": "Teacher",
+   "text": "Uma efika ebhokisini lami, uyacimeza.",
+   "en": "When they get to my box, they close their eyes.",
+   "agree": 0.943
   },
   {
-   "start": 320.67,
-   "end": 323.46,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "make their lesson more relevant like this.",
-   "en": "make their lesson more relevant like this."
+   "i": 40,
+   "start": 150.43,
+   "end": 158.03,
+   "speaker": "Teacher",
+   "text": "sike ebhokisini lami, uyacimeza, uthatha into noma yini azoyifica la phakathi uyayithatha, uyayiphakamisa, uyasitshela ukuthi uthole ini ebhokisini likamisi, angithi?",
+   "en": "When they get to my box, they close their eyes, take whatever they find inside, take it, lift it up, and tell us what they found in miss's box, right?",
+   "agree": 0.981
   },
   {
-   "start": 329.86,
-   "end": 330.76,
+   "i": 41,
+   "start": 160.33,
+   "end": 161.23,
+   "speaker": "Teacher",
+   "text": "Okay, uyacimeza,",
+   "en": "Okay, close your eyes,",
+   "agree": 1.0
+  },
+  {
+   "i": 42,
+   "start": 161.73,
+   "end": 165.03,
+   "speaker": "Teacher",
+   "text": "ufake isandla, uyathatha, uyaphakamisa.",
+   "en": "put your hand in, take, lift it up.",
+   "agree": 0.972
+  },
+  {
+   "i": 43,
+   "start": 165.53,
+   "end": 167.03,
+   "speaker": "Teacher",
+   "text": "Okay, uphethe ini [learner]?",
+   "en": "Okay, what is [learner] holding?",
+   "agree": 0.917
+  },
+  {
+   "i": 44,
+   "start": 167.53,
+   "end": 168.73,
+   "speaker": "Learners",
+   "text": "Ingubo!",
+   "en": "Ingubo (blanket)!",
+   "agree": 1.0
+  },
+  {
+   "i": 45,
+   "start": 169.03,
+   "end": 173.23,
+   "speaker": "Teacher",
+   "text": "[learner] uphethe ingubo. Ingubo inobani? Ino-ngu, angithi?",
+   "en": "[learner] is holding a blanket. Blanket has what? It has ngu, right?",
+   "agree": 0.887
+  },
+  {
+   "i": 46,
+   "start": 173.63,
+   "end": 175.73,
+   "speaker": "Teacher",
+   "text": "Sishayele izandla igama elithi ingubo, okay?",
+   "en": "Let's clap for the word ingubo, okay?",
+   "agree": 0.976
+  },
+  {
+   "i": 47,
+   "start": 176.23,
+   "end": 177.73,
+   "speaker": "Learners",
+   "text": "Ingubo!",
+   "en": "Ingubo!",
+   "agree": 1.0
+  },
+  {
+   "i": 48,
+   "start": 183.55,
+   "end": 185.25,
+   "speaker": "Learners",
+   "text": "Mathathu!",
+   "en": "Three!",
+   "agree": 0.0
+  },
+  {
+   "i": 49,
+   "start": 185.55,
+   "end": 185.95,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 50,
+   "start": 186.45,
+   "end": 187.65,
+   "speaker": "Teacher",
+   "text": "Mangaki amalunga?",
+   "en": "How many syllables?",
+   "agree": 1.0
+  },
+  {
+   "i": 51,
+   "start": 188.05,
+   "end": 188.95,
+   "speaker": "Teacher",
+   "text": "Mangaki amalunga asifuni?",
+   "en": "How many syllables, we don't want?",
+   "agree": 1.0
+  },
+  {
+   "i": 52,
+   "start": 189.35,
+   "end": 189.85,
+   "speaker": "Teacher",
+   "text": "Mathathu.",
+   "en": "Three.",
+   "agree": 1.0
+  },
+  {
+   "i": 53,
+   "start": 190.05,
+   "end": 191.45,
+   "speaker": "Teacher",
+   "text": "Yebo, mathathu mngani.",
+   "en": "Yes, three, friend.",
+   "agree": 1.0
+  },
+  {
+   "i": 54,
+   "start": 191.65,
+   "end": 194.65,
+   "speaker": "Teacher",
+   "text": "Namhlanje sizofunda umsindo ng.",
+   "en": "Today we are going to learn the sound ng.",
+   "agree": 1.0
+  },
+  {
+   "i": 55,
+   "start": 195.15,
+   "end": 196.85,
+   "speaker": "Teacher",
+   "text": "Uwakhiwe imisindo emingaki?",
+   "en": "It is made of how many sounds?",
+   "agree": 0.923
+  },
+  {
+   "i": 56,
+   "start": 197.35,
+   "end": 198.25,
+   "speaker": "Learners",
+   "text": "Mibili.",
+   "en": "Two.",
+   "agree": 1.0
+  },
+  {
+   "i": 57,
+   "start": 198.65,
+   "end": 202.85,
+   "speaker": "Teacher",
+   "text": "Umsindo ng uwakhiwe imisindo emibili, angithi bangani bami?",
+   "en": "The sound ng is made of two sounds, right my friends?",
+   "agree": 0.982
+  },
+  {
+   "i": 58,
+   "start": 203.15,
+   "end": 203.55,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 59,
+   "start": 203.95,
+   "end": 206.55,
+   "speaker": "Teacher",
+   "text": "Angithole umngani ozongikhombela odongeni lwami lwamagama.",
+   "en": "Let me get a friend who will point for me on my word wall.",
+   "agree": 0.947
+  },
+  {
+   "i": 60,
+   "start": 209.45,
+   "end": 209.95,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 61,
+   "start": 210.95,
+   "end": 211.35,
+   "speaker": "Teacher",
+   "text": "Yes.",
+   "en": "Yes.",
+   "agree": 1.0
+  },
+  {
+   "i": 62,
+   "start": 213.06,
+   "end": 213.36,
+   "speaker": "Teacher",
+   "text": "Yes.",
+   "en": "Yes.",
+   "agree": 0.0
+  },
+  {
+   "i": 63,
+   "start": 213.66,
+   "end": 214.36,
+   "speaker": "Teacher",
+   "text": "Ngempela?",
+   "en": "Really?",
+   "agree": 0.0
+  },
+  {
+   "i": 64,
+   "start": 214.46,
+   "end": 214.76,
+   "speaker": "Learners",
+   "text": "Yebo!",
+   "en": "Yes!",
+   "agree": 1.0
+  },
+  {
+   "i": 65,
+   "start": 214.96,
+   "end": 217.56,
+   "speaker": "Teacher",
+   "text": "Ungqi unobani? Unoni, angithi bangani?",
+   "en": "The full stop has who? It has n, right friends?",
+   "agree": 0.771
+  },
+  {
+   "i": 66,
+   "start": 217.86,
+   "end": 220.36,
+   "speaker": "Teacher",
+   "text": "Unoni. Okay, nangu ungqi wami ngim'bekile.",
+   "en": "It has n. Okay, here is my full stop, I have placed it.",
+   "agree": 0.897
+  },
+  {
+   "i": 67,
+   "start": 220.56,
+   "end": 222.06,
+   "speaker": "Teacher",
+   "text": "Bese kuba namuphi futhi sim'khethele?",
+   "en": "Then which one again should we choose for them?",
+   "agree": 0.972
+  },
+  {
+   "i": 68,
+   "start": 222.56,
+   "end": 224.06,
+   "speaker": "Teacher",
+   "text": "Okay, uzohamba ayokhomba.",
+   "en": "Okay, they will go and point.",
+   "agree": 1.0
+  },
+  {
+   "i": 69,
+   "start": 226.66,
+   "end": 228.36,
+   "speaker": "Teacher",
+   "text": "Okay, umsindo bani lo eniw'khombile?",
+   "en": "Okay, which sound is this that you pointed to?",
+   "agree": 0.882
+  },
+  {
+   "i": 70,
+   "start": 228.86,
+   "end": 230.36,
+   "speaker": "Teacher",
+   "text": "Umsindo g.",
+   "en": "Sound g.",
+   "agree": 1.0
+  },
+  {
+   "i": 71,
+   "start": 230.56,
+   "end": 233.06,
+   "speaker": "Teacher",
+   "text": "Siyabonga mngani wami, umsindo g. Okay.",
+   "en": "Thank you my friend, sound g. Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 72,
+   "start": 233.36,
+   "end": 239.56,
+   "speaker": "Teacher",
+   "text": "Sithe lo msindo lo wakhiwe u-ni nobani? No-g.",
+   "en": "We said this sound is made of n and who? And g.",
+   "agree": 0.581
+  },
+  {
+   "i": 73,
+   "start": 244.41,
+   "end": 246.91,
+   "speaker": "Teacher",
+   "text": "Sengifuna manje umngani ozongifundela nanti igama.",
+   "en": "I want now a friend who will read this word for me.",
+   "agree": 1.0
+  },
+  {
+   "i": 74,
+   "start": 247.81,
+   "end": 248.41,
+   "speaker": "Teacher",
+   "text": "[learner]?",
+   "en": "[learner]?",
+   "agree": 0.9
+  },
+  {
+   "i": 75,
+   "start": 249.61,
+   "end": 250.11,
+   "speaker": "Teacher",
+   "text": "Kakhulu.",
+   "en": "Loudly.",
+   "agree": 1.0
+  },
+  {
+   "i": 76,
+   "start": 250.31,
+   "end": 251.31,
+   "speaker": "Learners",
+   "text": "Ingulube.",
+   "en": "Ingulube.",
+   "agree": 1.0
+  },
+  {
+   "i": 77,
+   "start": 251.61,
+   "end": 252.01,
+   "speaker": "Teacher",
+   "text": "Sonke.",
+   "en": "All of us.",
+   "agree": 1.0
+  },
+  {
+   "i": 78,
+   "start": 252.31,
+   "end": 253.81,
+   "speaker": "Learners",
+   "text": "Ingulube.",
+   "en": "Ingulube.",
+   "agree": 1.0
+  },
+  {
+   "i": 79,
+   "start": 254.01,
+   "end": 256.81,
+   "speaker": "Teacher",
+   "text": "Okay, walibeka u-miss igama elithi ingulube.",
+   "en": "Okay, miss placed the word ingulube.",
+   "agree": 0.024
+  },
+  {
+   "i": 80,
+   "start": 257.31,
+   "end": 258.31,
+   "speaker": "Teacher",
+   "text": "U-miss uphethe'ni?",
+   "en": "What is miss holding?",
+   "agree": 0.294
+  },
+  {
+   "i": 81,
+   "start": 258.81,
+   "end": 259.81,
+   "speaker": "Teacher",
+   "text": "Uphatheleni u-miss?",
+   "en": "What has miss brought?",
+   "agree": 0.444
+  },
+  {
+   "i": 82,
+   "start": 260.31,
+   "end": 261.81,
+   "speaker": "Learners",
+   "text": "Ingulube.",
+   "en": "Ingulube.",
+   "agree": 0.0
+  },
+  {
+   "i": 83,
+   "start": 262.31,
+   "end": 263.31,
+   "speaker": "Teacher",
+   "text": "U-miss uphethe'ni?",
+   "en": "What is miss holding?",
+   "agree": 0.0
+  },
+  {
+   "i": 84,
+   "start": 263.61,
+   "end": 265.31,
+   "speaker": "Learners",
+   "text": "Ingulube.",
+   "en": "Ingulube.",
+   "agree": 1.0
+  },
+  {
+   "i": 85,
+   "start": 265.81,
+   "end": 269.31,
+   "speaker": "Teacher",
+   "text": "Oh, okay bangani bami ngiyabonga. Niyayezwa yini?",
+   "en": "Oh, okay my friends, thank you. Do you hear?",
+   "agree": 0.935
+  },
+  {
+   "i": 86,
+   "start": 269.81,
+   "end": 270.31,
+   "speaker": "Teacher",
+   "text": "Njengamanje,",
+   "en": "Right now,",
+   "agree": 1.0
+  },
+  {
+   "i": 87,
+   "start": 272.53,
+   "end": 280.03,
+   "speaker": "Teacher",
+   "text": "Bangani ngiyabonga niyaziwa yini? Njengamanje ngizobeka la igama ngifuna ungakhele lona wena. Uzohlanganisa zonke izinhlamvu ungakhele igama.",
+   "en": "Friends, thank you, do you hear? Right now I will place a word here, I want you to build it for me. You will combine all the letters and build the word for me.",
+   "agree": 0.935
+  },
+  {
+   "i": 88,
+   "start": 280.13,
+   "end": 281.13,
+   "speaker": "Teacher",
+   "text": "Siyazwana bangani bami?",
+   "en": "Do we understand each other, my friends?",
+   "agree": 0.773
+  },
+  {
+   "i": 89,
+   "start": 281.63,
+   "end": 282.13,
+   "speaker": "Learners",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 90,
+   "start": 282.73,
+   "end": 285.03,
+   "speaker": "Teacher",
+   "text": "Ngifuna ungakhele igama elithi ngena. Uzongakhela igama elithini?",
+   "en": "I want you to build the word ngena. You will build what word for me?",
+   "agree": 1.0
+  },
+  {
+   "i": 91,
+   "start": 285.73,
+   "end": 286.73,
+   "speaker": "Learners",
+   "text": "Ngena!",
+   "en": "Ngena!",
+   "agree": 1.0
+  },
+  {
+   "i": 92,
+   "start": 287.33,
+   "end": 288.83,
+   "speaker": "Teacher",
+   "text": "Igama lethu lithi ngena, angithi?",
+   "en": "Our word is ngena, right?",
+   "agree": 1.0
+  },
+  {
+   "i": 93,
+   "start": 289.33,
+   "end": 290.53,
+   "speaker": "Teacher",
+   "text": "Okay. Sithole umngani.",
+   "en": "Okay. Let's find a friend.",
+   "agree": 0.95
+  },
+  {
+   "i": 94,
+   "start": 290.93,
+   "end": 291.53,
+   "speaker": "Teacher",
+   "text": "[learner]?",
+   "en": "[learner]?",
+   "agree": 1.0
+  },
+  {
+   "i": 95,
+   "start": 292.73,
+   "end": 293.73,
+   "speaker": "Teacher",
+   "text": "Ngena.",
+   "en": "Ngena.",
+   "agree": 1.0
+  },
+  {
+   "i": 96,
+   "start": 296.63,
+   "end": 298.93,
+   "speaker": "Teacher",
+   "text": "Thina sonke sithule simnikeze ithuba.",
+   "en": "All of us let's be quiet and give them a chance.",
+   "agree": 0.0
+  },
+  {
+   "i": 97,
+   "start": 302.55,
+   "end": 305.05,
+   "speaker": "Teacher",
+   "text": "Thina sonke sithule simnikeze ithuba.",
+   "en": "All of us let's be quiet and give them a chance.",
+   "agree": 1.0
+  },
+  {
+   "i": 98,
+   "start": 308.35,
+   "end": 308.95,
    "speaker": "Learner",
-   "kind": "classroom",
-   "text": "[learner].",
-   "en": "[learner]."
+   "text": "Ngena.",
+   "en": "Ngena.",
+   "agree": 1.0
   },
   {
-   "start": 331.93,
-   "end": 335.46,
+   "i": 99,
+   "start": 309.25,
+   "end": 310.05,
    "speaker": "Teacher",
-   "kind": "classroom",
-   "text": "Uyabona nje mina [learner] la. Ak'sena nje uzolo lo, izolo.",
-   "en": "You just see me [learner] here. It's no longer just this yesterday, yesterday."
+   "text": "Okay. Siyabonga.",
+   "en": "Okay. Thank you.",
+   "agree": 1.0
   },
   {
-   "start": 336.16,
-   "end": 343.16,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "have charts, teaching aids, bring along everything that they they think",
-   "en": "have charts, teaching aids, bring along everything that they they think"
+   "i": 100,
+   "start": 310.65,
+   "end": 312.85,
+   "speaker": "Teacher",
+   "text": "Okay, asibukeni lapha esifunda khona. Sonke siyafunda?",
+   "en": "Okay, let's look where we are reading. Are we all reading?",
+   "agree": 0.882
   },
   {
-   "start": 344.17,
-   "end": 345.22,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "could help the learner.",
-   "en": "could help the learner."
+   "i": 101,
+   "start": 313.15,
+   "end": 314.25,
+   "speaker": "Learners",
+   "text": "Ngena!",
+   "en": "Ngena!",
+   "agree": 1.0
   },
   {
-   "start": 345.8,
-   "end": 351.8,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "Because you cannot teach the young learner a new lesson, nothing on hand, just tell the learner orally.",
-   "en": "Because you cannot teach the young learner a new lesson, nothing on hand, just tell the learner orally."
+   "i": 102,
+   "start": 314.55,
+   "end": 314.95,
+   "speaker": "Teacher",
+   "text": "Sonke?",
+   "en": "All of us?",
+   "agree": 1.0
   },
   {
-   "start": 352.6,
-   "end": 354.8,
-   "speaker": "Teacher (interview)",
-   "kind": "interview",
-   "text": "They want to see, touch, practice, do.",
-   "en": "They want to see, touch, practice, do."
+   "i": 103,
+   "start": 315.55,
+   "end": 316.35,
+   "speaker": "Learners",
+   "text": "Ngena!",
+   "en": "Ngena!",
+   "agree": 1.0
+  },
+  {
+   "i": 104,
+   "start": 316.55,
+   "end": 322.05,
+   "speaker": "Teacher",
+   "text": "Oh, okay bangani bami, ngiyabonga kakhulu. Njengamanje sizokwenza umsebenzi. Nyezwa bangani bami?",
+   "en": "Oh, okay my friends, thank you very much. Right now we are going to do work. Do you hear, my friends?",
+   "agree": 0.989
+  },
+  {
+   "i": 105,
+   "start": 327.35,
+   "end": 328.75,
+   "speaker": "Teacher",
+   "text": "Okay, one, two, three, go.",
+   "en": "Okay, one, two, three, go.",
+   "agree": 1.0
+  },
+  {
+   "i": 106,
+   "start": 329.55,
+   "end": 331.75,
+   "speaker": "Learner",
+   "text": "Nga. Su. I.",
+   "en": "Nga. Su. I.",
+   "agree": 0.125
+  },
+  {
+   "i": 107,
+   "start": 333.81,
+   "end": 352.11,
+   "speaker": "Learner",
+   "text": "ki ze ju yi di wa e o me chi a h he i m u le ke m re ti wu si u wa po q p tsi shi bo c m",
+   "en": "ki ze ju yi di wa e o me chi a h they i m u le ke m re ti wu si u wa po q p tsi shi bo c m",
+   "agree": 0.682
+  },
+  {
+   "i": 108,
+   "start": 352.91,
+   "end": 355.31,
+   "speaker": "Learner",
+   "text": "o ji s zi q ti",
+   "en": "o ji s zi q ti",
+   "agree": 0.643
   }
  ],
  "score": {
@@ -616,12 +1009,19 @@
   "line": "Gemini 2.5 Pro on 32 FLEURS test recordings: 5.8% of characters wrong (CER 0.058); English control OpenAI gpt-4o-transcribe CER 0.016"
  },
  "agreement": {
-  "value": 0.1634,
-  "label": "AI-judged (proxy)",
-  "line": "On this classroom video the two best engines (Gemini 2.5 Pro, Gemini 3.5 Flash) disagree on 16.4% of characters; no human transcript exists for classroom audio, so this is a proxy, not an accuracy score."
+  "value": 0.083,
+  "agree_value": 0.917,
+  "label": "engine agreement (proxy)",
+  "display": "engines disagree on 8.3% of characters (proxy)",
+  "line": "On this 6-minute VVOB classroom recording two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) disagree on 8.3% of characters. No human transcript exists yet, so this is a proxy, not an accuracy score.",
+  "basis": "partner recording"
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
  },
  "sources": [
-  "fn-video-zu",
+  "fn-vvob-videos",
   "fn-fleurs"
  ]
 }

@@ -6,8 +6,8 @@
  "score": {
   "value": 9.616613418530351,
   "display": "9.6",
-  "label": "measured (automated) · native ear pending",
-  "line": "ElevenLabs eleven_v4: text → speech → text came back with a character error rate of 0.019 (6 sentences, measured). An AI listener rated how much it sounds like a first-language speaker 9.7 out of 10 (AI-judged); real Afrikaans speakers scored 9.5 on the same test. Native ear pending."
+  "label": "intelligible to a machine · one first-language listener: praised, not yet rated",
+  "line": "ElevenLabs eleven_v4: text → speech → text came back with 1.9% of characters lost (6 sentences, measured). That is intelligibility to a machine, not naturalness. One first-language listener on the 9 October call praised this voice; it has not been rated yet. Native ratings on the speaking review decide the voice."
  },
  "conversation": [
   {
@@ -338,20 +338,18 @@
   {
    "label": "Anneke - Calm, Kind, Deep · ElevenLabs eleven_v4",
    "mp3": "assets/audio/af_trial_1.mp3",
-   "cer": 0.021,
-   "nativeness": 6.0
+   "cer": 0.021
   },
   {
    "label": "Marike - Kind, Firm, Warm · ElevenLabs eleven_v4",
    "mp3": "assets/audio/af_trial_2.mp3",
-   "cer": 0.022,
-   "nativeness": 3.5
+   "cer": 0.022
   },
   {
    "label": "Anneke - Kind, Firm, Warm · ElevenLabs eleven_v4 (our first pick)",
    "mp3": "assets/audio/af_trial_3.mp3",
-   "cer": 0.022,
-   "nativeness": 6.3
+   "cer": 0.022
   }
- ]
+ ],
+ "nativeness_note": "AI-judged nativeness scores were removed from this file on 13 October 2026: the first native listeners showed them to be wrong."
 }

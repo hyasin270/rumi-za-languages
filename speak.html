@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Speaking review — Rumi in South African languages</title>
+<meta name="description" content="Listen to Rumi's voice in South African languages and tell us which voice sounds most like a first-language speaker.">
+<link rel="icon" type="image/png" href="assets/img/rumi-mark.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body class="review-page speak-page">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header"><div class="inner">
+  <a class="brand" href="index.html" aria-label="Rumi in South African languages — overview"><img src="assets/img/rumi-mark.png" alt="Rumi"><span>South African languages</span></a>
+  <nav class="lang-switch" aria-label="Pages">
+    <a href="index.html">Overview</a>
+    <a href="zu.html" lang="zu">isiZulu</a>
+    <a href="xh.html" lang="xh">isiXhosa</a>
+    <a href="st.html" lang="st">Sesotho</a>
+    <a href="review.html"><span class="nav-long">Listening review</span><span class="nav-short">Listen</span></a>
+    <a href="speak.html" aria-current="page"><span class="nav-long">Speaking review</span><span class="nav-short">Speak</span></a>
+  </nav>
+</div></header>
+<main id="main" class="review-main">
+  <section id="intro" class="review-intro">
+    <h1 data-copy="speak.meta.title"></h1>
+    <p class="lede" data-copy="speak.meta.lead"></p>
+    <p class="note" data-copy="speak.meta.dateline"></p>
+    <p class="note" data-copy="speak.meta.page_note"></p>
+    <p class="note review-link" data-copy="speak.meta.listen_line"></p>
+    <div class="card how">
+      <h2 class="subcard-title" data-copy="speak.howto.heading"></h2>
+      <ol class="how-steps" id="how-steps"></ol>
+      <p class="note" data-copy="speak.howto.time_note"></p>
+      <p class="note" id="privacy-line"></p>
+    </div>
+  </section>
+
+  <nav id="lang-tabs" class="rv-tabs" aria-label="Languages"></nav>
+  <div id="lang-share" class="rv-share-row"></div>
+
+  <form id="reviewer" class="rv-reviewer card" autocomplete="on" novalidate>
+    <p class="subcard-title rv-who" id="rv-who"></p>
+    <div class="rv-field">
+      <label for="rv-name" id="rv-name-label"></label>
+      <input id="rv-name" name="name" type="text" maxlength="60" required autocomplete="name" aria-describedby="rv-name-err">
+    </div>
+    <div class="rv-field">
+      <label for="rv-role" id="rv-role-label"></label>
+      <input id="rv-role" name="role" type="text" maxlength="60" autocomplete="organization-title">
+    </div>
+    <div class="rv-hp" aria-hidden="true"><label for="rv-website">Website</label><input id="rv-website" name="website" type="text" tabindex="-1" autocomplete="off"></div>
+    <p id="rv-name-err" class="rv-err" role="alert" hidden></p>
+    <p id="rv-closed" class="rv-closed" hidden></p>
+    <p id="rv-queue" class="rv-queue" role="status" hidden></p>
+    <p class="note rv-remember" id="rv-remember"></p>
+  </form>
+
+  <div id="banner" class="rv-banner" role="status" hidden></div>
+
+  <section id="blind" class="block sp-section" aria-labelledby="blind-h">
+    <h2 id="blind-h" data-copy="speak.blind.heading"></h2>
+    <div class="prose"><p class="lede" data-copy="speak.blind.lead"></p></div>
+    <div id="key-box"></div>
+    <div id="blind-host"></div>
+  </section>
+
+  <section id="shipped" class="block sp-section" aria-labelledby="shipped-h">
+    <h2 id="shipped-h" data-copy="speak.shipped.heading"></h2>
+    <div class="prose"><p class="lede" data-copy="speak.shipped.lead"></p></div>
+    <div id="shipped-host"></div>
+  </section>
+
+  <section id="sources" class="block">
+    <div id="fn-host"></div>
+  </section>
+</main>
+<footer class="site-footer"><p><img src="assets/img/rumi-mark.png" alt=""><span data-copy="speak.footer.line"></span></p></footer>
+<script src="assets/js/core.js"></script>
+<script src="assets/js/karaoke.js"></script>
+<script src="assets/js/feedback.js"></script>
+<script src="assets/js/speak-page.js"></script>
+</body>
+</html>

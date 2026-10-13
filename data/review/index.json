@@ -1155,7 +1155,8 @@
    "drive_file_id": null,
    "sources": [
     "fn-video-zu"
-   ]
+   ],
+   "hidden": true
   },
   {
    "id": "xh-mindset-phonics-tsh",
@@ -1190,7 +1191,8 @@
    "drive_file_id": null,
    "sources": [
     "fn-video-xh"
-   ]
+   ],
+   "hidden": true
   },
   {
    "id": "st-mindset-phonics-ng",
@@ -1225,7 +1227,8 @@
    "drive_file_id": null,
    "sources": [
     "fn-video-st"
-   ]
+   ],
+   "hidden": true
   },
   {
    "id": "st-nchlt-1",

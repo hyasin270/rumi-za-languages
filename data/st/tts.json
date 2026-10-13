@@ -6,8 +6,8 @@
  "score": {
   "value": 9.78984238178634,
   "display": "9.7",
-  "label": "measured (automated) · native ear pending",
-  "line": "ElevenLabs eleven_v4: text → speech → text came back with a character error rate of 0.011 (6 sentences, measured). An AI listener rated how much it sounds like a first-language speaker 10.0 out of 10 (AI-judged); real Sesotho speakers scored 9.9 on the same test. Native ear pending."
+  "label": "intelligible to a machine · first-language listeners: not yet natural",
+  "line": "ElevenLabs eleven_v4: text → speech → text came back with 1.1% of characters lost (6 sentences, measured). That is intelligibility to a machine, not naturalness. No first-language Sesotho speaker has heard this voice yet; it comes from the same engine as the isiZulu voice the first native listeners found not yet natural. Native ratings on the speaking review decide the voice."
  },
  "conversation": [
   {
@@ -358,20 +358,18 @@
   {
    "label": "Thandi · ElevenLabs eleven_v4",
    "mp3": "assets/audio/st_trial_1.mp3",
-   "cer": 0.025,
-   "nativeness": 8.0
+   "cer": 0.025
   },
   {
    "label": "Another designed Sesotho voice · ElevenLabs eleven_v4",
    "mp3": "assets/audio/st_trial_2.mp3",
-   "cer": 0.011,
-   "nativeness": 7.0
+   "cer": 0.011
   },
   {
    "label": "Grace (Soniox) · Soniox tts-rt-v2 (our first pick)",
    "mp3": "assets/audio/st_trial_3.mp3",
-   "cer": 0.049,
-   "nativeness": 2.0
+   "cer": 0.049
   }
- ]
+ ],
+ "nativeness_note": "AI-judged nativeness scores were removed from this file on 13 October 2026: the first native listeners showed them to be wrong."
 }

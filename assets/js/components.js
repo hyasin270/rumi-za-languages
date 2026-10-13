@@ -43,6 +43,8 @@
         const p = window.SyncPlayer && window.SyncPlayer.byLang[lang];
         if (p) p.seekPlay(Number(t));
         else if (Report.youtubeId) window.open(`https://www.youtube.com/watch?v=${Report.youtubeId}&t=${Math.floor(t)}s`, "_blank", "noopener");
+        // hosted partner recording with no player on this page: open it on the listening review at that moment
+        else if (Report.recId) location.href = `review.html?r=${encodeURIComponent(Report.recId)}&t=${Math.floor(t)}`;
       } }, "▶ " + fmt(t));
   }
   function bil(o, lang) {
@@ -56,7 +58,8 @@
   const Report = {
     mount(host, c, lang, o) {
       o = o || {};
-      Report.youtubeId = c.youtube_id;
+      Report.youtubeId = c.youtube_id || null;
+      Report.recId = c.rec_id || c.media_id || null;
       const { el, esc, chip, cite } = RZ();
       const card = el("div", { class: "card report" });
       const meta = el("div", { class: "meta" });

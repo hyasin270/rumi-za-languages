@@ -11,6 +11,7 @@
  * Feedback.onChange(fn)      called after any queue change / flush / send.
  * Feedback.list(recId)       GET /feedback?rec_id= → newest-first array, or null when the service cannot be reached.
  * Feedback.counts(ids)       {rec_id: n}: one GET per id, at most 4 in flight.
+ * Feedback.api()             the service's base URL (or null), for the speaking review's extra endpoints.
  */
 (function () {
   const QKEY = "rz.review.queue", RKEY = "rz.review.reviewer";
@@ -41,6 +42,7 @@
 
   const Feedback = {
     enabled: false,
+    api() { return API; },
     async init() {
       const cfg = await window.RZ.load("data/config.json");
       const base = cfg && typeof cfg.feedback_api === "string" ? cfg.feedback_api.trim().replace(/\/+$/, "") : "";

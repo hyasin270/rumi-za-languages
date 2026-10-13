@@ -334,11 +334,19 @@
   "licence": "Shared with us, not public"
  },
  {
+  "id": "fn-fw-videos",
+  "label": "Classroom and training recordings in isiXhosa, Sesotho and English, shared with the coalition for this review; the isiXhosa and Sesotho coaching scores are measured on the classroom ones",
+  "publisher": "Funda Wande (coalition partner)",
+  "year": 2026,
+  "url": "https://hyasin270.github.io/rumi-za-languages/review.html?lang=xh",
+  "licence": "Partner property, shared with us; hosted on the Listening review page and the language pages; comes down on request"
+ },
+ {
   "id": "fn-vvob-videos",
-  "label": "Three isiZulu teacher-training videos (phonics, vocabulary, shared reading), the material the isiZulu coaching score was measured on",
+  "label": "Classroom and training recordings in isiZulu, shared with the coalition for this review; the isiZulu coaching score is measured on the classroom ones, and in the first round on three training videos (phonics, vocabulary, shared reading)",
   "publisher": "VVOB (coalition partner)",
   "year": null,
   "url": "https://hyasin270.github.io/rumi-za-languages/review.html?lang=zu",
-  "licence": "Partner property, shared with us; hosted on the Listening review page"
+  "licence": "Partner property, shared with us; hosted on the Listening review page and the isiZulu page; comes down on request"
  }
 ]

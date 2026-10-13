@@ -4,8 +4,9 @@
  * A missing data file renders a "coming shortly" panel in its place; nothing else breaks.
  */
 (async function () {
-  // The three public demo lessons (title + channel credit only).
-  const VIDEOS = { zu: { title: "Phonics - isiZulu" }, xh: { title: 'Phonics "tsh" - isiXhosa' }, st: { title: 'Phonics "ng" - seSotho' } };
+  // The partner classroom recording each page plays (the same one the listening review hosts). data/<lang>/stt.json "media" wins;
+  // until it carries one, the page plays this recording from the review data, so it never falls back to a public video.
+  const PARTNER_REC = { zu: "zu-vvob-m6-l6", xh: "xh-fw-what-is-orf", st: "st-fw-syllable-cards" };
   const PARTNER = ["zu"];
   const RZ = window.RZ, lang = document.body.dataset.lang, $ = (id) => document.getElementById(id), esc = RZ.esc;
   await RZ.boot({ lang });
@@ -18,7 +19,22 @@
   const files = ["data/summary.json", `data/${lang}/vision.json`, `data/${lang}/lp.json`, `data/${lang}/stt.json`, `data/${lang}/coach.json`, `data/${lang}/tts.json`];
   // partner results exist for isiZulu only; fetching the file elsewhere would log a 404
   if (PARTNER.includes(lang)) files.push(`data/${lang}/partner_note.json`);
-  const [summary, vision, lp, stt, coach, tts, partner] = await Promise.all(files.map(RZ.load));
+  let [summary, vision, lp, stt, coach, tts, partner] = await Promise.all(files.map(RZ.load));
+  // partner recording: the hosted media + synced transcript + the coaching report on THAT recording
+  let rec = null;
+  const recId = (stt && stt.rec_id) || PARTNER_REC[lang];
+  if (recId) {
+    const index = await RZ.load("data/review/index.json");
+    rec = ((index && index.recordings) || []).find((r) => r.id === recId) || null;
+  }
+  if (!(stt && stt.media && (stt.media.src || stt.media.youtube_id)) && rec && rec.media && rec.media.src) {
+    const rv = await RZ.load(`data/review/${recId}.json`);
+    stt = rv ? Object.assign({}, rv, { lang, media: rec.media, title: rec.title_en || rec.title }) : null;
+  }
+  if (!(coach && (coach.media_id || coach.media)) && rec && rec.has_coaching !== false) {
+    const rc = await RZ.load(`data/review/${recId}.coach.json`);
+    if (rc) coach = rc;
+  }
   // word timings may be inline arrays or paths to JSON files
   if (lp && lp.voice_note) lp.voice_note.words = await RZ.words(lp.voice_note.words);
   if (coach && coach.voice) coach.voice.words = await RZ.words(coach.voice.words);
@@ -41,21 +57,17 @@
     else $("voicenote-host").innerHTML = RZ.soon(RZ.ui("soon_voicenote", "the voice note"));
   } else { $("lp-host").innerHTML = RZ.soon(RZ.ui("soon_lp", "the lesson-plan sample")); $("voicenote-host").innerHTML = RZ.soon(RZ.ui("soon_voicenote", "the voice note")); }
 
-  /* 2. listening */
-  if (stt) {
-    new SyncPlayer($("sync-host"), stt, { english: RZ.t("listening.english_toggle") });
+  /* 2. listening — a partner classroom recording, hosted, played through the review page's media adapter */
+  if (stt && stt.media) {
+    const credit = rec ? [rec.title_en || rec.title, rec.partner].filter(Boolean).join(" · ") : stt.title || "";
+    new SyncPlayer($("sync-host"), Object.assign({}, stt, { lang }), { key: lang, credit, english: RZ.t("listening.english_toggle") || undefined });
     const line = (s, key) => `<div class="score-line">${RZ.chip(s, { key })} <span class="note">${esc(RZ.score(s).line || "")}</span></div>`;
     $("stt-score").innerHTML = (stt.score ? (RZ.has("listening.score_line") ? `<div class="score-line">${RZ.chip(stt.score, { key: RZ.t("verdict.chips.Q2") || "Listening" })} <span class="note">${RZ.html("listening.score_line")}</span></div>` : line(stt.score, RZ.t("verdict.chips.Q2") || "Listening")) : "") +
       // two engines compared with each other: a proxy, never "AI-judged", whatever label the older data file carries
       (stt.agreement ? `<div class="score-line">${RZ.chip(Object.assign({}, RZ.score(stt.agreement), { label: "engine agreement (proxy)" }), { key: RZ.ui("stt_disagree", "Engines disagree on"), kind: Number(RZ.score(stt.agreement).value) <= 1 ? "pct-up" : "10" })} <span class="note">${
         RZ.has("listening.agreement_line") ? RZ.html("listening.agreement_line") : esc(RZ.score(stt.agreement).line || "")}</span></div>` : "") +
       ((stt.sources || []).length ? `<p class="note" style="margin-top:6px">${esc(RZ.ui("sources_label", "Sources"))} ${RZ.cite(stt.sources)}</p>` : "");
-  } else if (coach && coach.youtube_id) {
-    // transcript not delivered yet: still show the video so the report's timestamps can play it
-    const v = VIDEOS[lang] || {};
-    new SyncPlayer($("sync-host"), { lang, video: { youtube_id: coach.youtube_id, title: v.title || "", channel: "Mindset Teach", url: `https://www.youtube.com/watch?v=${coach.youtube_id}` }, turns: [] });
-    $("stt-score").innerHTML = RZ.soon(RZ.ui("soon_stt_text", "the synced transcript"));
-  } else $("sync-host").innerHTML = RZ.soon(RZ.ui("soon_stt", "the video with its synced transcript"));
+  } else $("sync-host").innerHTML = RZ.soon(RZ.ui("soon_stt", "the recording with its synced transcript"));
 
   /* 3. coaching (+ partner videos, isiZulu only) */
   if (coach) {
@@ -76,14 +88,22 @@
     const trials = tts.voice_trials || [];
     if (trials.length) {
       const pct = (x) => (Math.ceil(x * 1000 - 1e-9) / 10).toFixed(1) + "%";   // error rates round up
+      // round trip only: an AI-judged nativeness number never reaches the public page (first-language listeners disagreed with it)
       const items = trials.map((t) => `<li><span class="trial-label">${esc(t.label || "")}</span><audio controls preload="none" src="${esc(t.mp3 || "")}"></audio><span class="note">${
-        t.nativeness != null ? `AI-judged ${Number(t.nativeness).toFixed(1)}/10 for sounding native` : ""}${t.cer != null ? ` · ${pct(t.cer)} lost on the round trip` : ""}</span></li>`).join("");
+        t.cer != null ? `${pct(t.cer)} lost on the round trip (measured)` : ""}</span></li>`).join("");
       const box = document.createElement("div");
       box.className = "card trials";
       box.innerHTML = `<p class="subcard-title">${esc(RZ.t("speaking.trials_heading") || "Other voices we tried, reading the same sentence")}</p><ul class="trial-list">${items}</ul>`;
       (document.querySelector('[data-copy="speaking.note"]') || $("tts-score")).after(box);
     }
   } else $("chat-host").innerHTML = RZ.soon(RZ.ui("soon_tts", "the conversation"));
+  // the speaking review for this language
+  const sl = $("speak-link");
+  if (sl) {
+    if (RZ.has("speaking.review_line")) sl.innerHTML = RZ.html("speaking.review_line").replace(/href="speak\.html"/g, `href="speak.html?lang=${lang}"`);
+    else sl.innerHTML = `<a href="speak.html?lang=${lang}">${RZ.placeholder("speaking.review_line")}</a>`;
+    sl.hidden = false;
+  }
 
   RZ.renderFootnotes($("fn-host"));
   RZ.buildToc();

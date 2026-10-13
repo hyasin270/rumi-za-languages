@@ -398,10 +398,10 @@
    "label": "measured",
    "status_agreement_all": "12 of 15",
    "status_agreement_pairwise": 0.867,
-   "display": "Three independent readings gave the same status on 12 of 15 items"
+   "display": "The three readings agreed on what they saw in 12 of 15 items"
   },
   "n_runs": 3,
-  "score": 10.0,
+  "score": 9.5,
   "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
   "label": "measured",
   "line": "These numbers measure Rumi: whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."

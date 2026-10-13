@@ -325,7 +325,598 @@
   "lang": "Emva kokufunda, buza umbuzo omnye othi kutheni, ulinde kancinci, uze ucele umntwana omnye aphendule ngamazwi akhe.",
   "en": "After reading, ask one 'why' question, wait a little, then ask one child to answer in their own words."
  },
- "voice": null,
+ "voice": {
+  "mp3": "assets/audio/xh-fw-what-is-orf_debrief.mp3",
+  "words": [
+   {
+    "w": "Molo,",
+    "s": 0.0,
+    "e": 0.347
+   },
+   {
+    "w": "enkosi",
+    "s": 0.8,
+    "e": 1.28
+   },
+   {
+    "w": "ngokundivumela",
+    "s": 1.32,
+    "e": 2.24
+   },
+   {
+    "w": "ukuba",
+    "s": 2.32,
+    "e": 2.56
+   },
+   {
+    "w": "ndibukele",
+    "s": 2.64,
+    "e": 3.2
+   },
+   {
+    "w": "abantwana",
+    "s": 3.36,
+    "e": 3.68
+   },
+   {
+    "w": "befunda",
+    "s": 3.76,
+    "e": 4.24
+   },
+   {
+    "w": "ngokuvakalayo.",
+    "s": 4.28,
+    "e": 5.12
+   },
+   {
+    "w": "Ndiyithandile",
+    "s": 5.68,
+    "e": 6.4
+   },
+   {
+    "w": "indlela",
+    "s": 6.56,
+    "e": 6.76
+   },
+   {
+    "w": "omamele",
+    "s": 6.8,
+    "e": 7.28
+   },
+   {
+    "w": "ngayo",
+    "s": 7.36,
+    "e": 7.68
+   },
+   {
+    "w": "umntwana",
+    "s": 7.76,
+    "e": 8.16
+   },
+   {
+    "w": "ngamnye,",
+    "s": 8.24,
+    "e": 8.64
+   },
+   {
+    "w": "kwaye",
+    "s": 9.0,
+    "e": 9.28
+   },
+   {
+    "w": "xa",
+    "s": 9.36,
+    "e": 9.6
+   },
+   {
+    "w": "umntwana",
+    "s": 9.76,
+    "e": 10.16
+   },
+   {
+    "w": "ephosakele,",
+    "s": 10.24,
+    "e": 10.96
+   },
+   {
+    "w": "wamcela",
+    "s": 11.36,
+    "e": 11.84
+   },
+   {
+    "w": "ukuba",
+    "s": 11.92,
+    "e": 12.16
+   },
+   {
+    "w": "aphinde",
+    "s": 12.28,
+    "e": 12.56
+   },
+   {
+    "w": "afunde",
+    "s": 12.64,
+    "e": 13.2
+   },
+   {
+    "w": "apho",
+    "s": 13.32,
+    "e": 13.467
+   },
+   {
+    "w": "kubhalwe",
+    "s": 13.493,
+    "e": 13.92
+   },
+   {
+    "w": "khona,",
+    "s": 14.0,
+    "e": 14.32
+   },
+   {
+    "w": "waze",
+    "s": 14.72,
+    "e": 15.04
+   },
+   {
+    "w": "walungisa",
+    "s": 15.16,
+    "e": 15.6
+   },
+   {
+    "w": "ngokwakhe.",
+    "s": 15.68,
+    "e": 16.24
+   },
+   {
+    "w": "Ndiyithandile",
+    "s": 16.853,
+    "e": 17.52
+   },
+   {
+    "w": "nendlela",
+    "s": 17.56,
+    "e": 17.92
+   },
+   {
+    "w": "ekhawulezileyo",
+    "s": 18.0,
+    "e": 18.96
+   },
+   {
+    "w": "nenocwangco",
+    "s": 19.08,
+    "e": 19.84
+   },
+   {
+    "w": "okhumbuze",
+    "s": 19.92,
+    "e": 20.4
+   },
+   {
+    "w": "ngayo",
+    "s": 20.48,
+    "e": 20.8
+   },
+   {
+    "w": "zonke",
+    "s": 20.88,
+    "e": 21.28
+   },
+   {
+    "w": "izinambuzane",
+    "s": 21.4,
+    "e": 22.08
+   },
+   {
+    "w": "ezikwincwadi,",
+    "s": 22.16,
+    "e": 22.88
+   },
+   {
+    "w": "abantwana",
+    "s": 23.28,
+    "e": 23.76
+   },
+   {
+    "w": "bonke",
+    "s": 23.84,
+    "e": 24.24
+   },
+   {
+    "w": "bephendula.",
+    "s": 24.4,
+    "e": 25.04
+   },
+   {
+    "w": "Into",
+    "s": 25.84,
+    "e": 26.0
+   },
+   {
+    "w": "enye",
+    "s": 26.08,
+    "e": 26.4
+   },
+   {
+    "w": "endiyibonileyo",
+    "s": 26.48,
+    "e": 27.28
+   },
+   {
+    "w": "kukuba",
+    "s": 27.32,
+    "e": 27.6
+   },
+   {
+    "w": "imibuzo",
+    "s": 27.68,
+    "e": 28.24
+   },
+   {
+    "w": "ibikukukhumbula",
+    "s": 28.32,
+    "e": 29.2
+   },
+   {
+    "w": "kuphela,",
+    "s": 29.24,
+    "e": 29.76
+   },
+   {
+    "w": "kwaye",
+    "s": 30.12,
+    "e": 30.4
+   },
+   {
+    "w": "xa",
+    "s": 30.56,
+    "e": 30.72
+   },
+   {
+    "w": "ubuze",
+    "s": 30.88,
+    "e": 31.28
+   },
+   {
+    "w": "ukuba",
+    "s": 31.36,
+    "e": 31.6
+   },
+   {
+    "w": "isigcawu",
+    "s": 31.68,
+    "e": 32.12
+   },
+   {
+    "w": "sitya",
+    "s": 32.16,
+    "e": 32.48
+   },
+   {
+    "w": "ntoni,",
+    "s": 32.56,
+    "e": 32.88
+   },
+   {
+    "w": "impendulo",
+    "s": 33.28,
+    "e": 33.84
+   },
+   {
+    "w": "uyinike",
+    "s": 33.92,
+    "e": 34.4
+   },
+   {
+    "w": "wena.",
+    "s": 34.44,
+    "e": 34.72
+   },
+   {
+    "w": "Oku",
+    "s": 35.36,
+    "e": 35.52
+   },
+   {
+    "w": "kuthetha",
+    "s": 35.56,
+    "e": 36.0
+   },
+   {
+    "w": "ukuba",
+    "s": 36.08,
+    "e": 36.32
+   },
+   {
+    "w": "abantwana",
+    "s": 36.48,
+    "e": 36.88
+   },
+   {
+    "w": "abafumani",
+    "s": 36.96,
+    "e": 37.6
+   },
+   {
+    "w": "thuba",
+    "s": 37.68,
+    "e": 38.0
+   },
+   {
+    "w": "lokucinga",
+    "s": 38.12,
+    "e": 38.52
+   },
+   {
+    "w": "nzulu",
+    "s": 38.56,
+    "e": 38.96
+   },
+   {
+    "w": "nokuchaza",
+    "s": 39.28,
+    "e": 39.84
+   },
+   {
+    "w": "ukuba",
+    "s": 39.92,
+    "e": 40.16
+   },
+   {
+    "w": "kutheni",
+    "s": 40.2,
+    "e": 40.64
+   },
+   {
+    "w": "isigcawu",
+    "s": 40.72,
+    "e": 41.2
+   },
+   {
+    "w": "singesosinambuzane.",
+    "s": 41.28,
+    "e": 42.4
+   },
+   {
+    "w": "Inyathelo",
+    "s": 43.04,
+    "e": 43.6
+   },
+   {
+    "w": "elilandelayo:",
+    "s": 43.68,
+    "e": 44.76
+   },
+   {
+    "w": "buza",
+    "s": 45.12,
+    "e": 45.36
+   },
+   {
+    "w": "umbuzo",
+    "s": 45.44,
+    "e": 45.92
+   },
+   {
+    "w": "omnye",
+    "s": 46.04,
+    "e": 46.32
+   },
+   {
+    "w": "othi",
+    "s": 46.44,
+    "e": 46.587
+   },
+   {
+    "w": "kutheni,",
+    "s": 46.613,
+    "e": 47.2
+   },
+   {
+    "w": "ulinde",
+    "s": 47.6,
+    "e": 48.0
+   },
+   {
+    "w": "kancinci,",
+    "s": 48.04,
+    "e": 48.64
+   },
+   {
+    "w": "uze",
+    "s": 49.04,
+    "e": 49.28
+   },
+   {
+    "w": "ucele",
+    "s": 49.44,
+    "e": 49.68
+   },
+   {
+    "w": "umntwana",
+    "s": 49.76,
+    "e": 50.16
+   },
+   {
+    "w": "omnye",
+    "s": 50.24,
+    "e": 50.6
+   },
+   {
+    "w": "aphendule",
+    "s": 50.64,
+    "e": 51.2
+   },
+   {
+    "w": "ngamazwi",
+    "s": 51.24,
+    "e": 51.68
+   },
+   {
+    "w": "akhe.",
+    "s": 51.76,
+    "e": 52.08
+   },
+   {
+    "w": "Sele",
+    "s": 52.72,
+    "e": 52.88
+   },
+   {
+    "w": "unemibuzo",
+    "s": 52.96,
+    "e": 53.6
+   },
+   {
+    "w": "emihle",
+    "s": 53.72,
+    "e": 54.08
+   },
+   {
+    "w": "yokuqala,",
+    "s": 54.12,
+    "e": 54.8
+   },
+   {
+    "w": "ngoko",
+    "s": 55.2,
+    "e": 55.44
+   },
+   {
+    "w": "le",
+    "s": 55.52,
+    "e": 55.6
+   },
+   {
+    "w": "yinto",
+    "s": 55.64,
+    "e": 55.92
+   },
+   {
+    "w": "encinci",
+    "s": 56.04,
+    "e": 56.48
+   },
+   {
+    "w": "ongayongeza",
+    "s": 56.56,
+    "e": 57.2
+   },
+   {
+    "w": "lula.",
+    "s": 57.24,
+    "e": 57.6
+   },
+   {
+    "w": "Emva",
+    "s": 58.24,
+    "e": 58.48
+   },
+   {
+    "w": "koko",
+    "s": 58.587,
+    "e": 58.8
+   },
+   {
+    "w": "undixelele",
+    "s": 58.88,
+    "e": 59.52
+   },
+   {
+    "w": "ukuba",
+    "s": 59.6,
+    "e": 59.84
+   },
+   {
+    "w": "abantwana",
+    "s": 59.92,
+    "e": 60.4
+   },
+   {
+    "w": "baphendule",
+    "s": 60.48,
+    "e": 60.96
+   },
+   {
+    "w": "njani,",
+    "s": 61.04,
+    "e": 61.44
+   },
+   {
+    "w": "kuba",
+    "s": 61.76,
+    "e": 62.0
+   },
+   {
+    "w": "nam",
+    "s": 62.16,
+    "e": 62.32
+   },
+   {
+    "w": "ndifuna",
+    "s": 62.4,
+    "e": 62.8
+   },
+   {
+    "w": "ukufunda",
+    "s": 62.88,
+    "e": 63.36
+   },
+   {
+    "w": "kuwe.",
+    "s": 63.44,
+    "e": 63.76
+   },
+   {
+    "w": "Ndiyakuncoma",
+    "s": 64.28,
+    "e": 64.96
+   },
+   {
+    "w": "ngomsebenzi",
+    "s": 65.0,
+    "e": 65.52
+   },
+   {
+    "w": "wakho,",
+    "s": 65.6,
+    "e": 65.92
+   },
+   {
+    "w": "kwaye",
+    "s": 66.24,
+    "e": 66.48
+   },
+   {
+    "w": "ndilindele",
+    "s": 66.52,
+    "e": 67.12
+   },
+   {
+    "w": "ukubona",
+    "s": 67.2,
+    "e": 67.6
+   },
+   {
+    "w": "iseshoni",
+    "s": 67.72,
+    "e": 68.24
+   },
+   {
+    "w": "elandelayo.",
+    "s": 68.32,
+    "e": 69.04
+   }
+  ],
+  "script": "Molo, enkosi ngokundivumela ukuba ndibukele abantwana befunda ngokuvakalayo. Ndiyithandile indlela omamele ngayo umntwana ngamnye, kwaye xa umntwana ephosakele, wamcela ukuba aphinde afunde apho kubhalwe khona, waze walungisa ngokwakhe. Ndiyithandile nendlela ekhawulezileyo nenocwangco okhumbuze ngayo zonke izinambuzane ezikwincwadi, abantwana bonke bephendula. Into enye endiyibonileyo kukuba imibuzo ibikukukhumbula kuphela, kwaye xa ubuze ukuba isigcawu sitya ntoni, impendulo uyinike wena. Oku kuthetha ukuba abantwana abafumani thuba lokucinga nzulu nokuchaza ukuba kutheni isigcawu singesosinambuzane. Inyathelo elilandelayo: buza umbuzo omnye othi kutheni, ulinde kancinci, uze ucele umntwana omnye aphendule ngamazwi akhe. Sele unemibuzo emihle yokuqala, ngoko le yinto encinci ongayongeza lula. Emva koko undixelele ukuba abantwana baphendule njani, kuba nam ndifuna ukufunda kuwe. Ndiyakuncoma ngomsebenzi wakho, kwaye ndilindele ukubona iseshoni elandelayo.",
+  "en": "Hello, thank you for letting me watch the children reading aloud. I liked how you listened to each child, and when a child made a mistake, you asked them to read again where it was written, and they corrected it themselves. I also liked the quick and orderly way you recalled all the insects in the book, with all the children answering. One thing I saw is that the questions were only about remembering, and when you asked what the spider eats, you gave the answer yourself. This means the children do not get a chance to think deeply and explain why a spider is not an insect. Next step: ask one why question, wait a little, then ask one child to answer in their own words. You already have good starting questions, so this is a small thing you can add easily. Afterwards tell me how the children answered, because I also want to learn from you. I appreciate your work, and I look forward to seeing the next session.",
+  "engine": "ElevenLabs eleven_v4",
+  "voice": "Katlego (South African voice from the ElevenLabs library)",
+  "seconds": 69.2,
+  "label": "native ear pending",
+  "note_en": "Generated voice reading Rumi's debrief. A native speaker has not rated it yet."
+ },
  "accuracy": {
   "measures": "Rumi",
   "grounding": {
@@ -360,10 +951,10 @@
    "label": "measured",
    "status_agreement_all": "13 of 15",
    "status_agreement_pairwise": 0.911,
-   "display": "Three independent readings gave the same status on 13 of 15 items"
+   "display": "The three readings agreed on what they saw in 13 of 15 items"
   },
   "n_runs": 3,
-  "score": 10.0,
+  "score": 9.666666666666666,
   "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
   "label": "measured",
   "line": "These numbers measure Rumi: whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."

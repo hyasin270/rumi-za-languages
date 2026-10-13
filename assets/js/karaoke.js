@@ -2,7 +2,7 @@
  *
  * Karaoke.mount(host, {mp3, words:[{w,s,e}], en, label, compact})
  *   - requestAnimationFrame on audio.currentTime while playing; the word with s ≤ t < e is lit, earlier words are marked done;
- *   - click a word → seek there and play;
+ *   - click a word → seek there and play; with o.onWord(i, span) the click calls that instead (the speaking review's word flags);
  *   - controls: play/pause button (aria-label), a seek slider, elapsed / total time; Space on the slider toggles play;
  *   - only one Karaoke plays at a time on a page.
  * If words are missing, the text is shown without timing; if the mp3 is missing, a "coming shortly" note.
@@ -25,7 +25,7 @@
     const time = el("span", { class: "k-time", "aria-hidden": "true" }, "0:00");
     const text = el("div", { class: "k-text idle", lang: o.lang || null });
     const spans = words.map((w, i) => {
-      const s = el("span", { class: "k-word", "data-i": i, onclick: () => { audio.currentTime = Math.max(0, w.s); audio.play(); } }, w.w);
+      const s = el("span", { class: "k-word", "data-i": i, onclick: (e) => { if (o.onWord) return o.onWord(i, e.currentTarget); audio.currentTime = Math.max(0, w.s); audio.play(); } }, w.w);
       return s;
     });
     spans.forEach((s, i) => { text.append(s); if (i < spans.length - 1) text.append(" "); });
@@ -67,7 +67,7 @@
     range.addEventListener("keydown", (e) => { if (e.key === " ") { e.preventDefault(); audio.paused ? audio.play() : audio.pause(); } });
     all.push(audio);
     paint();
-    return { audio, root };
+    return { audio, root, spans };
   }
   window.Karaoke = { mount };
 })();

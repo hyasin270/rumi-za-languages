@@ -3,20 +3,22 @@
  "index.meta": {
   "title": "Can Rumi work in isiZulu, isiXhosa and Sesotho?",
   "subtitle": "Rumi in South African languages · Sepedi, Afrikaans and Setswana also tested",
-  "dateline": "Measured 7 October 2026 · every number is labelled measured, AI-judged or native ear pending",
+  "dateline": "Measured 7 to 13 October 2026 · every number is labelled measured, proxy, AI-judged or native ear",
   "nav_languages": "Languages",
   "nav_index": "Overview"
  },
  "index.answer": {
   "heading": "The answer",
-  "lead": "Yes, with three conditions. On automated tests in all three languages, Rumi plans lessons from the curriculum, transcribes classroom speech, drafts coaching and replies in voice notes. No native speaker has checked a word yet.",
+  "lead": "Yes, with three conditions. Automated tests in all three languages show Rumi planning lessons, transcribing classrooms, drafting coaching and replying in voice notes; the first native listeners found its voice understandable, not yet natural.",
   "bullets": [
    "Lesson plans and coaching are strong in all three languages; listening is the capability that separates them.",
+   "Speaking is intelligible to a machine but not yet natural to a first-language ear: the first native listeners heard pitch in the wrong places and sentence openings that start wrong, and lost the meaning of one line. Afrikaans was the one voice a first-language listener on that call praised.",
    "Six languages, four capabilities, about a hundred dollars of metered model and voice calls."
   ],
   "conditions_heading": "The three conditions",
   "table_heading": "The scores at a glance",
-  "table_note": "Scores are out of 10 and never round up. Click any cell to go to its evidence."
+  "table_note": "Scores are out of 10 and never round up. Click any cell to go to its evidence.",
+  "native_ear": "Native ear: the first native listeners heard the isiZulu voice on 9 October (understandable, not yet natural); no other output on this site has been checked by a first-language speaker yet."
  },
  "index.toc": {
   "heading": "On this page",
@@ -40,31 +42,31 @@
    "Structure check · real-word check · back-translation"
   ],
   "diagram_coach": [
-   "Classroom recording",
+   "Partner classroom recording",
    "Best transcription engine, second engine as a check",
    "Steps seen / partly / not observed, each with a timed quote",
    "Debrief: questions, five-step plan, next step",
    "Grounding · coverage · stability"
   ],
-  "review_line": "New: a [Listening review page](review.html) with the partners' own recordings. Anyone who speaks the language can play one, read what Rumi heard, and mark each line right or wrong; those checks become the first native-ear scores."
+  "review_line": "Two review pages, open to anyone who speaks the language: the [Listening review](review.html) plays the partners' own recordings beside what Rumi heard, line by line; the [Speaking review](speak.html) plays the same five sentences in five or six voices, blind, and asks which sounds like a first-language speaker. Those ratings become the first native-ear scores."
  },
  "index.languages": {
   "heading": "The three languages",
-  "lead": "Each page shows a lesson plan, a classroom video being transcribed, the coach's report on that video, and a conversation with Rumi speaking.",
+  "lead": "Each page shows a lesson plan, one of the partner's own classroom recordings being transcribed, the coach's report on that recording, and a conversation with Rumi speaking.",
   "cards": {
    "zu": {
     "name": "isiZulu",
-    "line": "The full stack, with coaching tested on partner training videos.",
+    "line": "The full stack on VVOB's own classroom recording; the voice the first native listeners heard.",
     "cta": "Open isiZulu"
    },
    "xh": {
     "name": "isiXhosa",
-    "line": "Strong lesson plans and voice; the hardest to transcribe and the weakest coaching prose.",
+    "line": "Strong lesson plans; the hardest to transcribe and the weakest coaching prose; now on a Funda Wande classroom recording.",
     "cta": "Open isiXhosa"
    },
    "st": {
     "name": "Sesotho",
-    "line": "A Sotho-Tswana language, tested to reach beyond the Nguni family; the cleanest page reading.",
+    "line": "A Sotho-Tswana language, tested to reach beyond the Nguni family; now on a Funda Wande classroom recording.",
     "cta": "Open Sesotho"
    }
   }
@@ -73,9 +75,9 @@
   "heading": "Also tested",
   "lead": "Sepedi, Afrikaans and Setswana ran the same tests without a page of their own; coaching was not run for Afrikaans and Setswana (no classroom recording sourced).",
   "lines": {
-   "nso": "Sepedi (Funda Wande's Limpopo language; not Sesotho): coaching was run on one public reading lesson [[fn:fn-video-nso]]. The transcription engines disagree most here (19.0% to 36.6% of classroom characters on two public lessons [[fn:fn-video-nso-2]], proxy: two engines compared), so the agreement gate matters most.",
-   "af": "Afrikaans: the strongest listening of the six; its voice, Paul Steyn, is a first-language Afrikaans voice from the ElevenLabs library.",
-   "tn": "Setswana: the winning engine is fragile on longer audio, so the runner-up is the safer choice; the voice is designed to sound like a first-language Setswana speaker."
+   "nso": "Sepedi (Funda Wande's Limpopo language; not Sesotho): coaching was run on one public reading lesson [[fn:fn-video-nso]]. The transcription engines disagree most here (19.0% to 36.6% of classroom characters on two public lessons [[fn:fn-video-nso-2]], proxy: two engines compared), so the agreement gate matters most. Its voice has not been heard by a first-language speaker; the isiZulu findings apply until the [speaking review](speak.html?lang=nso) says otherwise.",
+   "af": "Afrikaans: the strongest listening of the six; its voice, Paul Steyn, is a first-language Afrikaans voice from the ElevenLabs library, and the one voice a first-language listener on the 9 October call praised. It has not been rated yet: [rate the Afrikaans voices →](speak.html?lang=af).",
+   "tn": "Setswana: the winning engine is fragile on longer audio, so the runner-up is the safer choice; the voice is designed to sound like a first-language Setswana speaker and has not been heard by one yet: [rate the Setswana voices →](speak.html?lang=tn)."
   },
   "note": "Sesotho and Setswana listening is scored on short read phone prompts with their own South African English control [[fn:fn-nchlt]], not the sentence set used for the other four [[fn:fn-fleurs]]; the two are not comparable."
  },
@@ -105,12 +107,12 @@
     "Rumi"
    ],
    [
-    "Review the flagged lesson phrases (about seventy across six languages), one transcript and one voice note",
+    "Review the flagged lesson phrases (about seventy across six languages) and one transcript; rate the voices on the speaking review",
     "all six",
     "one Foundation Phase teacher or coach per language, about an hour"
    ],
    [
-    "Record one consented three-minute clip per language, so Rumi speaks in a South African coach's own voice",
+    "Let native ratings pick the voice and the intonation settings per language, then record one consented three-minute clip per language so Rumi speaks in a South African coach's own voice",
     "isiZulu, isiXhosa, Sesotho, Sepedi, Setswana",
     "partners"
    ],
@@ -125,7 +127,7 @@
     "Rumi"
    ],
    [
-    "Make every pilot teacher a rater: one sentence of Rumi's voice, then a tick, a cross or a \"say it right\" reply",
+    "Make every pilot teacher a rater: one sentence of Rumi's voice, then natural, understandable or lost, and a \"say it right\" reply",
     "all",
     "Rumi, from onboarding"
    ]
@@ -133,11 +135,12 @@
  },
  "index.partners": {
   "heading": "What the partners can give us",
-  "lead": "Four things, in order of how much each moves the numbers.",
+  "lead": "Five things, in order of how much each moves the numbers.",
   "bullets": [
-   "Native-speaker ratings: an hour each from a teacher or coach in each of the six languages.",
-   "A coach's voice: one consented three-minute recording per language.",
-   "Classroom recordings and structured lesson plans in isiXhosa, Sesotho and Sepedi; one Afrikaans recording completes the table.",
+   "Native ears on the voice: ten minutes per language on the speaking review, from a teacher or coach who speaks it at home; the Sesotho and Sepedi reviewers named on the call most of all.",
+   "Native ears on the transcripts: an hour per language on the listening review.",
+   "Raw, phone-recorded classroom audio, the way a teacher would actually record it: Funda Wande's raw isiXhosa footage, VVOB's KwaZulu-Natal and Mpumalanga footage. Every recording so far was produced with a microphone on the teacher.",
+   "A coach's voice: one consented three-minute recording per language, once native ratings have picked the engine.",
    "The coaching course as used in the field: its observation tool, the teacher reflection instrument, and term plans or pacing guides per grade."
   ]
  },
@@ -177,21 +180,21 @@
   "lead": "Every document, recording and dataset used, linked to the exact file. The partners' own recordings play on the Listening review page; their coaching course is credited but not public."
  },
  "index.footer": {
-  "line": "Built by Rumi. Lesson plans, transcripts, reports and voices on this site are Rumi drafts, not yet reviewed by a first-language speaker.",
-  "video_credit": "Classroom videos are Mindset Teach lessons, embedded from YouTube and credited by title and channel [[fn:fn-video-zu]] [[fn:fn-video-xh]] [[fn:fn-video-st]]. Learners' names are replaced by [learner]."
+  "line": "Built by Rumi. Lesson plans, transcripts, reports and voices on this site are Rumi drafts. The first native listeners have heard the isiZulu voice; nothing else has been checked by a first-language speaker yet.",
+  "video_credit": "Classroom recordings on the language pages were shared by VVOB and Funda Wande for this review and play from this site; they come down on request. Learners' names are replaced by [learner]. Public Mindset Teach lessons used in the first round stay in the sources [[fn:fn-video-zu]] [[fn:fn-video-xh]] [[fn:fn-video-st]]."
  },
  "zu": {
   "verdict": {
    "heading": "isiZulu at a glance",
-   "native_ear": "Native ear pending: no first-language isiZulu speaker has checked any output on this page.",
+   "native_ear": "Native ear: two first-language isiZulu speakers from the coalition heard Rumi's voice on 9 October and found it understandable, not yet natural; one read two of the lesson plans and called the pedagogy sound. No line on this page has been checked word by word yet.",
    "chips": {
     "Q1": "Lesson plans",
     "Q2": "Listening",
     "Q3": "Coaching",
     "Q4": "Speaking"
    },
-   "lead": "GREEN on all four tests, and the only language where coaching was measured on partner material: three VVOB training videos, which now play on the Listening review page with all of VVOB's recordings.",
-   "material": "Material: CAPS [[fn:fn-caps-zu]], the Grade 1 workbook [[fn:fn-wb-zu]], three readers [[fn:fn-asb-zu]], a speech set [[fn:fn-fleurs]], three partner videos [[fn:fn-vvob-videos]], two public lessons [[fn:fn-video-zu]] [[fn:fn-video-zu-2]]."
+   "lead": "GREEN on all four automated tests, and the language the first native listeners heard: the voice is understandable, not yet natural. Listening and coaching below run on VVOB's own classroom recording, Module 6 · Phonics · Lesson 6 · Checking sounds; coaching was also measured on three VVOB training videos.",
+   "material": "Material: CAPS [[fn:fn-caps-zu]], the Grade 1 workbook [[fn:fn-wb-zu]], three readers [[fn:fn-asb-zu]], a speech set [[fn:fn-fleurs]], VVOB's classroom and training recordings [[fn:fn-vvob-videos]]; two public lessons in the first round [[fn:fn-video-zu]] [[fn:fn-video-zu-2]]."
   },
   "lesson_plans": {
    "heading": "Lesson plans",
@@ -232,41 +235,47 @@
   "listening": {
    "heading": "Listening",
    "english_toggle": "English",
-   "names_note": "Names in the video become [learner], [teacher] and [school]. Remarks to camera are labelled \"Teacher (interview)\" and are not coached.",
+   "names_note": "Names in the recording become [learner], [teacher] and [school]. Remarks to camera are labelled \"Teacher (interview)\" and are not coached.",
    "score_line": "Gemini 2.5 Pro on 32 read sentences with human transcripts: 5.8% of characters wrong; English from the same set 1.6%.",
-   "agreement_line": "On this video the two best engines disagree on 16.4% of characters. No human transcript exists for classroom audio, so this is a proxy, not an accuracy score.",
+   "agreement_line": "On this recording (VVOB, Module 6 · Phonics · Lesson 6 · Checking sounds) the two best engines agree on 91.7% of characters and disagree on 8.3%. No written isiZulu transcript exists for it, so this is a proxy, not an accuracy score; 6 lines the engine heard in silence were removed.",
    "lead": "Score 8.8: the best engine gets 5.8% of characters wrong on read isiZulu.",
    "bullets": [
-    "The runner-up is under two points behind; a second set of short phone prompts agrees [[fn:fn-nchlt]]. On this video the engines disagree mostly on names, chants and songs.",
+    "The runner-up is under two points behind; a second set of short phone prompts agrees [[fn:fn-nchlt]]. On VVOB's recordings the engines disagree mostly on names, chants and songs.",
     "A two-engine agreement gate stops a misheard name becoming a coaching question, as once happened in an earlier run."
    ],
    "review_line": "Help us check: [review the isiZulu recordings →](review.html?lang=zu) and mark each line right or wrong. No first-language speaker has done this yet.",
-   "partner_line": "On 19 of VVOB's 25 isiZulu recordings (48 of 79 minutes) the two engines agree on 91.0% of characters, and on the classroom lessons alone 88.1% (proxy: two engines compared, not checked against a person). That is the small gap from read speech we expect in a classroom. No written isiZulu transcript exists for these recordings, so their only measured accuracy will come from reviewers' corrections."
+   "partner_line": "On 19 of VVOB's 25 isiZulu recordings (48 of 79 minutes) the two engines agree on 91.0% of characters, and on the classroom lessons alone 88.1% (proxy: two engines compared, not checked against a person). That is the small gap from read speech we expect in a classroom. No written isiZulu transcript exists for these recordings, so their only measured accuracy will come from reviewers' corrections.",
+   "playing_line": "Playing: Module 6 · Phonics · Lesson 6 · Checking sounds, a VVOB classroom recording, with Rumi's transcript beside it. [Open it on the Listening review →](review.html?r=zu-vvob-m6-l6) to mark lines right or wrong."
   },
   "coaching": {
    "heading": "Coaching",
    "not_graded": "The teacher is never graded: steps seen, partly seen or not observed, each with a timed quote, and one next step.",
    "accuracy_heading": "How well Rumi observed",
-   "accuracy_note": "These measure Rumi, not the teacher: quotes found, items filled, agreement across three runs.",
+   "accuracy_note": "These measure Rumi, not the teacher: quotes found, items filled, and whether three readings saw the same thing. Readings are compared with each other, not yet checked by a coach.",
    "debrief_heading": "The spoken debrief",
-   "lead": "Score 9.6 comes from three VVOB training videos [[fn:fn-vvob-videos]] (they play on the Listening review page): 97.2% of quotes found, 93.3% of steps addressed, three runs in close agreement. Below, a full report on the public lesson above.",
+   "lead": "Score 9.4, measured on VVOB's own classroom recording, Module 6 · Phonics · Lesson 6 · Checking sounds: 22 of 22 of Rumi's quotes found word for word in a classroom turn, 17 of 17 report items filled, and the three readings agreed on what they saw in 10 of 10 items. Measures Rumi, not the teacher; readings compared with each other, not yet checked by a coach.",
    "bullets": [
-    "The instrument discriminates: a staged demonstration and a real lesson of the same strand came out clearly apart; the stricter reader used below named a blockage a more lenient model missed.",
-    "AI-judged, beside the score: feedback prose 5.0 out of 10 (understandable, not natural); 21.7% of factual claims flagged unsupported, an over-count including evaluative lines."
-   ]
+    "The report below is on the recording that plays above; every timestamp seeks it. On two other VVOB lessons, Module 10 · Group guided reading and Module 13 · Lesson 5, part B, the three readings did not even agree on what kind of lesson they were watching; the score now moves when readings disagree.",
+    "The score rose from the first round because the reader changed (three independent readings that check their own quotes, where the first round used one lighter model) and the material changed (produced partner films, a microphone on the teacher); it does not mean Rumi got better.",
+    "AI-judged, beside the score and from the first round: feedback prose 5.0 out of 10 (understandable, not natural)."
+   ],
+   "debrief_note": "The debrief is read by the same voice as the conversation below, so the first native listeners' findings apply to it too: understandable, not yet natural."
   },
   "speaking": {
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
-   "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models and still need a native ear.",
-   "score_line": "ElevenLabs eleven_v4, voice Neo: 0.2% of characters lost on the text-to-speech-to-text round trip (6 sentences, measured). An AI listener rated it 9.8 out of 10 for sounding like a first-language speaker; real isiZulu speakers scored 9.5 on the same blind test (AI-judged). Native ear pending.",
-   "lead": "Score 9.9: Neo loses 0.2% of characters on the round trip, and an AI listener rates it about as native as real isiZulu speakers.",
-   "note": "We auditioned South African voices from the ElevenLabs library and voices designed as first-language speakers; the runners-up are below. Every nativeness number comes from blind side-by-side sets that hide a real speaker's recording among the voices, so read it against the real speakers' score. Near the top the judge cannot tell the voices apart."
+   "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models; the words still need a native ear, and the voice has had its first one.",
+   "score_line": "ElevenLabs eleven_v4, voice Neo: 0.2% of characters lost on the text-to-speech-to-text round trip (6 sentences, measured). That is intelligibility to a machine, not naturalness. An AI listener had rated this voice as native-sounding; the first native listeners showed that rating to be wrong, so no AI-judged nativeness number appears on this site any more.",
+   "lead": "Score 9.9 measures one thing: a machine recovers the words (0.2% lost on the round trip). Two first-language isiZulu speakers from the coalition listened on 9 October and found the voice understandable, not yet natural.",
+   "note": "What we are doing about it: a blind speaking review in which five or six voices read the same five sentences and first-language listeners rate each one, with intonation-tuned variants of the best voice among them; native ratings, not a machine, decide which voice ships. The earlier auditions below are kept for the record; their AI-judged scores are not.",
+   "listeners_line": "What they heard: pitch rising where isiZulu does not rise; sentence openings that start differently from how a person speaks; the greeting Sawubona pitched as no speaker would pitch it; one line whose meaning was lost in the rise and fall; and more English words than a teacher would use. The written text, they said, is correct. On the same call, the Afrikaans voice was the one a listener praised.",
+   "review_line": "Help us choose: [rate the isiZulu voices →](speak.html?lang=zu). The same five sentences in five or six voices, blind; about ten minutes.",
+   "trials_heading": "Earlier auditions, reading the same sentence (round-trip loss only)"
   },
   "ship": {
    "heading": "What it would take to ship isiZulu",
    "bullets": [
-    "Use the best-scoring transcription engine with the agreement gate; an hour from a first-language coach (fourteen phrases, one transcript, one voice note) and a three-minute recording for an isiZulu voice."
+    "Use the best-scoring transcription engine with the agreement gate; an hour from a first-language coach (fourteen phrases, one transcript) and ten minutes on the speaking review; then a three-minute recording for an isiZulu voice, in the engine and settings native ratings pick."
    ]
   },
   "footnotes": {
@@ -276,15 +285,15 @@
  "xh": {
   "verdict": {
    "heading": "isiXhosa at a glance",
-   "native_ear": "Native ear pending: no first-language isiXhosa speaker has checked any output on this page.",
+   "native_ear": "Native ear pending: no first-language isiXhosa speaker has checked any output on this page. The voice comes from the same engine as the isiZulu voice the first native listeners found not yet natural.",
    "chips": {
     "Q1": "Lesson plans",
     "Q2": "Listening",
     "Q3": "Coaching",
     "Q4": "Speaking"
    },
-   "lead": "GREEN on all four tests, with the hardest listening of the six and the weakest coaching prose; coaching measured on one public lesson.",
-   "material": "Material: CAPS [[fn:fn-caps-xh]], the Grade 1 workbook [[fn:fn-wb-xh]], three readers [[fn:fn-asb-xh]], a speech set [[fn:fn-fleurs]], one public lesson [[fn:fn-video-xh]]. Funda Wande's recordings are still owed."
+   "lead": "GREEN on all four automated tests, with the hardest listening of the six and the weakest coaching prose. Listening and coaching below run on Funda Wande's own classroom recording, What is oral reading fluency, part 1.",
+   "material": "Material: CAPS [[fn:fn-caps-xh]], the Grade 1 workbook [[fn:fn-wb-xh]], three readers [[fn:fn-asb-xh]], a speech set [[fn:fn-fleurs]], Funda Wande's classroom recordings; one public lesson in the first round [[fn:fn-video-xh]]."
   },
   "lesson_plans": {
    "heading": "Lesson plans",
@@ -325,41 +334,46 @@
   "listening": {
    "heading": "Listening",
    "english_toggle": "English",
-   "names_note": "Names in the video become [learner], [teacher] and [school]. Remarks to camera are labelled \"Teacher (interview)\" and are not coached.",
+   "names_note": "Names in the recording become [learner], [teacher] and [school]. Remarks to camera are labelled \"Teacher (interview)\" and are not coached.",
    "score_line": "Gemini 2.5 Pro on 40 read sentences with human transcripts: 11.0% of characters wrong; English from the same set 1.6%.",
-   "agreement_line": "On this video the two best engines disagree on 15.1% of characters. No human transcript exists for classroom audio, so this is a proxy, not an accuracy score.",
+   "agreement_line": "On this recording (Funda Wande, What is oral reading fluency, part 1) the two best engines agree on 83.0% of characters and disagree on 17.0%. No written isiXhosa transcript exists for it, so this is a proxy, not an accuracy score.",
    "lead": "Score 7.8: the best engine gets 11.0% of characters wrong on read isiXhosa, the highest error of the six.",
    "bullets": [
     "The next engine is about three points behind. Across the three public isiXhosa clips [[fn:fn-video-xh-2]] [[fn:fn-video-xh-3]] the two best engines disagree on 14.8% to 28.1% of characters (proxy: two engines compared), so the agreement gate is mandatory here."
    ],
    "review_line": "Help us check: [review the isiXhosa recordings →](review.html?lang=xh) and mark each line right or wrong. No first-language speaker has done this yet.",
-   "partner_line": "The score above overstates how well Rumi hears an isiXhosa classroom. On Funda Wande's isiXhosa classroom recordings the two engines disagree on about a quarter of characters (25.5%, proxy: two engines compared, not checked against a person), while a meaning check against the partner's own English subtitles scores 8.5 of 10 (AI-judged). isiXhosa classroom audio is where native reviewers' corrections matter most."
+   "partner_line": "The score above overstates how well Rumi hears an isiXhosa classroom. On Funda Wande's isiXhosa classroom recordings the two engines disagree on about a quarter of characters (25.5%, proxy: two engines compared, not checked against a person), while a meaning check against the partner's own English subtitles scores 8.5 of 10 (AI-judged). isiXhosa classroom audio is where native reviewers' corrections matter most.",
+   "playing_line": "Playing: What is oral reading fluency, part 1, a Funda Wande classroom recording, with Rumi's transcript beside it. [Open it on the Listening review →](review.html?r=xh-fw-what-is-orf) to mark lines right or wrong."
   },
   "coaching": {
    "heading": "Coaching",
    "not_graded": "The teacher is never graded: steps seen, partly seen or not observed, each with a timed quote, and one next step.",
    "accuracy_heading": "How well Rumi observed",
-   "accuracy_note": "These measure Rumi, not the teacher: quotes found, items filled, agreement across three runs.",
+   "accuracy_note": "These measure Rumi, not the teacher: quotes found, items filled, and whether three readings saw the same thing. Readings are compared with each other, not yet checked by a coach.",
    "debrief_heading": "The spoken debrief",
-   "lead": "Score 7.6, the lowest: the coaching model found 92.3% of its quotes in the transcript but addressed only 60.0% of steps, and its three runs agreed least.",
+   "lead": "Score 9.5, measured on Funda Wande's own classroom recording, What is oral reading fluency, part 1: 12 of 12 of Rumi's quotes found word for word in a classroom turn, 22 of 22 report items filled, and the three readings agreed on what they saw in 13 of 15 items. Measures Rumi, not the teacher; readings compared with each other, not yet checked by a coach.",
    "bullets": [
-    "Measured on this public phonics lesson (the sound \"tsh\") with the instrument mapped from the isiZulu course, so its fit is approximate.",
-    "Coverage fell because many evidence quotes were shorter than the four words we require.",
-    "AI-judged, beside the score: feedback prose 2.5 out of 10, the weakest finding on this site; 23.1% of factual claims flagged unsupported."
-   ]
+    "The report below is on the recording that plays above; every timestamp seeks it. The instrument is mapped from the isiZulu coaching course, so its fit for isiXhosa is approximate; two Funda Wande recordings is a small sample.",
+    "The score rose from the first round because the reader changed (three independent readings that check their own quotes, where the first round used one lighter model) and the material changed (produced partner films, a microphone on the teacher); it does not mean Rumi got better.",
+    "AI-judged, beside the score and from the first round: feedback prose 2.5 out of 10, the weakest finding on this site."
+   ],
+   "debrief_note": "The debrief is read by the same voice as the conversation below, so the first native listeners' findings apply to it too: understandable, not yet natural."
   },
   "speaking": {
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
-   "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models and still need a native ear.",
-   "score_line": "ElevenLabs eleven_v4, voice Katlego: 1.1% of characters lost on the round trip (6 sentences, measured). An AI listener rated it 10.0 out of 10 for sounding like a first-language speaker, above real isiXhosa speakers (8.7) on the same blind test: that is the judge's ceiling, not a better-than-native voice (AI-judged).",
-   "lead": "Score 9.7, labelled intelligibility uncertain: Katlego loses 1.1% of characters on the round trip, but a second listener engine loses 14.5%, so a native ear decides.",
-   "note": "Katlego stayed the pick after a new audition; no other voice was both as clear and as native-sounding. Against human recordings the voice adds 15.8% of error (AI-judged). The runners-up are below. A native ear decides."
+   "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models; the words still need a native ear, and the voice has had its first one.",
+   "score_line": "ElevenLabs eleven_v4, voice Katlego: 1.1% of characters lost on the text-to-speech-to-text round trip (6 sentences, measured). That is intelligibility to a machine, not naturalness. An AI listener had rated this voice as native-sounding; the first native listeners showed that rating to be wrong, so no AI-judged nativeness number appears on this site any more.",
+   "lead": "Score 9.7, labelled intelligibility uncertain: Katlego loses 1.1% of characters on the round trip, but a second listener engine loses 14.5%. No first-language isiXhosa speaker has heard it yet.",
+   "note": "What we are doing about it: a blind speaking review in which five or six voices read the same five sentences and first-language listeners rate each one, with intonation-tuned variants of the best voice among them; native ratings, not a machine, decide which voice ships. The earlier auditions below are kept for the record; their AI-judged scores are not.",
+   "listeners_line": "The isiZulu voice from the same engine was heard by two first-language speakers on 9 October: understandable, not yet natural, with the pitch wrong at sentence openings and the meaning of one line lost. We assume the same of this voice until the speaking review says otherwise.",
+   "review_line": "Help us choose: [rate the isiXhosa voices →](speak.html?lang=xh). The same five sentences in five or six voices, blind; about ten minutes.",
+   "trials_heading": "Earlier auditions, reading the same sentence (round-trip loss only)"
   },
   "ship": {
    "heading": "What it would take to ship isiXhosa",
    "bullets": [
-    "Funda Wande's classroom recordings and lesson plans; a reviewer for the click vocabulary, the ten phrases and the voice; the same transcription engine and gate as isiZulu, plus a page-reader fix for repeated table cells."
+    "Funda Wande's remaining classroom recordings and lesson plans; a reviewer for the click vocabulary, the ten phrases and the voice (ten minutes on the speaking review); the same transcription engine and gate as isiZulu, plus a page-reader fix for repeated table cells."
    ]
   },
   "footnotes": {
@@ -369,15 +383,15 @@
  "st": {
   "verdict": {
    "heading": "Sesotho at a glance",
-   "native_ear": "Native ear pending: no first-language Sesotho speaker has checked any output on this page.",
+   "native_ear": "Native ear pending: no first-language Sesotho speaker has checked any output on this page. The voice comes from the same engine as the isiZulu voice the first native listeners found not yet natural.",
    "chips": {
     "Q1": "Lesson plans",
     "Q2": "Listening",
     "Q3": "Coaching",
     "Q4": "Speaking"
    },
-   "lead": "GREEN on all four tests with the cleanest page reading of the six; listening uses a different test set.",
-   "material": "Material: CAPS [[fn:fn-caps-st]], the Grade 1 workbook [[fn:fn-wb-st]], three readers [[fn:fn-asb-st]], short read phone prompts [[fn:fn-nchlt]], one public lesson [[fn:fn-video-st]]. Partner recordings are still owed."
+   "lead": "GREEN on all four automated tests with the cleanest page reading of the six; listening uses a different test set. Listening and coaching below run on Funda Wande's own classroom recording, Building words with syllable cards.",
+   "material": "Material: CAPS [[fn:fn-caps-st]], the Grade 1 workbook [[fn:fn-wb-st]], three readers [[fn:fn-asb-st]], short read phone prompts [[fn:fn-nchlt]], Funda Wande's classroom recordings; one public lesson in the first round [[fn:fn-video-st]]."
   },
   "lesson_plans": {
    "heading": "Lesson plans",
@@ -418,42 +432,47 @@
   "listening": {
    "heading": "Listening",
    "english_toggle": "English",
-   "names_note": "Names in the video become [learner], [teacher] and [school]. Remarks to camera are labelled \"Teacher (interview)\" and are not coached.",
+   "names_note": "Names in the recording become [learner], [teacher] and [school]. Remarks to camera are labelled \"Teacher (interview)\" and are not coached.",
    "score_line": "Gemini 3.5 Flash on 70 short read prompts with human transcripts: 10.9% of characters wrong; that corpus's South African English control 2.1%.",
-   "agreement_line": "On this video the two best engines disagree on 25.8% of characters. No human transcript exists for classroom audio, so this is a proxy, not an accuracy score.",
+   "agreement_line": "On this recording (Funda Wande, Building words with syllable cards) the two best engines agree on 84.3% of characters and disagree on 15.7%. No written Sesotho transcript exists for it, so this is a proxy, not an accuracy score.",
    "lead": "Score 7.8: the best engine gets 10.9% of characters wrong on short read Sesotho prompts.",
    "bullets": [
     "The main public sentence set has no Sesotho, so the score uses short phone prompts [[fn:fn-nchlt]] with their own English control; not comparable with isiZulu or isiXhosa.",
-    "On this video the engines disagree on a noisy chorus and spelling turns; the other public clip [[fn:fn-video-st-2]] gives 23.9%. One slip reached the coach: n and g heard as \"m\" and \"kh\"."
+    "On the two public Sesotho lessons of the first round the engines disagreed on 25.8% and 23.9% of characters, on a noisy chorus and spelling turns; one slip reached the coach there (n and g heard as \"m\" and \"kh\"). The agreement gate exists for that."
    ],
    "review_line": "Help us check: [review the Sesotho recordings →](review.html?lang=st) and mark each line right or wrong. No first-language speaker has done this yet.",
-   "partner_line": "On Funda Wande's two Sesotho recordings the two engines agree on 85.9% of characters, and on the classroom lesson 84.3% (proxy: two engines compared, not checked against a person), the small gap from read speech we expect in a classroom. A meaning check against the partner's own English subtitles scores 9.2 of 10 (AI-judged). No written Sesotho transcript exists for these recordings, so their only measured accuracy will come from reviewers' corrections."
+   "partner_line": "On Funda Wande's two Sesotho recordings the two engines agree on 85.9% of characters, and on the classroom lesson 84.3% (proxy: two engines compared, not checked against a person), the small gap from read speech we expect in a classroom. A meaning check against the partner's own English subtitles scores 9.2 of 10 (AI-judged). No written Sesotho transcript exists for these recordings, so their only measured accuracy will come from reviewers' corrections.",
+   "playing_line": "Playing: Building words with syllable cards, a Funda Wande classroom recording, with Rumi's transcript beside it. [Open it on the Listening review →](review.html?r=st-fw-syllable-cards) to mark lines right or wrong."
   },
   "coaching": {
    "heading": "Coaching",
    "not_graded": "The teacher is never graded: steps seen, partly seen or not observed, each with a timed quote, and one next step.",
    "accuracy_heading": "How well Rumi observed",
-   "accuracy_note": "These measure Rumi, not the teacher: quotes found, items filled, agreement across three runs.",
+   "accuracy_note": "These measure Rumi, not the teacher: quotes found, items filled, and whether three readings saw the same thing. Readings are compared with each other, not yet checked by a coach.",
    "debrief_heading": "The spoken debrief",
-   "lead": "Score 9.7: the coaching model found every quote (100.0%), addressed 93.3% of steps, and three runs agreed closely.",
+   "lead": "Score 9.5, measured on Funda Wande's own classroom recording, Building words with syllable cards: 20 of 20 of Rumi's quotes found word for word in a classroom turn, 22 of 22 report items filled, and the three readings agreed on what they saw in 12 of 15 items. Measures Rumi, not the teacher; readings compared with each other, not yet checked by a coach.",
    "bullets": [
-    "Measured on this public phonics lesson (the sound \"ng\"; the teacher says Grade 2), instrument mapped from the isiZulu course.",
-    "Caution: against the other engine's transcript of the same clip only 25 of 42 quotes are found; on Sesotho classroom audio the transcript itself is the uncertainty.",
-    "AI-judged, beside the score: feedback prose 5.0 out of 10; 38.9% of factual claims flagged unsupported."
-   ]
+    "The report below is on the recording that plays above; every timestamp seeks it. The instrument is mapped from the isiZulu coaching course, so its fit for Sesotho is approximate; one Funda Wande classroom recording is the whole sample.",
+    "The score rose from the first round because the reader changed (three independent readings that check their own quotes, where the first round used one lighter model) and the material changed (produced partner films, a microphone on the teacher); it does not mean Rumi got better.",
+    "AI-judged, beside the score and from the first round: feedback prose 5.0 out of 10 (understandable, not natural)."
+   ],
+   "debrief_note": "The debrief is read by the same voice as the conversation below, so the first native listeners' findings apply to it too: understandable, not yet natural."
   },
   "speaking": {
    "heading": "Speaking",
    "chat_heading": "A conversation with Rumi",
-   "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models and still need a native ear.",
-   "score_line": "ElevenLabs eleven_v4, a voice made with ElevenLabs Voice Design from a written description of a first-language Sesotho speaker: 1.1% of characters lost on the round trip (6 sentences, measured). An AI listener rated it 10.0 out of 10 for sounding like a first-language speaker; real Sesotho speakers scored 9.9 on the same blind test (AI-judged). Native ear pending.",
-   "lead": "Score 9.7: a voice designed as a first-language Sesotho speaker loses 1.1% of characters on the round trip, and an AI listener rates it level with real Sesotho speakers.",
-   "note": "A designed voice is generated from a description, not cloned from a person. The runners-up are below; our first pick scored 2.0 for nativeness on the same test. Every nativeness number comes from blind side-by-side sets that hide a real speaker's recording among the voices, so read it against the real speakers' score. Near the top the judge cannot tell the voices apart."
+   "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models; the words still need a native ear, and the voice has had its first one.",
+   "score_line": "ElevenLabs eleven_v4, a voice made with ElevenLabs Voice Design from a written description of a first-language Sesotho speaker: 1.1% of characters lost on the text-to-speech-to-text round trip (6 sentences, measured). That is intelligibility to a machine, not naturalness. An AI listener had rated this voice as native-sounding; the first native listeners showed that rating to be wrong, so no AI-judged nativeness number appears on this site any more.",
+   "lead": "Score 9.7 measures one thing: a machine recovers the words (1.1% lost on the round trip). No first-language Sesotho speaker has heard this voice yet.",
+   "note": "A designed voice is generated from a description, not cloned from a person. What we are doing about it: a blind speaking review in which five or six voices read the same five sentences and first-language listeners rate each one, with intonation-tuned variants of the best voice among them; native ratings, not a machine, decide which voice ships. The earlier auditions below are kept for the record; their AI-judged scores are not.",
+   "listeners_line": "The isiZulu voice from the same engine was heard by two first-language speakers on 9 October: understandable, not yet natural, with the pitch wrong at sentence openings and the meaning of one line lost. We assume the same of this voice until the speaking review says otherwise.",
+   "review_line": "Help us choose: [rate the Sesotho voices →](speak.html?lang=st). The same five sentences in five or six voices, blind; about ten minutes.",
+   "trials_heading": "Earlier auditions, reading the same sentence (round-trip loss only)"
   },
   "ship": {
    "heading": "What it would take to ship Sesotho",
    "bullets": [
-    "Partner recordings and lesson plans, a Sesotho mapping of the observation instrument, a reviewer for the twelve phrases and the transcripts, the agreement gate, and a Sesotho voice from a coach's recording."
+    "Funda Wande's remaining recordings and lesson plans, a Sesotho mapping of the observation instrument, the Sesotho reviewer named on the call for the twelve phrases, the transcripts and the voice, the agreement gate, and a Sesotho voice from a coach's recording once native ratings pick the engine."
    ]
   },
   "footnotes": {
@@ -468,7 +487,9 @@
    "nav_index": "Overview",
    "nav_languages": "Languages",
    "nav_review": "Listening review",
-   "page_note": "Every transcript on this page is a Rumi draft. Your corrections become the first native-ear score for that language."
+   "page_note": "Every transcript on this page is a Rumi draft. Your corrections become the first native-ear score for that language.",
+   "nav_speak": "Speaking review",
+   "speak_line": "This page checks what Rumi hears. [The Speaking review](speak.html) checks how Rumi sounds: five sentences, five or six voices, blind."
   },
   "howto": {
    "heading": "How to review",
@@ -627,6 +648,151 @@
    "xh": "isiXhosa classroom audio is where your corrections matter most: on Funda Wande's classroom recordings the two engines disagree on about a quarter of characters (25.5%, proxy), and on The GGR Lesson 75 of 232 lines split. The meaning check against the partner's own English subtitles still scores 8.5 of 10 (AI-judged).",
    "st": "On Funda Wande's Sesotho recordings the two engines agree on 85.9% of characters (proxy), and the meaning check against the partner's own English subtitles scores 9.2 of 10 (AI-judged).",
    "en": "On these two English how-tos the engines disagree on 21.5% of characters (proxy): on long natural speech the English engine dropped part of a passage that the second engine caught. Reviewers' corrections will show how often."
+  }
+ },
+ "speak": {
+  "meta": {
+   "title": "Speaking review",
+   "lead": "Help us choose Rumi's voice in each language. Listen to the same sentences read by several voices, say which sounds like a first-language speaker, and tap the words that are said wrong.",
+   "dateline": "Voices appear as A, B, C… in a different order for every visitor; their names appear after you have rated · every number is labelled measured, proxy or native ear",
+   "nav_index": "Overview",
+   "nav_languages": "Languages",
+   "nav_review": "Listening review",
+   "nav_speak": "Speaking review",
+   "page_note": "Every voice on this page is a candidate. The first native listeners found the voice Rumi ships today understandable, not yet natural; your ratings decide what replaces it.",
+   "listen_line": "To check what Rumi hears rather than how it sounds, go to the [Listening review](review.html)."
+  },
+  "howto": {
+   "heading": "How to review",
+   "steps": [
+    "Pick your language. Each sentence plays in five or six voices, in an order that is different for everyone; listen to all of them.",
+    "For each voice, rate two things from 1 to 5: does it sound like a first-language speaker, and is the meaning clear. Tap any word whose pitch or stress is wrong.",
+    "Pick the best voice for the sentence, add your name once, and save. Five sentences is the whole job; the voices' names appear once you have saved."
+   ],
+   "time_note": "Five sentences in five or six voices take about ten minutes. You can stop at any sentence; everything you have saved is already counted."
+  },
+  "tabs": {
+   "soon": "soon"
+  },
+  "missing": "The {lang} voices are not on the page yet. Pick another language above, or come back shortly.",
+  "source": {
+   "conversation": "From a conversation reply",
+   "voice_note": "From the lesson voice note",
+   "debrief": "From the coaching debrief"
+  },
+  "blind": {
+   "heading": "Which voice sounds most like a first-language speaker?",
+   "lead": "The same five sentences, taken from what Rumi actually says to a teacher, read by five or six voices from different engines, among them the voice Rumi ships today and a version tuned for calmer, falling intonation. The names are hidden until you have saved a rating.",
+   "sentence_label": "Sentence {n} of {total}",
+   "voice": "Voice {letter}",
+   "natural_label": "Sounds like a first-language speaker",
+   "meaning_label": "The meaning is clear",
+   "scale_low": "1 · not at all",
+   "scale_high": "5 · completely",
+   "flag_hint": "Tap any word whose pitch or stress is wrong. It lights up as it plays.",
+   "flagged": "{n} words marked",
+   "flagged_one": "1 word marked",
+   "best_label": "Which voice says this sentence best?",
+   "better_label": "How would a teacher actually say it? (optional)",
+   "better_placeholder": "Type the sentence the way you would say it to your class, in the language spoken",
+   "submit": "Save my ratings for this sentence",
+   "need_rating": "Rate at least one voice first, or pick the best one.",
+   "sent": "Saved, thank you. The voices' names are now shown below.",
+   "clip_line": "{cer} of characters lost on the round trip (measured) · pitch rise on the first word {f0} (proxy)",
+   "family": {
+    "elevenlabs": "ElevenLabs",
+    "openai": "OpenAI",
+    "mms": "Meta MMS, open source (research licence)",
+    "soniox": "Soniox"
+   }
+  },
+  "key": {
+   "heading": "The voices you rated",
+   "locked": "The voices' names appear here once you have saved a rating for this language, so that they cannot steer you.",
+   "cer": "{pct} of characters lost on the round trip (measured)",
+   "note": "The round trip is a machine recovering the words; it says nothing about how natural a voice sounds. Your ratings are the first measure of that."
+  },
+  "shipped": {
+   "heading": "Rumi's voice as it ships today",
+   "lead": "These are the voice notes a teacher gets now: conversation replies, the lesson voice note and the coaching debrief. For each one, tell us how it lands.",
+   "item_label": "Voice note {n}",
+   "natural": "Natural",
+   "not_natural": "Understandable but not natural",
+   "meaning_lost": "The meaning is lost",
+   "english_words": "There are English words where there should not be",
+   "better_label": "The words a teacher would really use (optional)",
+   "better_placeholder": "Type the line the way a teacher would say it in class",
+   "submit": "Save"
+  },
+  "record": {
+   "heading": "Say it right (optional)",
+   "lead": "Record the sentence in your own voice, up to twenty seconds, so we can hear how it should sound.",
+   "consent": "I agree: my recording is kept privately to improve Rumi's voice; it is never published.",
+   "start": "Record",
+   "stop": "Stop",
+   "again": "Record again",
+   "send": "Send recording",
+   "sent": "Recording sent, thank you.",
+   "too_long": "Twenty seconds is the limit; please record again.",
+   "denied": "No microphone was found, or the browser did not allow it. You can still rate the voices."
+  },
+  "results": {
+   "heading": "What {n} reviewers said",
+   "none": "No one has rated this sentence yet. You could be the first.",
+   "counts": "{n} reviewers so far. Results appear once three have rated this sentence, so that no one is steered by the first answer.",
+   "counts_one": "1 reviewer so far. Results appear once three have rated this sentence, so that no one is steered by the first answer.",
+   "voice_line": "Voice {letter}: sounds first-language {natural} of 5 ({natural_n} ratings) · meaning clear {meaning} of 5 ({meaning_n} ratings) · best voice {best} votes",
+   "shipped_line": "The shipped voice: natural {natural} · understandable but not natural {not_natural} · meaning lost {meaning_lost} · English words where there should not be {english}"
+  },
+  "banner": {
+   "deeplink": "You were sent here to rate sentence {n} of the {lang} voices. It is highlighted below; press play when you are ready, nothing starts on its own.",
+   "dismiss": "Got it"
+  },
+  "share": {
+   "heading": "Ask a {lang} speaker to rate these",
+   "sentence_button": "Share this sentence",
+   "copy_link": "Copy link",
+   "copied": "Link copied",
+   "whatsapp": "WhatsApp",
+   "email": "Email",
+   "message": "Could you tell us which {lang} voice sounds most like a first-language speaker? Five sentences, about ten minutes: {link}",
+   "message_sentence": "Could you listen to one {lang} sentence for us and say whether the voice sounds right? It takes a minute: {link}",
+   "email_subject": "Which {lang} voice sounds right?"
+  },
+  "status": {
+   "thanks": "Thank you. Your rating is saved.",
+   "sent": "Saved, thank you.",
+   "sending": "Saving…",
+   "queued": "Saved on this device; it will reach us when you are back online.",
+   "error": "That did not save. Your ratings are still on the page; please try again.",
+   "retry": "Try again",
+   "closed": "Rating opens shortly. You can still play every voice.",
+   "offline": "You seem to be offline. Your ratings will save when you are back online; keep the page open.",
+   "too_many": "That is a lot of ratings in a short time. Please wait a few minutes and try again."
+  },
+  "identity": {
+   "heading": "Who is rating",
+   "name_label": "Your name",
+   "name_placeholder": "First name is fine",
+   "name_required": "Please add your name so we know who rated this.",
+   "role_label": "Your role (optional)",
+   "role_placeholder": "Teacher, coach, subject advisor…",
+   "remember_note": "We remember your name on this device so you only type it once.",
+   "change": "Change"
+  },
+  "privacy": {
+   "line": "Your name and your ratings are kept with the review and shown back only as counts. Nothing else about you is kept, except a scrambled network address to stop floods. A recording you send is kept privately and never published."
+  },
+  "labels": {
+   "measured": "Measured",
+   "measured_meaning": "A machine transcribed the clip and the result was compared with the text, character by character.",
+   "proxy": "Proxy",
+   "proxy_meaning": "A rough stand-in for a judgement no person has made yet.",
+   "native": "Native ear",
+   "native_meaning": "Rated by first-language speakers on this page."
+  },
+  "footer": {
+   "line": "Built by Rumi. Every voice on this page is a candidate; the reviewers' ratings are their own. Open-source voices run under a research licence for this evaluation only."
   }
  }
 }

@@ -6,8 +6,8 @@
  "score": {
   "value": 9.968102073365232,
   "display": "9.9",
-  "label": "measured (automated) · native ear pending",
-  "line": "ElevenLabs eleven_v4: text → speech → text came back with a character error rate of 0.002 (6 sentences, measured). An AI listener rated how much it sounds like a first-language speaker 9.8 out of 10 (AI-judged); real isiZulu speakers scored 9.5 on the same test. Native ear pending."
+  "label": "intelligible to a machine · first-language listeners: not yet natural",
+  "line": "ElevenLabs eleven_v4: text → speech → text came back with 0.2% of characters lost (6 sentences, measured). That is intelligibility to a machine, not naturalness. Two first-language isiZulu speakers from the coalition heard this voice on 9 October: understandable, not yet natural. Native ratings on the speaking review decide the voice."
  },
  "conversation": [
   {
@@ -298,20 +298,18 @@
   {
    "label": "Nassdaq · ElevenLabs eleven_v4",
    "mp3": "assets/audio/zu_trial_1.mp3",
-   "cer": 0.005,
-   "nativeness": 9.6
+   "cer": 0.005
   },
   {
    "label": "Danny · ElevenLabs eleven_v4",
    "mp3": "assets/audio/zu_trial_2.mp3",
-   "cer": 0.0,
-   "nativeness": 8.2
+   "cer": 0.0
   },
   {
    "label": "Katlego · ElevenLabs eleven_v4 (our first pick)",
    "mp3": "assets/audio/zu_trial_3.mp3",
-   "cer": 0.002,
-   "nativeness": 7.0
+   "cer": 0.002
   }
- ]
+ ],
+ "nativeness_note": "AI-judged nativeness scores were removed from this file on 13 October 2026: the first native listeners showed them to be wrong."
 }

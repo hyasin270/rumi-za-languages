@@ -988,7 +988,7 @@
    "label": "measured",
    "status_agreement_all": "10 of 10",
    "status_agreement_pairwise": 1.0,
-   "display": "Three independent readings gave the same status on 10 of 10 items"
+   "display": "The three readings agreed on what they saw in 10 of 10 items"
   },
   "n_runs": 3,
   "score": 10.0,

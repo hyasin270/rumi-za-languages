@@ -1,10 +1,10 @@
 {
  "lang": "zu",
- "title_en": "Partner videos",
+ "title_en": "Also measured, first round: three VVOB training videos",
  "text_en": [
-  "We also ran Rumi's coaching analysis on three isiZulu classroom videos from VVOB's coaching course. They now play on the Listening review page, with the rest of VVOB's recordings.",
-  "Rumi quoted the classroom accurately (72 of 74 quotes found in the transcript), covered 42 of 45 report items with evidence, and gave nearly the same result on three independent runs.",
-  "These lessons are rehearsed demonstrations, which flatter the lesson: on real, unrehearsed isiZulu lessons the same instrument found far fewer lesson steps in place, so it can tell the two apart."
+  "Before the classroom recording above, Rumi's coaching was measured on three of VVOB's isiZulu training videos (phonics, vocabulary, shared reading). They stay on the Listening review page with the rest of VVOB's recordings.",
+  "On those three, Rumi quoted the classroom accurately (72 of 74 quotes found in the transcript), covered 42 of 45 report items with evidence, and gave nearly the same result on three independent runs.",
+  "Those lessons are rehearsed demonstrations, which flatter the lesson: on real, unrehearsed isiZulu lessons the same instrument found far fewer lesson steps in place, so it can tell the two apart."
  ],
  "numbers": [
   {
@@ -37,7 +37,7 @@
    "display": "0.8% character error",
    "n": 3,
    "label": "measured",
-   "line": "The spoken isiZulu debrief, transcribed back by machine, matched its script to 99.2%. A native ear has not rated it yet."
+   "line": "The spoken isiZulu debrief, transcribed back by machine, matched its script to 99.2%. A native ear has not rated it yet. A machine recovering the words; the first native listeners found this voice understandable, not yet natural."
   },
   {
    "name": "Language of the written feedback",

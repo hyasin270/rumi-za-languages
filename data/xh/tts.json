@@ -6,8 +6,8 @@
  "score": {
   "value": 9.795570698466781,
   "display": "9.7",
-  "label": "measured (automated) · native ear pending",
-  "line": "ElevenLabs eleven_v4: text → speech → text came back with a character error rate of 0.010 (6 sentences, measured). An AI listener rated how much it sounds like a first-language speaker 10.0 out of 10 (AI-judged); real isiXhosa speakers scored 8.7 on the same test. Native ear pending."
+  "label": "intelligible to a machine · first-language listeners: not yet natural",
+  "line": "ElevenLabs eleven_v4: text → speech → text came back with 1.0% of characters lost (6 sentences, measured). That is intelligibility to a machine, not naturalness. No first-language isiXhosa speaker has heard this voice yet; it comes from the same engine as the isiZulu voice the first native listeners found not yet natural. Native ratings on the speaking review decide the voice."
  },
  "conversation": [
   {
@@ -303,14 +303,13 @@
   {
    "label": "Danny · ElevenLabs eleven_v4",
    "mp3": "assets/audio/xh_trial_1.mp3",
-   "cer": 0.007,
-   "nativeness": 9.3
+   "cer": 0.007
   },
   {
    "label": "Nassdaq · ElevenLabs eleven_v4",
    "mp3": "assets/audio/xh_trial_2.mp3",
-   "cer": 0.002,
-   "nativeness": 8.5
+   "cer": 0.002
   }
- ]
+ ],
+ "nativeness_note": "AI-judged nativeness scores were removed from this file on 13 October 2026: the first native listeners showed them to be wrong."
 }

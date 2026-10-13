@@ -67,7 +67,7 @@
   RZ.inline = function (s) {
     let h = esc(s);
     h = h.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
-    h = h.replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+|[a-z]{2}\.html[^)\s]*|#[^)\s]+|index\.html[^)\s]*|review\.html[^)\s]*)\)/g, (m, t, u) => {
+    h = h.replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+|[a-z]{2}\.html[^)\s]*|#[^)\s]+|index\.html[^)\s]*|review\.html[^)\s]*|speak\.html[^)\s]*)\)/g, (m, t, u) => {
       const ext = /^https?:/.test(u);
       return `<a href="${u}"${ext ? ' target="_blank" rel="noopener"' : ""}>${t}</a>`;
     });
