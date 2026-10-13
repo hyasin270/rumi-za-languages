@@ -1,0 +1,2287 @@
+{
+ "lang": "tn",
+ "sentences": [
+  {
+   "i": 0,
+   "text": "Dumela morutabana! Ke itumelela molaetsa wa gago.",
+   "en": "Hello, teacher! I am glad to get your message.",
+   "source": "conversation"
+  },
+  {
+   "i": 1,
+   "text": "Thuto ya medumo e tsamaile jang gompieno?",
+   "en": "How did today's phonics lesson go?",
+   "source": "conversation"
+  },
+  {
+   "i": 2,
+   "text": "Ka moso, simolola ka metsotso e le metlhano ya go boeletsa medumo: o bitse modumo, barutwana ba o boeletse, morago ba o kwale mo moweng.",
+   "en": "Tomorrow, start with five minutes of sound revision: you say the sound, the learners repeat it, then they write it in the air.",
+   "source": "conversation"
+  },
+  {
+   "i": 3,
+   "text": "O dira tiro e ntle thata, morutabana. Go boeletsa ka metlha go a thusa.",
+   "en": "You are doing very good work, teacher. Regular revision helps.",
+   "source": "conversation"
+  },
+  {
+   "i": 4,
+   "text": "O tla ruta modumo ofe mo bekeng e e tlang?",
+   "en": "Which sound will you teach next week?",
+   "source": "conversation"
+  }
+ ],
+ "voices": [
+  {
+   "key": "v1",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Designed Setswana voice (newest model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/tn_v1_0.mp3",
+     "words": [
+      {
+       "w": "Dumela",
+       "s": 0.0,
+       "e": 0.56
+      },
+      {
+       "w": "morutabana!",
+       "s": 0.68,
+       "e": 1.44
+      },
+      {
+       "w": "Ke",
+       "s": 1.92,
+       "e": 2.16
+      },
+      {
+       "w": "itumelela",
+       "s": 2.24,
+       "e": 2.96
+      },
+      {
+       "w": "molaetsa",
+       "s": 3.04,
+       "e": 3.6
+      },
+      {
+       "w": "wa",
+       "s": 3.68,
+       "e": 3.76
+      },
+      {
+       "w": "gago.",
+       "s": 3.84,
+       "e": 4.24
+      }
+     ],
+     "secs": 4.49,
+     "cer": 0.0,
+     "f0_rise": 4.48,
+     "rerendered": false
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/tn_v1_1.mp3",
+     "words": [
+      {
+       "w": "Thuto",
+       "s": 0.12,
+       "e": 0.44
+      },
+      {
+       "w": "ya",
+       "s": 0.52,
+       "e": 0.6
+      },
+      {
+       "w": "medumo",
+       "s": 0.76,
+       "e": 1.24
+      },
+      {
+       "w": "e",
+       "s": 1.32,
+       "e": 1.4
+      },
+      {
+       "w": "tsamaile",
+       "s": 1.44,
+       "e": 1.96
+      },
+      {
+       "w": "jang",
+       "s": 2.04,
+       "e": 2.36
+      },
+      {
+       "w": "gompieno?",
+       "s": 2.44,
+       "e": 3.08
+      }
+     ],
+     "secs": 3.32,
+     "cer": 0.075,
+     "f0_rise": 4.27,
+     "rerendered": false
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/tn_v1_2.mp3",
+     "words": [
+      {
+       "w": "Ka",
+       "s": 0.0,
+       "e": 0.12
+      },
+      {
+       "w": "moso,",
+       "s": 0.16,
+       "e": 0.56
+      },
+      {
+       "w": "simolola",
+       "s": 0.88,
+       "e": 1.68
+      },
+      {
+       "w": "ka",
+       "s": 1.76,
+       "e": 1.88
+      },
+      {
+       "w": "metsotso",
+       "s": 1.92,
+       "e": 2.48
+      },
+      {
+       "w": "e",
+       "s": 2.52,
+       "e": 2.56
+      },
+      {
+       "w": "le",
+       "s": 2.64,
+       "e": 2.72
+      },
+      {
+       "w": "metlhano",
+       "s": 2.84,
+       "e": 3.36
+      },
+      {
+       "w": "ya",
+       "s": 3.44,
+       "e": 3.6
+      },
+      {
+       "w": "go",
+       "s": 3.68,
+       "e": 3.76
+      },
+      {
+       "w": "boeletsa",
+       "s": 3.84,
+       "e": 4.32
+      },
+      {
+       "w": "medumo:",
+       "s": 4.48,
+       "e": 4.96
+      },
+      {
+       "w": "o",
+       "s": 5.52,
+       "e": 5.6
+      },
+      {
+       "w": "bitse",
+       "s": 5.68,
+       "e": 6.0
+      },
+      {
+       "w": "modumo,",
+       "s": 6.08,
+       "e": 6.72
+      },
+      {
+       "w": "barutwana",
+       "s": 7.12,
+       "e": 7.76
+      },
+      {
+       "w": "ba",
+       "s": 7.84,
+       "e": 7.92
+      },
+      {
+       "w": "o",
+       "s": 8.0,
+       "e": 8.08
+      },
+      {
+       "w": "boeletse,",
+       "s": 8.2,
+       "e": 8.88
+      },
+      {
+       "w": "morago",
+       "s": 9.28,
+       "e": 9.92
+      },
+      {
+       "w": "ba",
+       "s": 10.08,
+       "e": 10.24
+      },
+      {
+       "w": "o",
+       "s": 10.32,
+       "e": 10.4
+      },
+      {
+       "w": "kwale",
+       "s": 10.48,
+       "e": 10.88
+      },
+      {
+       "w": "mo",
+       "s": 10.96,
+       "e": 11.04
+      },
+      {
+       "w": "moweng.",
+       "s": 11.08,
+       "e": 11.6
+      }
+     ],
+     "secs": 11.76,
+     "cer": 0.016,
+     "f0_rise": 3.84,
+     "rerendered": false
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/tn_v1_3.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.16
+      },
+      {
+       "w": "dira",
+       "s": 0.24,
+       "e": 0.48
+      },
+      {
+       "w": "tiro",
+       "s": 0.64,
+       "e": 1.04
+      },
+      {
+       "w": "e",
+       "s": 1.12,
+       "e": 1.2
+      },
+      {
+       "w": "ntle",
+       "s": 1.28,
+       "e": 1.44
+      },
+      {
+       "w": "thata,",
+       "s": 1.52,
+       "e": 2.0
+      },
+      {
+       "w": "morutabana.",
+       "s": 2.32,
+       "e": 3.12
+      },
+      {
+       "w": "Go",
+       "s": 3.68,
+       "e": 3.76
+      },
+      {
+       "w": "boeletsa",
+       "s": 3.84,
+       "e": 4.32
+      },
+      {
+       "w": "ka",
+       "s": 4.4,
+       "e": 4.48
+      },
+      {
+       "w": "metlha",
+       "s": 4.64,
+       "e": 4.88
+      },
+      {
+       "w": "go",
+       "s": 4.96,
+       "e": 5.12
+      },
+      {
+       "w": "a",
+       "s": 5.2,
+       "e": 5.28
+      },
+      {
+       "w": "thusa.",
+       "s": 5.36,
+       "e": 5.84
+      }
+     ],
+     "secs": 6.09,
+     "cer": 0.0,
+     "f0_rise": 4.21,
+     "rerendered": false
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/tn_v1_4.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.12,
+       "e": 0.2
+      },
+      {
+       "w": "tla",
+       "s": 0.24,
+       "e": 0.36
+      },
+      {
+       "w": "ruta",
+       "s": 0.44,
+       "e": 0.76
+      },
+      {
+       "w": "modumo",
+       "s": 0.92,
+       "e": 1.4
+      },
+      {
+       "w": "ofe",
+       "s": 1.56,
+       "e": 1.8
+      },
+      {
+       "w": "mo",
+       "s": 1.88,
+       "e": 1.96
+      },
+      {
+       "w": "bekeng",
+       "s": 2.08,
+       "e": 2.36
+      },
+      {
+       "w": "e",
+       "s": 2.44,
+       "e": 2.52
+      },
+      {
+       "w": "e",
+       "s": 2.6,
+       "e": 2.68
+      },
+      {
+       "w": "tlang?",
+       "s": 2.72,
+       "e": 3.08
+      }
+     ],
+     "secs": 3.24,
+     "cer": 0.0,
+     "f0_rise": 0.59,
+     "rerendered": false
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.019,
+    "f0_rise_mean": 3.48
+   }
+  },
+  {
+   "key": "v2",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Naledi (newest model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/tn_v2_0.mp3",
+     "words": [
+      {
+       "w": "Dumela",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "morutabana!",
+       "s": 0.6,
+       "e": 1.36
+      },
+      {
+       "w": "Ke",
+       "s": 1.84,
+       "e": 2.08
+      },
+      {
+       "w": "itumelela",
+       "s": 2.24,
+       "e": 2.96
+      },
+      {
+       "w": "molaetsa",
+       "s": 3.0,
+       "e": 3.44
+      },
+      {
+       "w": "wa",
+       "s": 3.52,
+       "e": 3.6
+      },
+      {
+       "w": "gago.",
+       "s": 3.64,
+       "e": 4.08
+      }
+     ],
+     "secs": 4.24,
+     "cer": 0.022,
+     "f0_rise": 6.68
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/tn_v2_1.mp3",
+     "words": [
+      {
+       "w": "Thuto",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "ya",
+       "s": 0.36,
+       "e": 0.4
+      },
+      {
+       "w": "medumo",
+       "s": 0.48,
+       "e": 0.96
+      },
+      {
+       "w": "e",
+       "s": 1.04,
+       "e": 1.12
+      },
+      {
+       "w": "tsamaile",
+       "s": 1.16,
+       "e": 1.6
+      },
+      {
+       "w": "jang",
+       "s": 1.72,
+       "e": 1.84
+      },
+      {
+       "w": "gompieno?",
+       "s": 1.96,
+       "e": 2.48
+      }
+     ],
+     "secs": 2.72,
+     "cer": 0.0,
+     "f0_rise": 2.41
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/tn_v2_2.mp3",
+     "words": [
+      {
+       "w": "Ka",
+       "s": 0.0,
+       "e": 0.12
+      },
+      {
+       "w": "moso,",
+       "s": 0.16,
+       "e": 0.48
+      },
+      {
+       "w": "simolola",
+       "s": 0.84,
+       "e": 1.6
+      },
+      {
+       "w": "ka",
+       "s": 1.64,
+       "e": 1.68
+      },
+      {
+       "w": "metsotso",
+       "s": 1.72,
+       "e": 2.24
+      },
+      {
+       "w": "e",
+       "s": 2.32,
+       "e": 2.36
+      },
+      {
+       "w": "le",
+       "s": 2.4,
+       "e": 2.48
+      },
+      {
+       "w": "metlhano",
+       "s": 2.6,
+       "e": 3.04
+      },
+      {
+       "w": "ya",
+       "s": 3.12,
+       "e": 3.2
+      },
+      {
+       "w": "go",
+       "s": 3.28,
+       "e": 3.36
+      },
+      {
+       "w": "boeletsa",
+       "s": 3.4,
+       "e": 3.76
+      },
+      {
+       "w": "medumo:",
+       "s": 3.84,
+       "e": 4.4
+      },
+      {
+       "w": "o",
+       "s": 5.08,
+       "e": 5.12
+      },
+      {
+       "w": "bitse",
+       "s": 5.2,
+       "e": 5.44
+      },
+      {
+       "w": "modumo,",
+       "s": 5.52,
+       "e": 6.08
+      },
+      {
+       "w": "barutwana",
+       "s": 6.56,
+       "e": 7.04
+      },
+      {
+       "w": "ba",
+       "s": 7.12,
+       "e": 7.2
+      },
+      {
+       "w": "o",
+       "s": 7.24,
+       "e": 7.28
+      },
+      {
+       "w": "boeletse,",
+       "s": 7.36,
+       "e": 7.92
+      },
+      {
+       "w": "morago",
+       "s": 8.4,
+       "e": 8.88
+      },
+      {
+       "w": "ba",
+       "s": 8.96,
+       "e": 9.12
+      },
+      {
+       "w": "o",
+       "s": 9.16,
+       "e": 9.2
+      },
+      {
+       "w": "kwale",
+       "s": 9.28,
+       "e": 9.68
+      },
+      {
+       "w": "mo",
+       "s": 9.76,
+       "e": 9.84
+      },
+      {
+       "w": "moweng.",
+       "s": 9.88,
+       "e": 10.32
+      }
+     ],
+     "secs": 10.48,
+     "cer": 0.0,
+     "f0_rise": 4.05
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/tn_v2_3.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.16
+      },
+      {
+       "w": "dira",
+       "s": 0.28,
+       "e": 0.48
+      },
+      {
+       "w": "tiro",
+       "s": 0.56,
+       "e": 0.96
+      },
+      {
+       "w": "e",
+       "s": 1.0,
+       "e": 1.04
+      },
+      {
+       "w": "ntle",
+       "s": 1.12,
+       "e": 1.36
+      },
+      {
+       "w": "thata,",
+       "s": 1.44,
+       "e": 1.84
+      },
+      {
+       "w": "morutabana.",
+       "s": 2.16,
+       "e": 2.88
+      },
+      {
+       "w": "Go",
+       "s": 3.52,
+       "e": 3.6
+      },
+      {
+       "w": "boeletsa",
+       "s": 3.68,
+       "e": 4.0
+      },
+      {
+       "w": "ka",
+       "s": 4.08,
+       "e": 4.16
+      },
+      {
+       "w": "metlha",
+       "s": 4.32,
+       "e": 4.56
+      },
+      {
+       "w": "go",
+       "s": 4.64,
+       "e": 4.72
+      },
+      {
+       "w": "a",
+       "s": 4.8,
+       "e": 4.88
+      },
+      {
+       "w": "thusa.",
+       "s": 4.96,
+       "e": 5.44
+      }
+     ],
+     "secs": 5.68,
+     "cer": 0.0,
+     "f0_rise": 4.21
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/tn_v2_4.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.08
+      },
+      {
+       "w": "tla",
+       "s": 0.12,
+       "e": 0.24
+      },
+      {
+       "w": "ruta",
+       "s": 0.4,
+       "e": 0.56
+      },
+      {
+       "w": "modumo",
+       "s": 0.68,
+       "e": 1.12
+      },
+      {
+       "w": "ofe",
+       "s": 1.28,
+       "e": 1.52
+      },
+      {
+       "w": "mo",
+       "s": 1.6,
+       "e": 1.68
+      },
+      {
+       "w": "bekeng",
+       "s": 1.8,
+       "e": 2.08
+      },
+      {
+       "w": "e",
+       "s": 2.16,
+       "e": 2.24
+      },
+      {
+       "w": "e",
+       "s": 2.32,
+       "e": 2.4
+      },
+      {
+       "w": "tlang?",
+       "s": 2.44,
+       "e": 2.8
+      }
+     ],
+     "secs": 3.04,
+     "cer": 0.0,
+     "f0_rise": 3.15
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.005,
+    "f0_rise_mean": 4.1
+   }
+  },
+  {
+   "key": "v3",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Designed Setswana voice (expressive model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/tn_v3_0.mp3",
+     "words": [
+      {
+       "w": "Dumela",
+       "s": 0.0,
+       "e": 0.56
+      },
+      {
+       "w": "morutabana!",
+       "s": 0.66,
+       "e": 1.68
+      },
+      {
+       "w": "Ke",
+       "s": 1.813,
+       "e": 1.92
+      },
+      {
+       "w": "itumelela",
+       "s": 2.0,
+       "e": 2.96
+      },
+      {
+       "w": "molaetsa",
+       "s": 3.08,
+       "e": 3.92
+      },
+      {
+       "w": "wa",
+       "s": 4.027,
+       "e": 4.24
+      },
+      {
+       "w": "gago.",
+       "s": 4.32,
+       "e": 4.8
+      }
+     ],
+     "secs": 4.88,
+     "cer": 0.0,
+     "f0_rise": 1.81
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/tn_v3_1.mp3",
+     "words": [
+      {
+       "w": "Thuto",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "ya",
+       "s": 0.373,
+       "e": 0.48
+      },
+      {
+       "w": "medumo",
+       "s": 0.56,
+       "e": 1.12
+      },
+      {
+       "w": "e",
+       "s": 1.2,
+       "e": 1.28
+      },
+      {
+       "w": "tsamaile",
+       "s": 1.333,
+       "e": 2.24
+      },
+      {
+       "w": "jang",
+       "s": 2.4,
+       "e": 2.8
+      },
+      {
+       "w": "gompieno?",
+       "s": 2.84,
+       "e": 3.44
+      }
+     ],
+     "secs": 3.84,
+     "cer": 0.0,
+     "f0_rise": 13.02
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/tn_v3_2.mp3",
+     "words": [
+      {
+       "w": "Ka",
+       "s": 0.0,
+       "e": 0.16
+      },
+      {
+       "w": "moso,",
+       "s": 0.26,
+       "e": 0.64
+      },
+      {
+       "w": "simolola",
+       "s": 0.84,
+       "e": 1.6
+      },
+      {
+       "w": "ka",
+       "s": 1.68,
+       "e": 1.84
+      },
+      {
+       "w": "metsotso",
+       "s": 1.88,
+       "e": 2.56
+      },
+      {
+       "w": "e",
+       "s": 2.64,
+       "e": 2.72
+      },
+      {
+       "w": "le",
+       "s": 2.773,
+       "e": 2.88
+      },
+      {
+       "w": "metlhano",
+       "s": 2.94,
+       "e": 3.44
+      },
+      {
+       "w": "ya",
+       "s": 3.493,
+       "e": 3.6
+      },
+      {
+       "w": "go",
+       "s": 3.653,
+       "e": 3.76
+      },
+      {
+       "w": "boeletsa",
+       "s": 3.84,
+       "e": 4.4
+      },
+      {
+       "w": "medumo:",
+       "s": 4.48,
+       "e": 5.04
+      },
+      {
+       "w": "o",
+       "s": 5.16,
+       "e": 5.2
+      },
+      {
+       "w": "bitse",
+       "s": 5.28,
+       "e": 5.6
+      },
+      {
+       "w": "modumo,",
+       "s": 5.7,
+       "e": 6.32
+      },
+      {
+       "w": "barutwana",
+       "s": 6.48,
+       "e": 7.2
+      },
+      {
+       "w": "ba",
+       "s": 7.253,
+       "e": 7.36
+      },
+      {
+       "w": "o",
+       "s": 7.4,
+       "e": 7.44
+      },
+      {
+       "w": "boeletse,",
+       "s": 7.493,
+       "e": 8.16
+      },
+      {
+       "w": "morago",
+       "s": 8.4,
+       "e": 8.96
+      },
+      {
+       "w": "ba",
+       "s": 9.04,
+       "e": 9.2
+      },
+      {
+       "w": "o",
+       "s": 9.24,
+       "e": 9.28
+      },
+      {
+       "w": "kwale",
+       "s": 9.36,
+       "e": 9.76
+      },
+      {
+       "w": "mo",
+       "s": 9.84,
+       "e": 10.0
+      },
+      {
+       "w": "moweng.",
+       "s": 10.04,
+       "e": 10.48
+      }
+     ],
+     "secs": 10.64,
+     "cer": 0.062,
+     "f0_rise": 7.11
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/tn_v3_3.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.08
+      },
+      {
+       "w": "dira",
+       "s": 0.14,
+       "e": 0.4
+      },
+      {
+       "w": "tiro",
+       "s": 0.48,
+       "e": 0.88
+      },
+      {
+       "w": "e",
+       "s": 0.92,
+       "e": 0.96
+      },
+      {
+       "w": "ntle",
+       "s": 1.04,
+       "e": 1.28
+      },
+      {
+       "w": "thata,",
+       "s": 1.36,
+       "e": 1.76
+      },
+      {
+       "w": "morutabana.",
+       "s": 2.01,
+       "e": 2.8
+      },
+      {
+       "w": "Go",
+       "s": 2.933,
+       "e": 3.04
+      },
+      {
+       "w": "boeletsa",
+       "s": 3.12,
+       "e": 3.76
+      },
+      {
+       "w": "ka",
+       "s": 3.84,
+       "e": 4.0
+      },
+      {
+       "w": "metlha",
+       "s": 4.06,
+       "e": 4.4
+      },
+      {
+       "w": "go",
+       "s": 4.453,
+       "e": 4.56
+      },
+      {
+       "w": "a",
+       "s": 4.6,
+       "e": 4.64
+      },
+      {
+       "w": "thusa.",
+       "s": 4.736,
+       "e": 5.2
+      }
+     ],
+     "secs": 5.28,
+     "cer": 0.0,
+     "f0_rise": 0.28
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/tn_v3_4.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.08
+      },
+      {
+       "w": "tla",
+       "s": 0.16,
+       "e": 0.32
+      },
+      {
+       "w": "ruta",
+       "s": 0.4,
+       "e": 0.72
+      },
+      {
+       "w": "modumo",
+       "s": 0.82,
+       "e": 1.44
+      },
+      {
+       "w": "ofe",
+       "s": 1.573,
+       "e": 1.92
+      },
+      {
+       "w": "mo",
+       "s": 1.973,
+       "e": 2.08
+      },
+      {
+       "w": "bekeng",
+       "s": 2.18,
+       "e": 2.8
+      },
+      {
+       "w": "e",
+       "s": 2.92,
+       "e": 3.04
+      },
+      {
+       "w": "e",
+       "s": 3.08,
+       "e": 3.12
+      },
+      {
+       "w": "tlang?",
+       "s": 3.16,
+       "e": 3.6
+      }
+     ],
+     "secs": 3.76,
+     "cer": 0.074,
+     "f0_rise": 0.99
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.028,
+    "f0_rise_mean": 4.64
+   }
+  },
+  {
+   "key": "v4",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Designed Setswana voice (newest model, settings tuned for calmer intonation)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/tn_v4_0.mp3",
+     "words": [
+      {
+       "w": "Dumela",
+       "s": 0.0,
+       "e": 0.56
+      },
+      {
+       "w": "morutabana!",
+       "s": 0.64,
+       "e": 1.6
+      },
+      {
+       "w": "Ke",
+       "s": 2.19,
+       "e": 2.35
+      },
+      {
+       "w": "itumelela",
+       "s": 2.43,
+       "e": 3.39
+      },
+      {
+       "w": "molaetsa",
+       "s": 3.55,
+       "e": 4.35
+      },
+      {
+       "w": "wa",
+       "s": 4.47,
+       "e": 4.59
+      },
+      {
+       "w": "gago.",
+       "s": 4.63,
+       "e": 5.15
+      }
+     ],
+     "secs": 5.31,
+     "cer": 0.0,
+     "f0_rise": 3.66
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/tn_v4_1.mp3",
+     "words": [
+      {
+       "w": "Thuto",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "ya",
+       "s": 0.4,
+       "e": 0.48
+      },
+      {
+       "w": "medumo",
+       "s": 0.64,
+       "e": 1.12
+      },
+      {
+       "w": "e",
+       "s": 1.2,
+       "e": 1.28
+      },
+      {
+       "w": "tsamaile",
+       "s": 1.36,
+       "e": 1.92
+      },
+      {
+       "w": "jang",
+       "s": 2.0,
+       "e": 2.32
+      },
+      {
+       "w": "gompieno?",
+       "s": 2.44,
+       "e": 2.96
+      }
+     ],
+     "secs": 3.2,
+     "cer": 0.0,
+     "f0_rise": 4.89
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/tn_v4_2.mp3",
+     "words": [
+      {
+       "w": "Ka",
+       "s": 0.0,
+       "e": 0.16
+      },
+      {
+       "w": "moso,",
+       "s": 0.4,
+       "e": 0.72
+      },
+      {
+       "w": "simolola",
+       "s": 1.2,
+       "e": 1.84
+      },
+      {
+       "w": "ka",
+       "s": 1.92,
+       "e": 2.0
+      },
+      {
+       "w": "metsotso",
+       "s": 2.04,
+       "e": 2.72
+      },
+      {
+       "w": "e",
+       "s": 2.8,
+       "e": 2.88
+      },
+      {
+       "w": "le",
+       "s": 2.96,
+       "e": 3.04
+      },
+      {
+       "w": "metlhano",
+       "s": 3.16,
+       "e": 3.68
+      },
+      {
+       "w": "ya",
+       "s": 3.76,
+       "e": 3.92
+      },
+      {
+       "w": "go",
+       "s": 4.0,
+       "e": 4.08
+      },
+      {
+       "w": "boeletsa",
+       "s": 4.16,
+       "e": 4.64
+      },
+      {
+       "w": "medumo:",
+       "s": 4.72,
+       "e": 5.36
+      },
+      {
+       "w": "o",
+       "s": 6.16,
+       "e": 6.24
+      },
+      {
+       "w": "bitse",
+       "s": 6.4,
+       "e": 6.64
+      },
+      {
+       "w": "modumo,",
+       "s": 6.72,
+       "e": 7.28
+      },
+      {
+       "w": "barutwana",
+       "s": 7.84,
+       "e": 8.4
+      },
+      {
+       "w": "ba",
+       "s": 8.48,
+       "e": 8.56
+      },
+      {
+       "w": "o",
+       "s": 8.64,
+       "e": 8.72
+      },
+      {
+       "w": "boeletse,",
+       "s": 8.84,
+       "e": 9.52
+      },
+      {
+       "w": "morago",
+       "s": 10.0,
+       "e": 10.72
+      },
+      {
+       "w": "ba",
+       "s": 10.8,
+       "e": 10.96
+      },
+      {
+       "w": "o",
+       "s": 11.04,
+       "e": 11.12
+      },
+      {
+       "w": "kwale",
+       "s": 11.2,
+       "e": 11.52
+      },
+      {
+       "w": "mo",
+       "s": 11.6,
+       "e": 11.68
+      },
+      {
+       "w": "moweng.",
+       "s": 11.76,
+       "e": 12.32
+      }
+     ],
+     "secs": 12.48,
+     "cer": 0.023,
+     "f0_rise": 6.37
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/tn_v4_3.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.08
+      },
+      {
+       "w": "dira",
+       "s": 0.16,
+       "e": 0.48
+      },
+      {
+       "w": "tiro",
+       "s": 0.56,
+       "e": 0.96
+      },
+      {
+       "w": "e",
+       "s": 1.0,
+       "e": 1.04
+      },
+      {
+       "w": "ntle",
+       "s": 1.12,
+       "e": 1.36
+      },
+      {
+       "w": "thata,",
+       "s": 1.44,
+       "e": 2.0
+      },
+      {
+       "w": "morutabana.",
+       "s": 2.32,
+       "e": 3.2
+      },
+      {
+       "w": "Go",
+       "s": 3.79,
+       "e": 3.87
+      },
+      {
+       "w": "boeletsa",
+       "s": 4.03,
+       "e": 4.59
+      },
+      {
+       "w": "ka",
+       "s": 4.67,
+       "e": 4.75
+      },
+      {
+       "w": "metlha",
+       "s": 4.83,
+       "e": 5.47
+      },
+      {
+       "w": "go",
+       "s": 5.59,
+       "e": 5.71
+      },
+      {
+       "w": "a",
+       "s": 5.79,
+       "e": 5.87
+      },
+      {
+       "w": "thusa.",
+       "s": 5.95,
+       "e": 6.51
+      }
+     ],
+     "secs": 6.75,
+     "cer": 0.0,
+     "f0_rise": 2.7
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/tn_v4_4.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.08
+      },
+      {
+       "w": "tla",
+       "s": 0.16,
+       "e": 0.32
+      },
+      {
+       "w": "ruta",
+       "s": 0.48,
+       "e": 0.64
+      },
+      {
+       "w": "modumo",
+       "s": 0.72,
+       "e": 1.28
+      },
+      {
+       "w": "ofe",
+       "s": 1.36,
+       "e": 1.64
+      },
+      {
+       "w": "mo",
+       "s": 1.68,
+       "e": 1.84
+      },
+      {
+       "w": "bekeng",
+       "s": 1.96,
+       "e": 2.32
+      },
+      {
+       "w": "e",
+       "s": 2.36,
+       "e": 2.4
+      },
+      {
+       "w": "e",
+       "s": 2.48,
+       "e": 2.64
+      },
+      {
+       "w": "tlang?",
+       "s": 2.68,
+       "e": 3.04
+      }
+     ],
+     "secs": 3.2,
+     "cer": 0.0,
+     "f0_rise": 0.65
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.005,
+    "f0_rise_mean": 3.65
+   }
+  },
+  {
+   "key": "v5",
+   "family": "openai",
+   "label_public": "OpenAI · gpt-4o-mini-tts (told to speak as a first-language teacher)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/tn_v5_0.mp3",
+     "words": [
+      {
+       "w": "Dumela",
+       "s": 0.0,
+       "e": 0.92
+      },
+      {
+       "w": "morutabana!",
+       "s": 0.92,
+       "e": 1.979
+      },
+      {
+       "w": "Ke",
+       "s": 3.12,
+       "e": 3.12
+      },
+      {
+       "w": "itumelela",
+       "s": 3.12,
+       "e": 3.92
+      },
+      {
+       "w": "molaetsa",
+       "s": 3.92,
+       "e": 5.5
+      },
+      {
+       "w": "wa",
+       "s": 5.5,
+       "e": 5.707
+      },
+      {
+       "w": "gago.",
+       "s": 5.707,
+       "e": 6.12
+      }
+     ],
+     "secs": 6.5,
+     "cer": 0.0,
+     "f0_rise": 2.25
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/tn_v5_1.mp3",
+     "words": [
+      {
+       "w": "Thuto",
+       "s": 0.0,
+       "e": 0.64
+      },
+      {
+       "w": "ya",
+       "s": 0.64,
+       "e": 1.04
+      },
+      {
+       "w": "medumo",
+       "s": 1.04,
+       "e": 1.88
+      },
+      {
+       "w": "e",
+       "s": 1.88,
+       "e": 2.42
+      },
+      {
+       "w": "tsamaile",
+       "s": 2.42,
+       "e": 3.08
+      },
+      {
+       "w": "jang",
+       "s": 3.08,
+       "e": 3.64
+      },
+      {
+       "w": "gompieno?",
+       "s": 3.64,
+       "e": 4.38
+      }
+     ],
+     "secs": 4.75,
+     "cer": 0.1,
+     "f0_rise": 6.01
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/tn_v5_2.mp3",
+     "words": [
+      {
+       "w": "Ka",
+       "s": 0.0,
+       "e": 1.34
+      },
+      {
+       "w": "moso,",
+       "s": 1.34,
+       "e": 1.44
+      },
+      {
+       "w": "simolola",
+       "s": 2.34,
+       "e": 2.86
+      },
+      {
+       "w": "ka",
+       "s": 2.86,
+       "e": 3.09
+      },
+      {
+       "w": "metsotso",
+       "s": 3.09,
+       "e": 3.76
+      },
+      {
+       "w": "e",
+       "s": 3.76,
+       "e": 3.856
+      },
+      {
+       "w": "le",
+       "s": 3.856,
+       "e": 4.048
+      },
+      {
+       "w": "metlhano",
+       "s": 4.048,
+       "e": 4.6
+      },
+      {
+       "w": "ya",
+       "s": 4.6,
+       "e": 4.626
+      },
+      {
+       "w": "go",
+       "s": 5.0,
+       "e": 5.38
+      },
+      {
+       "w": "boeletsa",
+       "s": 5.38,
+       "e": 6.036
+      },
+      {
+       "w": "medumo:",
+       "s": 6.036,
+       "e": 6.509
+      },
+      {
+       "w": "o",
+       "s": 7.42,
+       "e": 7.48
+      },
+      {
+       "w": "bitse",
+       "s": 7.48,
+       "e": 7.84
+      },
+      {
+       "w": "modumo,",
+       "s": 7.84,
+       "e": 8.36
+      },
+      {
+       "w": "barutwana",
+       "s": 8.96,
+       "e": 9.46
+      },
+      {
+       "w": "ba",
+       "s": 9.46,
+       "e": 9.64
+      },
+      {
+       "w": "o",
+       "s": 9.64,
+       "e": 9.74
+      },
+      {
+       "w": "boeletse,",
+       "s": 9.74,
+       "e": 10.264
+      },
+      {
+       "w": "morago",
+       "s": 10.8,
+       "e": 11.358
+      },
+      {
+       "w": "ba",
+       "s": 11.92,
+       "e": 11.94
+      },
+      {
+       "w": "o",
+       "s": 11.94,
+       "e": 12.12
+      },
+      {
+       "w": "kwale",
+       "s": 12.12,
+       "e": 12.38
+      },
+      {
+       "w": "mo",
+       "s": 12.38,
+       "e": 12.61
+      },
+      {
+       "w": "moweng.",
+       "s": 12.61,
+       "e": 13.04
+      }
+     ],
+     "secs": 13.25,
+     "cer": 0.016,
+     "f0_rise": 3.28
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/tn_v5_3.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.52
+      },
+      {
+       "w": "dira",
+       "s": 0.52,
+       "e": 0.95
+      },
+      {
+       "w": "tiro",
+       "s": 0.95,
+       "e": 1.38
+      },
+      {
+       "w": "e",
+       "s": 1.38,
+       "e": 1.396
+      },
+      {
+       "w": "ntle",
+       "s": 1.599,
+       "e": 2.113
+      },
+      {
+       "w": "thata,",
+       "s": 2.113,
+       "e": 2.694
+      },
+      {
+       "w": "morutabana.",
+       "s": 3.087,
+       "e": 4.287
+      },
+      {
+       "w": "Go",
+       "s": 5.7,
+       "e": 5.866
+      },
+      {
+       "w": "boeletsa",
+       "s": 5.866,
+       "e": 6.658
+      },
+      {
+       "w": "ka",
+       "s": 6.658,
+       "e": 6.91
+      },
+      {
+       "w": "metlha",
+       "s": 6.91,
+       "e": 7.261
+      },
+      {
+       "w": "go",
+       "s": 7.578,
+       "e": 7.837
+      },
+      {
+       "w": "a",
+       "s": 7.837,
+       "e": 7.986
+      },
+      {
+       "w": "thusa.",
+       "s": 7.986,
+       "e": 8.58
+      }
+     ],
+     "secs": 9.26,
+     "cer": 0.059,
+     "f0_rise": 2.39
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/tn_v5_4.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.68
+      },
+      {
+       "w": "tla",
+       "s": 0.68,
+       "e": 1.031
+      },
+      {
+       "w": "ruta",
+       "s": 1.031,
+       "e": 1.5
+      },
+      {
+       "w": "modumo",
+       "s": 1.5,
+       "e": 2.592
+      },
+      {
+       "w": "ofe",
+       "s": 2.737,
+       "e": 3.237
+      },
+      {
+       "w": "mo",
+       "s": 3.76,
+       "e": 3.82
+      },
+      {
+       "w": "bekeng",
+       "s": 3.82,
+       "e": 4.92
+      },
+      {
+       "w": "e",
+       "s": 4.92,
+       "e": 4.96
+      },
+      {
+       "w": "e",
+       "s": 4.96,
+       "e": 5.2
+      },
+      {
+       "w": "tlang?",
+       "s": 5.2,
+       "e": 5.52
+      }
+     ],
+     "secs": 5.81,
+     "cer": 0.0,
+     "f0_rise": 1.61
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.035,
+    "f0_rise_mean": 3.11
+   }
+  }
+ ],
+ "shipped": {
+  "voice_key": "v1",
+  "label_public": "ElevenLabs · Designed Setswana voice (newest model)",
+  "how": "cut from the voice notes on the site at the sentence boundaries (same text, not re-rendered); voice v1 in the blind comparison plays these same files",
+  "clips": [
+   {
+    "i": 0,
+    "mp3": "assets/audio/speak/tn_v1_0.mp3",
+    "words": [
+     {
+      "w": "Dumela",
+      "s": 0.0,
+      "e": 0.56
+     },
+     {
+      "w": "morutabana!",
+      "s": 0.68,
+      "e": 1.44
+     },
+     {
+      "w": "Ke",
+      "s": 1.92,
+      "e": 2.16
+     },
+     {
+      "w": "itumelela",
+      "s": 2.24,
+      "e": 2.96
+     },
+     {
+      "w": "molaetsa",
+      "s": 3.04,
+      "e": 3.6
+     },
+     {
+      "w": "wa",
+      "s": 3.68,
+      "e": 3.76
+     },
+     {
+      "w": "gago.",
+      "s": 3.84,
+      "e": 4.24
+     }
+    ],
+    "secs": 4.49,
+    "cer": 0.0,
+    "f0_rise": 4.48,
+    "from": "conversation"
+   },
+   {
+    "i": 1,
+    "mp3": "assets/audio/speak/tn_v1_1.mp3",
+    "words": [
+     {
+      "w": "Thuto",
+      "s": 0.12,
+      "e": 0.44
+     },
+     {
+      "w": "ya",
+      "s": 0.52,
+      "e": 0.6
+     },
+     {
+      "w": "medumo",
+      "s": 0.76,
+      "e": 1.24
+     },
+     {
+      "w": "e",
+      "s": 1.32,
+      "e": 1.4
+     },
+     {
+      "w": "tsamaile",
+      "s": 1.44,
+      "e": 1.96
+     },
+     {
+      "w": "jang",
+      "s": 2.04,
+      "e": 2.36
+     },
+     {
+      "w": "gompieno?",
+      "s": 2.44,
+      "e": 3.08
+     }
+    ],
+    "secs": 3.32,
+    "cer": 0.075,
+    "f0_rise": 4.27,
+    "from": "conversation"
+   },
+   {
+    "i": 2,
+    "mp3": "assets/audio/speak/tn_v1_2.mp3",
+    "words": [
+     {
+      "w": "Ka",
+      "s": 0.0,
+      "e": 0.12
+     },
+     {
+      "w": "moso,",
+      "s": 0.16,
+      "e": 0.56
+     },
+     {
+      "w": "simolola",
+      "s": 0.88,
+      "e": 1.68
+     },
+     {
+      "w": "ka",
+      "s": 1.76,
+      "e": 1.88
+     },
+     {
+      "w": "metsotso",
+      "s": 1.92,
+      "e": 2.48
+     },
+     {
+      "w": "e",
+      "s": 2.52,
+      "e": 2.56
+     },
+     {
+      "w": "le",
+      "s": 2.64,
+      "e": 2.72
+     },
+     {
+      "w": "metlhano",
+      "s": 2.84,
+      "e": 3.36
+     },
+     {
+      "w": "ya",
+      "s": 3.44,
+      "e": 3.6
+     },
+     {
+      "w": "go",
+      "s": 3.68,
+      "e": 3.76
+     },
+     {
+      "w": "boeletsa",
+      "s": 3.84,
+      "e": 4.32
+     },
+     {
+      "w": "medumo:",
+      "s": 4.48,
+      "e": 4.96
+     },
+     {
+      "w": "o",
+      "s": 5.52,
+      "e": 5.6
+     },
+     {
+      "w": "bitse",
+      "s": 5.68,
+      "e": 6.0
+     },
+     {
+      "w": "modumo,",
+      "s": 6.08,
+      "e": 6.72
+     },
+     {
+      "w": "barutwana",
+      "s": 7.12,
+      "e": 7.76
+     },
+     {
+      "w": "ba",
+      "s": 7.84,
+      "e": 7.92
+     },
+     {
+      "w": "o",
+      "s": 8.0,
+      "e": 8.08
+     },
+     {
+      "w": "boeletse,",
+      "s": 8.2,
+      "e": 8.88
+     },
+     {
+      "w": "morago",
+      "s": 9.28,
+      "e": 9.92
+     },
+     {
+      "w": "ba",
+      "s": 10.08,
+      "e": 10.24
+     },
+     {
+      "w": "o",
+      "s": 10.32,
+      "e": 10.4
+     },
+     {
+      "w": "kwale",
+      "s": 10.48,
+      "e": 10.88
+     },
+     {
+      "w": "mo",
+      "s": 10.96,
+      "e": 11.04
+     },
+     {
+      "w": "moweng.",
+      "s": 11.08,
+      "e": 11.6
+     }
+    ],
+    "secs": 11.76,
+    "cer": 0.016,
+    "f0_rise": 3.84,
+    "from": "conversation"
+   },
+   {
+    "i": 3,
+    "mp3": "assets/audio/speak/tn_v1_3.mp3",
+    "words": [
+     {
+      "w": "O",
+      "s": 0.0,
+      "e": 0.16
+     },
+     {
+      "w": "dira",
+      "s": 0.24,
+      "e": 0.48
+     },
+     {
+      "w": "tiro",
+      "s": 0.64,
+      "e": 1.04
+     },
+     {
+      "w": "e",
+      "s": 1.12,
+      "e": 1.2
+     },
+     {
+      "w": "ntle",
+      "s": 1.28,
+      "e": 1.44
+     },
+     {
+      "w": "thata,",
+      "s": 1.52,
+      "e": 2.0
+     },
+     {
+      "w": "morutabana.",
+      "s": 2.32,
+      "e": 3.12
+     },
+     {
+      "w": "Go",
+      "s": 3.68,
+      "e": 3.76
+     },
+     {
+      "w": "boeletsa",
+      "s": 3.84,
+      "e": 4.32
+     },
+     {
+      "w": "ka",
+      "s": 4.4,
+      "e": 4.48
+     },
+     {
+      "w": "metlha",
+      "s": 4.64,
+      "e": 4.88
+     },
+     {
+      "w": "go",
+      "s": 4.96,
+      "e": 5.12
+     },
+     {
+      "w": "a",
+      "s": 5.2,
+      "e": 5.28
+     },
+     {
+      "w": "thusa.",
+      "s": 5.36,
+      "e": 5.84
+     }
+    ],
+    "secs": 6.09,
+    "cer": 0.0,
+    "f0_rise": 4.21,
+    "from": "conversation"
+   },
+   {
+    "i": 4,
+    "mp3": "assets/audio/speak/tn_v1_4.mp3",
+    "words": [
+     {
+      "w": "O",
+      "s": 0.12,
+      "e": 0.2
+     },
+     {
+      "w": "tla",
+      "s": 0.24,
+      "e": 0.36
+     },
+     {
+      "w": "ruta",
+      "s": 0.44,
+      "e": 0.76
+     },
+     {
+      "w": "modumo",
+      "s": 0.92,
+      "e": 1.4
+     },
+     {
+      "w": "ofe",
+      "s": 1.56,
+      "e": 1.8
+     },
+     {
+      "w": "mo",
+      "s": 1.88,
+      "e": 1.96
+     },
+     {
+      "w": "bekeng",
+      "s": 2.08,
+      "e": 2.36
+     },
+     {
+      "w": "e",
+      "s": 2.44,
+      "e": 2.52
+     },
+     {
+      "w": "e",
+      "s": 2.6,
+      "e": 2.68
+     },
+     {
+      "w": "tlang?",
+      "s": 2.72,
+      "e": 3.08
+     }
+    ],
+    "secs": 3.24,
+    "cer": 0.0,
+    "f0_rise": 0.59,
+    "from": "conversation"
+   }
+  ]
+ },
+ "measures": {
+  "cer": "measured (automated): text → speech → text with Gemini 3.1 Pro, character error rate after norm_v1, rounded up; lower means a machine recovered the words more exactly. It does not measure how natural the voice sounds.",
+  "f0_rise": "measured proxy: median pitch of the first word minus the median pitch of the whole sentence, in semitones (positive = the sentence starts higher than its own middle). A proxy for the 9 October comment about pitch at the start of sentences; first-language listeners decide.",
+  "f0_rise_human_ref": {
+   "median": 1.61,
+   "q1_q3": [
+    0.41,
+    2.73
+   ],
+   "n": 25,
+   "line": "For reference, 25 recordings of first-language speakers reading sentences aloud (FLEURS / NCHLT) start a median +1.6 semitones above their own middle (half of them between +0.4 and +2.7). A real speaker's sentence can start high too, so this number alone does not say a voice is wrong."
+  },
+  "native_ear": "pending (this review)"
+ },
+ "notes": [
+  "No open-source voice is included. Meta's MMS-TTS publishes no model for this language. The one open South African multi-language model (South-African-TTS-11-Vits, non-commercial licence) is access-restricted: on 13 October our Hugging Face account was not on its access list, and we did not request access."
+ ],
+ "sources": []
+}

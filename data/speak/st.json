@@ -65,22 +65,23 @@
       {
        "w": "molaetsa",
        "s": 2.28,
-       "e": 2.84
+       "e": 2.8
       },
       {
        "w": "wa",
        "s": 2.88,
-       "e": 3.04
+       "e": 2.96
       },
       {
        "w": "hao.",
-       "s": 3.08,
-       "e": 3.52
+       "s": 3.04,
+       "e": 3.36
       }
      ],
-     "secs": 3.68,
-     "cer": 0.05,
-     "f0_rise": 6.95
+     "secs": 3.61,
+     "cer": 0.0,
+     "f0_rise": 9.03,
+     "rerendered": false
     },
     {
      "i": 1,
@@ -88,43 +89,44 @@
      "words": [
       {
        "w": "Thuto",
-       "s": 0.0,
-       "e": 0.4
+       "s": 0.12,
+       "e": 0.36
       },
       {
        "w": "ya",
        "s": 0.44,
-       "e": 0.48
+       "e": 0.52
       },
       {
        "w": "medumo",
-       "s": 0.56,
-       "e": 1.12
+       "s": 0.68,
+       "e": 1.16
       },
       {
        "w": "e",
-       "s": 1.36,
-       "e": 1.44
+       "s": 1.32,
+       "e": 1.4
       },
       {
        "w": "tsamaile",
-       "s": 1.52,
-       "e": 2.0
+       "s": 1.44,
+       "e": 1.96
       },
       {
        "w": "jwang",
        "s": 2.04,
-       "e": 2.24
+       "e": 2.36
       },
       {
        "w": "kajeno?",
-       "s": 2.28,
-       "e": 2.8
+       "s": 2.4,
+       "e": 3.0
       }
      ],
-     "secs": 3.04,
-     "cer": 0.0,
-     "f0_rise": 4.06
+     "secs": 3.16,
+     "cer": 0.077,
+     "f0_rise": 4.64,
+     "rerendered": false
     },
     {
      "i": 2,
@@ -132,113 +134,114 @@
      "words": [
       {
        "w": "Ntho",
-       "s": 0.0,
-       "e": 0.32
+       "s": 0.12,
+       "e": 0.36
       },
       {
        "w": "e",
-       "s": 0.4,
-       "e": 0.48
+       "s": 0.44,
+       "e": 0.52
       },
       {
        "w": "le",
-       "s": 0.56,
-       "e": 0.64
+       "s": 0.6,
+       "e": 0.68
       },
       {
        "w": "nngwe",
        "s": 0.72,
-       "e": 0.96
+       "e": 1.0
       },
       {
        "w": "eo",
-       "s": 1.04,
-       "e": 1.36
+       "s": 1.08,
+       "e": 1.4
       },
       {
        "w": "ke",
-       "s": 1.44,
-       "e": 1.6
+       "s": 1.48,
+       "e": 1.56
       },
       {
        "w": "kopang",
-       "s": 1.76,
-       "e": 2.16
+       "s": 1.64,
+       "e": 2.12
       },
       {
        "w": "o",
-       "s": 2.32,
-       "e": 2.48
+       "s": 2.2,
+       "e": 2.28
       },
       {
        "w": "e",
-       "s": 2.52,
-       "e": 2.56
+       "s": 2.36,
+       "e": 2.44
       },
       {
        "w": "etse",
-       "s": 2.64,
-       "e": 2.88
+       "s": 2.52,
+       "e": 2.76
       },
       {
        "w": "hantle",
-       "s": 2.96,
-       "e": 3.44
+       "s": 2.84,
+       "e": 3.32
       },
       {
        "w": "kajeno",
-       "s": 3.48,
-       "e": 4.0
+       "s": 3.36,
+       "e": 3.8
       },
       {
        "w": "ke",
-       "s": 4.12,
-       "e": 4.24
+       "s": 3.88,
+       "e": 3.96
       },
       {
        "w": "ena:",
-       "s": 4.44,
-       "e": 4.64
+       "s": 4.04,
+       "e": 4.44
       },
       {
        "w": "tlohela",
-       "s": 5.28,
-       "e": 5.76
+       "s": 5.04,
+       "e": 5.48
       },
       {
        "w": "baithuti",
-       "s": 5.84,
-       "e": 6.32
+       "s": 5.56,
+       "e": 6.12
       },
       {
        "w": "ba",
-       "s": 6.4,
-       "e": 6.48
+       "s": 6.2,
+       "e": 6.28
       },
       {
        "w": "tswake",
-       "s": 6.56,
-       "e": 7.04
+       "s": 6.32,
+       "e": 6.68
       },
       {
        "w": "dinoko",
-       "s": 7.2,
-       "e": 7.68
+       "s": 6.84,
+       "e": 7.4
       },
       {
        "w": "ka",
-       "s": 7.76,
-       "e": 7.84
+       "s": 7.48,
+       "e": 7.56
       },
       {
        "w": "bobona.",
-       "s": 7.96,
-       "e": 8.4
+       "s": 7.72,
+       "e": 8.2
       }
      ],
-     "secs": 8.64,
-     "cer": 0.04,
-     "f0_rise": 0.36
+     "secs": 8.45,
+     "cer": 0.148,
+     "f0_rise": 5.17,
+     "rerendered": false
     },
     {
      "i": 3,
@@ -246,83 +249,84 @@
      "words": [
       {
        "w": "Ke",
-       "s": 0.0,
-       "e": 0.16
+       "s": 0.12,
+       "e": 0.24
       },
       {
        "w": "ratile",
-       "s": 0.2,
-       "e": 0.72
+       "s": 0.28,
+       "e": 0.744
       },
       {
        "w": "ha",
        "s": 0.84,
-       "e": 0.96
+       "e": 1.02
       },
       {
        "w": "o",
-       "s": 1.04,
-       "e": 1.12
+       "s": 1.08,
+       "e": 1.24
       },
       {
        "w": "kopa",
-       "s": 1.16,
-       "e": 1.44
+       "s": 1.32,
+       "e": 1.64
       },
       {
        "w": "baithuti",
-       "s": 1.52,
-       "e": 2.16
+       "s": 1.72,
+       "e": 2.36
       },
       {
        "w": "ho",
-       "s": 2.24,
-       "e": 2.32
+       "s": 2.44,
+       "e": 2.52
       },
       {
        "w": "mamela",
-       "s": 2.36,
-       "e": 2.8
+       "s": 2.56,
+       "e": 3.08
       },
       {
        "w": "modumo",
-       "s": 2.96,
-       "e": 3.44
+       "s": 3.24,
+       "e": 3.72
       },
       {
        "w": "o",
-       "s": 3.52,
-       "e": 3.6
+       "s": 3.8,
+       "e": 3.96
       },
       {
        "w": "qalang",
-       "s": 3.68,
-       "e": 4.0
+       "s": 4.0,
+       "e": 4.36
       },
       {
        "w": "pele",
-       "s": 4.16,
-       "e": 4.56
+       "s": 4.52,
+       "e": 4.92
       },
       {
        "w": "ba",
-       "s": 4.64,
-       "e": 4.72
+       "s": 5.0,
+       "e": 5.08
       },
       {
        "w": "kgetha",
-       "s": 4.76,
-       "e": 5.04
+       "s": 5.12,
+       "e": 5.4
       },
       {
        "w": "karete.",
-       "s": 5.12,
-       "e": 5.68
+       "s": 5.48,
+       "e": 6.04
       }
      ],
-     "secs": 5.92,
+     "secs": 6.29,
      "cer": 0.0,
-     "f0_rise": 6.0
+     "f0_rise": 3.31,
+     "rerendered": false
     },
     {
      "i": 4,
@@ -330,53 +334,54 @@
      "words": [
       {
        "w": "O",
-       "s": 0.0,
-       "e": 0.16
+       "s": 0.12,
+       "e": 0.2
       },
       {
        "w": "tla",
-       "s": 0.2,
-       "e": 0.32
+       "s": 0.24,
+       "e": 0.36
       },
       {
        "w": "ruta",
-       "s": 0.4,
-       "e": 0.64
+       "s": 0.52,
+       "e": 0.68
       },
       {
        "w": "modumo",
-       "s": 0.72,
-       "e": 1.2
+       "s": 0.84,
+       "e": 1.24
       },
       {
        "w": "ofe",
-       "s": 1.28,
+       "s": 1.32,
        "e": 1.6
       },
       {
        "w": "bekeng",
-       "s": 1.72,
-       "e": 1.92
+       "s": 1.64,
+       "e": 1.96
       },
       {
        "w": "e",
-       "s": 1.96,
-       "e": 2.0
+       "s": 2.0,
+       "e": 2.04
       },
       {
        "w": "tlang?",
        "s": 2.08,
-       "e": 2.4
+       "e": 2.44
       }
      ],
-     "secs": 2.56,
-     "cer": 0.056,
-     "f0_rise": 1.08
+     "secs": 2.68,
+     "cer": 0.028,
+     "f0_rise": 1.87,
+     "rerendered": false
     }
    ],
    "summary": {
-    "cer_mean": 0.03,
-    "f0_rise_mean": 3.69
+    "cer_mean": 0.051,
+    "f0_rise_mean": 4.8
    }
   },
   {
@@ -1072,352 +1077,6 @@
    }
   },
   {
-   "key": "v4",
-   "family": "elevenlabs",
-   "label_public": "ElevenLabs · Designed Sesotho voice (newest model, settings tuned for calmer intonation)",
-   "clips": [
-    {
-     "i": 0,
-     "mp3": "assets/audio/speak/st_v4_0.mp3",
-     "words": [
-      {
-       "w": "Dumela",
-       "s": 0.0,
-       "e": 0.48
-      },
-      {
-       "w": "mosuwe!",
-       "s": 0.68,
-       "e": 1.36
-      },
-      {
-       "w": "Ke",
-       "s": 1.95,
-       "e": 2.03
-      },
-      {
-       "w": "thabela",
-       "s": 2.19,
-       "e": 2.67
-      },
-      {
-       "w": "molaetsa",
-       "s": 2.71,
-       "e": 3.39
-      },
-      {
-       "w": "wa",
-       "s": 3.51,
-       "e": 3.63
-      },
-      {
-       "w": "hao.",
-       "s": 3.67,
-       "e": 4.11
-      }
-     ],
-     "secs": 4.35,
-     "cer": 0.05,
-     "f0_rise": 8.34
-    },
-    {
-     "i": 1,
-     "mp3": "assets/audio/speak/st_v4_1.mp3",
-     "words": [
-      {
-       "w": "Thuto",
-       "s": 0.0,
-       "e": 0.32
-      },
-      {
-       "w": "ya",
-       "s": 0.4,
-       "e": 0.48
-      },
-      {
-       "w": "medumo",
-       "s": 0.64,
-       "e": 1.12
-      },
-      {
-       "w": "e",
-       "s": 1.2,
-       "e": 1.28
-      },
-      {
-       "w": "tsamaile",
-       "s": 1.32,
-       "e": 1.84
-      },
-      {
-       "w": "jwang",
-       "s": 1.92,
-       "e": 2.24
-      },
-      {
-       "w": "kajeno?",
-       "s": 2.28,
-       "e": 2.88
-      }
-     ],
-     "secs": 3.12,
-     "cer": 0.18,
-     "f0_rise": 3.89
-    },
-    {
-     "i": 2,
-     "mp3": "assets/audio/speak/st_v4_2.mp3",
-     "words": [
-      {
-       "w": "Ntho",
-       "s": 0.0,
-       "e": 0.32
-      },
-      {
-       "w": "e",
-       "s": 0.4,
-       "e": 0.48
-      },
-      {
-       "w": "le",
-       "s": 0.56,
-       "e": 0.64
-      },
-      {
-       "w": "nngwe",
-       "s": 0.72,
-       "e": 1.12
-      },
-      {
-       "w": "eo",
-       "s": 1.32,
-       "e": 1.52
-      },
-      {
-       "w": "ke",
-       "s": 1.6,
-       "e": 1.76
-      },
-      {
-       "w": "kopang",
-       "s": 1.92,
-       "e": 2.4
-      },
-      {
-       "w": "o",
-       "s": 2.48,
-       "e": 2.56
-      },
-      {
-       "w": "e",
-       "s": 2.64,
-       "e": 2.8
-      },
-      {
-       "w": "etse",
-       "s": 2.92,
-       "e": 3.12
-      },
-      {
-       "w": "hantle",
-       "s": 3.2,
-       "e": 3.6
-      },
-      {
-       "w": "kajeno",
-       "s": 3.64,
-       "e": 4.16
-      },
-      {
-       "w": "ke",
-       "s": 4.24,
-       "e": 4.4
-      },
-      {
-       "w": "ena:",
-       "s": 4.48,
-       "e": 4.88
-      },
-      {
-       "w": "tlohela",
-       "s": 5.64,
-       "e": 6.16
-      },
-      {
-       "w": "baithuti",
-       "s": 6.24,
-       "e": 6.8
-      },
-      {
-       "w": "ba",
-       "s": 6.88,
-       "e": 6.96
-      },
-      {
-       "w": "tswake",
-       "s": 7.04,
-       "e": 7.6
-      },
-      {
-       "w": "dinoko",
-       "s": 7.84,
-       "e": 8.48
-      },
-      {
-       "w": "ka",
-       "s": 8.56,
-       "e": 8.64
-      },
-      {
-       "w": "bobona.",
-       "s": 8.8,
-       "e": 9.28
-      }
-     ],
-     "secs": 9.44,
-     "cer": 0.01,
-     "f0_rise": 0.96
-    },
-    {
-     "i": 3,
-     "mp3": "assets/audio/speak/st_v4_3.mp3",
-     "words": [
-      {
-       "w": "Ke",
-       "s": 0.0,
-       "e": 0.08
-      },
-      {
-       "w": "ratile",
-       "s": 0.16,
-       "e": 0.64
-      },
-      {
-       "w": "ha",
-       "s": 0.72,
-       "e": 1.04
-      },
-      {
-       "w": "o",
-       "s": 1.12,
-       "e": 1.2
-      },
-      {
-       "w": "kopa",
-       "s": 1.24,
-       "e": 1.52
-      },
-      {
-       "w": "baithuti",
-       "s": 1.6,
-       "e": 2.24
-      },
-      {
-       "w": "ho",
-       "s": 2.32,
-       "e": 2.4
-      },
-      {
-       "w": "mamela",
-       "s": 2.44,
-       "e": 2.96
-      },
-      {
-       "w": "modumo",
-       "s": 3.12,
-       "e": 3.84
-      },
-      {
-       "w": "o",
-       "s": 3.92,
-       "e": 4.08
-      },
-      {
-       "w": "qalang",
-       "s": 4.12,
-       "e": 4.56
-      },
-      {
-       "w": "pele",
-       "s": 4.64,
-       "e": 5.04
-      },
-      {
-       "w": "ba",
-       "s": 5.12,
-       "e": 5.2
-      },
-      {
-       "w": "kgetha",
-       "s": 5.28,
-       "e": 5.6
-      },
-      {
-       "w": "karete.",
-       "s": 5.68,
-       "e": 6.32
-      }
-     ],
-     "secs": 6.48,
-     "cer": 0.0,
-     "f0_rise": 1.84
-    },
-    {
-     "i": 4,
-     "mp3": "assets/audio/speak/st_v4_4.mp3",
-     "words": [
-      {
-       "w": "O",
-       "s": 0.0,
-       "e": 0.08
-      },
-      {
-       "w": "tla",
-       "s": 0.12,
-       "e": 0.32
-      },
-      {
-       "w": "ruta",
-       "s": 0.48,
-       "e": 0.64
-      },
-      {
-       "w": "modumo",
-       "s": 0.8,
-       "e": 1.28
-      },
-      {
-       "w": "ofe",
-       "s": 1.36,
-       "e": 1.64
-      },
-      {
-       "w": "bekeng",
-       "s": 1.68,
-       "e": 2.0
-      },
-      {
-       "w": "e",
-       "s": 2.04,
-       "e": 2.08
-      },
-      {
-       "w": "tlang?",
-       "s": 2.16,
-       "e": 2.56
-      }
-     ],
-     "secs": 2.8,
-     "cer": 0.084,
-     "f0_rise": 1.52
-    }
-   ],
-   "summary": {
-    "cer_mean": 0.065,
-    "f0_rise_mean": 3.31
-   }
-  },
-  {
    "key": "v5",
    "family": "openai",
    "label_public": "OpenAI · gpt-4o-mini-tts (told to speak as a first-language teacher)",
@@ -1767,11 +1426,11 @@
  "shipped": {
   "voice_key": "v1",
   "label_public": "ElevenLabs · Designed Sesotho voice (newest model)",
-  "how": "cut from the voice notes on the site at the sentence boundaries (same text, not re-rendered)",
+  "how": "cut from the voice notes on the site at the sentence boundaries (same text, not re-rendered); voice v1 in the blind comparison plays these same files",
   "clips": [
    {
     "i": 0,
-    "mp3": "assets/audio/speak/st_shipped_0.mp3",
+    "mp3": "assets/audio/speak/st_v1_0.mp3",
     "words": [
      {
       "w": "Dumela",
@@ -1816,7 +1475,7 @@
    },
    {
     "i": 1,
-    "mp3": "assets/audio/speak/st_shipped_1.mp3",
+    "mp3": "assets/audio/speak/st_v1_1.mp3",
     "words": [
      {
       "w": "Thuto",
@@ -1861,7 +1520,7 @@
    },
    {
     "i": 2,
-    "mp3": "assets/audio/speak/st_shipped_2.mp3",
+    "mp3": "assets/audio/speak/st_v1_2.mp3",
     "words": [
      {
       "w": "Ntho",
@@ -1976,7 +1635,7 @@
    },
    {
     "i": 3,
-    "mp3": "assets/audio/speak/st_shipped_3.mp3",
+    "mp3": "assets/audio/speak/st_v1_3.mp3",
     "words": [
      {
       "w": "Ke",
@@ -2061,7 +1720,7 @@
    },
    {
     "i": 4,
-    "mp3": "assets/audio/speak/st_shipped_4.mp3",
+    "mp3": "assets/audio/speak/st_v1_4.mp3",
     "words": [
      {
       "w": "O",
@@ -2126,7 +1785,8 @@
   "native_ear": "pending (this review)"
  },
  "notes": [
-  "No open-source voice could be included: Meta's MMS-TTS does not publish a model for this language, and the one open South African multi-language model found is access-restricted."
+  "No open-source voice is included. Meta's MMS-TTS publishes no model for this language. The one open South African multi-language model (South-African-TTS-11-Vits, non-commercial licence) is access-restricted: on 13 October our Hugging Face account was not on its access list, and we did not request access.",
+  "No calmer-intonation variant is offered for this language: every setting that lowered the start of the sentence either lost words on at least one test sentence or did not say the greeting right."
  ],
  "sources": []
 }

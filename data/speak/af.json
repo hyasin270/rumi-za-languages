@@ -1,0 +1,2343 @@
+{
+ "lang": "af",
+ "sentences": [
+  {
+   "i": 0,
+   "text": "Hallo! Dis lekker om van jou te hoor.",
+   "en": "Hello! It is lovely to hear from you.",
+   "source": "conversation"
+  },
+  {
+   "i": 1,
+   "text": "Hoe het vandag se klankles met die leerders gegaan?",
+   "en": "How did today's phonics lesson with the learners go?",
+   "source": "conversation"
+  },
+  {
+   "i": 2,
+   "text": "Begin môre met vyf minute klankhersiening: jy sê die klank, die leerders sê dit na en skryf dit in die lug.",
+   "en": "Tomorrow, start with five minutes of sound revision: you say the sound, the learners repeat it and write it in the air.",
+   "source": "conversation"
+  },
+  {
+   "i": 3,
+   "text": "Jy doen baie goeie werk. Daaglikse herhaling help regtig.",
+   "en": "You are doing very good work. Daily revision really helps.",
+   "source": "conversation"
+  },
+  {
+   "i": 4,
+   "text": "Watter klank gaan jy volgende week onderrig?",
+   "en": "Which sound will you teach next week?",
+   "source": "conversation"
+  }
+ ],
+ "voices": [
+  {
+   "key": "v1",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Paul Steyn (newest model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/af_v1_0.mp3",
+     "words": [
+      {
+       "w": "Hallo!",
+       "s": 0.0,
+       "e": 0.4
+      },
+      {
+       "w": "Dis",
+       "s": 0.84,
+       "e": 0.96
+      },
+      {
+       "w": "lekker",
+       "s": 1.04,
+       "e": 1.28
+      },
+      {
+       "w": "om",
+       "s": 1.36,
+       "e": 1.44
+      },
+      {
+       "w": "van",
+       "s": 1.52,
+       "e": 1.6
+      },
+      {
+       "w": "jou",
+       "s": 1.653,
+       "e": 1.76
+      },
+      {
+       "w": "te",
+       "s": 1.8,
+       "e": 1.84
+      },
+      {
+       "w": "hoor.",
+       "s": 1.92,
+       "e": 2.16
+      }
+     ],
+     "secs": 2.41,
+     "cer": 0.0,
+     "f0_rise": 6.25,
+     "rerendered": false
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/af_v1_1.mp3",
+     "words": [
+      {
+       "w": "Hoe",
+       "s": 0.12,
+       "e": 0.2
+      },
+      {
+       "w": "het",
+       "s": 0.28,
+       "e": 0.36
+      },
+      {
+       "w": "vandag",
+       "s": 0.413,
+       "e": 0.68
+      },
+      {
+       "w": "se",
+       "s": 0.76,
+       "e": 0.84
+      },
+      {
+       "w": "klankles",
+       "s": 0.88,
+       "e": 1.4
+      },
+      {
+       "w": "met",
+       "s": 1.44,
+       "e": 1.48
+      },
+      {
+       "w": "die",
+       "s": 1.56,
+       "e": 1.64
+      },
+      {
+       "w": "leerders",
+       "s": 1.68,
+       "e": 2.04
+      },
+      {
+       "w": "gegaan?",
+       "s": 2.12,
+       "e": 2.44
+      }
+     ],
+     "secs": 2.68,
+     "cer": 0.0,
+     "f0_rise": 5.45,
+     "rerendered": false
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/af_v1_2.mp3",
+     "words": [
+      {
+       "w": "Begin",
+       "s": 0.12,
+       "e": 0.36
+      },
+      {
+       "w": "môre",
+       "s": 0.44,
+       "e": 0.76
+      },
+      {
+       "w": "met",
+       "s": 0.84,
+       "e": 1.0
+      },
+      {
+       "w": "vyf",
+       "s": 1.08,
+       "e": 1.32
+      },
+      {
+       "w": "minute",
+       "s": 1.4,
+       "e": 1.72
+      },
+      {
+       "w": "klankhersiening:",
+       "s": 1.8,
+       "e": 2.52
+      },
+      {
+       "w": "jy",
+       "s": 3.24,
+       "e": 3.4
+      },
+      {
+       "w": "sê",
+       "s": 3.48,
+       "e": 3.6
+      },
+      {
+       "w": "die",
+       "s": 3.64,
+       "e": 3.72
+      },
+      {
+       "w": "klank,",
+       "s": 3.8,
+       "e": 4.12
+      },
+      {
+       "w": "die",
+       "s": 4.48,
+       "e": 4.52
+      },
+      {
+       "w": "leerders",
+       "s": 4.6,
+       "e": 5.0
+      },
+      {
+       "w": "sê",
+       "s": 5.04,
+       "e": 5.16
+      },
+      {
+       "w": "dit",
+       "s": 5.24,
+       "e": 5.32
+      },
+      {
+       "w": "na",
+       "s": 5.4,
+       "e": 5.64
+      },
+      {
+       "w": "en",
+       "s": 5.88,
+       "e": 6.04
+      },
+      {
+       "w": "skryf",
+       "s": 6.12,
+       "e": 6.44
+      },
+      {
+       "w": "dit",
+       "s": 6.52,
+       "e": 6.6
+      },
+      {
+       "w": "in",
+       "s": 6.64,
+       "e": 6.68
+      },
+      {
+       "w": "die",
+       "s": 6.76,
+       "e": 6.8
+      },
+      {
+       "w": "lug.",
+       "s": 6.84,
+       "e": 7.16
+      }
+     ],
+     "secs": 7.32,
+     "cer": 0.039,
+     "f0_rise": 1.3,
+     "rerendered": false
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/af_v1_3.mp3",
+     "words": [
+      {
+       "w": "Jy",
+       "s": 0.0,
+       "e": 0.16
+      },
+      {
+       "w": "doen",
+       "s": 0.2,
+       "e": 0.48
+      },
+      {
+       "w": "baie",
+       "s": 0.56,
+       "e": 0.8
+      },
+      {
+       "w": "goeie",
+       "s": 0.88,
+       "e": 1.12
+      },
+      {
+       "w": "werk.",
+       "s": 1.32,
+       "e": 1.52
+      },
+      {
+       "w": "Daaglikse",
+       "s": 2.0,
+       "e": 2.48
+      },
+      {
+       "w": "herhaling",
+       "s": 2.56,
+       "e": 3.04
+      },
+      {
+       "w": "help",
+       "s": 3.2,
+       "e": 3.36
+      },
+      {
+       "w": "regtig.",
+       "s": 3.44,
+       "e": 4.0
+      }
+     ],
+     "secs": 4.25,
+     "cer": 0.0,
+     "f0_rise": 1.35,
+     "rerendered": false
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/af_v1_4.mp3",
+     "words": [
+      {
+       "w": "Watter",
+       "s": 0.12,
+       "e": 0.36
+      },
+      {
+       "w": "klank",
+       "s": 0.44,
+       "e": 0.68
+      },
+      {
+       "w": "gaan",
+       "s": 0.76,
+       "e": 0.88
+      },
+      {
+       "w": "jy",
+       "s": 0.92,
+       "e": 1.08
+      },
+      {
+       "w": "volgende",
+       "s": 1.16,
+       "e": 1.48
+      },
+      {
+       "w": "week",
+       "s": 1.6,
+       "e": 1.72
+      },
+      {
+       "w": "onderrig?",
+       "s": 1.76,
+       "e": 2.2
+      }
+     ],
+     "secs": 2.36,
+     "cer": 0.0,
+     "f0_rise": 1.15,
+     "rerendered": false
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.008,
+    "f0_rise_mean": 3.1
+   }
+  },
+  {
+   "key": "v2",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Anneke (newest model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/af_v2_0.mp3",
+     "words": [
+      {
+       "w": "Hallo!",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "Dis",
+       "s": 0.88,
+       "e": 1.04
+      },
+      {
+       "w": "lekker",
+       "s": 1.12,
+       "e": 1.44
+      },
+      {
+       "w": "om",
+       "s": 1.52,
+       "e": 1.6
+      },
+      {
+       "w": "van",
+       "s": 1.68,
+       "e": 1.76
+      },
+      {
+       "w": "jou",
+       "s": 1.84,
+       "e": 1.92
+      },
+      {
+       "w": "te",
+       "s": 2.0,
+       "e": 2.16
+      },
+      {
+       "w": "hoor.",
+       "s": 2.2,
+       "e": 2.48
+      }
+     ],
+     "secs": 2.64,
+     "cer": 0.0,
+     "f0_rise": 5.92
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/af_v2_1.mp3",
+     "words": [
+      {
+       "w": "Hoe",
+       "s": 0.0,
+       "e": 0.16
+      },
+      {
+       "w": "het",
+       "s": 0.24,
+       "e": 0.32
+      },
+      {
+       "w": "vandag",
+       "s": 0.4,
+       "e": 0.64
+      },
+      {
+       "w": "se",
+       "s": 0.72,
+       "e": 0.88
+      },
+      {
+       "w": "klankles",
+       "s": 0.92,
+       "e": 1.44
+      },
+      {
+       "w": "met",
+       "s": 1.48,
+       "e": 1.52
+      },
+      {
+       "w": "die",
+       "s": 1.6,
+       "e": 1.68
+      },
+      {
+       "w": "leerders",
+       "s": 1.72,
+       "e": 2.16
+      },
+      {
+       "w": "gegaan?",
+       "s": 2.24,
+       "e": 2.56
+      }
+     ],
+     "secs": 2.8,
+     "cer": 0.0,
+     "f0_rise": 1.84
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/af_v2_2.mp3",
+     "words": [
+      {
+       "w": "Begin",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "môre",
+       "s": 0.4,
+       "e": 0.72
+      },
+      {
+       "w": "met",
+       "s": 0.8,
+       "e": 1.04
+      },
+      {
+       "w": "vyf",
+       "s": 1.12,
+       "e": 1.36
+      },
+      {
+       "w": "minute",
+       "s": 1.44,
+       "e": 1.76
+      },
+      {
+       "w": "klankhersiening:",
+       "s": 1.84,
+       "e": 2.72
+      },
+      {
+       "w": "jy",
+       "s": 3.28,
+       "e": 3.44
+      },
+      {
+       "w": "sê",
+       "s": 3.52,
+       "e": 3.68
+      },
+      {
+       "w": "die",
+       "s": 3.76,
+       "e": 3.84
+      },
+      {
+       "w": "klank,",
+       "s": 3.88,
+       "e": 4.24
+      },
+      {
+       "w": "die",
+       "s": 4.64,
+       "e": 4.72
+      },
+      {
+       "w": "leerders",
+       "s": 4.8,
+       "e": 5.2
+      },
+      {
+       "w": "sê",
+       "s": 5.24,
+       "e": 5.36
+      },
+      {
+       "w": "dit",
+       "s": 5.44,
+       "e": 5.52
+      },
+      {
+       "w": "na",
+       "s": 5.6,
+       "e": 5.84
+      },
+      {
+       "w": "en",
+       "s": 6.16,
+       "e": 6.32
+      },
+      {
+       "w": "skryf",
+       "s": 6.4,
+       "e": 6.72
+      },
+      {
+       "w": "dit",
+       "s": 6.8,
+       "e": 6.88
+      },
+      {
+       "w": "in",
+       "s": 6.92,
+       "e": 6.96
+      },
+      {
+       "w": "die",
+       "s": 7.04,
+       "e": 7.12
+      },
+      {
+       "w": "lug.",
+       "s": 7.32,
+       "e": 7.52
+      }
+     ],
+     "secs": 7.68,
+     "cer": 0.039,
+     "f0_rise": 8.86
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/af_v2_3.mp3",
+     "words": [
+      {
+       "w": "Jy",
+       "s": 0.0,
+       "e": 0.2
+      },
+      {
+       "w": "doen",
+       "s": 0.24,
+       "e": 0.48
+      },
+      {
+       "w": "baie",
+       "s": 0.56,
+       "e": 0.88
+      },
+      {
+       "w": "goeie",
+       "s": 0.96,
+       "e": 1.2
+      },
+      {
+       "w": "werk.",
+       "s": 1.28,
+       "e": 1.68
+      },
+      {
+       "w": "Daaglikse",
+       "s": 2.08,
+       "e": 2.56
+      },
+      {
+       "w": "herhaling",
+       "s": 2.64,
+       "e": 3.2
+      },
+      {
+       "w": "help",
+       "s": 3.36,
+       "e": 3.52
+      },
+      {
+       "w": "regtig.",
+       "s": 3.6,
+       "e": 4.24
+      }
+     ],
+     "secs": 4.4,
+     "cer": 0.0,
+     "f0_rise": 3.32
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/af_v2_4.mp3",
+     "words": [
+      {
+       "w": "Watter",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "klank",
+       "s": 0.4,
+       "e": 0.64
+      },
+      {
+       "w": "gaan",
+       "s": 0.72,
+       "e": 0.88
+      },
+      {
+       "w": "jy",
+       "s": 0.96,
+       "e": 1.12
+      },
+      {
+       "w": "volgende",
+       "s": 1.2,
+       "e": 1.6
+      },
+      {
+       "w": "week",
+       "s": 1.68,
+       "e": 1.84
+      },
+      {
+       "w": "onderrig?",
+       "s": 1.92,
+       "e": 2.48
+      }
+     ],
+     "secs": 2.64,
+     "cer": 0.0,
+     "f0_rise": 1.76
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.008,
+    "f0_rise_mean": 4.34
+   }
+  },
+  {
+   "key": "v3",
+   "family": "soniox",
+   "label_public": "Soniox · Afrikaans voice",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/af_v3_0.mp3",
+     "words": [
+      {
+       "w": "Hallo!",
+       "s": 0.0,
+       "e": 0.517
+      },
+      {
+       "w": "Dis",
+       "s": 1.327,
+       "e": 1.36
+      },
+      {
+       "w": "lekker",
+       "s": 1.36,
+       "e": 1.66
+      },
+      {
+       "w": "om",
+       "s": 1.66,
+       "e": 1.82
+      },
+      {
+       "w": "van",
+       "s": 1.82,
+       "e": 2.04
+      },
+      {
+       "w": "jou",
+       "s": 2.04,
+       "e": 2.14
+      },
+      {
+       "w": "te",
+       "s": 2.14,
+       "e": 2.38
+      },
+      {
+       "w": "hoor.",
+       "s": 2.38,
+       "e": 2.44
+      }
+     ],
+     "secs": 2.62,
+     "cer": 0.0,
+     "f0_rise": 6.95
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/af_v3_1.mp3",
+     "words": [
+      {
+       "w": "Hoe",
+       "s": 0.0,
+       "e": 0.24
+      },
+      {
+       "w": "het",
+       "s": 0.24,
+       "e": 0.36
+      },
+      {
+       "w": "vandag",
+       "s": 0.36,
+       "e": 0.75
+      },
+      {
+       "w": "se",
+       "s": 0.75,
+       "e": 0.88
+      },
+      {
+       "w": "klankles",
+       "s": 0.88,
+       "e": 1.42
+      },
+      {
+       "w": "met",
+       "s": 1.42,
+       "e": 1.56
+      },
+      {
+       "w": "die",
+       "s": 1.56,
+       "e": 1.6
+      },
+      {
+       "w": "leerders",
+       "s": 1.6,
+       "e": 1.98
+      },
+      {
+       "w": "gegaan?",
+       "s": 1.98,
+       "e": 2.46
+      }
+     ],
+     "secs": 2.62,
+     "cer": 0.0,
+     "f0_rise": 11.29
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/af_v3_2.mp3",
+     "words": [
+      {
+       "w": "Begin",
+       "s": 0.0,
+       "e": 0.42
+      },
+      {
+       "w": "môre",
+       "s": 0.42,
+       "e": 0.687
+      },
+      {
+       "w": "met",
+       "s": 0.74,
+       "e": 0.92
+      },
+      {
+       "w": "vyf",
+       "s": 0.92,
+       "e": 1.3
+      },
+      {
+       "w": "minute",
+       "s": 1.3,
+       "e": 1.54
+      },
+      {
+       "w": "klankhersiening:",
+       "s": 1.58,
+       "e": 2.336
+      },
+      {
+       "w": "jy",
+       "s": 2.987,
+       "e": 3.08
+      },
+      {
+       "w": "sê",
+       "s": 3.08,
+       "e": 3.16
+      },
+      {
+       "w": "die",
+       "s": 3.16,
+       "e": 3.28
+      },
+      {
+       "w": "klank,",
+       "s": 3.28,
+       "e": 3.593
+      },
+      {
+       "w": "die",
+       "s": 3.98,
+       "e": 4.08
+      },
+      {
+       "w": "leerders",
+       "s": 4.08,
+       "e": 4.56
+      },
+      {
+       "w": "sê",
+       "s": 4.56,
+       "e": 4.72
+      },
+      {
+       "w": "dit",
+       "s": 4.72,
+       "e": 4.84
+      },
+      {
+       "w": "na",
+       "s": 4.84,
+       "e": 5.02
+      },
+      {
+       "w": "en",
+       "s": 5.02,
+       "e": 5.42
+      },
+      {
+       "w": "skryf",
+       "s": 5.42,
+       "e": 5.718
+      },
+      {
+       "w": "dit",
+       "s": 5.76,
+       "e": 5.86
+      },
+      {
+       "w": "in",
+       "s": 5.86,
+       "e": 6.02
+      },
+      {
+       "w": "die",
+       "s": 6.02,
+       "e": 6.06
+      },
+      {
+       "w": "lug.",
+       "s": 6.06,
+       "e": 6.28
+      }
+     ],
+     "secs": 6.46,
+     "cer": 0.039,
+     "f0_rise": 10.37
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/af_v3_3.mp3",
+     "words": [
+      {
+       "w": "Jy",
+       "s": 0.0,
+       "e": 0.3
+      },
+      {
+       "w": "doen",
+       "s": 0.3,
+       "e": 0.46
+      },
+      {
+       "w": "baie",
+       "s": 0.46,
+       "e": 0.78
+      },
+      {
+       "w": "goeie",
+       "s": 0.78,
+       "e": 1.28
+      },
+      {
+       "w": "werk.",
+       "s": 1.28,
+       "e": 1.42
+      },
+      {
+       "w": "Daaglikse",
+       "s": 2.22,
+       "e": 2.64
+      },
+      {
+       "w": "herhaling",
+       "s": 2.64,
+       "e": 3.16
+      },
+      {
+       "w": "help",
+       "s": 3.16,
+       "e": 3.495
+      },
+      {
+       "w": "regtig.",
+       "s": 3.495,
+       "e": 4.08
+      }
+     ],
+     "secs": 4.25,
+     "cer": 0.0,
+     "f0_rise": 3.32
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/af_v3_4.mp3",
+     "words": [
+      {
+       "w": "Watter",
+       "s": 0.0,
+       "e": 0.54
+      },
+      {
+       "w": "klank",
+       "s": 0.587,
+       "e": 0.82
+      },
+      {
+       "w": "gaan",
+       "s": 0.84,
+       "e": 0.96
+      },
+      {
+       "w": "jy",
+       "s": 1.06,
+       "e": 1.1
+      },
+      {
+       "w": "volgende",
+       "s": 1.1,
+       "e": 1.48
+      },
+      {
+       "w": "week",
+       "s": 1.48,
+       "e": 1.68
+      },
+      {
+       "w": "onderrig?",
+       "s": 1.68,
+       "e": 2.16
+      }
+     ],
+     "secs": 2.28,
+     "cer": 0.0,
+     "f0_rise": 3.28
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.008,
+    "f0_rise_mean": 7.04
+   }
+  },
+  {
+   "key": "v4",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Paul Steyn (expressive model, settings tuned for calmer intonation)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/af_v4_0.mp3",
+     "words": [
+      {
+       "w": "Hallo!",
+       "s": 0.0,
+       "e": 0.399
+      },
+      {
+       "w": "Dis",
+       "s": 1.233,
+       "e": 1.34
+      },
+      {
+       "w": "lekker",
+       "s": 1.34,
+       "e": 1.7
+      },
+      {
+       "w": "om",
+       "s": 1.7,
+       "e": 1.88
+      },
+      {
+       "w": "van",
+       "s": 1.88,
+       "e": 2.08
+      },
+      {
+       "w": "jou",
+       "s": 2.08,
+       "e": 2.22
+      },
+      {
+       "w": "te",
+       "s": 2.22,
+       "e": 2.38
+      },
+      {
+       "w": "hoor.",
+       "s": 2.38,
+       "e": 2.54
+      }
+     ],
+     "secs": 2.56,
+     "cer": 0.0,
+     "f0_rise": 0.17
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/af_v4_1.mp3",
+     "words": [
+      {
+       "w": "Hoe",
+       "s": 0.0,
+       "e": 0.22
+      },
+      {
+       "w": "het",
+       "s": 0.22,
+       "e": 0.32
+      },
+      {
+       "w": "vandag",
+       "s": 0.32,
+       "e": 0.818
+      },
+      {
+       "w": "se",
+       "s": 0.818,
+       "e": 0.96
+      },
+      {
+       "w": "klankles",
+       "s": 0.96,
+       "e": 1.62
+      },
+      {
+       "w": "met",
+       "s": 1.62,
+       "e": 1.82
+      },
+      {
+       "w": "die",
+       "s": 1.82,
+       "e": 1.94
+      },
+      {
+       "w": "leerders",
+       "s": 1.94,
+       "e": 2.48
+      },
+      {
+       "w": "gegaan?",
+       "s": 2.48,
+       "e": 2.7
+      }
+     ],
+     "secs": 2.72,
+     "cer": 0.0,
+     "f0_rise": 0.9
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/af_v4_2.mp3",
+     "words": [
+      {
+       "w": "Begin",
+       "s": 0.0,
+       "e": 0.4
+      },
+      {
+       "w": "môre",
+       "s": 0.4,
+       "e": 0.7
+      },
+      {
+       "w": "met",
+       "s": 0.76,
+       "e": 0.94
+      },
+      {
+       "w": "vyf",
+       "s": 0.94,
+       "e": 1.24
+      },
+      {
+       "w": "minute",
+       "s": 1.24,
+       "e": 1.52
+      },
+      {
+       "w": "klankhersiening:",
+       "s": 1.52,
+       "e": 2.343
+      },
+      {
+       "w": "jy",
+       "s": 3.04,
+       "e": 3.08
+      },
+      {
+       "w": "sê",
+       "s": 3.08,
+       "e": 3.3
+      },
+      {
+       "w": "die",
+       "s": 3.3,
+       "e": 3.42
+      },
+      {
+       "w": "klank,",
+       "s": 3.42,
+       "e": 3.811
+      },
+      {
+       "w": "die",
+       "s": 4.28,
+       "e": 4.44
+      },
+      {
+       "w": "leerders",
+       "s": 4.44,
+       "e": 4.82
+      },
+      {
+       "w": "sê",
+       "s": 4.82,
+       "e": 5.06
+      },
+      {
+       "w": "dit",
+       "s": 5.06,
+       "e": 5.22
+      },
+      {
+       "w": "na",
+       "s": 5.22,
+       "e": 5.524
+      },
+      {
+       "w": "en",
+       "s": 5.929,
+       "e": 6.16
+      },
+      {
+       "w": "skryf",
+       "s": 6.16,
+       "e": 6.56
+      },
+      {
+       "w": "dit",
+       "s": 6.56,
+       "e": 6.72
+      },
+      {
+       "w": "in",
+       "s": 6.72,
+       "e": 6.88
+      },
+      {
+       "w": "die",
+       "s": 6.88,
+       "e": 7.0
+      },
+      {
+       "w": "lug.",
+       "s": 7.0,
+       "e": 7.18
+      }
+     ],
+     "secs": 7.2,
+     "cer": 0.058,
+     "f0_rise": 6.25
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/af_v4_3.mp3",
+     "words": [
+      {
+       "w": "Jy",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "doen",
+       "s": 0.32,
+       "e": 0.6
+      },
+      {
+       "w": "baie",
+       "s": 0.6,
+       "e": 1.0
+      },
+      {
+       "w": "goeie",
+       "s": 1.0,
+       "e": 1.5
+      },
+      {
+       "w": "werk.",
+       "s": 1.5,
+       "e": 1.94
+      },
+      {
+       "w": "Daaglikse",
+       "s": 2.58,
+       "e": 3.12
+      },
+      {
+       "w": "herhaling",
+       "s": 3.12,
+       "e": 3.6
+      },
+      {
+       "w": "help",
+       "s": 3.6,
+       "e": 3.942
+      },
+      {
+       "w": "regtig.",
+       "s": 3.942,
+       "e": 4.54
+      }
+     ],
+     "secs": 4.56,
+     "cer": 0.0,
+     "f0_rise": 0.44
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/af_v4_4.mp3",
+     "words": [
+      {
+       "w": "Watter",
+       "s": 0.0,
+       "e": 0.502
+      },
+      {
+       "w": "klank",
+       "s": 0.502,
+       "e": 0.92
+      },
+      {
+       "w": "gaan",
+       "s": 0.92,
+       "e": 1.2
+      },
+      {
+       "w": "jy",
+       "s": 1.2,
+       "e": 1.28
+      },
+      {
+       "w": "volgende",
+       "s": 1.28,
+       "e": 1.9
+      },
+      {
+       "w": "week",
+       "s": 1.9,
+       "e": 2.36
+      },
+      {
+       "w": "onderrig?",
+       "s": 2.36,
+       "e": 3.04
+      }
+     ],
+     "secs": 3.12,
+     "cer": 0.0,
+     "f0_rise": 1.62
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.012,
+    "f0_rise_mean": 1.88
+   }
+  },
+  {
+   "key": "v5",
+   "family": "openai",
+   "label_public": "OpenAI · gpt-4o-mini-tts (told to speak as a first-language teacher)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/af_v5_0.mp3",
+     "words": [
+      {
+       "w": "Hallo!",
+       "s": 0.0,
+       "e": 0.68
+      },
+      {
+       "w": "Dis",
+       "s": 1.58,
+       "e": 1.8
+      },
+      {
+       "w": "lekker",
+       "s": 1.8,
+       "e": 2.16
+      },
+      {
+       "w": "om",
+       "s": 2.16,
+       "e": 2.48
+      },
+      {
+       "w": "van",
+       "s": 2.48,
+       "e": 2.86
+      },
+      {
+       "w": "jou",
+       "s": 2.86,
+       "e": 3.06
+      },
+      {
+       "w": "te",
+       "s": 3.06,
+       "e": 3.36
+      },
+      {
+       "w": "hoor.",
+       "s": 3.36,
+       "e": 3.56
+      }
+     ],
+     "secs": 4.15,
+     "cer": 0.0,
+     "f0_rise": 1.84
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/af_v5_1.mp3",
+     "words": [
+      {
+       "w": "Hoe",
+       "s": 0.0,
+       "e": 0.58
+      },
+      {
+       "w": "het",
+       "s": 0.58,
+       "e": 0.84
+      },
+      {
+       "w": "vandag",
+       "s": 0.84,
+       "e": 1.56
+      },
+      {
+       "w": "se",
+       "s": 1.56,
+       "e": 1.8
+      },
+      {
+       "w": "klankles",
+       "s": 1.8,
+       "e": 2.5
+      },
+      {
+       "w": "met",
+       "s": 2.5,
+       "e": 3.06
+      },
+      {
+       "w": "die",
+       "s": 3.06,
+       "e": 3.32
+      },
+      {
+       "w": "leerders",
+       "s": 3.32,
+       "e": 3.92
+      },
+      {
+       "w": "gegaan?",
+       "s": 3.92,
+       "e": 4.54
+      }
+     ],
+     "secs": 5.26,
+     "cer": 0.0,
+     "f0_rise": 6.11
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/af_v5_2.mp3",
+     "words": [
+      {
+       "w": "Begin",
+       "s": 0.0,
+       "e": 0.79
+      },
+      {
+       "w": "môre",
+       "s": 1.022,
+       "e": 1.52
+      },
+      {
+       "w": "met",
+       "s": 1.66,
+       "e": 2.34
+      },
+      {
+       "w": "vyf",
+       "s": 2.46,
+       "e": 2.7
+      },
+      {
+       "w": "minute",
+       "s": 2.82,
+       "e": 3.42
+      },
+      {
+       "w": "klankhersiening:",
+       "s": 3.42,
+       "e": 4.782
+      },
+      {
+       "w": "jy",
+       "s": 5.24,
+       "e": 5.36
+      },
+      {
+       "w": "sê",
+       "s": 5.36,
+       "e": 5.64
+      },
+      {
+       "w": "die",
+       "s": 5.64,
+       "e": 5.78
+      },
+      {
+       "w": "klank,",
+       "s": 5.78,
+       "e": 6.155
+      },
+      {
+       "w": "die",
+       "s": 6.64,
+       "e": 6.84
+      },
+      {
+       "w": "leerders",
+       "s": 6.84,
+       "e": 7.4
+      },
+      {
+       "w": "sê",
+       "s": 7.4,
+       "e": 7.66
+      },
+      {
+       "w": "dit",
+       "s": 7.66,
+       "e": 7.82
+      },
+      {
+       "w": "na",
+       "s": 7.82,
+       "e": 8.145
+      },
+      {
+       "w": "en",
+       "s": 8.47,
+       "e": 8.74
+      },
+      {
+       "w": "skryf",
+       "s": 8.74,
+       "e": 9.3
+      },
+      {
+       "w": "dit",
+       "s": 9.3,
+       "e": 9.5
+      },
+      {
+       "w": "in",
+       "s": 9.5,
+       "e": 9.8
+      },
+      {
+       "w": "die",
+       "s": 9.8,
+       "e": 9.94
+      },
+      {
+       "w": "lug.",
+       "s": 9.94,
+       "e": 10.2
+      }
+     ],
+     "secs": 10.51,
+     "cer": 0.039,
+     "f0_rise": 5.15
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/af_v5_3.mp3",
+     "words": [
+      {
+       "w": "Jy",
+       "s": 0.0,
+       "e": 0.584
+      },
+      {
+       "w": "doen",
+       "s": 0.764,
+       "e": 1.02
+      },
+      {
+       "w": "baie",
+       "s": 1.02,
+       "e": 1.72
+      },
+      {
+       "w": "goeie",
+       "s": 1.72,
+       "e": 2.42
+      },
+      {
+       "w": "werk.",
+       "s": 2.42,
+       "e": 2.56
+      },
+      {
+       "w": "Daaglikse",
+       "s": 3.3,
+       "e": 3.82
+      },
+      {
+       "w": "herhaling",
+       "s": 3.82,
+       "e": 4.36
+      },
+      {
+       "w": "help",
+       "s": 4.36,
+       "e": 4.984
+      },
+      {
+       "w": "regtig.",
+       "s": 5.196,
+       "e": 5.88
+      }
+     ],
+     "secs": 6.17,
+     "cer": 0.0,
+     "f0_rise": 0.18
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/af_v5_4.mp3",
+     "words": [
+      {
+       "w": "Watter",
+       "s": 0.0,
+       "e": 0.7
+      },
+      {
+       "w": "klank",
+       "s": 0.7,
+       "e": 1.081
+      },
+      {
+       "w": "gaan",
+       "s": 1.54,
+       "e": 1.58
+      },
+      {
+       "w": "jy",
+       "s": 1.58,
+       "e": 1.74
+      },
+      {
+       "w": "volgende",
+       "s": 1.74,
+       "e": 2.3
+      },
+      {
+       "w": "week",
+       "s": 2.3,
+       "e": 2.67
+      },
+      {
+       "w": "onderrig?",
+       "s": 2.858,
+       "e": 3.38
+      }
+     ],
+     "secs": 4.32,
+     "cer": 0.0,
+     "f0_rise": 1.63
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.008,
+    "f0_rise_mean": 2.98
+   }
+  },
+  {
+   "key": "v6",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Paul Steyn (expressive model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/af_v6_0.mp3",
+     "words": [
+      {
+       "w": "Hallo!",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "Dis",
+       "s": 0.48,
+       "e": 0.72
+      },
+      {
+       "w": "lekker",
+       "s": 0.766,
+       "e": 1.04
+      },
+      {
+       "w": "om",
+       "s": 1.067,
+       "e": 1.12
+      },
+      {
+       "w": "van",
+       "s": 1.16,
+       "e": 1.28
+      },
+      {
+       "w": "jou",
+       "s": 1.32,
+       "e": 1.44
+      },
+      {
+       "w": "te",
+       "s": 1.493,
+       "e": 1.6
+      },
+      {
+       "w": "hoor.",
+       "s": 1.64,
+       "e": 1.84
+      }
+     ],
+     "secs": 2.0,
+     "cer": 0.315,
+     "f0_rise": 0.92
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/af_v6_1.mp3",
+     "words": [
+      {
+       "w": "Hoe",
+       "s": 0.0,
+       "e": 0.16
+      },
+      {
+       "w": "het",
+       "s": 0.2,
+       "e": 0.32
+      },
+      {
+       "w": "vandag",
+       "s": 0.36,
+       "e": 0.64
+      },
+      {
+       "w": "se",
+       "s": 0.693,
+       "e": 0.8
+      },
+      {
+       "w": "klankles",
+       "s": 0.853,
+       "e": 1.44
+      },
+      {
+       "w": "met",
+       "s": 1.48,
+       "e": 1.6
+      },
+      {
+       "w": "die",
+       "s": 1.64,
+       "e": 1.76
+      },
+      {
+       "w": "leerders",
+       "s": 1.792,
+       "e": 2.24
+      },
+      {
+       "w": "gegaan?",
+       "s": 2.32,
+       "e": 2.64
+      }
+     ],
+     "secs": 2.72,
+     "cer": 0.0,
+     "f0_rise": 2.6
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/af_v6_2.mp3",
+     "words": [
+      {
+       "w": "Begin",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "môre",
+       "s": 0.4,
+       "e": 0.8
+      },
+      {
+       "w": "met",
+       "s": 0.84,
+       "e": 0.96
+      },
+      {
+       "w": "vyf",
+       "s": 1.04,
+       "e": 1.36
+      },
+      {
+       "w": "minute",
+       "s": 1.417,
+       "e": 1.76
+      },
+      {
+       "w": "klankhersiening:",
+       "s": 1.813,
+       "e": 2.64
+      },
+      {
+       "w": "jy",
+       "s": 3.16,
+       "e": 3.68
+      },
+      {
+       "w": "sê",
+       "s": 3.8,
+       "e": 4.04
+      },
+      {
+       "w": "die",
+       "s": 4.07,
+       "e": 4.16
+      },
+      {
+       "w": "klank,",
+       "s": 4.187,
+       "e": 4.56
+      },
+      {
+       "w": "die",
+       "s": 5.08,
+       "e": 5.2
+      },
+      {
+       "w": "leerders",
+       "s": 5.232,
+       "e": 5.68
+      },
+      {
+       "w": "sê",
+       "s": 5.72,
+       "e": 5.84
+      },
+      {
+       "w": "dit",
+       "s": 5.88,
+       "e": 6.0
+      },
+      {
+       "w": "na",
+       "s": 6.267,
+       "e": 6.8
+      },
+      {
+       "w": "en",
+       "s": 6.907,
+       "e": 7.12
+      },
+      {
+       "w": "skryf",
+       "s": 7.2,
+       "e": 7.6
+      },
+      {
+       "w": "dit",
+       "s": 7.66,
+       "e": 7.84
+      },
+      {
+       "w": "in",
+       "s": 7.867,
+       "e": 7.92
+      },
+      {
+       "w": "die",
+       "s": 7.94,
+       "e": 8.0
+      },
+      {
+       "w": "lug.",
+       "s": 8.1,
+       "e": 8.4
+      }
+     ],
+     "secs": 9.12,
+     "cer": 0.039,
+     "f0_rise": 5.46
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/af_v6_3.mp3",
+     "words": [
+      {
+       "w": "Jy",
+       "s": 0.0,
+       "e": 0.16
+      },
+      {
+       "w": "doen",
+       "s": 0.192,
+       "e": 0.32
+      },
+      {
+       "w": "baie",
+       "s": 0.373,
+       "e": 0.64
+      },
+      {
+       "w": "goeie",
+       "s": 0.693,
+       "e": 0.96
+      },
+      {
+       "w": "werk.",
+       "s": 1.072,
+       "e": 1.52
+      },
+      {
+       "w": "Daaglikse",
+       "s": 2.0,
+       "e": 2.64
+      },
+      {
+       "w": "herhaling",
+       "s": 2.7,
+       "e": 3.28
+      },
+      {
+       "w": "help",
+       "s": 3.36,
+       "e": 3.68
+      },
+      {
+       "w": "regtig.",
+       "s": 3.76,
+       "e": 4.32
+      }
+     ],
+     "secs": 4.4,
+     "cer": 0.0,
+     "f0_rise": 4.38
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/af_v6_4.mp3",
+     "words": [
+      {
+       "w": "Watter",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "klank",
+       "s": 0.373,
+       "e": 0.72
+      },
+      {
+       "w": "gaan",
+       "s": 0.752,
+       "e": 0.88
+      },
+      {
+       "w": "jy",
+       "s": 0.92,
+       "e": 1.04
+      },
+      {
+       "w": "volgende",
+       "s": 1.1,
+       "e": 1.52
+      },
+      {
+       "w": "week",
+       "s": 1.6,
+       "e": 1.92
+      },
+      {
+       "w": "onderrig?",
+       "s": 2.027,
+       "e": 2.64
+      }
+     ],
+     "secs": 2.72,
+     "cer": 0.0,
+     "f0_rise": 1.72
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.071,
+    "f0_rise_mean": 3.02
+   }
+  }
+ ],
+ "shipped": {
+  "voice_key": "v1",
+  "label_public": "ElevenLabs · Paul Steyn (newest model)",
+  "how": "cut from the voice notes on the site at the sentence boundaries (same text, not re-rendered); voice v1 in the blind comparison plays these same files",
+  "clips": [
+   {
+    "i": 0,
+    "mp3": "assets/audio/speak/af_v1_0.mp3",
+    "words": [
+     {
+      "w": "Hallo!",
+      "s": 0.0,
+      "e": 0.4
+     },
+     {
+      "w": "Dis",
+      "s": 0.84,
+      "e": 0.96
+     },
+     {
+      "w": "lekker",
+      "s": 1.04,
+      "e": 1.28
+     },
+     {
+      "w": "om",
+      "s": 1.36,
+      "e": 1.44
+     },
+     {
+      "w": "van",
+      "s": 1.52,
+      "e": 1.6
+     },
+     {
+      "w": "jou",
+      "s": 1.653,
+      "e": 1.76
+     },
+     {
+      "w": "te",
+      "s": 1.8,
+      "e": 1.84
+     },
+     {
+      "w": "hoor.",
+      "s": 1.92,
+      "e": 2.16
+     }
+    ],
+    "secs": 2.41,
+    "cer": 0.0,
+    "f0_rise": 6.25,
+    "from": "conversation"
+   },
+   {
+    "i": 1,
+    "mp3": "assets/audio/speak/af_v1_1.mp3",
+    "words": [
+     {
+      "w": "Hoe",
+      "s": 0.12,
+      "e": 0.2
+     },
+     {
+      "w": "het",
+      "s": 0.28,
+      "e": 0.36
+     },
+     {
+      "w": "vandag",
+      "s": 0.413,
+      "e": 0.68
+     },
+     {
+      "w": "se",
+      "s": 0.76,
+      "e": 0.84
+     },
+     {
+      "w": "klankles",
+      "s": 0.88,
+      "e": 1.4
+     },
+     {
+      "w": "met",
+      "s": 1.44,
+      "e": 1.48
+     },
+     {
+      "w": "die",
+      "s": 1.56,
+      "e": 1.64
+     },
+     {
+      "w": "leerders",
+      "s": 1.68,
+      "e": 2.04
+     },
+     {
+      "w": "gegaan?",
+      "s": 2.12,
+      "e": 2.44
+     }
+    ],
+    "secs": 2.68,
+    "cer": 0.0,
+    "f0_rise": 5.45,
+    "from": "conversation"
+   },
+   {
+    "i": 2,
+    "mp3": "assets/audio/speak/af_v1_2.mp3",
+    "words": [
+     {
+      "w": "Begin",
+      "s": 0.12,
+      "e": 0.36
+     },
+     {
+      "w": "môre",
+      "s": 0.44,
+      "e": 0.76
+     },
+     {
+      "w": "met",
+      "s": 0.84,
+      "e": 1.0
+     },
+     {
+      "w": "vyf",
+      "s": 1.08,
+      "e": 1.32
+     },
+     {
+      "w": "minute",
+      "s": 1.4,
+      "e": 1.72
+     },
+     {
+      "w": "klankhersiening:",
+      "s": 1.8,
+      "e": 2.52
+     },
+     {
+      "w": "jy",
+      "s": 3.24,
+      "e": 3.4
+     },
+     {
+      "w": "sê",
+      "s": 3.48,
+      "e": 3.6
+     },
+     {
+      "w": "die",
+      "s": 3.64,
+      "e": 3.72
+     },
+     {
+      "w": "klank,",
+      "s": 3.8,
+      "e": 4.12
+     },
+     {
+      "w": "die",
+      "s": 4.48,
+      "e": 4.52
+     },
+     {
+      "w": "leerders",
+      "s": 4.6,
+      "e": 5.0
+     },
+     {
+      "w": "sê",
+      "s": 5.04,
+      "e": 5.16
+     },
+     {
+      "w": "dit",
+      "s": 5.24,
+      "e": 5.32
+     },
+     {
+      "w": "na",
+      "s": 5.4,
+      "e": 5.64
+     },
+     {
+      "w": "en",
+      "s": 5.88,
+      "e": 6.04
+     },
+     {
+      "w": "skryf",
+      "s": 6.12,
+      "e": 6.44
+     },
+     {
+      "w": "dit",
+      "s": 6.52,
+      "e": 6.6
+     },
+     {
+      "w": "in",
+      "s": 6.64,
+      "e": 6.68
+     },
+     {
+      "w": "die",
+      "s": 6.76,
+      "e": 6.8
+     },
+     {
+      "w": "lug.",
+      "s": 6.84,
+      "e": 7.16
+     }
+    ],
+    "secs": 7.32,
+    "cer": 0.039,
+    "f0_rise": 1.3,
+    "from": "conversation"
+   },
+   {
+    "i": 3,
+    "mp3": "assets/audio/speak/af_v1_3.mp3",
+    "words": [
+     {
+      "w": "Jy",
+      "s": 0.0,
+      "e": 0.16
+     },
+     {
+      "w": "doen",
+      "s": 0.2,
+      "e": 0.48
+     },
+     {
+      "w": "baie",
+      "s": 0.56,
+      "e": 0.8
+     },
+     {
+      "w": "goeie",
+      "s": 0.88,
+      "e": 1.12
+     },
+     {
+      "w": "werk.",
+      "s": 1.32,
+      "e": 1.52
+     },
+     {
+      "w": "Daaglikse",
+      "s": 2.0,
+      "e": 2.48
+     },
+     {
+      "w": "herhaling",
+      "s": 2.56,
+      "e": 3.04
+     },
+     {
+      "w": "help",
+      "s": 3.2,
+      "e": 3.36
+     },
+     {
+      "w": "regtig.",
+      "s": 3.44,
+      "e": 4.0
+     }
+    ],
+    "secs": 4.25,
+    "cer": 0.0,
+    "f0_rise": 1.35,
+    "from": "conversation"
+   },
+   {
+    "i": 4,
+    "mp3": "assets/audio/speak/af_v1_4.mp3",
+    "words": [
+     {
+      "w": "Watter",
+      "s": 0.12,
+      "e": 0.36
+     },
+     {
+      "w": "klank",
+      "s": 0.44,
+      "e": 0.68
+     },
+     {
+      "w": "gaan",
+      "s": 0.76,
+      "e": 0.88
+     },
+     {
+      "w": "jy",
+      "s": 0.92,
+      "e": 1.08
+     },
+     {
+      "w": "volgende",
+      "s": 1.16,
+      "e": 1.48
+     },
+     {
+      "w": "week",
+      "s": 1.6,
+      "e": 1.72
+     },
+     {
+      "w": "onderrig?",
+      "s": 1.76,
+      "e": 2.2
+     }
+    ],
+    "secs": 2.36,
+    "cer": 0.0,
+    "f0_rise": 1.15,
+    "from": "conversation"
+   }
+  ]
+ },
+ "measures": {
+  "cer": "measured (automated): text → speech → text with Soniox stt-async-v5, character error rate after norm_v1, rounded up; lower means a machine recovered the words more exactly. It does not measure how natural the voice sounds.",
+  "f0_rise": "measured proxy: median pitch of the first word minus the median pitch of the whole sentence, in semitones (positive = the sentence starts higher than its own middle). A proxy for the 9 October comment about pitch at the start of sentences; first-language listeners decide.",
+  "f0_rise_human_ref": {
+   "median": 0.84,
+   "q1_q3": [
+    0.14,
+    1.35
+   ],
+   "n": 25,
+   "line": "For reference, 25 recordings of first-language speakers reading sentences aloud (FLEURS / NCHLT) start a median +0.8 semitones above their own middle (half of them between +0.1 and +1.4). A real speaker's sentence can start high too, so this number alone does not say a voice is wrong."
+  },
+  "native_ear": "pending (this review)"
+ },
+ "notes": [
+  "No open-source voice is included. Meta's MMS-TTS publishes no model for this language. The one open South African multi-language model (South-African-TTS-11-Vits, non-commercial licence) is access-restricted: on 13 October our Hugging Face account was not on its access list, and we did not request access. Soniox, which accepts Afrikaans, takes that slot."
+ ],
+ "sources": []
+}

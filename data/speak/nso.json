@@ -1,0 +1,2227 @@
+{
+ "lang": "nso",
+ "sentences": [
+  {
+   "i": 0,
+   "text": "Thobela morutiši! Ke thabela go kwa go wena.",
+   "en": "Hello, teacher! I am happy to hear from you.",
+   "source": "conversation"
+  },
+  {
+   "i": 1,
+   "text": "Thuto ya medumo e sepetše bjang lehono?",
+   "en": "How did today's phonics lesson go?",
+   "source": "conversation"
+  },
+  {
+   "i": 2,
+   "text": "Gosasa, thoma ka metsotso ye mehlano ya go boeletša medumo: o bitša modumo, barutwana ba o boeletša, ke moka ba o ngwala moyeng.",
+   "en": "Tomorrow, start with five minutes of sound revision: you say the sound, the learners repeat it, then they write it in the air.",
+   "source": "conversation"
+  },
+  {
+   "i": 3,
+   "text": "O dira mošomo wo mobotse kudu, morutiši. Go boeletša ka mehla go a thuša.",
+   "en": "You are doing very good work, teacher. Regular revision helps.",
+   "source": "conversation"
+  },
+  {
+   "i": 4,
+   "text": "O tla ruta modumo ofe beke ye e tlago?",
+   "en": "Which sound will you teach next week?",
+   "source": "conversation"
+  }
+ ],
+ "voices": [
+  {
+   "key": "v1",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Thandi (newest model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/nso_v1_0.mp3",
+     "words": [
+      {
+       "w": "Thobela",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "morutiši!",
+       "s": 0.6,
+       "e": 1.28
+      },
+      {
+       "w": "Ke",
+       "s": 1.6,
+       "e": 1.68
+      },
+      {
+       "w": "thabela",
+       "s": 1.76,
+       "e": 2.16
+      },
+      {
+       "w": "go",
+       "s": 2.24,
+       "e": 2.32
+      },
+      {
+       "w": "kwa",
+       "s": 2.36,
+       "e": 2.48
+      },
+      {
+       "w": "go",
+       "s": 2.56,
+       "e": 2.64
+      },
+      {
+       "w": "wena.",
+       "s": 2.68,
+       "e": 3.04
+      }
+     ],
+     "secs": 3.29,
+     "cer": 0.0,
+     "f0_rise": 7.45,
+     "rerendered": false
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/nso_v1_1.mp3",
+     "words": [
+      {
+       "w": "Thuto",
+       "s": 0.12,
+       "e": 0.4
+      },
+      {
+       "w": "ya",
+       "s": 0.44,
+       "e": 0.48
+      },
+      {
+       "w": "medumo",
+       "s": 0.56,
+       "e": 1.12
+      },
+      {
+       "w": "e",
+       "s": 1.16,
+       "e": 1.2
+      },
+      {
+       "w": "sepetše",
+       "s": 1.32,
+       "e": 1.68
+      },
+      {
+       "w": "bjang",
+       "s": 1.8,
+       "e": 2.16
+      },
+      {
+       "w": "lehono?",
+       "s": 2.28,
+       "e": 2.72
+      }
+     ],
+     "secs": 2.96,
+     "cer": 0.0,
+     "f0_rise": 6.44,
+     "rerendered": false
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/nso_v1_2.mp3",
+     "words": [
+      {
+       "w": "Gosasa,",
+       "s": 0.0,
+       "e": 0.72
+      },
+      {
+       "w": "thoma",
+       "s": 1.12,
+       "e": 1.36
+      },
+      {
+       "w": "ka",
+       "s": 1.4,
+       "e": 1.44
+      },
+      {
+       "w": "metsotso",
+       "s": 1.52,
+       "e": 1.92
+      },
+      {
+       "w": "ye",
+       "s": 2.0,
+       "e": 2.08
+      },
+      {
+       "w": "mehlano",
+       "s": 2.12,
+       "e": 2.64
+      },
+      {
+       "w": "ya",
+       "s": 2.72,
+       "e": 2.8
+      },
+      {
+       "w": "go",
+       "s": 2.88,
+       "e": 2.96
+      },
+      {
+       "w": "boeletša",
+       "s": 3.04,
+       "e": 3.44
+      },
+      {
+       "w": "medumo:",
+       "s": 3.6,
+       "e": 4.08
+      },
+      {
+       "w": "o",
+       "s": 4.52,
+       "e": 4.56
+      },
+      {
+       "w": "bitša",
+       "s": 4.64,
+       "e": 4.88
+      },
+      {
+       "w": "modumo,",
+       "s": 4.96,
+       "e": 5.6
+      },
+      {
+       "w": "barutwana",
+       "s": 5.92,
+       "e": 6.56
+      },
+      {
+       "w": "ba",
+       "s": 6.64,
+       "e": 6.72
+      },
+      {
+       "w": "o",
+       "s": 6.76,
+       "e": 6.8
+      },
+      {
+       "w": "boeletša,",
+       "s": 6.88,
+       "e": 7.44
+      },
+      {
+       "w": "ke",
+       "s": 7.84,
+       "e": 7.92
+      },
+      {
+       "w": "moka",
+       "s": 8.0,
+       "e": 8.4
+      },
+      {
+       "w": "ba",
+       "s": 8.56,
+       "e": 8.64
+      },
+      {
+       "w": "o",
+       "s": 8.72,
+       "e": 8.8
+      },
+      {
+       "w": "ngwala",
+       "s": 8.88,
+       "e": 9.28
+      },
+      {
+       "w": "moyeng.",
+       "s": 9.32,
+       "e": 9.92
+      }
+     ],
+     "secs": 10.08,
+     "cer": 0.041,
+     "f0_rise": 0.49,
+     "rerendered": false
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/nso_v1_3.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.16
+      },
+      {
+       "w": "dira",
+       "s": 0.24,
+       "e": 0.4
+      },
+      {
+       "w": "mošomo",
+       "s": 0.52,
+       "e": 0.96
+      },
+      {
+       "w": "wo",
+       "s": 1.04,
+       "e": 1.12
+      },
+      {
+       "w": "mobotse",
+       "s": 1.24,
+       "e": 1.6
+      },
+      {
+       "w": "kudu,",
+       "s": 1.68,
+       "e": 2.08
+      },
+      {
+       "w": "morutiši.",
+       "s": 2.44,
+       "e": 3.2
+      },
+      {
+       "w": "Go",
+       "s": 3.6,
+       "e": 3.68
+      },
+      {
+       "w": "boeletša",
+       "s": 3.72,
+       "e": 4.08
+      },
+      {
+       "w": "ka",
+       "s": 4.16,
+       "e": 4.24
+      },
+      {
+       "w": "mehla",
+       "s": 4.28,
+       "e": 4.64
+      },
+      {
+       "w": "go",
+       "s": 4.72,
+       "e": 4.8
+      },
+      {
+       "w": "a",
+       "s": 4.88,
+       "e": 4.96
+      },
+      {
+       "w": "thuša.",
+       "s": 5.04,
+       "e": 5.6
+      }
+     ],
+     "secs": 5.85,
+     "cer": 0.1,
+     "f0_rise": 4.39,
+     "rerendered": false
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/nso_v1_4.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.12,
+       "e": 0.16
+      },
+      {
+       "w": "tla",
+       "s": 0.2,
+       "e": 0.32
+      },
+      {
+       "w": "ruta",
+       "s": 0.4,
+       "e": 0.64
+      },
+      {
+       "w": "modumo",
+       "s": 0.8,
+       "e": 1.2
+      },
+      {
+       "w": "ofe",
+       "s": 1.28,
+       "e": 1.52
+      },
+      {
+       "w": "beke",
+       "s": 1.64,
+       "e": 1.92
+      },
+      {
+       "w": "ye",
+       "s": 2.04,
+       "e": 2.16
+      },
+      {
+       "w": "e",
+       "s": 2.2,
+       "e": 2.24
+      },
+      {
+       "w": "tlago?",
+       "s": 2.32,
+       "e": 2.72
+      }
+     ],
+     "secs": 2.96,
+     "cer": 0.028,
+     "f0_rise": 4.39,
+     "rerendered": false
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.034,
+    "f0_rise_mean": 4.63
+   }
+  },
+  {
+   "key": "v2",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Designed Sepedi voice (newest model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/nso_v2_0.mp3",
+     "words": [
+      {
+       "w": "Thobela",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "morutiši!",
+       "s": 0.6,
+       "e": 1.36
+      },
+      {
+       "w": "Ke",
+       "s": 1.84,
+       "e": 1.92
+      },
+      {
+       "w": "thabela",
+       "s": 2.0,
+       "e": 2.48
+      },
+      {
+       "w": "go",
+       "s": 2.56,
+       "e": 2.8
+      },
+      {
+       "w": "kwa",
+       "s": 2.88,
+       "e": 3.04
+      },
+      {
+       "w": "go",
+       "s": 3.12,
+       "e": 3.44
+      },
+      {
+       "w": "wena.",
+       "s": 3.52,
+       "e": 3.84
+      }
+     ],
+     "secs": 4.08,
+     "cer": 0.0,
+     "f0_rise": 6.05
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/nso_v2_1.mp3",
+     "words": [
+      {
+       "w": "Thuto",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "ya",
+       "s": 0.36,
+       "e": 0.4
+      },
+      {
+       "w": "medumo",
+       "s": 0.48,
+       "e": 1.04
+      },
+      {
+       "w": "e",
+       "s": 1.28,
+       "e": 1.36
+      },
+      {
+       "w": "sepetše",
+       "s": 1.44,
+       "e": 1.84
+      },
+      {
+       "w": "bjang",
+       "s": 1.92,
+       "e": 2.32
+      },
+      {
+       "w": "lehono?",
+       "s": 2.44,
+       "e": 2.88
+      }
+     ],
+     "secs": 3.12,
+     "cer": 0.0,
+     "f0_rise": 3.38
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/nso_v2_2.mp3",
+     "words": [
+      {
+       "w": "Gosasa,",
+       "s": 0.0,
+       "e": 0.64
+      },
+      {
+       "w": "thoma",
+       "s": 1.16,
+       "e": 1.44
+      },
+      {
+       "w": "ka",
+       "s": 1.48,
+       "e": 1.52
+      },
+      {
+       "w": "metsotso",
+       "s": 1.6,
+       "e": 2.0
+      },
+      {
+       "w": "ye",
+       "s": 2.04,
+       "e": 2.08
+      },
+      {
+       "w": "mehlano",
+       "s": 2.12,
+       "e": 2.72
+      },
+      {
+       "w": "ya",
+       "s": 2.8,
+       "e": 2.88
+      },
+      {
+       "w": "go",
+       "s": 2.96,
+       "e": 3.04
+      },
+      {
+       "w": "boeletša",
+       "s": 3.12,
+       "e": 3.52
+      },
+      {
+       "w": "medumo:",
+       "s": 3.68,
+       "e": 4.16
+      },
+      {
+       "w": "o",
+       "s": 4.72,
+       "e": 4.8
+      },
+      {
+       "w": "bitša",
+       "s": 4.92,
+       "e": 5.12
+      },
+      {
+       "w": "modumo,",
+       "s": 5.28,
+       "e": 5.76
+      },
+      {
+       "w": "barutwana",
+       "s": 6.28,
+       "e": 6.8
+      },
+      {
+       "w": "ba",
+       "s": 6.88,
+       "e": 6.96
+      },
+      {
+       "w": "o",
+       "s": 7.0,
+       "e": 7.04
+      },
+      {
+       "w": "boeletša,",
+       "s": 7.12,
+       "e": 7.76
+      },
+      {
+       "w": "ke",
+       "s": 8.16,
+       "e": 8.24
+      },
+      {
+       "w": "moka",
+       "s": 8.32,
+       "e": 8.72
+      },
+      {
+       "w": "ba",
+       "s": 8.88,
+       "e": 9.04
+      },
+      {
+       "w": "o",
+       "s": 9.12,
+       "e": 9.2
+      },
+      {
+       "w": "ngwala",
+       "s": 9.28,
+       "e": 9.68
+      },
+      {
+       "w": "moyeng.",
+       "s": 9.72,
+       "e": 10.24
+      }
+     ],
+     "secs": 10.4,
+     "cer": 0.017,
+     "f0_rise": 2.32
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/nso_v2_3.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.16
+      },
+      {
+       "w": "dira",
+       "s": 0.28,
+       "e": 0.44
+      },
+      {
+       "w": "mošomo",
+       "s": 0.48,
+       "e": 1.12
+      },
+      {
+       "w": "wo",
+       "s": 1.2,
+       "e": 1.36
+      },
+      {
+       "w": "mobotse",
+       "s": 1.48,
+       "e": 1.84
+      },
+      {
+       "w": "kudu,",
+       "s": 1.92,
+       "e": 2.32
+      },
+      {
+       "w": "morutiši.",
+       "s": 2.72,
+       "e": 3.52
+      },
+      {
+       "w": "Go",
+       "s": 4.16,
+       "e": 4.24
+      },
+      {
+       "w": "boeletša",
+       "s": 4.32,
+       "e": 4.8
+      },
+      {
+       "w": "ka",
+       "s": 4.88,
+       "e": 4.96
+      },
+      {
+       "w": "mehla",
+       "s": 5.04,
+       "e": 5.52
+      },
+      {
+       "w": "go",
+       "s": 5.68,
+       "e": 5.84
+      },
+      {
+       "w": "a",
+       "s": 5.92,
+       "e": 6.0
+      },
+      {
+       "w": "thuša.",
+       "s": 6.08,
+       "e": 6.64
+      }
+     ],
+     "secs": 6.88,
+     "cer": 0.015,
+     "f0_rise": 5.05
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/nso_v2_4.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.08
+      },
+      {
+       "w": "tla",
+       "s": 0.12,
+       "e": 0.24
+      },
+      {
+       "w": "ruta",
+       "s": 0.32,
+       "e": 0.64
+      },
+      {
+       "w": "modumo",
+       "s": 0.76,
+       "e": 1.2
+      },
+      {
+       "w": "ofe",
+       "s": 1.36,
+       "e": 1.6
+      },
+      {
+       "w": "beke",
+       "s": 1.72,
+       "e": 1.92
+      },
+      {
+       "w": "ye",
+       "s": 2.0,
+       "e": 2.24
+      },
+      {
+       "w": "e",
+       "s": 2.32,
+       "e": 2.4
+      },
+      {
+       "w": "tlago?",
+       "s": 2.48,
+       "e": 2.88
+      }
+     ],
+     "secs": 3.12,
+     "cer": 0.0,
+     "f0_rise": 3.49
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.007,
+    "f0_rise_mean": 4.06
+   }
+  },
+  {
+   "key": "v3",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Thandi (expressive model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/nso_v3_0.mp3",
+     "words": [
+      {
+       "w": "Thobela",
+       "s": 0.0,
+       "e": 0.4
+      },
+      {
+       "w": "morutiši!",
+       "s": 0.46,
+       "e": 1.36
+      },
+      {
+       "w": "Ke",
+       "s": 1.653,
+       "e": 2.08
+      },
+      {
+       "w": "thabela",
+       "s": 2.133,
+       "e": 2.56
+      },
+      {
+       "w": "go",
+       "s": 2.64,
+       "e": 2.8
+      },
+      {
+       "w": "kwa",
+       "s": 2.84,
+       "e": 3.04
+      },
+      {
+       "w": "go",
+       "s": 3.093,
+       "e": 3.2
+      },
+      {
+       "w": "wena.",
+       "s": 3.28,
+       "e": 3.68
+      }
+     ],
+     "secs": 3.76,
+     "cer": 0.0,
+     "f0_rise": 4.08
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/nso_v3_1.mp3",
+     "words": [
+      {
+       "w": "Thuto",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "ya",
+       "s": 0.4,
+       "e": 0.56
+      },
+      {
+       "w": "medumo",
+       "s": 0.62,
+       "e": 1.2
+      },
+      {
+       "w": "e",
+       "s": 1.36,
+       "e": 1.52
+      },
+      {
+       "w": "sepetše",
+       "s": 1.6,
+       "e": 2.08
+      },
+      {
+       "w": "bjang",
+       "s": 2.12,
+       "e": 2.48
+      },
+      {
+       "w": "lehono?",
+       "s": 2.54,
+       "e": 3.04
+      }
+     ],
+     "secs": 3.2,
+     "cer": 0.053,
+     "f0_rise": -0.33
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/nso_v3_2.mp3",
+     "words": [
+      {
+       "w": "Gosasa,",
+       "s": 0.0,
+       "e": 0.8
+      },
+      {
+       "w": "thoma",
+       "s": 1.013,
+       "e": 1.44
+      },
+      {
+       "w": "ka",
+       "s": 1.52,
+       "e": 1.68
+      },
+      {
+       "w": "metsotso",
+       "s": 1.72,
+       "e": 2.24
+      },
+      {
+       "w": "ye",
+       "s": 2.293,
+       "e": 2.4
+      },
+      {
+       "w": "mehlano",
+       "s": 2.453,
+       "e": 3.12
+      },
+      {
+       "w": "ya",
+       "s": 3.173,
+       "e": 3.28
+      },
+      {
+       "w": "go",
+       "s": 3.333,
+       "e": 3.44
+      },
+      {
+       "w": "boeletša",
+       "s": 3.493,
+       "e": 4.2
+      },
+      {
+       "w": "medumo:",
+       "s": 4.25,
+       "e": 4.64
+      },
+      {
+       "w": "o",
+       "s": 5.0,
+       "e": 5.2
+      },
+      {
+       "w": "bitša",
+       "s": 5.26,
+       "e": 5.6
+      },
+      {
+       "w": "modumo,",
+       "s": 5.68,
+       "e": 6.24
+      },
+      {
+       "w": "barutwana",
+       "s": 6.59,
+       "e": 7.28
+      },
+      {
+       "w": "ba",
+       "s": 7.333,
+       "e": 7.44
+      },
+      {
+       "w": "o",
+       "s": 7.52,
+       "e": 7.6
+      },
+      {
+       "w": "boeletša,",
+       "s": 7.653,
+       "e": 8.24
+      },
+      {
+       "w": "ke",
+       "s": 8.507,
+       "e": 8.64
+      },
+      {
+       "w": "moka",
+       "s": 8.72,
+       "e": 9.04
+      },
+      {
+       "w": "ba",
+       "s": 9.12,
+       "e": 9.28
+      },
+      {
+       "w": "o",
+       "s": 9.36,
+       "e": 9.44
+      },
+      {
+       "w": "ngwala",
+       "s": 9.467,
+       "e": 9.84
+      },
+      {
+       "w": "moyeng.",
+       "s": 9.94,
+       "e": 10.4
+      }
+     ],
+     "secs": 10.48,
+     "cer": 0.066,
+     "f0_rise": 2.05
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/nso_v3_3.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.08
+      },
+      {
+       "w": "dira",
+       "s": 0.16,
+       "e": 0.56
+      },
+      {
+       "w": "mošomo",
+       "s": 0.613,
+       "e": 1.2
+      },
+      {
+       "w": "wo",
+       "s": 1.28,
+       "e": 1.44
+      },
+      {
+       "w": "mobotse",
+       "s": 1.5,
+       "e": 2.0
+      },
+      {
+       "w": "kudu,",
+       "s": 2.08,
+       "e": 2.48
+      },
+      {
+       "w": "morutiši.",
+       "s": 2.68,
+       "e": 3.68
+      },
+      {
+       "w": "Go",
+       "s": 4.027,
+       "e": 4.4
+      },
+      {
+       "w": "boeletša",
+       "s": 4.48,
+       "e": 5.2
+      },
+      {
+       "w": "ka",
+       "s": 5.307,
+       "e": 5.52
+      },
+      {
+       "w": "mehla",
+       "s": 5.627,
+       "e": 6.08
+      },
+      {
+       "w": "go",
+       "s": 6.16,
+       "e": 6.32
+      },
+      {
+       "w": "a",
+       "s": 6.36,
+       "e": 6.4
+      },
+      {
+       "w": "thuša.",
+       "s": 6.5,
+       "e": 6.96
+      }
+     ],
+     "secs": 7.04,
+     "cer": 0.029,
+     "f0_rise": 0.94
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/nso_v3_4.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.16
+      },
+      {
+       "w": "tla",
+       "s": 0.24,
+       "e": 0.4
+      },
+      {
+       "w": "ruta",
+       "s": 0.496,
+       "e": 0.88
+      },
+      {
+       "w": "modumo",
+       "s": 0.96,
+       "e": 1.44
+      },
+      {
+       "w": "ofe",
+       "s": 1.547,
+       "e": 1.84
+      },
+      {
+       "w": "beke",
+       "s": 1.947,
+       "e": 2.32
+      },
+      {
+       "w": "ye",
+       "s": 2.4,
+       "e": 2.56
+      },
+      {
+       "w": "e",
+       "s": 2.64,
+       "e": 2.72
+      },
+      {
+       "w": "tlago?",
+       "s": 2.8,
+       "e": 3.28
+      }
+     ],
+     "secs": 3.6,
+     "cer": 0.271,
+     "f0_rise": 3.13
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.084,
+    "f0_rise_mean": 1.97
+   }
+  },
+  {
+   "key": "v4",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Thandi (multilingual model, settings tuned for calmer intonation)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/nso_v4_0.mp3",
+     "words": [
+      {
+       "w": "Thobela",
+       "s": 0.0,
+       "e": 0.546
+      },
+      {
+       "w": "morutiši!",
+       "s": 0.615,
+       "e": 1.498
+      },
+      {
+       "w": "Ke",
+       "s": 1.892,
+       "e": 2.101
+      },
+      {
+       "w": "thabela",
+       "s": 2.136,
+       "e": 2.635
+      },
+      {
+       "w": "go",
+       "s": 2.728,
+       "e": 2.856
+      },
+      {
+       "w": "kwa",
+       "s": 2.937,
+       "e": 3.181
+      },
+      {
+       "w": "go",
+       "s": 3.262,
+       "e": 3.402
+      },
+      {
+       "w": "wena.",
+       "s": 3.471,
+       "e": 3.913
+      }
+     ],
+     "secs": 4.23,
+     "cer": 0.0,
+     "f0_rise": 3.52
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/nso_v4_1.mp3",
+     "words": [
+      {
+       "w": "Thuto",
+       "s": 0.0,
+       "e": 0.406
+      },
+      {
+       "w": "ya",
+       "s": 0.476,
+       "e": 0.557
+      },
+      {
+       "w": "medumo",
+       "s": 0.627,
+       "e": 1.196
+      },
+      {
+       "w": "e",
+       "s": 1.289,
+       "e": 1.358
+      },
+      {
+       "w": "sepetše",
+       "s": 1.451,
+       "e": 2.067
+      },
+      {
+       "w": "bjang",
+       "s": 2.148,
+       "e": 2.415
+      },
+      {
+       "w": "lehono?",
+       "s": 2.496,
+       "e": 3.111
+      }
+     ],
+     "secs": 3.44,
+     "cer": 0.0,
+     "f0_rise": 8.84
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/nso_v4_2.mp3",
+     "words": [
+      {
+       "w": "Gosasa,",
+       "s": 0.0,
+       "e": 0.882
+      },
+      {
+       "w": "thoma",
+       "s": 1.045,
+       "e": 1.405
+      },
+      {
+       "w": "ka",
+       "s": 1.474,
+       "e": 1.625
+      },
+      {
+       "w": "metsotso",
+       "s": 1.695,
+       "e": 2.635
+      },
+      {
+       "w": "ye",
+       "s": 2.728,
+       "e": 2.879
+      },
+      {
+       "w": "mehlano",
+       "s": 2.961,
+       "e": 3.785
+      },
+      {
+       "w": "ya",
+       "s": 3.982,
+       "e": 4.18
+      },
+      {
+       "w": "go",
+       "s": 4.261,
+       "e": 4.47
+      },
+      {
+       "w": "boeletša",
+       "s": 4.551,
+       "e": 5.329
+      },
+      {
+       "w": "medumo:",
+       "s": 5.399,
+       "e": 6.049
+      },
+      {
+       "w": "o",
+       "s": 6.327,
+       "e": 6.49
+      },
+      {
+       "w": "bitša",
+       "s": 6.583,
+       "e": 7.001
+      },
+      {
+       "w": "modumo,",
+       "s": 7.07,
+       "e": 7.755
+      },
+      {
+       "w": "barutwana",
+       "s": 7.918,
+       "e": 8.777
+      },
+      {
+       "w": "ba",
+       "s": 8.858,
+       "e": 9.125
+      },
+      {
+       "w": "o",
+       "s": 9.253,
+       "e": 9.381
+      },
+      {
+       "w": "boeletša,",
+       "s": 9.474,
+       "e": 10.426
+      },
+      {
+       "w": "ke",
+       "s": 10.6,
+       "e": 10.855
+      },
+      {
+       "w": "moka",
+       "s": 10.983,
+       "e": 11.459
+      },
+      {
+       "w": "ba",
+       "s": 11.564,
+       "e": 11.842
+      },
+      {
+       "w": "o",
+       "s": 11.97,
+       "e": 12.167
+      },
+      {
+       "w": "ngwala",
+       "s": 12.295,
+       "e": 12.864
+      },
+      {
+       "w": "moyeng.",
+       "s": 12.945,
+       "e": 13.514
+      }
+     ],
+     "secs": 13.89,
+     "cer": 0.074,
+     "f0_rise": 0.17
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/nso_v4_3.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.081
+      },
+      {
+       "w": "dira",
+       "s": 0.244,
+       "e": 0.546
+      },
+      {
+       "w": "mošomo",
+       "s": 0.627,
+       "e": 1.207
+      },
+      {
+       "w": "wo",
+       "s": 1.277,
+       "e": 1.416
+      },
+      {
+       "w": "mobotse",
+       "s": 1.498,
+       "e": 2.159
+      },
+      {
+       "w": "kudu,",
+       "s": 2.264,
+       "e": 2.786
+      },
+      {
+       "w": "morutiši.",
+       "s": 3.088,
+       "e": 4.249
+      },
+      {
+       "w": "Go",
+       "s": 4.667,
+       "e": 4.934
+      },
+      {
+       "w": "boeletša",
+       "s": 5.016,
+       "e": 5.759
+      },
+      {
+       "w": "ka",
+       "s": 5.84,
+       "e": 6.002
+      },
+      {
+       "w": "mehla",
+       "s": 6.095,
+       "e": 6.571
+      },
+      {
+       "w": "go",
+       "s": 6.664,
+       "e": 6.943
+      },
+      {
+       "w": "a",
+       "s": 7.07,
+       "e": 7.175
+      },
+      {
+       "w": "thuša.",
+       "s": 7.303,
+       "e": 7.941
+      }
+     ],
+     "secs": 8.31,
+     "cer": 0.015,
+     "f0_rise": 2.39
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/nso_v4_4.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.081
+      },
+      {
+       "w": "tla",
+       "s": 0.244,
+       "e": 0.546
+      },
+      {
+       "w": "ruta",
+       "s": 0.627,
+       "e": 0.964
+      },
+      {
+       "w": "modumo",
+       "s": 1.045,
+       "e": 1.579
+      },
+      {
+       "w": "ofe",
+       "s": 1.66,
+       "e": 1.927
+      },
+      {
+       "w": "beke",
+       "s": 1.997,
+       "e": 2.334
+      },
+      {
+       "w": "ye",
+       "s": 2.426,
+       "e": 2.635
+      },
+      {
+       "w": "e",
+       "s": 2.717,
+       "e": 2.81
+      },
+      {
+       "w": "tlago?",
+       "s": 2.879,
+       "e": 3.529
+      }
+     ],
+     "secs": 3.85,
+     "cer": 0.0,
+     "f0_rise": 2.22
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.018,
+    "f0_rise_mean": 3.43
+   }
+  },
+  {
+   "key": "v5",
+   "family": "openai",
+   "label_public": "OpenAI · gpt-4o-mini-tts (told to speak as a first-language teacher)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/nso_v5_0.mp3",
+     "words": [
+      {
+       "w": "Thobela",
+       "s": 0.0,
+       "e": 0.76
+      },
+      {
+       "w": "morutiši!",
+       "s": 0.76,
+       "e": 1.588
+      },
+      {
+       "w": "Ke",
+       "s": 2.5,
+       "e": 2.58
+      },
+      {
+       "w": "thabela",
+       "s": 2.58,
+       "e": 2.82
+      },
+      {
+       "w": "go",
+       "s": 2.82,
+       "e": 3.036
+      },
+      {
+       "w": "kwa",
+       "s": 3.036,
+       "e": 3.36
+      },
+      {
+       "w": "go",
+       "s": 3.36,
+       "e": 3.576
+      },
+      {
+       "w": "wena.",
+       "s": 3.576,
+       "e": 3.9
+      }
+     ],
+     "secs": 4.32,
+     "cer": 0.048,
+     "f0_rise": 1.19
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/nso_v5_1.mp3",
+     "words": [
+      {
+       "w": "Thuto",
+       "s": 0.0,
+       "e": 0.64
+      },
+      {
+       "w": "ya",
+       "s": 0.64,
+       "e": 0.853
+      },
+      {
+       "w": "medumo",
+       "s": 0.853,
+       "e": 1.571
+      },
+      {
+       "w": "e",
+       "s": 1.982,
+       "e": 2.28
+      },
+      {
+       "w": "sepetše",
+       "s": 2.28,
+       "e": 2.867
+      },
+      {
+       "w": "bjang",
+       "s": 2.867,
+       "e": 3.292
+      },
+      {
+       "w": "lehono?",
+       "s": 3.6,
+       "e": 4.32
+      }
+     ],
+     "secs": 4.51,
+     "cer": 0.185,
+     "f0_rise": 7.73
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/nso_v5_2.mp3",
+     "words": [
+      {
+       "w": "Gosasa,",
+       "s": 0.0,
+       "e": 0.88
+      },
+      {
+       "w": "thoma",
+       "s": 1.86,
+       "e": 2.12
+      },
+      {
+       "w": "ka",
+       "s": 2.12,
+       "e": 2.3
+      },
+      {
+       "w": "metsotso",
+       "s": 2.3,
+       "e": 3.02
+      },
+      {
+       "w": "ye",
+       "s": 3.02,
+       "e": 3.26
+      },
+      {
+       "w": "mehlano",
+       "s": 3.26,
+       "e": 3.82
+      },
+      {
+       "w": "ya",
+       "s": 3.82,
+       "e": 4.12
+      },
+      {
+       "w": "go",
+       "s": 4.388,
+       "e": 4.68
+      },
+      {
+       "w": "boeletša",
+       "s": 4.68,
+       "e": 5.24
+      },
+      {
+       "w": "medumo:",
+       "s": 5.24,
+       "e": 5.8
+      },
+      {
+       "w": "o",
+       "s": 6.74,
+       "e": 6.78
+      },
+      {
+       "w": "bitša",
+       "s": 6.78,
+       "e": 7.06
+      },
+      {
+       "w": "modumo,",
+       "s": 7.06,
+       "e": 7.654
+      },
+      {
+       "w": "barutwana",
+       "s": 8.4,
+       "e": 8.92
+      },
+      {
+       "w": "ba",
+       "s": 8.92,
+       "e": 9.14
+      },
+      {
+       "w": "o",
+       "s": 9.14,
+       "e": 9.26
+      },
+      {
+       "w": "boeletša,",
+       "s": 9.26,
+       "e": 9.893
+      },
+      {
+       "w": "ke",
+       "s": 10.6,
+       "e": 10.78
+      },
+      {
+       "w": "moka",
+       "s": 10.78,
+       "e": 11.02
+      },
+      {
+       "w": "ba",
+       "s": 11.02,
+       "e": 11.34
+      },
+      {
+       "w": "o",
+       "s": 11.34,
+       "e": 11.48
+      },
+      {
+       "w": "ngwala",
+       "s": 11.48,
+       "e": 11.82
+      },
+      {
+       "w": "moyeng.",
+       "s": 11.82,
+       "e": 12.2
+      }
+     ],
+     "secs": 12.36,
+     "cer": 0.009,
+     "f0_rise": 0.13
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/nso_v5_3.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.132
+      },
+      {
+       "w": "dira",
+       "s": 0.132,
+       "e": 0.66
+      },
+      {
+       "w": "mošomo",
+       "s": 0.66,
+       "e": 1.3
+      },
+      {
+       "w": "wo",
+       "s": 1.3,
+       "e": 1.58
+      },
+      {
+       "w": "mobotse",
+       "s": 1.58,
+       "e": 2.36
+      },
+      {
+       "w": "kudu,",
+       "s": 2.36,
+       "e": 2.806
+      },
+      {
+       "w": "morutiši.",
+       "s": 3.36,
+       "e": 3.92
+      },
+      {
+       "w": "Go",
+       "s": 4.82,
+       "e": 4.957
+      },
+      {
+       "w": "boeletša",
+       "s": 4.957,
+       "e": 5.54
+      },
+      {
+       "w": "ka",
+       "s": 5.54,
+       "e": 5.751
+      },
+      {
+       "w": "mehla",
+       "s": 5.751,
+       "e": 6.223
+      },
+      {
+       "w": "go",
+       "s": 6.417,
+       "e": 6.587
+      },
+      {
+       "w": "a",
+       "s": 6.587,
+       "e": 6.74
+      },
+      {
+       "w": "thuša.",
+       "s": 6.74,
+       "e": 7.2
+      }
+     ],
+     "secs": 7.32,
+     "cer": 0.0,
+     "f0_rise": 4.09
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/nso_v5_4.mp3",
+     "words": [
+      {
+       "w": "O",
+       "s": 0.0,
+       "e": 0.7
+      },
+      {
+       "w": "tla",
+       "s": 0.82,
+       "e": 1.009
+      },
+      {
+       "w": "ruta",
+       "s": 1.58,
+       "e": 1.74
+      },
+      {
+       "w": "modumo",
+       "s": 2.24,
+       "e": 2.62
+      },
+      {
+       "w": "ofe",
+       "s": 2.62,
+       "e": 3.104
+      },
+      {
+       "w": "beke",
+       "s": 3.8,
+       "e": 4.147
+      },
+      {
+       "w": "ye",
+       "s": 4.147,
+       "e": 4.258
+      },
+      {
+       "w": "e",
+       "s": 4.76,
+       "e": 4.78
+      },
+      {
+       "w": "tlago?",
+       "s": 4.78,
+       "e": 5.12
+      }
+     ],
+     "secs": 5.52,
+     "cer": 0.136,
+     "f0_rise": 1.89
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.076,
+    "f0_rise_mean": 3.01
+   }
+  }
+ ],
+ "shipped": {
+  "voice_key": "v1",
+  "label_public": "ElevenLabs · Thandi (newest model)",
+  "how": "cut from the voice notes on the site at the sentence boundaries (same text, not re-rendered); voice v1 in the blind comparison plays these same files",
+  "clips": [
+   {
+    "i": 0,
+    "mp3": "assets/audio/speak/nso_v1_0.mp3",
+    "words": [
+     {
+      "w": "Thobela",
+      "s": 0.0,
+      "e": 0.48
+     },
+     {
+      "w": "morutiši!",
+      "s": 0.6,
+      "e": 1.28
+     },
+     {
+      "w": "Ke",
+      "s": 1.6,
+      "e": 1.68
+     },
+     {
+      "w": "thabela",
+      "s": 1.76,
+      "e": 2.16
+     },
+     {
+      "w": "go",
+      "s": 2.24,
+      "e": 2.32
+     },
+     {
+      "w": "kwa",
+      "s": 2.36,
+      "e": 2.48
+     },
+     {
+      "w": "go",
+      "s": 2.56,
+      "e": 2.64
+     },
+     {
+      "w": "wena.",
+      "s": 2.68,
+      "e": 3.04
+     }
+    ],
+    "secs": 3.29,
+    "cer": 0.0,
+    "f0_rise": 7.45,
+    "from": "conversation"
+   },
+   {
+    "i": 1,
+    "mp3": "assets/audio/speak/nso_v1_1.mp3",
+    "words": [
+     {
+      "w": "Thuto",
+      "s": 0.12,
+      "e": 0.4
+     },
+     {
+      "w": "ya",
+      "s": 0.44,
+      "e": 0.48
+     },
+     {
+      "w": "medumo",
+      "s": 0.56,
+      "e": 1.12
+     },
+     {
+      "w": "e",
+      "s": 1.16,
+      "e": 1.2
+     },
+     {
+      "w": "sepetše",
+      "s": 1.32,
+      "e": 1.68
+     },
+     {
+      "w": "bjang",
+      "s": 1.8,
+      "e": 2.16
+     },
+     {
+      "w": "lehono?",
+      "s": 2.28,
+      "e": 2.72
+     }
+    ],
+    "secs": 2.96,
+    "cer": 0.0,
+    "f0_rise": 6.44,
+    "from": "conversation"
+   },
+   {
+    "i": 2,
+    "mp3": "assets/audio/speak/nso_v1_2.mp3",
+    "words": [
+     {
+      "w": "Gosasa,",
+      "s": 0.0,
+      "e": 0.72
+     },
+     {
+      "w": "thoma",
+      "s": 1.12,
+      "e": 1.36
+     },
+     {
+      "w": "ka",
+      "s": 1.4,
+      "e": 1.44
+     },
+     {
+      "w": "metsotso",
+      "s": 1.52,
+      "e": 1.92
+     },
+     {
+      "w": "ye",
+      "s": 2.0,
+      "e": 2.08
+     },
+     {
+      "w": "mehlano",
+      "s": 2.12,
+      "e": 2.64
+     },
+     {
+      "w": "ya",
+      "s": 2.72,
+      "e": 2.8
+     },
+     {
+      "w": "go",
+      "s": 2.88,
+      "e": 2.96
+     },
+     {
+      "w": "boeletša",
+      "s": 3.04,
+      "e": 3.44
+     },
+     {
+      "w": "medumo:",
+      "s": 3.6,
+      "e": 4.08
+     },
+     {
+      "w": "o",
+      "s": 4.52,
+      "e": 4.56
+     },
+     {
+      "w": "bitša",
+      "s": 4.64,
+      "e": 4.88
+     },
+     {
+      "w": "modumo,",
+      "s": 4.96,
+      "e": 5.6
+     },
+     {
+      "w": "barutwana",
+      "s": 5.92,
+      "e": 6.56
+     },
+     {
+      "w": "ba",
+      "s": 6.64,
+      "e": 6.72
+     },
+     {
+      "w": "o",
+      "s": 6.76,
+      "e": 6.8
+     },
+     {
+      "w": "boeletša,",
+      "s": 6.88,
+      "e": 7.44
+     },
+     {
+      "w": "ke",
+      "s": 7.84,
+      "e": 7.92
+     },
+     {
+      "w": "moka",
+      "s": 8.0,
+      "e": 8.4
+     },
+     {
+      "w": "ba",
+      "s": 8.56,
+      "e": 8.64
+     },
+     {
+      "w": "o",
+      "s": 8.72,
+      "e": 8.8
+     },
+     {
+      "w": "ngwala",
+      "s": 8.88,
+      "e": 9.28
+     },
+     {
+      "w": "moyeng.",
+      "s": 9.32,
+      "e": 9.92
+     }
+    ],
+    "secs": 10.08,
+    "cer": 0.041,
+    "f0_rise": 0.49,
+    "from": "conversation"
+   },
+   {
+    "i": 3,
+    "mp3": "assets/audio/speak/nso_v1_3.mp3",
+    "words": [
+     {
+      "w": "O",
+      "s": 0.0,
+      "e": 0.16
+     },
+     {
+      "w": "dira",
+      "s": 0.24,
+      "e": 0.4
+     },
+     {
+      "w": "mošomo",
+      "s": 0.52,
+      "e": 0.96
+     },
+     {
+      "w": "wo",
+      "s": 1.04,
+      "e": 1.12
+     },
+     {
+      "w": "mobotse",
+      "s": 1.24,
+      "e": 1.6
+     },
+     {
+      "w": "kudu,",
+      "s": 1.68,
+      "e": 2.08
+     },
+     {
+      "w": "morutiši.",
+      "s": 2.44,
+      "e": 3.2
+     },
+     {
+      "w": "Go",
+      "s": 3.6,
+      "e": 3.68
+     },
+     {
+      "w": "boeletša",
+      "s": 3.72,
+      "e": 4.08
+     },
+     {
+      "w": "ka",
+      "s": 4.16,
+      "e": 4.24
+     },
+     {
+      "w": "mehla",
+      "s": 4.28,
+      "e": 4.64
+     },
+     {
+      "w": "go",
+      "s": 4.72,
+      "e": 4.8
+     },
+     {
+      "w": "a",
+      "s": 4.88,
+      "e": 4.96
+     },
+     {
+      "w": "thuša.",
+      "s": 5.04,
+      "e": 5.6
+     }
+    ],
+    "secs": 5.85,
+    "cer": 0.1,
+    "f0_rise": 4.39,
+    "from": "conversation"
+   },
+   {
+    "i": 4,
+    "mp3": "assets/audio/speak/nso_v1_4.mp3",
+    "words": [
+     {
+      "w": "O",
+      "s": 0.12,
+      "e": 0.16
+     },
+     {
+      "w": "tla",
+      "s": 0.2,
+      "e": 0.32
+     },
+     {
+      "w": "ruta",
+      "s": 0.4,
+      "e": 0.64
+     },
+     {
+      "w": "modumo",
+      "s": 0.8,
+      "e": 1.2
+     },
+     {
+      "w": "ofe",
+      "s": 1.28,
+      "e": 1.52
+     },
+     {
+      "w": "beke",
+      "s": 1.64,
+      "e": 1.92
+     },
+     {
+      "w": "ye",
+      "s": 2.04,
+      "e": 2.16
+     },
+     {
+      "w": "e",
+      "s": 2.2,
+      "e": 2.24
+     },
+     {
+      "w": "tlago?",
+      "s": 2.32,
+      "e": 2.72
+     }
+    ],
+    "secs": 2.96,
+    "cer": 0.028,
+    "f0_rise": 4.39,
+    "from": "conversation"
+   }
+  ]
+ },
+ "measures": {
+  "cer": "measured (automated): text → speech → text with Gemini 3.5 Flash, character error rate after norm_v1, rounded up; lower means a machine recovered the words more exactly. It does not measure how natural the voice sounds.",
+  "f0_rise": "measured proxy: median pitch of the first word minus the median pitch of the whole sentence, in semitones (positive = the sentence starts higher than its own middle). A proxy for the 9 October comment about pitch at the start of sentences; first-language listeners decide.",
+  "f0_rise_human_ref": {
+   "median": 1.73,
+   "q1_q3": [
+    0.31,
+    4.34
+   ],
+   "n": 25,
+   "line": "For reference, 25 recordings of first-language speakers reading sentences aloud (FLEURS / NCHLT) start a median +1.7 semitones above their own middle (half of them between +0.3 and +4.3). A real speaker's sentence can start high too, so this number alone does not say a voice is wrong."
+  },
+  "native_ear": "pending (this review)"
+ },
+ "notes": [
+  "No open-source voice is included. Meta's MMS-TTS publishes no model for this language. The one open South African multi-language model (South-African-TTS-11-Vits, non-commercial licence) is access-restricted: on 13 October our Hugging Face account was not on its access list, and we did not request access."
+ ],
+ "sources": []
+}

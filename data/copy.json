@@ -48,7 +48,7 @@
    "Debrief: questions, five-step plan, next step",
    "Grounding · coverage · stability"
   ],
-  "review_line": "Two review pages, open to anyone who speaks the language: the [Listening review](review.html) plays the partners' own recordings beside what Rumi heard, line by line; the [Speaking review](speak.html) plays the same five sentences in five or six voices, blind, and asks which sounds like a first-language speaker. Those ratings become the first native-ear scores."
+  "review_line": "Two review pages, open to anyone who speaks the language: the [Listening review](review.html) plays the partners' own recordings beside what Rumi heard, line by line; the [Speaking review](speak.html) plays the same five sentences in four to six voices, blind, and asks which sounds like a first-language speaker. Those ratings become the first native-ear scores."
  },
  "index.languages": {
   "heading": "The three languages",
@@ -267,9 +267,9 @@
    "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models; the words still need a native ear, and the voice has had its first one.",
    "score_line": "ElevenLabs eleven_v4, voice Neo: 0.2% of characters lost on the text-to-speech-to-text round trip (6 sentences, measured). That is intelligibility to a machine, not naturalness. An AI listener had rated this voice as native-sounding; the first native listeners showed that rating to be wrong, so no AI-judged nativeness number appears on this site any more.",
    "lead": "Score 9.9 measures one thing: a machine recovers the words (0.2% lost on the round trip). Two first-language isiZulu speakers from the coalition listened on 9 October and found the voice understandable, not yet natural.",
-   "note": "What we are doing about it: a blind speaking review in which five or six voices read the same five sentences and first-language listeners rate each one, with intonation-tuned variants of the best voice among them; native ratings, not a machine, decide which voice ships. The earlier auditions below are kept for the record; their AI-judged scores are not.",
+   "note": "What we are doing about it: a blind speaking review in which four to six voices read the same five sentences and first-language listeners rate each one, with intonation-tuned variants of the best voice among them wherever the tuning kept the words right; native ratings, not a machine, decide which voice ships. The earlier auditions below are kept for the record; their AI-judged scores are not.",
    "listeners_line": "What they heard: pitch rising where isiZulu does not rise; sentence openings that start differently from how a person speaks; the greeting Sawubona pitched as no speaker would pitch it; one line whose meaning was lost in the rise and fall; and more English words than a teacher would use. The written text, they said, is correct. On the same call, the Afrikaans voice was the one a listener praised.",
-   "review_line": "Help us choose: [rate the isiZulu voices →](speak.html?lang=zu). The same five sentences in five or six voices, blind; about ten minutes.",
+   "review_line": "Help us choose: [rate the isiZulu voices →](speak.html?lang=zu). The same five sentences in four voices, blind; about ten minutes.",
    "trials_heading": "Earlier auditions, reading the same sentence (round-trip loss only)"
   },
   "ship": {
@@ -365,9 +365,9 @@
    "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models; the words still need a native ear, and the voice has had its first one.",
    "score_line": "ElevenLabs eleven_v4, voice Katlego: 1.1% of characters lost on the text-to-speech-to-text round trip (6 sentences, measured). That is intelligibility to a machine, not naturalness. An AI listener had rated this voice as native-sounding; the first native listeners showed that rating to be wrong, so no AI-judged nativeness number appears on this site any more.",
    "lead": "Score 9.7, labelled intelligibility uncertain: Katlego loses 1.1% of characters on the round trip, but a second listener engine loses 14.5%. No first-language isiXhosa speaker has heard it yet.",
-   "note": "What we are doing about it: a blind speaking review in which five or six voices read the same five sentences and first-language listeners rate each one, with intonation-tuned variants of the best voice among them; native ratings, not a machine, decide which voice ships. The earlier auditions below are kept for the record; their AI-judged scores are not.",
+   "note": "What we are doing about it: a blind speaking review in which four to six voices read the same five sentences and first-language listeners rate each one, with intonation-tuned variants of the best voice among them wherever the tuning kept the words right; native ratings, not a machine, decide which voice ships. The earlier auditions below are kept for the record; their AI-judged scores are not.",
    "listeners_line": "The isiZulu voice from the same engine was heard by two first-language speakers on 9 October: understandable, not yet natural, with the pitch wrong at sentence openings and the meaning of one line lost. We assume the same of this voice until the speaking review says otherwise.",
-   "review_line": "Help us choose: [rate the isiXhosa voices →](speak.html?lang=xh). The same five sentences in five or six voices, blind; about ten minutes.",
+   "review_line": "Help us choose: [rate the isiXhosa voices →](speak.html?lang=xh). The same five sentences in five voices, blind; about ten minutes.",
    "trials_heading": "Earlier auditions, reading the same sentence (round-trip loss only)"
   },
   "ship": {
@@ -464,9 +464,9 @@
    "chat_note": "The teacher types; Rumi answers in voice notes. Rumi's lines were drafted and checked by two AI models; the words still need a native ear, and the voice has had its first one.",
    "score_line": "ElevenLabs eleven_v4, a voice made with ElevenLabs Voice Design from a written description of a first-language Sesotho speaker: 1.1% of characters lost on the text-to-speech-to-text round trip (6 sentences, measured). That is intelligibility to a machine, not naturalness. An AI listener had rated this voice as native-sounding; the first native listeners showed that rating to be wrong, so no AI-judged nativeness number appears on this site any more.",
    "lead": "Score 9.7 measures one thing: a machine recovers the words (1.1% lost on the round trip). No first-language Sesotho speaker has heard this voice yet.",
-   "note": "A designed voice is generated from a description, not cloned from a person. What we are doing about it: a blind speaking review in which five or six voices read the same five sentences and first-language listeners rate each one, with intonation-tuned variants of the best voice among them; native ratings, not a machine, decide which voice ships. The earlier auditions below are kept for the record; their AI-judged scores are not.",
+   "note": "A designed voice is generated from a description, not cloned from a person. What we are doing about it: a blind speaking review in which four to six voices read the same five sentences and first-language listeners rate each one, with intonation-tuned variants of the best voice among them wherever the tuning kept the words right; native ratings, not a machine, decide which voice ships. The earlier auditions below are kept for the record; their AI-judged scores are not.",
    "listeners_line": "The isiZulu voice from the same engine was heard by two first-language speakers on 9 October: understandable, not yet natural, with the pitch wrong at sentence openings and the meaning of one line lost. We assume the same of this voice until the speaking review says otherwise.",
-   "review_line": "Help us choose: [rate the Sesotho voices →](speak.html?lang=st). The same five sentences in five or six voices, blind; about ten minutes.",
+   "review_line": "Help us choose: [rate the Sesotho voices →](speak.html?lang=st). The same five sentences in four voices, blind; about ten minutes.",
    "trials_heading": "Earlier auditions, reading the same sentence (round-trip loss only)"
   },
   "ship": {
@@ -489,7 +489,7 @@
    "nav_review": "Listening review",
    "page_note": "Every transcript on this page is a Rumi draft. Your corrections become the first native-ear score for that language.",
    "nav_speak": "Speaking review",
-   "speak_line": "This page checks what Rumi hears. [The Speaking review](speak.html) checks how Rumi sounds: five sentences, five or six voices, blind."
+   "speak_line": "This page checks what Rumi hears. [The Speaking review](speak.html) checks how Rumi sounds: five sentences, four to six voices, blind."
   },
   "howto": {
    "heading": "How to review",
@@ -665,11 +665,11 @@
   "howto": {
    "heading": "How to review",
    "steps": [
-    "Pick your language and start with the blind comparison: each sentence plays in five or six voices, in an order that is different for everyone, with the names hidden. Listen to all of them.",
+    "Pick your language and start with the blind comparison: each sentence plays in four to six voices, in an order that is different for everyone, with the names hidden. Listen to all of them.",
     "For each voice, rate two things from 1 to 5: does it sound like a first-language speaker, and is the meaning clear. Tap any word whose pitch or stress is wrong.",
     "Pick the best voice for the sentence, add your name once, and save. Five sentences is the whole job; the voices' names appear once you have saved."
    ],
-   "time_note": "Five sentences in five or six voices take about ten minutes. You can stop at any sentence; everything you have saved is already counted."
+   "time_note": "Five sentences in four to six voices take about ten minutes. You can stop at any sentence; everything you have saved is already counted."
   },
   "tabs": {
    "soon": "soon"
@@ -682,7 +682,7 @@
   },
   "blind": {
    "heading": "Which voice sounds most like a first-language speaker?",
-   "lead": "The same five sentences, taken from what Rumi actually says to a teacher, read by five or six voices from different engines, among them the voice Rumi ships today and a version tuned for calmer, falling intonation. The names are hidden until you have saved a rating.",
+   "lead": "The same five sentences, taken from what Rumi actually says to a teacher, read by four to six voices from different engines, among them the voice Rumi ships today and a version tuned for calmer, falling intonation. The names are hidden until you have saved a rating.",
    "sentence_label": "Sentence {n} of {total}",
    "voice": "Voice {letter}",
    "natural_label": "Sounds like a first-language speaker",

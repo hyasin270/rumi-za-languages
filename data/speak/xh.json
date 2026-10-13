@@ -50,27 +50,28 @@
       {
        "w": "titshala!",
        "s": 0.4,
-       "e": 1.12
+       "e": 1.2
       },
       {
        "w": "Ndiyavuya",
-       "s": 1.52,
+       "s": 1.6,
        "e": 2.24
       },
       {
        "w": "ukuva",
        "s": 2.36,
-       "e": 2.64
+       "e": 2.56
       },
       {
        "w": "kuwe.",
-       "s": 2.76,
+       "s": 2.64,
        "e": 3.04
       }
      ],
-     "secs": 3.28,
-     "cer": 0.03,
-     "f0_rise": 4.62
+     "secs": 3.29,
+     "cer": 0.059,
+     "f0_rise": 4.6,
+     "rerendered": false
     },
     {
      "i": 1,
@@ -78,33 +79,34 @@
      "words": [
       {
        "w": "Sihambe",
-       "s": 0.0,
-       "e": 0.48
+       "s": 0.12,
+       "e": 0.44
       },
       {
        "w": "njani",
-       "s": 0.56,
-       "e": 0.96
+       "s": 0.52,
+       "e": 0.84
       },
       {
        "w": "isifundo",
-       "s": 1.04,
-       "e": 1.52
+       "s": 0.92,
+       "e": 1.32
       },
       {
        "w": "sezandi",
-       "s": 1.68,
-       "e": 2.16
+       "s": 1.44,
+       "e": 1.8
       },
       {
        "w": "namhlanje?",
-       "s": 2.24,
-       "e": 2.88
+       "s": 1.88,
+       "e": 2.44
       }
      ],
-     "secs": 3.12,
+     "secs": 2.68,
      "cer": 0.0,
-     "f0_rise": 14.79
+     "f0_rise": 11.28,
+     "rerendered": false
     },
     {
      "i": 2,
@@ -112,43 +114,44 @@
      "words": [
       {
        "w": "Namhlanje",
-       "s": 0.0,
-       "e": 0.8
+       "s": 0.12,
+       "e": 0.72
       },
       {
        "w": "sifundisa",
-       "s": 0.96,
-       "e": 1.6
+       "s": 0.8,
+       "e": 1.44
       },
       {
        "w": "isandi",
-       "s": 1.76,
-       "e": 2.24
+       "s": 1.56,
+       "e": 2.0
       },
       {
        "w": "esitsha",
-       "s": 2.4,
-       "e": 2.96
+       "s": 2.12,
+       "e": 2.56
       },
       {
        "w": "esibhalwa",
-       "s": 3.04,
-       "e": 3.76
+       "s": 2.64,
+       "e": 3.2
       },
       {
        "w": "ngonobumba",
-       "s": 3.84,
-       "e": 4.48
+       "s": 3.24,
+       "e": 3.84
       },
       {
        "w": "c.",
-       "s": 4.64,
-       "e": 4.96
+       "s": 3.92,
+       "e": 4.24
       }
      ],
-     "secs": 5.12,
+     "secs": 4.49,
      "cer": 0.0,
-     "f0_rise": 2.59
+     "f0_rise": 1.57,
+     "rerendered": false
     },
     {
      "i": 3,
@@ -157,16 +160,16 @@
       {
        "w": "Molo,",
        "s": 0.0,
-       "e": 0.48
+       "e": 0.347
       },
       {
        "w": "enkosi",
-       "s": 0.88,
+       "s": 0.8,
        "e": 1.28
       },
       {
        "w": "ngokundivumela",
-       "s": 1.36,
+       "s": 1.32,
        "e": 2.24
       },
       {
@@ -182,22 +185,23 @@
       {
        "w": "abantwana",
        "s": 3.36,
-       "e": 3.76
+       "e": 3.68
       },
       {
        "w": "befunda",
-       "s": 3.92,
-       "e": 4.32
+       "s": 3.76,
+       "e": 4.24
       },
       {
        "w": "ngokuvakalayo.",
-       "s": 4.36,
-       "e": 5.28
+       "s": 4.28,
+       "e": 5.12
       }
      ],
-     "secs": 5.44,
-     "cer": 0.0,
-     "f0_rise": 3.0
+     "secs": 5.37,
+     "cer": 0.014,
+     "f0_rise": 3.9,
+     "rerendered": false
     },
     {
      "i": 4,
@@ -205,43 +209,44 @@
      "words": [
       {
        "w": "Sesiphi",
-       "s": 0.0,
-       "e": 0.48
+       "s": 0.12,
+       "e": 0.6
       },
       {
        "w": "isandi",
-       "s": 0.6,
-       "e": 1.12
+       "s": 0.72,
+       "e": 1.16
       },
       {
        "w": "oza",
-       "s": 1.28,
-       "e": 1.52
+       "s": 1.24,
+       "e": 1.48
       },
       {
        "w": "kusifundisa",
-       "s": 1.64,
-       "e": 2.24
+       "s": 1.56,
+       "e": 2.04
       },
       {
        "w": "kwiveki",
-       "s": 2.28,
-       "e": 2.72
+       "s": 2.08,
+       "e": 2.52
       },
       {
        "w": "ezayo?",
-       "s": 2.84,
-       "e": 3.28
+       "s": 2.64,
+       "e": 3.08
       }
      ],
-     "secs": 3.52,
+     "secs": 3.32,
      "cer": 0.023,
-     "f0_rise": 9.0
+     "f0_rise": 11.63,
+     "rerendered": false
     }
    ],
    "summary": {
-    "cer_mean": 0.011,
-    "f0_rise_mean": 6.8
+    "cer_mean": 0.02,
+    "f0_rise_mean": 6.6
    }
   },
   {
@@ -682,28 +687,28 @@
       },
       {
        "w": "titshala!",
-       "s": 0.4,
-       "e": 1.2
+       "s": 0.48,
+       "e": 1.12
       },
       {
        "w": "Ndiyavuya",
-       "s": 1.68,
-       "e": 2.4
+       "s": 1.56,
+       "e": 2.32
       },
       {
        "w": "ukuva",
-       "s": 2.52,
+       "s": 2.44,
        "e": 2.72
       },
       {
        "w": "kuwe.",
-       "s": 2.8,
-       "e": 3.2
+       "s": 2.84,
+       "e": 3.12
       }
      ],
-     "secs": 3.44,
-     "cer": 0.03,
-     "f0_rise": 6.17
+     "secs": 3.36,
+     "cer": 0.0,
+     "f0_rise": 5.63
     },
     {
      "i": 1,
@@ -717,27 +722,27 @@
       {
        "w": "njani",
        "s": 0.56,
-       "e": 1.04
+       "e": 0.96
       },
       {
        "w": "isifundo",
-       "s": 1.16,
-       "e": 1.6
+       "s": 1.08,
+       "e": 1.52
       },
       {
        "w": "sezandi",
-       "s": 1.76,
-       "e": 2.16
+       "s": 1.64,
+       "e": 2.0
       },
       {
        "w": "namhlanje?",
-       "s": 2.24,
-       "e": 2.88
+       "s": 2.12,
+       "e": 2.72
       }
      ],
-     "secs": 3.12,
+     "secs": 2.96,
      "cer": 0.0,
-     "f0_rise": 11.48
+     "f0_rise": 12.91
     },
     {
      "i": 2,
@@ -746,11 +751,11 @@
       {
        "w": "Namhlanje",
        "s": 0.0,
-       "e": 0.8
+       "e": 0.72
       },
       {
        "w": "sifundisa",
-       "s": 0.96,
+       "s": 0.88,
        "e": 1.52
       },
       {
@@ -760,12 +765,12 @@
       },
       {
        "w": "esitsha",
-       "s": 2.24,
+       "s": 2.32,
        "e": 2.88
       },
       {
        "w": "esibhalwa",
-       "s": 2.96,
+       "s": 3.0,
        "e": 3.6
       },
       {
@@ -781,7 +786,7 @@
      ],
      "secs": 4.96,
      "cer": 0.0,
-     "f0_rise": 1.84
+     "f0_rise": 2.25
     },
     {
      "i": 3,
@@ -790,11 +795,11 @@
       {
        "w": "Molo,",
        "s": 0.0,
-       "e": 0.4
+       "e": 0.48
       },
       {
        "w": "enkosi",
-       "s": 0.8,
+       "s": 0.92,
        "e": 1.28
       },
       {
@@ -815,22 +820,22 @@
       {
        "w": "abantwana",
        "s": 3.36,
-       "e": 3.84
+       "e": 3.76
       },
       {
        "w": "befunda",
-       "s": 4.0,
-       "e": 4.4
+       "s": 3.84,
+       "e": 4.32
       },
       {
        "w": "ngokuvakalayo.",
-       "s": 4.44,
-       "e": 5.36
+       "s": 4.36,
+       "e": 5.28
       }
      ],
-     "secs": 5.6,
+     "secs": 5.52,
      "cer": 0.0,
-     "f0_rise": 3.37
+     "f0_rise": 4.32
     },
     {
      "i": 4,
@@ -853,28 +858,28 @@
       },
       {
        "w": "kusifundisa",
-       "s": 1.72,
-       "e": 2.32
+       "s": 1.68,
+       "e": 2.24
       },
       {
        "w": "kwiveki",
-       "s": 2.36,
+       "s": 2.32,
        "e": 2.8
       },
       {
        "w": "ezayo?",
-       "s": 2.88,
-       "e": 3.44
+       "s": 2.92,
+       "e": 3.36
       }
      ],
-     "secs": 3.68,
+     "secs": 3.6,
      "cer": 0.0,
-     "f0_rise": 11.8
+     "f0_rise": 10.75
     }
    ],
    "summary": {
-    "cer_mean": 0.006,
-    "f0_rise_mean": 6.93
+    "cer_mean": 0.0,
+    "f0_rise_mean": 7.17
    }
   },
   {
@@ -1092,11 +1097,11 @@
  "shipped": {
   "voice_key": "v1",
   "label_public": "ElevenLabs · Katlego (newest model)",
-  "how": "cut from the voice notes on the site at the sentence boundaries (same text, not re-rendered)",
+  "how": "cut from the voice notes on the site at the sentence boundaries (same text, not re-rendered); voice v1 in the blind comparison plays these same files",
   "clips": [
    {
     "i": 0,
-    "mp3": "assets/audio/speak/xh_shipped_0.mp3",
+    "mp3": "assets/audio/speak/xh_v1_0.mp3",
     "words": [
      {
       "w": "Molo",
@@ -1131,7 +1136,7 @@
    },
    {
     "i": 1,
-    "mp3": "assets/audio/speak/xh_shipped_1.mp3",
+    "mp3": "assets/audio/speak/xh_v1_1.mp3",
     "words": [
      {
       "w": "Sihambe",
@@ -1166,7 +1171,7 @@
    },
    {
     "i": 2,
-    "mp3": "assets/audio/speak/xh_shipped_2.mp3",
+    "mp3": "assets/audio/speak/xh_v1_2.mp3",
     "words": [
      {
       "w": "Namhlanje",
@@ -1211,7 +1216,7 @@
    },
    {
     "i": 3,
-    "mp3": "assets/audio/speak/xh_shipped_3.mp3",
+    "mp3": "assets/audio/speak/xh_v1_3.mp3",
     "words": [
      {
       "w": "Molo,",
@@ -1261,7 +1266,7 @@
    },
    {
     "i": 4,
-    "mp3": "assets/audio/speak/xh_shipped_4.mp3",
+    "mp3": "assets/audio/speak/xh_v1_4.mp3",
     "words": [
      {
       "w": "Sesiphi",
@@ -1316,7 +1321,7 @@
   "native_ear": "pending (this review)"
  },
  "notes": [
-  "No open-source voice could be included: Meta's MMS-TTS does not publish a model for this language, and the one open South African multi-language model found is access-restricted."
+  "No open-source voice is included. Meta's MMS-TTS publishes no model for this language. The one open South African multi-language model (South-African-TTS-11-Vits, non-commercial licence) is access-restricted: on 13 October our Hugging Face account was not on its access list, and we did not request access."
  ],
  "sources": []
 }
