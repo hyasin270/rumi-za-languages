@@ -12,7 +12,7 @@
   "lead": "Yes, with three conditions. Automated tests in all three languages show Rumi planning lessons, transcribing classrooms, drafting coaching and replying in voice notes; the first native listeners found its voice understandable, not yet natural.",
   "bullets": [
    "Lesson plans and coaching are strong in all three languages; listening is the capability that separates them.",
-   "Speaking is intelligible to a machine but not yet natural to a first-language ear: the first native listeners heard pitch in the wrong places and sentence openings that start wrong, and lost the meaning of one line. Afrikaans was the one voice a first-language listener on that call praised.",
+   "Speaking is intelligible to a machine; where first-language listeners have heard it (isiZulu), it is not yet natural: the first native listeners heard pitch in the wrong places and sentence openings that start wrong, and lost the meaning of one line. Afrikaans was the one voice a listener on that call praised (a listener who speaks Afrikaans). The other voices have not been heard yet.",
    "Six languages, four capabilities, about a hundred dollars of metered model and voice calls."
   ],
   "conditions_heading": "The three conditions",
@@ -76,7 +76,7 @@
   "lead": "Sepedi, Afrikaans and Setswana ran the same tests without a page of their own; coaching was not run for Afrikaans and Setswana (no classroom recording sourced).",
   "lines": {
    "nso": "Sepedi (Funda Wande's Limpopo language; not Sesotho): coaching was run on one public reading lesson [[fn:fn-video-nso]]. The transcription engines disagree most here (19.0% to 36.6% of classroom characters on two public lessons [[fn:fn-video-nso-2]], proxy: two engines compared), so the agreement gate matters most. Its voice has not been heard by a first-language speaker; the isiZulu findings apply until the [speaking review](speak.html?lang=nso) says otherwise.",
-   "af": "Afrikaans: the strongest listening of the six; its voice, Paul Steyn, is a first-language Afrikaans voice from the ElevenLabs library, and the one voice a first-language listener on the 9 October call praised. It has not been rated yet: [rate the Afrikaans voices →](speak.html?lang=af).",
+   "af": "Afrikaans: the strongest listening of the six; its voice, Paul Steyn, is a first-language Afrikaans voice from the ElevenLabs library, and the one voice a listener on the 9 October call praised (a listener who speaks Afrikaans). It has not been rated yet: [rate the Afrikaans voices →](speak.html?lang=af).",
    "tn": "Setswana: the winning engine is fragile on longer audio, so the runner-up is the safer choice; the voice is designed to sound like a first-language Setswana speaker and has not been heard by one yet: [rate the Setswana voices →](speak.html?lang=tn)."
   },
   "note": "Sesotho and Setswana listening is scored on short read phone prompts with their own South African English control [[fn:fn-nchlt]], not the sentence set used for the other four [[fn:fn-fleurs]]; the two are not comparable."
@@ -689,6 +689,8 @@
    "meaning_label": "The meaning is clear",
    "scale_low": "1 · not at all",
    "scale_high": "5 · completely",
+   "meaning_low": "1 · lost",
+   "meaning_high": "5 · completely clear",
    "flag_hint": "Tap any word whose pitch or stress is wrong. It lights up as it plays.",
    "flagged": "{n} words marked",
    "flagged_one": "1 word marked",
