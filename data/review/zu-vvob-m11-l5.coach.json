@@ -1,0 +1,332 @@
+{
+ "id": "zu-vvob-m11-l5",
+ "media_id": "zu-vvob-m11-l5",
+ "lang": "zu",
+ "lesson": {
+  "strand": "shared_reading",
+  "focus": "setting up independent reading (one learner reads a newspaper article on safety at a taxi rank) and paired reading by taking turns (the book 'UMnumzane Nkawu'), with the rest of the class continuing their own work",
+  "grade": "not stated"
+ },
+ "summary_en": "After narration saying learners read together before reading independently, the teacher calls three learners: one to read a newspaper independently and two to read the book 'UMnumzane Nkawu' in pairs by taking turns, and sends them to fetch their texts and sit in a reading spot. The rest of the class is told to continue with their own work, and the independent reader then reads a newspaper article about road safety aloud, with pauses and broken words in the transcript, after which the teacher thanks them and the class cheers. The clip does not show the paired reading, any talk about the text, any pre-teaching of words or any teacher support during the reading. It is a staged, edited demonstration; an unrehearsed lesson would also need to show the teacher listening to the readers, prompting on hard words and asking what the text was about.",
+ "scope_en": "Rumi coached only what the recording shows in class (the teacher and learners). Narration over the film is in the transcript but is not treated as evidence that a step happened. The recording is an edited training film, so a step it does not show may still have happened.",
+ "steps": [
+  {
+   "id": "S1",
+   "name": "Ngaphambi kokufunda",
+   "name_en": "Before reading: title, cover, predictions",
+   "status": "partly",
+   "note_en": "The texts are named only so learners can fetch them ('the newspaper', the book 'UMnumzane Nkawu'); no title talk, cover or predictions.",
+   "evidence": [
+    {
+     "t": 34.77,
+     "turn_i": 4,
+     "quote": "uzosifundela kuwini? Kwiphephandaba lakhe.",
+     "en": "what will they read to us from? From their newspaper."
+    },
+    {
+     "t": 96.48,
+     "turn_i": 18,
+     "quote": "uyothatha incwadi ozoyifunda, eh, ebhalwe u-awu, uMnumzane Nkawu.",
+     "en": "go and take the book you will read, eh, the one written, oh, 'Mr Monkey'."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "S2",
+   "name": "Amagama amasha ngaphambi kokufunda",
+   "name_en": "Pre-teach key words",
+   "status": "not_observed",
+   "note_en": "No key words are taught before the reading in this clip.",
+   "evidence": [],
+   "from_run": "r1"
+  },
+  {
+   "id": "S3",
+   "name": "Uthisha ufunda ngokugeleza",
+   "name_en": "Model fluent reading",
+   "status": "not_observed",
+   "note_en": "This is independent and paired reading; the teacher does not read the text aloud as a model in the clip.",
+   "evidence": [],
+   "from_run": "r1"
+  },
+  {
+   "id": "S4",
+   "name": "Imibuzo yokuqondisisa",
+   "name_en": "Questions at different levels",
+   "status": "not_observed",
+   "note_en": "The clip ends with thanks after the reading; no questions about the article or the book are shown.",
+   "evidence": [],
+   "from_run": "r1"
+  },
+  {
+   "id": "S5",
+   "name": "Ngemuva kokufunda",
+   "name_en": "After reading: structure, theme, retell",
+   "status": "not_observed",
+   "note_en": "No post-reading talk, retell or follow-up task is shown.",
+   "evidence": [],
+   "from_run": "r1"
+  }
+ ],
+ "culture": [
+  {
+   "id": "C1",
+   "name": "Ukubamba iqhaza kwabafundi bonke",
+   "name_en": "Participation of all learners",
+   "status": "partly",
+   "note_en": "Three learners are given reading roles; the rest of the class is told to keep working on their own and their work is not shown.",
+   "evidence": [
+    {
+     "t": 31.67,
+     "turn_i": 3,
+     "quote": "Ngizocela abathathu manje abazozala lana.",
+     "en": "I will now ask for three to come here."
+    },
+    {
+     "t": 113.08,
+     "turn_i": 22,
+     "quote": "Laba abahleli lapha phansi, umuntu uyaqhubeka nomsebenzi wakhe, uyezwa?",
+     "en": "Those sitting down here, each person carries on with their own work, do you hear?"
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C2",
+   "name": "Ukuncoma umzamo nokucabanga",
+   "name_en": "Praise of effort and thinking",
+   "status": "partly",
+   "note_en": "The reader is thanked and the class claps and cheers, but the praise is general ('you read well'), naming no effort or strategy.",
+   "evidence": [
+    {
+     "t": 227.72,
+     "turn_i": 35,
+     "quote": "Usifundele kahle. Siyabonga kakhulu. Asimshayele izandla [learner].",
+     "en": "You read well for us. Thank you very much. Let's clap for [learner]."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C3",
+   "name": "Ukuphatha amaphutha",
+   "name_en": "Handling errors as learning",
+   "status": "not_observed",
+   "note_en": "The reader's broken words ('Isi-', 'de isisi') may partly be transcription fragments, and no teacher response during the reading is shown, so error handling cannot be judged.",
+   "evidence": [],
+   "from_run": "r1"
+  },
+  {
+   "id": "C4",
+   "name": "Isivinini nokusebenzisa isikhathi",
+   "name_en": "Pace and time on task",
+   "status": "partly",
+   "note_en": "Calling the three readers, sending them for their texts and seating them takes from about half a minute to over two minutes into the clip before reading starts.",
+   "evidence": [
+    {
+     "t": 45.27,
+     "turn_i": 7,
+     "quote": "Ngizoqala ngizoqala ngokuthi ngicele oyedwa-ke ozofunda iphephandaba lakhe.",
+     "en": "I'll start, I'll start by asking for one who will read their newspaper."
+    },
+    {
+     "t": 91.68,
+     "turn_i": 17,
+     "quote": "Woza. [learner], uphi? Woza.",
+     "en": "Come. [learner], where are you? Come."
+    },
+    {
+     "t": 131.76,
+     "turn_i": 25,
+     "quote": "Qalani ke nifunde.",
+     "en": "Start reading then."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C5",
+   "name": "Ukuhlola ukuqonda komfundi ngamunye",
+   "name_en": "Checking individual understanding",
+   "status": "partly",
+   "note_en": "One learner's reading is heard in full; no check of what they understood, and the paired readers are not heard.",
+   "evidence": [
+    {
+     "t": 120.16,
+     "turn_i": 23,
+     "quote": "wena uzofunda ngokuzimela, uzofunda iphephandaba, ufunde ngokuzimela.",
+     "en": "you will read independently, you will read the newspaper, read on your own."
+    },
+    {
+     "t": 227.72,
+     "turn_i": 35,
+     "quote": "Siyabonga, siyabonga kakhulu [learner].",
+     "en": "Thank you, thank you very much [learner]."
+    }
+   ],
+   "from_run": "r1"
+  }
+ ],
+ "positives": [
+  {
+   "en": "The teacher explains the two ways of reading clearly before anyone starts: one learner reads alone, and two read by taking turns, one reading and then the other.",
+   "t": 78.39,
+   "turn_i": 15
+  },
+  {
+   "en": "Texts are laid out on a table and readers have a set place to sit, so each reader knows where to get a text and where to read.",
+   "t": 64.99,
+   "turn_i": 11
+  },
+  {
+   "en": "The class is told to carry on with their own work while the readers read, so the rest of the class has something to do.",
+   "t": 113.08,
+   "turn_i": 22
+  },
+  {
+   "en": "The independent reader is celebrated by the whole class with a clap and a cheer, which makes reading aloud something to be proud of.",
+   "t": 234.82,
+   "turn_i": 36
+  }
+ ],
+ "blockages": [
+  {
+   "en": "After the article is read, the teacher thanks the reader and the class cheers, but nobody is asked what the article said. Effect: the reader practises saying the words but is not asked to show they understood them, and the teacher does not learn whether the text was at the right level. Catch-up: after each independent reading, ask the reader one or two questions about the text (what it was about, what drivers must do) and note any words they stumbled on.",
+   "t": 227.72,
+   "turn_i": 35
+  },
+  {
+   "en": "Choosing and seating the three readers takes most of the first two minutes of the clip, one learner at a time. Effect: reading time is lost and the waiting class can lose focus. Catch-up: post the day's readers and their texts on a chart, and have texts ready at the reading spot before the lesson.",
+   "t": 91.68,
+   "turn_i": 17
+  }
+ ],
+ "level_of_change": {
+  "level": 2,
+  "en": "Focus skill: following up independent reading with a short check of understanding. The teacher sets up independent and paired reading with clear roles, but the clip shows no talk about the text afterwards, suggesting the purpose is known but the follow-up move is not yet in place; one staged, edited clip is thin evidence, so confidence is low. Coach move: demonstrate a two-question check after an independent reading and go through it step by step."
+ },
+ "grow": {
+  "goal": {
+   "lang": "Emva kokuthi umfundi efunde ngokuzimela, umbuze imibuzo emibili mayelana nalokho akufundile.",
+   "en": "After a learner reads independently, ask them two questions about what they read."
+  },
+  "reality": {
+   "lang": "Uvele uhlela kahle ukufunda ngokuzimela nangababili, futhi umfundi ufunde yonke indaba yephephandaba, kodwa akekho obuzwe ukuthi ikhuluma ngani.",
+   "en": "You already organise independent and paired reading well, and the learner read the whole newspaper article, but nobody was asked what it was about."
+  },
+  "options": {
+   "lang": "Ungabuza ukuthi indaba ibikhuluma ngani; ungabuza ukuthi abashayeli kumele benzeni; ungabhala phansi amagama abe nzima kumfundi.",
+   "en": "You could ask what the article was about; ask what drivers must do; write down the words that were hard for the learner."
+  },
+  "way_forward": {
+   "lang": "Esifundweni esilandelayo, emva kokufunda uzobuza umfundi imibuzo emibili, bese ubhala phansi amagama abe nzima.",
+   "en": "In the next lesson, after the reading you will ask the learner two questions and write down the words that were hard."
+  }
+ },
+ "questions": [
+  {
+   "lang": "Ngemuva kokuthi umfundi eqede ukufunda iphephandaba, ubuthanda ukwazi ini ngokuqonda kwakhe?",
+   "en": "After the learner finished reading the newspaper, what would you have liked to know about their understanding?",
+   "t": 227.72,
+   "turn_i": 35
+  },
+  {
+   "lang": "Ukuchaza izindlela ezimbili zokufunda ngaphambi kokuqala kubasize kanjani abafundi?",
+   "en": "How did explaining the two ways of reading before starting help the learners?",
+   "t": 78.39,
+   "turn_i": 15
+  },
+  {
+   "lang": "Ngesikhathi ubiza abafundi abathathu, abanye ekilasini bebenzani, futhi ungasifinyeza kanjani leso sikhathi?",
+   "en": "While you were calling the three learners, what was the rest of the class doing, and how could you shorten that time?",
+   "t": 91.68,
+   "turn_i": 17
+  }
+ ],
+ "debrief_plan": [
+  {
+   "step": 1,
+   "step_en": "Ask permission",
+   "coach_says": "Ngiyabonga ngokungivumela ukuthi ngibuke isikhathi sakho sokufunda ngokuzimela. Ngingakwabelana yini nalokho engikubonile?",
+   "en": "Thank you for letting me watch your independent reading time. May I share what I saw?"
+  },
+  {
+   "step": 2,
+   "step_en": "Observation: positives and blockages",
+   "coach_says": "Ngibonile ukuthi uchaze kahle ukuthi omunye uzofunda yedwa, ababili bafunde ngokushintshana, futhi abanye baqhubeka nomsebenzi wabo. Kodwa emva kokuthi umfundi efunde iphephandaba, akekho obuzwe ukuthi ibikhuluma ngani.",
+   "en": "I saw that you clearly explained that one would read alone and two would take turns, and the others carried on with their work. But after the learner read the newspaper, nobody was asked what it was about."
+  },
+  {
+   "step": 3,
+   "step_en": "Effect on learners",
+   "coach_says": "Uma singabuzi, umfundi ufunda amagama kodwa akakhombisi ukuthi uyaqonda, futhi asazi ukuthi umbhalo ubulingene yini.",
+   "en": "If we don't ask, the learner reads the words but doesn't show they understand, and we don't know whether the text was the right level."
+  },
+  {
+   "step": 4,
+   "step_en": "Pause and dialogue",
+   "coach_says": "Ngingathanda ukuzwa umbono wakho. Wena uzwe ini ngesikhathi umfundi efunda iphephandaba?",
+   "en": "I'd like to hear your view. What did you hear while the learner was reading the newspaper?"
+  },
+  {
+   "step": 5,
+   "step_en": "Opportunity and contracting",
+   "coach_says": "Masivumelane ukuthi esifundweni esilandelayo, emva kokufunda uzobuza umfundi imibuzo emibili, ubhale phansi amagama abe nzima. Ngizobuya ngibone ukuthi kuhambe kanjani.",
+   "en": "Let's agree that in the next lesson, after the reading you will ask the learner two questions and write down the hard words. I will come back to see how it went."
+  }
+ ],
+ "next_step": {
+  "lang": "Emva kokuthi umfundi efunde ngokuzimela, mbuze imibuzo emibili mayelana nalokho akufundile, ubhale phansi amagama abe nzima kuye.",
+  "en": "After a learner reads independently, ask them two questions about what they read and write down the words that were hard for them."
+ },
+ "voice": null,
+ "accuracy": {
+  "measures": "Rumi",
+  "grounding": {
+   "value": 1.0,
+   "found": 9,
+   "n": 9,
+   "label": "measured",
+   "display": "9 of 9 of Rumi's longer quotes (4+ words) are word for word in the turn Rumi cited",
+   "verbatim_any_turn": {
+    "found": 9,
+    "n": 9
+   },
+   "fuzzy_090_any_turn": {
+    "found": 9,
+    "n": 9
+   },
+   "evidence_handling": {
+    "cited": 10
+   },
+   "note_en": "Counted on Rumi's own quotes before any fix. Only quotes found word for word in the transcript on this page are published; each links to the moment it was said."
+  },
+  "coverage": {
+   "value": 1.0,
+   "found": 17,
+   "n": 17,
+   "label": "measured",
+   "display": "17 of 17 report items filled with evidence or a reason"
+  },
+  "stability": {
+   "sd": 8.55,
+   "runs": 3,
+   "label": "measured",
+   "status_agreement_all": "9 of 10",
+   "strand_agreement": "3 of 3",
+   "status_agreement_pairwise": 0.933,
+   "display": "Three independent readings gave the same status on 9 of 10 items"
+  },
+  "n_runs": 3,
+  "score": 9.56,
+  "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
+  "label": "measured",
+  "line": "These numbers measure Rumi: whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."
+ },
+ "model": "Lesson-step and classroom-culture judgements by Claude Opus 5.5, the stricter of the two models we compared. Three independent readings of the same transcript; the report shows the median reading, with each item's status taken from the majority.",
+ "sources": [
+  "fn-coaching-course",
+  "fn-caps-zu"
+ ]
+}

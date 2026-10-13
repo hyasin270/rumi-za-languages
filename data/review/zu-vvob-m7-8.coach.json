@@ -1,0 +1,414 @@
+{
+ "id": "zu-vvob-m7-8",
+ "media_id": "zu-vvob-m7-8",
+ "lang": "zu",
+ "lesson": {
+  "strand": "shared_reading",
+  "focus": "shared reading of the folktale 'UThula neBhubesi' (Thula and the Lion): prediction, key word umhlambi, reading, theme and story structure",
+  "grade": "not stated"
+ },
+ "summary_en": "The teacher names the authors and title, invites predictions from the title and cover, and asks learners to justify them ('Yini esikhombisa...?', 'Kungani...?'), with one learner linking the rural setting to their own life. One key word (umhlambi) is read and defined by learners, the teacher reads the opening and the class reads it back together, then the clip jumps to questions about the hyena, the lesson and theme of the story, its introduction and its climax, before learners move into groups. It does not show the whole story being read, learners following the print with pointing, or learners justifying their post-reading answers; the teacher supplies the lesson of the story. This is a staged, edited demonstration; an unrehearsed lesson would also need to show learners giving reasons after reading as well as before, with the teacher waiting for them.",
+ "scope_en": "Rumi coached only what the recording shows in class (the teacher and learners). Narration over the film is in the transcript but is not treated as evidence that a step happened. The recording is an edited training film, so a step it does not show may still have happened.",
+ "steps": [
+  {
+   "id": "S1",
+   "name": "Ngaphambi kokufunda",
+   "name_en": "Before reading: title, cover, predictions",
+   "status": "seen",
+   "note_en": "Authors, title and cover are discussed; learners predict and are asked what in the picture shows it.",
+   "evidence": [
+    {
+     "t": 28.75,
+     "turn_i": 6,
+     "quote": "sicabanga ukuthi izokhuluma ngani?",
+     "en": "what do we think it will talk about?"
+    },
+    {
+     "t": 61.56,
+     "turn_i": 13,
+     "quote": "Yini esikhombisa ukuthi usenkingeni?",
+     "en": "What shows us that they are in trouble?"
+    },
+    {
+     "t": 66.56,
+     "turn_i": 15,
+     "quote": "Ngoba usitshengisa ubuso obusabayo.",
+     "en": "Because they show us a scared face."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "S2",
+   "name": "Amagama amasha ngaphambi kokufunda",
+   "name_en": "Pre-teach key words",
+   "status": "seen",
+   "note_en": "One key word is read by a learner, defined by a learner and read by all; only one word is shown being pre-taught.",
+   "evidence": [
+    {
+     "t": 119.72,
+     "turn_i": 33,
+     "quote": "Ubani ongangifundela leli gama?",
+     "en": "Who can read this word for me?"
+    },
+    {
+     "t": 127.22,
+     "turn_i": 38,
+     "quote": "Umhlambi yizinkomo eziningi.",
+     "en": "A herd is many cows."
+    },
+    {
+     "t": 137.62,
+     "turn_i": 42,
+     "quote": "Umhlambi. Siyalifunda sonke?",
+     "en": "Umhlambi. Do we all read it?"
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "S3",
+   "name": "Uthisha ufunda ngokugeleza",
+   "name_en": "Model fluent reading",
+   "status": "seen",
+   "note_en": "The teacher reads the opening and the class reads it back together; the recording does not show pointing to the print.",
+   "evidence": [
+    {
+     "t": 164.32,
+     "turn_i": 49,
+     "quote": "Wayelusa umhlambi wezinkomo.",
+     "en": "They were herding a herd of cattle."
+    },
+    {
+     "t": 176.72,
+     "turn_i": 51,
+     "quote": "Okay? Siyawufunda sonke.",
+     "en": "Okay? We all read it."
+    },
+    {
+     "t": 192.52,
+     "turn_i": 54,
+     "quote": "Ngelinye ilanga wayezihlalele egqumeni",
+     "en": "One day they were sitting on a hill"
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "S4",
+   "name": "Imibuzo yokuqondisisa",
+   "name_en": "Questions at different levels",
+   "status": "seen",
+   "note_en": "Character, evaluative and lesson questions are asked; a learner gives an evaluative view, but no reasons are asked for after reading and the teacher answers the lesson question.",
+   "evidence": [
+    {
+     "t": 230.93,
+     "turn_i": 61,
+     "quote": "impisi, isilwane esinjani impisi?",
+     "en": "the hyena, what kind of animal is the hyena?"
+    },
+    {
+     "t": 241.48,
+     "turn_i": 65,
+     "quote": "Ngathanda ukuthi le mpisi inomusa",
+     "en": "I liked that this hyena is kind"
+    },
+    {
+     "t": 277.08,
+     "turn_i": 72,
+     "quote": "Isiphi isifundo esisithola kulendaba bangani?",
+     "en": "What lesson do we get from this story, friends?"
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "S5",
+   "name": "Ngemuva kokufunda",
+   "name_en": "After reading: structure, theme, retell",
+   "status": "seen",
+   "note_en": "Theme, introduction and climax are asked about and learners move into groups; theme answer is choral and the climax answer is not explored.",
+   "evidence": [
+    {
+     "t": 285.38,
+     "turn_i": 75,
+     "quote": "Ingqikithi yalendaba imayelana nani?",
+     "en": "What is the theme of this story about?"
+    },
+    {
+     "t": 302.62,
+     "turn_i": 81,
+     "quote": "Ubani ongangitshela isingeniso sale ndaba?",
+     "en": "Who can tell me the introduction of this story?"
+    },
+    {
+     "t": 342.99,
+     "turn_i": 89,
+     "quote": "sizohlukana ngokwamaqembu ethu.",
+     "en": "we will split into our groups."
+    }
+   ],
+   "from_run": "r3"
+  }
+ ],
+ "culture": [
+  {
+   "id": "C1",
+   "name": "Ukubamba iqhaza kwabafundi bonke",
+   "name_en": "Participation of all learners",
+   "status": "seen",
+   "note_en": "Many different individuals are called on, plus choral reading; quiet learners are not visibly targeted.",
+   "evidence": [
+    {
+     "t": 81.06,
+     "turn_i": 20,
+     "quote": "[learner], ufuna ukuzama?",
+     "en": "[learner], do you want to try?"
+    },
+    {
+     "t": 96.33,
+     "turn_i": 26,
+     "quote": "Kungani sithi le ndaba yenzeka endabeni esemakhaya?",
+     "en": "Why do we say this story happens in the countryside?"
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C2",
+   "name": "Ukuncoma umzamo nokucabanga",
+   "name_en": "Praise of effort and thinking",
+   "status": "seen",
+   "note_en": "Praise names learners' thinking repeatedly; it does not yet name the strategy used.",
+   "evidence": [
+    {
+     "t": 39.85,
+     "turn_i": 8,
+     "quote": "Ngiyakuthanda ukucabanga kwakho, [learner].",
+     "en": "I like your thinking, [learner]."
+    },
+    {
+     "t": 72.86,
+     "turn_i": 17,
+     "quote": "Ngiyathanda ukucabanga kwenu bangani.",
+     "en": "I like your thinking, friends."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C3",
+   "name": "Ukuphatha amaphutha",
+   "name_en": "Handling errors as learning",
+   "status": "not_observed",
+   "note_en": "No clear learner error is heard; the 'cunning hyena' turn repeats six times and may be a transcription loop, so it is not treated as an error.",
+   "evidence": [],
+   "from_run": "r3"
+  },
+  {
+   "id": "C4",
+   "name": "Isivinini nokusebenzisa isikhathi",
+   "name_en": "Pace and time on task",
+   "status": "seen",
+   "note_en": "Purposeful pace through pre-, during- and post-reading into group work; the clip is edited, so full timing is unknown.",
+   "evidence": [
+    {
+     "t": 75.06,
+     "turn_i": 18,
+     "quote": "Asidluleni. Yenzeka kuphi le ndaba?",
+     "en": "Let's move on. Where does this story happen?"
+    },
+    {
+     "t": 342.99,
+     "turn_i": 89,
+     "quote": "Manje-ke bangani, sizohlukana ngokwamaqembu ethu.",
+     "en": "Now then friends, we will split into our groups."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C5",
+   "name": "Ukuhlola ukuqonda komfundi ngamunye",
+   "name_en": "Checking individual understanding",
+   "status": "seen",
+   "note_en": "The teacher checks several individual learners with follow-up questions that ask for reasons; no record or adjustment for particular learners is shown.",
+   "evidence": [
+    {
+     "t": 61.56,
+     "turn_i": 13,
+     "quote": "Yini esikhombisa ukuthi usenkingeni?",
+     "en": "What shows us that they are in trouble?"
+    },
+    {
+     "t": 124.82,
+     "turn_i": 36,
+     "quote": "Yini umhlambi?",
+     "en": "What is a herd?"
+    }
+   ],
+   "from_run": "r1"
+  }
+ ],
+ "positives": [
+  {
+   "en": "Predictions are pushed for evidence: when a learner says the boy is in trouble, the teacher asks what shows that, and the learner points to the scared face on the cover.",
+   "t": 61.56,
+   "turn_i": 13
+  },
+  {
+   "en": "Asking why the story happens in the countryside lets a learner connect the setting to having lived in a rural area with cows.",
+   "t": 93.63,
+   "turn_i": 25
+  },
+  {
+   "en": "Praise names learners' thinking rather than calling them clever ('Ngiyakuthanda ukucabanga kwakho'), which values the reasoning.",
+   "t": 39.85,
+   "turn_i": 8
+  },
+  {
+   "en": "After reading, learners are asked for the story's introduction and climax before moving into groups, so story structure is named.",
+   "t": 302.62,
+   "turn_i": 81
+  }
+ ],
+ "blockages": [
+  {
+   "en": "For the lesson of the story, the teacher asks and then answers in the same turn ('Esihle', 'Ukuthi ugcina ini? Isithembiso.'). Effect: learners are told the lesson rather than working it out from the story, so the deepest question of the lesson is done by the teacher. Catch-up: ask, give pair-talk time, and ask 'what in the story shows us that?' as was done with the cover.",
+   "t": 283.08,
+   "turn_i": 74
+  },
+  {
+   "en": "A learner's climax answer is followed immediately by the move to groups, and the chorus theme answer is not asked to be explained. Effect: the teacher cannot tell whether learners understand the climax or why the theme is honesty. Catch-up: before groups, ask two learners to retell the climax in their own words and say which part of the story shows the theme.",
+   "t": 337.09,
+   "turn_i": 88
+  }
+ ],
+ "level_of_change": {
+  "level": 3,
+  "en": "Focus skill: asking learners to justify answers after reading. The teacher does this well before reading ('Yini esikhombisa...?', 'Kungani...?') but not after, so it can be done with effort and is not yet carried through the whole lesson; one staged clip is thin evidence (low confidence). Coach move: encourage persistence and practice, carrying the same probe into post-reading."
+ },
+ "grow": {
+  "goal": {
+   "lang": "Ezifundweni zokufunda ngokuhlanganyela zeviki elizayo, uzobuza okungenani imibuzo emibili ethi 'yini esikhombisa?' ngemuva kokufunda, njengoba wenza ngaphambi kokufunda.",
+   "en": "In next week's shared reading lessons, you will ask at least two 'what shows us?' questions after reading, as you did before reading."
+  },
+  "reality": {
+   "lang": "Njengamanje, abafundi bachaza izizathu zabo kahle ngaphambi kokufunda, kodwa ngemuva kokufunda isifundo sendaba siphuma kuwe.",
+   "en": "At present learners explain their reasons well before reading, but after reading the lesson of the story comes from you."
+  },
+  "options": {
+   "lang": "Ungavumela ababili baxoxe imizuzwana embalwa; ungabuza 'yini endabeni ekhombisa lokho?'; ungacela umfundi ukuthi axoxe kabusha uvuthondaba.",
+   "en": "You could let pairs talk for a few seconds; ask 'what in the story shows that?'; ask a learner to retell the climax."
+  },
+  "way_forward": {
+   "lang": "Sizovumelana ngokuthi uzozama lokhu endabeni elandelayo, ngize ngibuke ingxenye yangemuva kokufunda.",
+   "en": "We agree you will try this in the next story, and I will come to watch the after-reading part."
+  }
+ },
+ "questions": [
+  {
+   "lang": "Ngaphambi kokufunda ubuze ukuthi yini esikhombisa ukuthi umfana usenkingeni. Yini eyakwenza ukuthi ubuze lowo mbuzo?",
+   "en": "Before reading you asked what shows the boy is in trouble. What made you ask that question?",
+   "t": 61.56,
+   "turn_i": 13
+  },
+  {
+   "lang": "Lapho ubuza isifundo sendaba, ucabanga ukuthi abafundi bebengathini ukube bebenikwe isikhathi esengeziwe?",
+   "en": "When you asked for the lesson of the story, what do you think learners would have said with a little more time?",
+   "t": 277.08,
+   "turn_i": 72
+  },
+  {
+   "lang": "Lapho umfundi echaza uvuthondaba, yini ebiyokusiza ukwazi ukuthi abanye abafundi bayaqonda?",
+   "en": "When the learner described the climax, what would have helped you know whether other learners understood?",
+   "t": 337.09,
+   "turn_i": 88
+  }
+ ],
+ "debrief_plan": [
+  {
+   "step": 1,
+   "step_en": "Ask permission",
+   "coach_says": "Ngiyabonga ngokungivumela ukubuka isifundo sakho sendaba kaThula neBhubesi. Ngingakwabelana yini nalokho engikubonile?",
+   "en": "Thank you for letting me watch your lesson on Thula and the Lion. May I share what I saw?"
+  },
+  {
+   "step": 2,
+   "step_en": "Observation: positives and blockages",
+   "coach_says": "Ngithandile ukuthi ubuze ukuthi yini esikhombisa ukuthi umfana usenkingeni, umfundi wakhomba ubuso obusabayo. Ngibonile futhi ukuthi ngemuva kokufunda, lapho ubuza isifundo sendaba, impendulo ethi isithembiso yaphuma kuwe.",
+   "en": "I liked that you asked what shows the boy is in trouble, and a learner pointed to the scared face. I also saw that after reading, when you asked for the lesson of the story, the answer 'a promise' came from you."
+  },
+  {
+   "step": 3,
+   "step_en": "Effect on learners",
+   "coach_says": "Uma impendulo enzima iphuma kuthisha, abafundi abazijwayezi ukufuna ubufakazi endabeni, futhi akwazi ukuthi ngubani oqondile.",
+   "en": "When the hardest answer comes from the teacher, learners don't practise finding evidence in the story, and you don't know who understood."
+  },
+  {
+   "step": 4,
+   "step_en": "Pause and dialogue",
+   "coach_says": "Ngingathanda ukuzwa umbono wakho. Wawuzizwa kanjani ngesikhathi ngemuva kokufunda?",
+   "en": "I'd like to hear your view. How did you feel about the time after reading?"
+  },
+  {
+   "step": 5,
+   "step_en": "Opportunity and contracting",
+   "coach_says": "Ungathanda yini ukusebenzisa umbuzo othi 'yini esikhombisa?' nangemuva kokufunda, unikeze ababili isikhashana sokuxoxa? Ngingeza ngibuke leyo ngxenye.",
+   "en": "Would you like to use the 'what shows us?' question after reading too, giving pairs a moment to talk? I can come and watch that part."
+  }
+ ],
+ "next_step": {
+  "lang": "Ngemuva kokufunda, buza isifundo sendaba, nikeza ababili isikhashana sokuxoxa, bese ubuza 'yini endabeni esikhombisa lokho?'",
+  "en": "After reading, ask for the lesson of the story, give pairs a moment to talk, then ask 'what in the story shows us that?'"
+ },
+ "voice": null,
+ "accuracy": {
+  "measures": "Rumi",
+  "grounding": {
+   "value": 1.0,
+   "found": 16,
+   "n": 16,
+   "label": "measured",
+   "display": "16 of 16 of Rumi's longer quotes (4+ words) are word for word in the turn Rumi cited",
+   "verbatim_any_turn": {
+    "found": 16,
+    "n": 16
+   },
+   "fuzzy_090_any_turn": {
+    "found": 16,
+    "n": 16
+   },
+   "evidence_handling": {
+    "cited": 23
+   },
+   "note_en": "Counted on Rumi's own quotes before any fix. Only quotes found word for word in the transcript on this page are published; each links to the moment it was said."
+  },
+  "coverage": {
+   "value": 1.0,
+   "found": 17,
+   "n": 17,
+   "label": "measured",
+   "display": "17 of 17 report items filled with evidence or a reason"
+  },
+  "stability": {
+   "sd": 1.6,
+   "runs": 3,
+   "label": "measured",
+   "status_agreement_all": "8 of 10",
+   "strand_agreement": "3 of 3",
+   "status_agreement_pairwise": 0.867,
+   "display": "Three independent readings gave the same status on 8 of 10 items"
+  },
+  "n_runs": 3,
+  "score": 10.0,
+  "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
+  "label": "measured",
+  "line": "These numbers measure Rumi: whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."
+ },
+ "model": "Lesson-step and classroom-culture judgements by Claude Opus 5.5, the stricter of the two models we compared. Three independent readings of the same transcript; the report shows the median reading, with each item's status taken from the majority.",
+ "sources": [
+  "fn-coaching-course",
+  "fn-caps-zu"
+ ]
+}

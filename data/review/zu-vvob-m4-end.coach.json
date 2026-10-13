@@ -1,0 +1,389 @@
+{
+ "id": "zu-vvob-m4-end",
+ "media_id": "zu-vvob-m4-end",
+ "lang": "zu",
+ "lesson": {
+  "strand": "shared_reading",
+  "focus": "a read-aloud story about Sibongile's first day at school, with book-handling (opening left to right, the spine)",
+  "grade": "not stated"
+ },
+ "summary_en": "The clip opens with the class handling a book: what it is, opening it from left to right, naming the spine, and one learner demonstrating how to open it, followed by a short exchange about listening with our ears. The teacher then tells the story of Sibongile getting ready for school, using voices and asking questions as it goes (their age, what their mother said, what they must wear), and after the story asks learners to recall the characters before starting a cut-and-dress / build-a-person activity. It does not show predictions from the title or cover, key words taught before reading, learners following the print, or questions that ask learners to explain why. This is a staged, edited demonstration; an unrehearsed lesson would also need to show learners seeing the print as it is read and giving their own reasons, with the teacher waiting for answers rather than supplying them.",
+ "scope_en": "Rumi coached only what the recording shows in class (the teacher and learners). Narration over the film is in the transcript but is not treated as evidence that a step happened. The recording is an edited training film, so a step it does not show may still have happened.",
+ "steps": [
+  {
+   "id": "S1",
+   "name": "Ngaphambi kokufunda",
+   "name_en": "Before reading: title, cover, predictions",
+   "status": "partly",
+   "note_en": "Book handling and the story's subject are introduced, but no author and no predictions from the title or cover are invited.",
+   "evidence": [
+    {
+     "t": 47.39,
+     "turn_i": 10,
+     "quote": "Kodwa incwadi masiyivula siyivula kanjani?",
+     "en": "But when we open a book, how do we open it?"
+    },
+    {
+     "t": 64.69,
+     "turn_i": 17,
+     "quote": "Incwadi masiyivula, siqala kephi konje? Ka-left, siye kephi? Ka-right.",
+     "en": "When we open a book, where do we start? On the left, and go where? To the right."
+    },
+    {
+     "t": 145.62,
+     "turn_i": 42,
+     "quote": "Kwaku igama le-story sethu sikhuluma ngoSibongile.",
+     "en": "The name of our story, we are talking about Sibongile."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "S2",
+   "name": "Amagama amasha ngaphambi kokufunda",
+   "name_en": "Pre-teach key words",
+   "status": "not_observed",
+   "note_en": "The recording shows no words taught before the story; one word (iyunifomu) is explained during the telling, which belongs to reading, not pre-teaching.",
+   "evidence": [],
+   "from_run": "r3"
+  },
+  {
+   "id": "S3",
+   "name": "Uthisha ufunda ngokugeleza",
+   "name_en": "Model fluent reading",
+   "status": "partly",
+   "note_en": "The story is told with expression and character voices, but the recording does not show learners seeing or following the print; it sounds closer to telling than reading.",
+   "evidence": [
+    {
+     "t": 178.52,
+     "turn_i": 52,
+     "quote": "Kuthiwa uS'bongile bangani, wavuka ek'seni kakhulu",
+     "en": "It is said that Sibongile, friends, woke up very early"
+    },
+    {
+     "t": 191.82,
+     "turn_i": 57,
+     "quote": "Mama, mama, mama, mama, mama, seng'ngingaya kogqoka ngiye es'koleni?",
+     "en": "Mama, mama, mama, mama, mama, may I go and dress for school now?"
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "S4",
+   "name": "Imibuzo yokuqondisisa",
+   "name_en": "Questions at different levels",
+   "status": "partly",
+   "note_en": "Mostly literal recall during and after reading; two 'what will mother say' questions invite inference, but the teacher completes the answer and no reasons are asked for.",
+   "evidence": [
+    {
+     "t": 162.92,
+     "turn_i": 45,
+     "quote": "Yayineminyaka emingaki?",
+     "en": "How old were they?"
+    },
+    {
+     "t": 222.47,
+     "turn_i": 67,
+     "quote": "Umama wakhe uzothini meqgoke kanje?",
+     "en": "What will their mother say when they are dressed like this?"
+    },
+    {
+     "t": 244.15,
+     "turn_i": 75,
+     "quote": "Uzofika athini umama wakhe uma ucabanga esegqokile neyunifomu?",
+     "en": "What do you think their mother will say when they arrive dressed in the uniform?"
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "S5",
+   "name": "Ngemuva kokufunda",
+   "name_en": "After reading: structure, theme, retell",
+   "status": "partly",
+   "note_en": "Characters are recalled and the class moves to a linked dress-up / build-a-person activity; no story structure, theme or retell is heard.",
+   "evidence": [
+    {
+     "t": 278.1,
+     "turn_i": 83,
+     "quote": "kwakukhona bani onje estoryini sikamama? Asiphakamise.",
+     "en": "who was there in ma'am's story? Let's raise hands."
+    },
+    {
+     "t": 321.58,
+     "turn_i": 95,
+     "quote": "Abanye bazobe bengigqokisela bani? USbongile.",
+     "en": "Others will be dressing up whom for me? Sibongile."
+    },
+    {
+     "t": 342.7,
+     "turn_i": 97,
+     "quote": "sizokwakha umuntu la emakheleni la ebhodini.",
+     "en": "we are going to build a person here in the blocks on the board."
+    }
+   ],
+   "from_run": "r3"
+  }
+ ],
+ "culture": [
+  {
+   "id": "C1",
+   "name": "Ukubamba iqhaza kwabafundi bonke",
+   "name_en": "Participation of all learners",
+   "status": "partly",
+   "note_en": "Chorus answers dominate; a few individuals answer (opening the book, naming characters).",
+   "evidence": [
+    {
+     "t": 91.01,
+     "turn_i": 23,
+     "quote": "Uyivula kahle bangani?",
+     "en": "Are they opening it well, friends?"
+    },
+    {
+     "t": 302.08,
+     "turn_i": 91,
+     "quote": "Ubani omunye owayekhona la kulendaba ka-ma'am?",
+     "en": "Who else was in ma'am's story?"
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C2",
+   "name": "Ukuncoma umzamo nokucabanga",
+   "name_en": "Praise of effort and thinking",
+   "status": "partly",
+   "note_en": "General praise and applause; praise does not name the learner's thinking.",
+   "evidence": [
+    {
+     "t": 94.91,
+     "turn_i": 27,
+     "quote": "Yes, uyivula kahle kakhulu.",
+     "en": "Yes, they open it very well."
+    },
+    {
+     "t": 375.64,
+     "turn_i": 103,
+     "quote": "Very good. Mshayeleni izandla.",
+     "en": "Very good. Clap hands for them."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C3",
+   "name": "Ukuphatha amaphutha",
+   "name_en": "Handling errors as learning",
+   "status": "not_observed",
+   "note_en": "No clear learner error is heard; learners who did not speak up are not an error.",
+   "evidence": [],
+   "from_run": "r3"
+  },
+  {
+   "id": "C4",
+   "name": "Isivinini nokusebenzisa isikhathi",
+   "name_en": "Pace and time on task",
+   "status": "partly",
+   "note_en": "Time goes to book handling and coaxing learners to speak before the story; the story itself and recall are quick.",
+   "evidence": [
+    {
+     "t": 106.71,
+     "turn_i": 30,
+     "quote": "Ake sizwe ke ukuthi uzomuzwa yini. Khuluma.",
+     "en": "Let's hear whether you will hear them. Speak."
+    },
+    {
+     "t": 124.16,
+     "turn_i": 36,
+     "quote": "Khuluma kakhulu.",
+     "en": "Speak loudly."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C5",
+   "name": "Ukuhlola ukuqonda komfundi ngamunye",
+   "name_en": "Checking individual understanding",
+   "status": "partly",
+   "note_en": "One learner demonstrates opening the book and is checked by the class; individual comprehension is not checked.",
+   "evidence": [
+    {
+     "t": 71.79,
+     "turn_i": 19,
+     "quote": "ngifuna oyedwa-ke woz' am'fupi ozosifundisa ukuthi incwadi ivula",
+     "en": "I want one, come shorty, who will teach us how the book opens"
+    },
+    {
+     "t": 299.28,
+     "turn_i": 90,
+     "quote": "Ake ningikhombise uno u-five.",
+     "en": "Just show me five."
+    }
+   ],
+   "from_run": "r3"
+  }
+ ],
+ "positives": [
+  {
+   "en": "Before the story, learners are taught how a book works: open from left to right and name the spine, with a learner showing the class how it is done.",
+   "t": 64.69,
+   "turn_i": 17
+  },
+  {
+   "en": "The story is told with lively character voices (Sibongile calling their mother), which holds learners' attention and makes the dialogue easy to follow.",
+   "t": 191.82,
+   "turn_i": 57
+  },
+  {
+   "en": "After the story, learners are asked to raise hands and recall who was in it, so several learners speak about the characters.",
+   "t": 278.1,
+   "turn_i": 83
+  },
+  {
+   "en": "The story leads straight into a hands-on activity of dressing Sibongile and building a person, linking the text to learners' own making.",
+   "t": 321.58,
+   "turn_i": 95
+  }
+ ],
+ "blockages": [
+  {
+   "en": "When a learner starts to predict what mother will say ('Uzothi,'), the teacher completes the answer; elsewhere the teacher asks and answers in the same breath ('angaya kephi? Esikoleni.'). Effect: learners hear the answer instead of thinking it through, so the strongest voice does the comprehension. Catch-up: after a question, count silently to five and let the learner finish; then ask another learner whether they agree and why.",
+   "t": 247.75,
+   "turn_i": 77
+  },
+  {
+   "en": "The story starts after its subject is named, without learners looking at the cover or title to predict. Effect: learners come to the reading without a question in mind, which weakens listening for meaning. Catch-up: before reading, show the cover and ask two or three learners what they think will happen and what in the picture makes them think so.",
+   "t": 145.62,
+   "turn_i": 42
+  }
+ ],
+ "level_of_change": {
+  "level": 2,
+  "en": "Focus skill: giving learners time to answer and explain during reading. The teacher asks good inference questions but supplies the answers, which suggests knowing what to ask without yet knowing how to hold back and draw the answer out; one staged clip is thin evidence (low confidence). Coach move: demonstrate step by step how to pause, wait and follow up with 'ngoba?'."
+ },
+ "grow": {
+  "goal": {
+   "lang": "Ezindabeni ezifundwa kuleli viki, emva kombuzo ngamunye uzolinda abafundi baphendule bebodwa, bese ubuza omunye ukuthi uyavuma yini nokuthi kungani.",
+   "en": "In this week's story readings, after each question you will wait for learners to answer themselves, then ask another learner whether they agree and why."
+  },
+  "reality": {
+   "lang": "Njengamanje, imibuzo emihle iyabuzwa, kodwa izikhathi eziningi impendulo iphuma kuwe ngaphambi kokuthi abafundi baqede ukucabanga.",
+   "en": "At present good questions are asked, but often the answer comes from you before learners finish thinking."
+  },
+  "options": {
+   "lang": "Ungabala buthule kuze kube yisihlanu; ungasebenzisa ukuthi abafundi baxoxe ngababili kuqala; ungabuza 'yini ekwenza ucabange kanjalo?'",
+   "en": "You could count silently to five; let learners talk in pairs first; ask 'what makes you think so?'"
+  },
+  "way_forward": {
+   "lang": "Sizovumelana ngokuthi uzozama ukulinda nokubuza 'ngoba?' endabeni elandelayo, ngize ngizobuka ingxenye yayo.",
+   "en": "We agree you will try waiting and asking 'why?' in the next story, and I will come to watch part of it."
+  }
+ },
+ "questions": [
+  {
+   "lang": "Lapho umfundi eqala ukuthi 'Uzothi', yini obukade ucabanga ukuthi umfundi uzoyisho?",
+   "en": "When the learner began 'They will say', what did you think they were going to say?",
+   "t": 246.85,
+   "turn_i": 76
+  },
+  {
+   "lang": "Uma ubuka isikhathi esichithwe ekuvuleni incwadi, yini ofisa abafundi bayithole kuleyo ngxenye?",
+   "en": "Looking at the time spent on opening the book, what do you want learners to take from that part?",
+   "t": 64.69,
+   "turn_i": 17
+  },
+  {
+   "lang": "Ngabe abafundi bebengakwenza kanjani ukubikezela ngaphambi kokuthi uqale indaba kaSibongile?",
+   "en": "How could learners have made predictions before you started Sibongile's story?",
+   "t": 145.62,
+   "turn_i": 42
+  }
+ ],
+ "debrief_plan": [
+  {
+   "step": 1,
+   "step_en": "Ask permission",
+   "coach_says": "Ngiyabonga ngokungivumela ukuthi ngibe sekilasini lakho ngesikhathi sendaba kaSibongile. Ngingakwabelana yini nalokho engikubonile?",
+   "en": "Thank you for letting me be in your class during Sibongile's story. May I share what I saw?"
+  },
+  {
+   "step": 2,
+   "step_en": "Observation: positives and blockages",
+   "coach_says": "Ngithandile indlela ofundise ngayo ukuvula incwadi kusukela kwesokunxele, namazwi kaSibongile ebiza umama wakhe. Ngibonile futhi ukuthi lapho umfundi eqala ukuthi 'Uzothi', impendulo yaqedwa nguwe.",
+   "en": "I liked how you taught opening the book from the left, and Sibongile's voice calling their mother. I also saw that when a learner began 'They will say', you finished the answer."
+  },
+  {
+   "step": 3,
+   "step_en": "Effect on learners",
+   "coach_says": "Uma impendulo iphuma kuthisha, abafundi bayayizwa kodwa abayicabangi. Labo abacabanga kancane abakutholi ukuzama.",
+   "en": "When the answer comes from the teacher, learners hear it but do not think it. Those who think more slowly do not get to try."
+  },
+  {
+   "step": 4,
+   "step_en": "Pause and dialogue",
+   "coach_says": "Ngingathanda ukuzwa umbono wakho. Kwakunjani kuwe ukulinda abafundi baphendule ngalolo suku?",
+   "en": "I'd like to hear your view. What was it like for you to wait for learners to answer that day?"
+  },
+  {
+   "step": 5,
+   "step_en": "Opportunity and contracting",
+   "coach_says": "Ungathanda yini ukuzama ukubala buthule kuze kube yisihlanu emva kombuzo, bese ubuza 'ngoba?' Ngingakukhombisa endabeni eyodwa, bese wena uzama kweyelandelayo.",
+   "en": "Would you like to try counting silently to five after a question, then asking 'why?' I can show you in one story, then you try in the next."
+  }
+ ],
+ "next_step": {
+  "lang": "Endabeni elandelayo, emva kombuzo ngamunye linda kancane, uvumele umfundi aqede impendulo, bese ubuza omunye 'uyavuma? ngoba?'",
+  "en": "In the next story, wait a little after each question, let the learner finish the answer, then ask another 'do you agree? why?'"
+ },
+ "voice": null,
+ "accuracy": {
+  "measures": "Rumi",
+  "grounding": {
+   "value": 1.0,
+   "found": 16,
+   "n": 16,
+   "label": "measured",
+   "display": "16 of 16 of Rumi's longer quotes (4+ words) are word for word in the turn Rumi cited",
+   "verbatim_any_turn": {
+    "found": 16,
+    "n": 16
+   },
+   "fuzzy_090_any_turn": {
+    "found": 16,
+    "n": 16
+   },
+   "evidence_handling": {
+    "cited": 19
+   },
+   "note_en": "Counted on Rumi's own quotes before any fix. Only quotes found word for word in the transcript on this page are published; each links to the moment it was said."
+  },
+  "coverage": {
+   "value": 1.0,
+   "found": 17,
+   "n": 17,
+   "label": "measured",
+   "display": "17 of 17 report items filled with evidence or a reason"
+  },
+  "stability": {
+   "sd": 4.24,
+   "runs": 3,
+   "label": "measured",
+   "status_agreement_all": "6 of 10",
+   "strand_agreement": "3 of 3",
+   "status_agreement_pairwise": 0.733,
+   "display": "Three independent readings gave the same status on 6 of 10 items"
+  },
+  "n_runs": 3,
+  "score": 10.0,
+  "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
+  "label": "measured",
+  "line": "These numbers measure Rumi: whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."
+ },
+ "model": "Lesson-step and classroom-culture judgements by Claude Opus 5.5, the stricter of the two models we compared. Three independent readings of the same transcript; the report shows the median reading, with each item's status taken from the majority.",
+ "sources": [
+  "fn-coaching-course",
+  "fn-caps-zu"
+ ]
+}

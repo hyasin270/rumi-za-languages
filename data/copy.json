@@ -241,7 +241,7 @@
     "A two-engine agreement gate stops a misheard name becoming a coaching question, as once happened in an earlier run."
    ],
    "review_line": "Help us check: [review the isiZulu recordings →](review.html?lang=zu) and mark each line right or wrong. No first-language speaker has done this yet.",
-   "partner_line": "On VVOB's own isiZulu recordings (25 of them) the two engines agree on 91.0% of characters, and on the classroom lessons alone 88.1% (proxy: two engines compared, not checked against a person). That is the small gap from read speech we expect in a classroom. No written isiZulu transcript exists for these recordings, so their only measured accuracy will come from reviewers' corrections."
+   "partner_line": "On 19 of VVOB's 25 isiZulu recordings (48 of 79 minutes) the two engines agree on 91.0% of characters, and on the classroom lessons alone 88.1% (proxy: two engines compared, not checked against a person). That is the small gap from read speech we expect in a classroom. No written isiZulu transcript exists for these recordings, so their only measured accuracy will come from reviewers' corrections."
   },
   "coaching": {
    "heading": "Coaching",

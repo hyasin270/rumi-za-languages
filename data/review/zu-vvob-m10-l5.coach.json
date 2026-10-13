@@ -1,0 +1,384 @@
+{
+ "id": "zu-vvob-m10-l5",
+ "media_id": "zu-vvob-m10-l5",
+ "lang": "zu",
+ "lesson": {
+  "strand": "shared_reading",
+  "focus": "reading the book 'UThemba Ufuna Ukudlala' in groups (topic 'umphako wendlela'): two key words, umkhovu and izithelo, read and explained before reading, then guided reading with one group of eight while another group draws fruit, and two questions",
+  "grade": "Grade 1 (the teacher addresses the class as 'grade one')"
+ },
+ "summary_en": "The teacher names the book and the topic 'umphako wendlela', asks what umphako is and widens a learner's answer from lunch for school to food for any journey. Two new words are read first by single learners and then by the class, placed on a chart, and their meanings are told by the teacher (umkhovu with a saying about the hot sun, izithelo as fruit). One group of eight comes to the front to read while another group draws the fruits they like; learners in the reading group read lines, and the teacher asks one question linking the saying to the text and one recall question, both answered in chorus. It is a staged, edited demonstration: it does not show the teacher modelling the reading, learners working out the words' meanings themselves, or every group member reading with feedback, which an unrehearsed lesson would also need to show.",
+ "scope_en": "Rumi coached only what the recording shows in class (the teacher and learners). Narration over the film is in the transcript but is not treated as evidence that a step happened. The recording is an edited training film, so a step it does not show may still have happened.",
+ "steps": [
+  {
+   "id": "S1",
+   "name": "Ngaphambi kokufunda",
+   "name_en": "Before reading: title, cover, predictions",
+   "status": "partly",
+   "note_en": "Title and topic are named and learners' prior knowledge of 'umphako' is drawn out; there is no cover talk or prediction.",
+   "evidence": [
+    {
+     "t": 24.2,
+     "turn_i": 1,
+     "quote": "Le ncwadi yethu inesihloko esithi, 'UThemba Ufuna Ukudlala'.",
+     "en": "Our book has the title 'Themba Wants To Play'."
+    },
+    {
+     "t": 40.37,
+     "turn_i": 7,
+     "quote": "Yini umphako?",
+     "en": "What is umphako (food for the road)?"
+    },
+    {
+     "t": 44.37,
+     "turn_i": 9,
+     "quote": "Umphako owuphatha esikoleni, uwuphatha esontweni, ungawuphatha noma kuphi umphako.",
+     "en": "Umphako you take to school, you take to church, you can take umphako anywhere."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "S2",
+   "name": "Amagama amasha ngaphambi kokufunda",
+   "name_en": "Pre-teach key words",
+   "status": "partly",
+   "note_en": "Each word is read by one learner and then by all and put on a chart, but the meanings are told by the teacher; learners are not asked what the words mean. The chorus 'Izithenjwa' at turn 34 may be a transcription slip.",
+   "evidence": [
+    {
+     "t": 67.82,
+     "turn_i": 16,
+     "quote": "Okay, uthi lithi umkhovu. Asifunde sonke.",
+     "en": "Okay, they say it says umkhovu. Let's all read it."
+    },
+    {
+     "t": 74.02,
+     "turn_i": 20,
+     "quote": "Sozothatha-ke leli gama lethu siliyibeke la eshadini.",
+     "en": "We'll take this word of ours and put it here on the chart."
+    },
+    {
+     "t": 95.99,
+     "turn_i": 27,
+     "quote": "Igama elithi umkhovu lichaza isilwane esithize esihlala ngaphansi kwamanzi",
+     "en": "The word umkhovu describes a certain creature that lives under the water"
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "S3",
+   "name": "Uthisha ufunda ngokugeleza",
+   "name_en": "Model fluent reading",
+   "status": "not_observed",
+   "note_en": "Learners in the group read lines, but the teacher is not heard reading the text aloud as a model.",
+   "evidence": [],
+   "from_run": "r1"
+  },
+  {
+   "id": "S4",
+   "name": "Imibuzo yokuqondisisa",
+   "name_en": "Questions at different levels",
+   "status": "partly",
+   "note_en": "One question links the saying about umkhovu back to the text and one asks a fact; both are answered in chorus and no one is asked to explain.",
+   "evidence": [
+    {
+     "t": 193.26,
+     "turn_i": 51,
+     "quote": "Sithe mangabe likhipha umkhovu etsheni lisuke linjani?",
+     "en": "We said when it brings umkhovu out of the stone, what is it like?"
+    },
+    {
+     "t": 210.63,
+     "turn_i": 56,
+     "quote": "Okay, omunye umbuzo enginawo, babehamba. Babehamba nobani?",
+     "en": "Okay, another question I have: they were travelling. Who were they travelling with?"
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "S5",
+   "name": "Ngemuva kokufunda",
+   "name_en": "After reading: structure, theme, retell",
+   "status": "partly",
+   "note_en": "A group task linked to the word izithelo is set (drawing favourite fruits), but no retell, story structure or theme is shown before the lesson closes.",
+   "evidence": [
+    {
+     "t": 148.44,
+     "turn_i": 40,
+     "quote": "nzongidwebela uhlobo lezithelo ozithandayo.",
+     "en": "you will draw for me the kind of fruit you like."
+    },
+    {
+     "t": 227.83,
+     "turn_i": 62,
+     "quote": "Ngiyabonga kakhulu-ke ngane zami, nifunde kahle nonke, niyezwa?",
+     "en": "Thank you very much, my children, you all read well, do you hear?"
+    }
+   ],
+   "from_run": "r1"
+  }
+ ],
+ "culture": [
+  {
+   "id": "C1",
+   "name": "Ukubamba iqhaza kwabafundi bonke",
+   "name_en": "Participation of all learners",
+   "status": "seen",
+   "note_en": "Single learners read the new words before the chorus, several learners read lines, and a second group has its own task; questions go to the chorus.",
+   "evidence": [
+    {
+     "t": 59.02,
+     "turn_i": 12,
+     "quote": "Ngizofuna ozongifundela lamagama ami awu-two.",
+     "en": "I want someone to read these two words of mine for me."
+    },
+    {
+     "t": 77.82,
+     "turn_i": 21,
+     "quote": "Igama lethu lesibili, ngicela ozolifunda.",
+     "en": "Our second word, I ask for someone to read it."
+    },
+    {
+     "t": 183.26,
+     "turn_i": 49,
+     "quote": "Okay, sifunde lolandelayo.",
+     "en": "Okay, let's read the next one."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C2",
+   "name": "Ukuncoma umzamo nokucabanga",
+   "name_en": "Praise of effort and thinking",
+   "status": "partly",
+   "note_en": "Praise at the end is general ('you all read well'); no learner's thinking or effort is named.",
+   "evidence": [
+    {
+     "t": 227.83,
+     "turn_i": 62,
+     "quote": "nifunde kahle nonke, niyezwa?",
+     "en": "you all read well, do you hear?"
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C3",
+   "name": "Ukuphatha amaphutha",
+   "name_en": "Handling errors as learning",
+   "status": "not_observed",
+   "note_en": "No clear learner error is handled; the chorus 'Izithenjwa' (turn 34) may be a transcription slip and is not treated as an error.",
+   "evidence": [],
+   "from_run": "r1"
+  },
+  {
+   "id": "C4",
+   "name": "Isivinini nokusebenzisa isikhathi",
+   "name_en": "Pace and time on task",
+   "status": "seen",
+   "note_en": "Groups are organised with clear numbers and tasks (eight to the front, four to draw), and the clip moves quickly from words to reading.",
+   "evidence": [
+    {
+     "t": 126.55,
+     "turn_i": 36,
+     "quote": "ngizocela ama-zebra awu-eight kuphela engizosebenza nawo.",
+     "en": "I will ask for only eight zebras to work with me."
+    },
+    {
+     "t": 154.24,
+     "turn_i": 42,
+     "quote": "Phezulu uzoqala ubhale igama lakho, bese uyangidwebela izithelo ozithandayo",
+     "en": "At the top you will first write your name, then draw for me the fruits you like"
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C5",
+   "name": "Ukuhlola ukuqonda komfundi ngamunye",
+   "name_en": "Checking individual understanding",
+   "status": "partly",
+   "note_en": "The teacher hands the check of a learner's reading to the class ('Uqinisile?') and hears a few learners read, but answers to questions are taken in chorus.",
+   "evidence": [
+    {
+     "t": 72.42,
+     "turn_i": 18,
+     "quote": "Uqinisile?",
+     "en": "Are they correct?"
+    },
+    {
+     "t": 214.83,
+     "turn_i": 58,
+     "quote": "Sonke?",
+     "en": "All of us?"
+    }
+   ],
+   "from_run": "r1"
+  }
+ ],
+ "positives": [
+  {
+   "en": "The teacher draws on learners' own experience of 'umphako' and widens a learner's answer from food for school to food for any journey, which sets up the topic of the book.",
+   "t": 44.37,
+   "turn_i": 9
+  },
+  {
+   "en": "A new word is read first by one learner, then the class is asked whether that reading is correct and reads it together, so learners check the reading rather than only copying the teacher.",
+   "t": 72.42,
+   "turn_i": 18
+  },
+  {
+   "en": "The saying about umkhovu taught before reading comes back in a question after reading, so the new word is used again in context.",
+   "t": 193.26,
+   "turn_i": 51
+  },
+  {
+   "en": "While one group reads with the teacher, another group has a clear task linked to the new word izithelo, so the rest of the class keeps working.",
+   "t": 154.24,
+   "turn_i": 42
+  }
+ ],
+ "blockages": [
+  {
+   "en": "The meanings of umkhovu and izithelo are told by the teacher; learners are not asked what they think the words mean or to use them in a sentence. Effect: learners hear a meaning but do not have to work with it, so it may not stick. Catch-up: after a learner reads the word, ask 'lisho ukuthini?', let two learners try, show a picture, and have one learner make a sentence before reading.",
+   "t": 95.99,
+   "turn_i": 27
+  },
+  {
+   "en": "After reading, both questions are answered in chorus and the teacher asks the chorus again ('Sonke?'). Effect: the teacher cannot tell which group members understood the text. Catch-up: ask each reader one question by name, and add one 'kungani' question about the journey.",
+   "t": 214.83,
+   "turn_i": 58
+  }
+ ],
+ "level_of_change": {
+  "level": 2,
+  "en": "Focus skill: building word meaning with learners before reading. The teacher reads, charts and explains the key words, so they know new words must be taught, but the meaning is told rather than built; one staged, edited clip is thin evidence, so confidence is low. Coach move: demonstrate step by step how to ask for the meaning, use a picture and get a learner sentence for one word."
+ },
+ "grow": {
+  "goal": {
+   "lang": "Ngaphambi kokufunda, abafundi bachaze igama elisha ngamazwi abo futhi bakhande umusho ngalo.",
+   "en": "Before reading, learners explain a new word in their own words and make a sentence with it."
+  },
+  "reality": {
+   "lang": "Uvele ukhetha amagama amasha, abafundi bawafunde, uwabeke eshadini, kodwa incazelo uyayisho wena.",
+   "en": "You already choose new words, learners read them and you put them on the chart, but you give the meaning yourself."
+  },
+  "options": {
+   "lang": "Ungabuza ukuthi igama lisho ukuthini; ungakhombisa isithombe somkhovu noma sezithelo; ungacela umfundi akhande umusho.",
+   "en": "You could ask what the word means; show a picture of umkhovu or of fruit; ask a learner to make a sentence."
+  },
+  "way_forward": {
+   "lang": "Esifundweni esilandelayo, egameni ngalinye uzobuza abafundi ababili incazelo, bese omunye ekhanda umusho.",
+   "en": "In the next lesson, for each word you will ask two learners for the meaning, and then one makes a sentence."
+  }
+ },
+ "questions": [
+  {
+   "lang": "Ngesikhathi uchaza igama elithi umkhovu, ubungabuza kanjani abafundi ukuthi bacabanga ukuthi lisho ukuthini?",
+   "en": "When you explained the word umkhovu, how could you have asked the learners what they think it means?",
+   "t": 95.99,
+   "turn_i": 27
+  },
+  {
+   "lang": "Ukubuza ikilasi ukuthi umfundi uqinisile yini kubasize kanjani abafundi?",
+   "en": "How did asking the class whether the learner was correct help the learners?",
+   "t": 72.42,
+   "turn_i": 18
+  },
+  {
+   "lang": "Uma iqembu liphendula ndawonye ukuthi babehamba nabangani babo, ungazi kanjani ukuthi ngubani oyiqondile indaba?",
+   "en": "When the group answers together that they travelled with their friends, how can you tell who understood the story?",
+   "t": 213.83,
+   "turn_i": 57
+  }
+ ],
+ "debrief_plan": [
+  {
+   "step": 1,
+   "step_en": "Ask permission",
+   "coach_says": "Ngiyabonga ngokungivumela ukuthi ngibuke isifundo sakho sencwadi. Ngingakwabelana yini nalokho engikubonile?",
+   "en": "Thank you for letting me watch your reading lesson. May I share what I saw?"
+  },
+  {
+   "step": 2,
+   "step_en": "Observation: positives and blockages",
+   "coach_says": "Ngibonile ukuthi umbuzo wakho mayelana nomphako uqale ezimpilweni zabafundi, futhi umfundi ofunde igama ikilasi lambuza ukuthi uqinisile yini. Kodwa incazelo yomkhovu neyezithelo uyishilo wena, abafundi abazange bazame.",
+   "en": "I saw that your question about umphako started from learners' lives, and when a learner read a word the class was asked whether they were correct. But you gave the meaning of umkhovu and izithelo yourself; the learners didn't try."
+  },
+  {
+   "step": 3,
+   "step_en": "Effect on learners",
+   "coach_says": "Uma abafundi bezwa incazelo kuphela, abasebenzi ngegama, ngakho kungenzeka balikhohlwe ngokushesha.",
+   "en": "When learners only hear a meaning, they don't work with the word, so they may forget it quickly."
+  },
+  {
+   "step": 4,
+   "step_en": "Pause and dialogue",
+   "coach_says": "Ngingathanda ukuzwa umbono wakho. Ucabanga ukuthi abafundi bebezothini ukube ubabuzile ukuthi umkhovu yini?",
+   "en": "I'd like to hear your view. What do you think learners would have said if you had asked them what umkhovu is?"
+  },
+  {
+   "step": 5,
+   "step_en": "Opportunity and contracting",
+   "coach_says": "Masivumelane ukuthi esifundweni esilandelayo uzobuza abafundi ababili incazelo yegama ngalinye, bese omunye ekhanda umusho. Ngizobuya ngibone ukuthi kuhambe kanjani.",
+   "en": "Let's agree that in the next lesson you will ask two learners the meaning of each word, and then one makes a sentence. I will come back to see how it went."
+  }
+ ],
+ "next_step": {
+  "lang": "Egameni ngalinye elisha, buza abafundi ababili ukuthi lisho ukuthini ngaphambi kokuthi ulichaze, bese omunye ekhanda umusho ngalo.",
+  "en": "For each new word, ask two learners what it means before you explain it, and then one makes a sentence with it."
+ },
+ "voice": null,
+ "accuracy": {
+  "measures": "Rumi",
+  "grounding": {
+   "value": 1.0,
+   "found": 14,
+   "n": 14,
+   "label": "measured",
+   "display": "14 of 14 of Rumi's longer quotes (4+ words) are word for word in the turn Rumi cited",
+   "verbatim_any_turn": {
+    "found": 14,
+    "n": 14
+   },
+   "fuzzy_090_any_turn": {
+    "found": 14,
+    "n": 14
+   },
+   "evidence_handling": {
+    "cited": 18
+   },
+   "note_en": "Counted on Rumi's own quotes before any fix. Only quotes found word for word in the transcript on this page are published; each links to the moment it was said."
+  },
+  "coverage": {
+   "value": 1.0,
+   "found": 17,
+   "n": 17,
+   "label": "measured",
+   "display": "17 of 17 report items filled with evidence or a reason"
+  },
+  "stability": {
+   "sd": 3.01,
+   "runs": 3,
+   "label": "measured",
+   "status_agreement_all": "6 of 10",
+   "strand_agreement": "2 of 3",
+   "strand_note_en": "2 of 3 readings classed this as a shared reading lesson; the other read it as vocabulary. The report follows the majority; the other reading's step items count as disagreement.",
+   "status_agreement_pairwise": 0.733,
+   "display": "Three independent readings gave the same status on 6 of 10 items"
+  },
+  "n_runs": 3,
+  "score": 10.0,
+  "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
+  "label": "measured",
+  "line": "These numbers measure Rumi: whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."
+ },
+ "model": "Lesson-step and classroom-culture judgements by Claude Opus 5.5, the stricter of the two models we compared. Three independent readings of the same transcript; the report shows the median reading, with each item's status taken from the majority.",
+ "sources": [
+  "fn-coaching-course",
+  "fn-caps-zu"
+ ]
+}

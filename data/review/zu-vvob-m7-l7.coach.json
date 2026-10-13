@@ -1,0 +1,409 @@
+{
+ "id": "zu-vvob-m7-l7",
+ "media_id": "zu-vvob-m7-l7",
+ "lang": "zu",
+ "lesson": {
+  "strand": "vocabulary",
+  "focus": "new words before reading 'Umlimi nehashi lakhe': qhuba, hlakula (plus a word-list read at the end)",
+  "grade": "not stated"
+ },
+ "summary_en": "After an English line of narration and a short fragment where the class repeats the title 'UThemba noThandi' after the teacher, the clip shows the vocabulary part of a read-aloud lesson on 'Umlimi nehashi lakhe': title, a prediction, and learners' own meanings of farmer and horse. Two words are then taught: learners read each word, the class repeats, a learner matches a picture, the class acts the word out, and the teacher gives a definition; one sentence is made with qhuba, and the clip ends with learners reading a long word list at speed. It does not show sentences for hlakula, learners refining a partial meaning together, the story being read, or any check of individual understanding. This is a staged, edited demonstration (narration is not observation); an unrehearsed lesson would also need to show several learners using each word in their own sentences and the teacher building on partly-right meanings.",
+ "scope_en": "Rumi coached only what the recording shows in class (the teacher and learners). Narration over the film is in the transcript but is not treated as evidence that a step happened. The recording is an edited training film, so a step it does not show may still have happened.",
+ "steps": [
+  {
+   "id": "V1",
+   "name": "Ukulungiselela umongo",
+   "name_en": "Set the context",
+   "status": "seen",
+   "note_en": "Title, a prediction and prior-knowledge questions about farmers and horses; one learner answers each.",
+   "evidence": [
+    {
+     "t": 60.96,
+     "turn_i": 19,
+     "quote": "yini efikayo kuwena? Ucabanga ukuthi le ndaba izobe ikhuluma ngani?",
+     "en": "what comes to you? What do you think this story will be about?"
+    },
+    {
+     "t": 72.66,
+     "turn_i": 23,
+     "quote": "Sesake sambona thina umlimi empilweni yethu?",
+     "en": "Have we ever seen a farmer in our lives?"
+    },
+    {
+     "t": 98.96,
+     "turn_i": 30,
+     "quote": "masikhuluma ngehhashi kusuke kukhulunywa ngani?",
+     "en": "when we talk about a horse, what is being talked about?"
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "V2",
+   "name": "Ukwethula igama elisha",
+   "name_en": "Present each new word",
+   "status": "seen",
+   "note_en": "Each word is read by learners then by all. The first word is heard three times as 'Phuba' before 'Qhubha'; this may be a transcription slip, so no misreading is claimed.",
+   "evidence": [
+    {
+     "t": 131.28,
+     "turn_i": 36,
+     "quote": "Ubani ongangifundela leli gama? Lithini leli gama?",
+     "en": "Who can read this word for me? What does this word say?"
+    },
+    {
+     "t": 210.16,
+     "turn_i": 66,
+     "quote": "Lithini igama? Asifunde sonke.",
+     "en": "What is the word? Let's all read it."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "V3",
+   "name": "Ukwenza incazelo icace",
+   "name_en": "Make the meaning concrete",
+   "status": "seen",
+   "note_en": "Picture match, a class action and a definition for both words; the learner's partial meaning of hlakula is replaced by the teacher's rather than refined with the class.",
+   "evidence": [
+    {
+     "t": 147.37,
+     "turn_i": 45,
+     "quote": "Isiphi isithombe othi wena sihambisana naleli gama elithi qhubha?",
+     "en": "Which picture do you say goes with this word qhubha?"
+    },
+    {
+     "t": 168.77,
+     "turn_i": 51,
+     "quote": "Asenzeni sonke ke siqhubhe, senjani mangabe siqhubha?",
+     "en": "Let's all drive then; what do we do when we drive?"
+    },
+    {
+     "t": 177.76,
+     "turn_i": 55,
+     "quote": "Ukuqhuba ukuhambisa into ngaphambi kwakho ubuyiqondise ukuthi ayibheke ngakhephi.",
+     "en": "To drive is to move something in front of you and steer where it should go."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "V4",
+   "name": "Ukusebenzisa igama emshweni",
+   "name_en": "Learners use the word in a sentence",
+   "status": "partly",
+   "note_en": "One sentence for qhuba, echoed by the teacher; none for hlakula.",
+   "evidence": [
+    {
+     "t": 189.56,
+     "turn_i": 59,
+     "quote": "Ingabe leli gama singalibeka singalisebenzisa kanjani emshweni?",
+     "en": "How can we put this word, how can we use it in a sentence?"
+    },
+    {
+     "t": 196.26,
+     "turn_i": 61,
+     "quote": "Ubaba uqhuba izinkomo.",
+     "en": "Father drives the cattle."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "V5",
+   "name": "Ukubuyekeza nokuhlanganisa",
+   "name_en": "Review the day's words",
+   "status": "partly",
+   "note_en": "One learner per group reads a long word list, including the day's words, quickly and without meaning.",
+   "evidence": [
+    {
+     "t": 268.56,
+     "turn_i": 89,
+     "quote": "Ngizocela umuntu oyedwa ke eqenjini ngalinye eze ngaphambili.",
+     "en": "I will ask one person from each group to come to the front."
+    },
+    {
+     "t": 327.68,
+     "turn_i": 94,
+     "quote": "Tholihlala, ithinga, isimizi, ibhulohwe, hlakula, khuba.",
+     "en": "Tholihlala, ithinga, village, bridge, weed, hoe."
+    }
+   ],
+   "from_run": "r3"
+  }
+ ],
+ "culture": [
+  {
+   "id": "C1",
+   "name": "Ukubamba iqhaza kwabafundi bonke",
+   "name_en": "Participation of all learners",
+   "status": "seen",
+   "note_en": "Chorus plus many different individuals called to predict, define, read and match pictures; quiet learners are not visibly targeted.",
+   "evidence": [
+    {
+     "t": 45.37,
+     "turn_i": 13,
+     "quote": "Umlimi nehashi lakhe.",
+     "en": "The farmer and their horse."
+    },
+    {
+     "t": 131.28,
+     "turn_i": 36,
+     "quote": "Phakamisa isandla sakho.",
+     "en": "Raise your hand."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C2",
+   "name": "Ukuncoma umzamo nokucabanga",
+   "name_en": "Praise of effort and thinking",
+   "status": "partly",
+   "note_en": "Generic praise and class applause; the learner's thinking is not named.",
+   "evidence": [
+    {
+     "t": 92.36,
+     "turn_i": 29,
+     "quote": "Okay, very good.",
+     "en": "Okay, very good."
+    },
+    {
+     "t": 159.57,
+     "turn_i": 48,
+     "quote": "Asimshayeleni ihlombe [learner] esehlala phansi.",
+     "en": "Let's clap for [learner] as they sit down."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C3",
+   "name": "Ukuphatha amaphutha",
+   "name_en": "Handling errors as learning",
+   "status": "partly",
+   "note_en": "A circular meaning of hlakula is followed straight away by the teacher's definition; the teacher does scaffold 'Uyahla-' so learners finish the word themselves.",
+   "evidence": [
+    {
+     "t": 256.74,
+     "turn_i": 85,
+     "quote": "Ukuhlakula ukuhlakula emhlabeni.",
+     "en": "To weed is to weed in the soil."
+    },
+    {
+     "t": 261.54,
+     "turn_i": 87,
+     "quote": "Lalela ukuthi ukuhlakula kuyini.",
+     "en": "Listen to what weeding is."
+    },
+    {
+     "t": 263.46,
+     "turn_i": 88,
+     "quote": "Ukuhlakula ukukhipha ukhula kephi ezitshalweni.",
+     "en": "Weeding is removing weeds from where? From the plants."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C4",
+   "name": "Isivinini nokusebenzisa isikhathi",
+   "name_en": "Pace and time on task",
+   "status": "seen",
+   "note_en": "Brisk, clearly signalled transitions; the clip is edited, so full timing is unknown.",
+   "evidence": [
+    {
+     "t": 198.56,
+     "turn_i": 62,
+     "quote": "Siyadlulela, sidlulele egameni lethu lesibili.",
+     "en": "We are moving on to our second word."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C5",
+   "name": "Ukuhlola ukuqonda komfundi ngamunye",
+   "name_en": "Checking individual understanding",
+   "status": "partly",
+   "note_en": "Single learners answer and the class judges a picture choice; no check shows whether most learners understood each word.",
+   "evidence": [
+    {
+     "t": 242.14,
+     "turn_i": 76,
+     "quote": "Si-right isithombe esiphethwe [learner]?",
+     "en": "Is the picture [learner] is holding right?"
+    },
+    {
+     "t": 251.74,
+     "turn_i": 83,
+     "quote": "Lisho ukuthini nje?",
+     "en": "What does it just mean?"
+    }
+   ],
+   "from_run": "r3"
+  }
+ ],
+ "positives": [
+  {
+   "en": "Learners are asked whether they have seen a farmer in their own lives before any word is taught, so new words land on what they already know.",
+   "t": 72.66,
+   "turn_i": 23
+  },
+  {
+   "en": "The whole class acts out 'qhuba', giving every learner a physical sense of the word before the definition.",
+   "t": 168.77,
+   "turn_i": 51
+  },
+  {
+   "en": "The class is asked to judge a learner's picture choice, making a single answer into a peer check.",
+   "t": 242.14,
+   "turn_i": 76
+  },
+  {
+   "en": "When describing the picture, the teacher says only the first part of the word ('Uyahla-') and lets learners complete it, so the learners produce the word.",
+   "t": 248.64,
+   "turn_i": 80
+  }
+ ],
+ "blockages": [
+  {
+   "en": "A learner's circular meaning of hlakula ('weeding is weeding in the soil') is followed directly by the teacher's definition. Effect: the learner's useful idea (it happens in the soil) is not built on, and learners learn to wait for the teacher's meaning. Catch-up: ask the class what we take out of the soil when we hoe, then let learners finish the definition together.",
+   "t": 261.54,
+   "turn_i": 87
+  },
+  {
+   "en": "Only one sentence is heard, for qhuba, and none for hlakula. Effect: learners get little practice using the new words, so they are less likely to use them when they speak or write. Catch-up: after each word, pairs make a sentence and three pairs share, with the teacher extending one.",
+   "t": 189.56,
+   "turn_i": 59
+  }
+ ],
+ "level_of_change": {
+  "level": 2,
+  "en": "Focus skill: building meaning with learners rather than for them. Every vocabulary step is present in order, but partial answers are replaced, which suggests knowing the steps without yet knowing how to draw meaning from learners; one staged clip is thin evidence (low confidence). Coach move: demonstrate step by step how to take a partial answer and refine it with the class."
+ },
+ "grow": {
+  "goal": {
+   "lang": "Ezifundweni zamagama amasha zeviki elizayo, igama ngalinye lizothola imisho emithathu evela kubafundi abahlukene, futhi izincazelo ezingaphelele zizophelelwa yikilasi.",
+   "en": "In next week's vocabulary lessons, each word will get three sentences from different learners, and incomplete meanings will be completed by the class."
+  },
+  "reality": {
+   "lang": "Njengamanje, igama elilodwa lithola umusho owodwa, elinye alitholi, futhi incazelo engaphelele ithathelwa indawo eyakho.",
+   "en": "At present one word gets one sentence, the other none, and an incomplete meaning is replaced by yours."
+  },
+  "options": {
+   "lang": "Ungavumela ababili bakhe umusho ndawonye; ungabuza 'ubani ongangeza?'; ungasebenzisa isithombe ukuze bathole okushodayo encazelweni.",
+   "en": "You could let pairs make a sentence together; ask 'who can add to that?'; use the picture so they find what is missing in the meaning."
+  },
+  "way_forward": {
+   "lang": "Sizovumelana ngokuthi uzozama imisho ngababili egameni ngalinye esifundweni esilandelayo, bese sixoxa ngakho.",
+   "en": "We agree you will try pair sentences for each word in the next lesson, then we talk about it."
+  }
+ },
+ "questions": [
+  {
+   "lang": "Lapho umfundi ethi ukuhlakula ukuhlakula emhlabeni, yini ebeyilungile empendulweni yakhe?",
+   "en": "When the learner said weeding is weeding in the soil, what was right in their answer?",
+   "t": 256.74,
+   "turn_i": 85
+  },
+  {
+   "lang": "Uma ucabanga ngomusho othi ubaba uqhuba izinkomo, abanye abafundi bebengabelana kanjani ngemisho yabo?",
+   "en": "Thinking of the sentence 'father drives the cattle', how could other learners have shared their own sentences?",
+   "t": 196.26,
+   "turn_i": 61
+  },
+  {
+   "lang": "Ngesikhathi abafundi befunda uhlu lwamagama ngokushesha ekugcineni, yini obufuna bayithole kulowo msebenzi?",
+   "en": "When learners read the word list quickly at the end, what did you want them to get from that activity?",
+   "t": 268.56,
+   "turn_i": 89
+  }
+ ],
+ "debrief_plan": [
+  {
+   "step": 1,
+   "step_en": "Ask permission",
+   "coach_says": "Ngiyabonga ngokungivumela ukubuka isifundo sakho samagama amasha. Ngingakwabelana yini nalokho engikubonile?",
+   "en": "Thank you for letting me watch your vocabulary lesson. May I share what I saw?"
+  },
+  {
+   "step": 2,
+   "step_en": "Observation: positives and blockages",
+   "coach_says": "Ngithandile ukuthi ikilasi lonke lenze isenzo sokuqhuba, nokuthi uthe 'Uyahla' abafundi baqedela igama bona. Ngibonile futhi ukuthi umusho owodwa kuphela owenziwe, ngegama elithi qhuba.",
+   "en": "I liked that the whole class acted out driving, and that you said 'Uyahla' and learners completed the word themselves. I also saw that only one sentence was made, with the word qhuba."
+  },
+  {
+   "step": 3,
+   "step_en": "Effect on learners",
+   "coach_says": "Uma abafundi bengawasebenzisi amagama amasha emishweni yabo, kunzima ukuthi bawakhumbule futhi bawasebenzise lapho bekhuluma noma bebhala.",
+   "en": "If learners don't use new words in their own sentences, it is hard for them to remember and use the words when they speak or write."
+  },
+  {
+   "step": 4,
+   "step_en": "Pause and dialogue",
+   "coach_says": "Ngingathanda ukuzwa umbono wakho. Ubona kanjani isikhathi sokwakha imisho kulesi sifundo?",
+   "en": "I'd like to hear your view. How do you see the time for making sentences in this lesson?"
+  },
+  {
+   "step": 5,
+   "step_en": "Opportunity and contracting",
+   "coach_says": "Ungathanda yini ukuzama ukuthi ababili bakhe umusho egameni ngalinye, bese ulalela imisho emithathu? Ngingakhombisa egameni elilodwa uma ufuna.",
+   "en": "Would you like to try pairs making a sentence for each word, then hearing three sentences? I can show it on one word if you like."
+  }
+ ],
+ "next_step": {
+  "lang": "Emva kokuchaza igama ngalinye, vumela ababili bakhe umusho ndawonye, bese ulalela imisho emithathu evela emaqenjini ahlukene.",
+  "en": "After explaining each word, let pairs make a sentence together, then listen to three sentences from different pairs."
+ },
+ "voice": null,
+ "accuracy": {
+  "measures": "Rumi",
+  "grounding": {
+   "value": 1.0,
+   "found": 16,
+   "n": 16,
+   "label": "measured",
+   "display": "16 of 16 of Rumi's longer quotes (4+ words) are word for word in the turn Rumi cited",
+   "verbatim_any_turn": {
+    "found": 16,
+    "n": 16
+   },
+   "fuzzy_090_any_turn": {
+    "found": 16,
+    "n": 16
+   },
+   "evidence_handling": {
+    "cited": 22
+   },
+   "note_en": "Counted on Rumi's own quotes before any fix. Only quotes found word for word in the transcript on this page are published; each links to the moment it was said."
+  },
+  "coverage": {
+   "value": 1.0,
+   "found": 17,
+   "n": 17,
+   "label": "measured",
+   "display": "17 of 17 report items filled with evidence or a reason"
+  },
+  "stability": {
+   "sd": 0.8,
+   "runs": 3,
+   "label": "measured",
+   "status_agreement_all": "9 of 10",
+   "strand_agreement": "3 of 3",
+   "status_agreement_pairwise": 0.933,
+   "display": "Three independent readings gave the same status on 9 of 10 items"
+  },
+  "n_runs": 3,
+  "score": 10.0,
+  "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
+  "label": "measured",
+  "line": "These numbers measure Rumi: whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."
+ },
+ "model": "Lesson-step and classroom-culture judgements by Claude Opus 5.5, the stricter of the two models we compared. Three independent readings of the same transcript; the report shows the median reading, with each item's status taken from the majority.",
+ "sources": [
+  "fn-coaching-course",
+  "fn-caps-zu"
+ ]
+}

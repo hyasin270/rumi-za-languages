@@ -1,0 +1,413 @@
+{
+ "id": "zu-vvob-m4-5",
+ "media_id": "zu-vvob-m4-5",
+ "lang": "zu",
+ "lesson": {
+  "strand": "phonics",
+  "focus": "the sound ng (n + g); words ilungelo, ingubo, ingulube, ngena",
+  "grade": "not stated"
+ },
+ "summary_en": "The class stands to chant the rhyme 'ilungelo', then the teacher asks which sound they heard most and ng is named; the class claps the syllables of ilungelo and of ingubo (pulled from a mystery box). The teacher then names today's sound ng as two sounds, a learner points to g on the word wall, one learner reads ingulube and one builds ngena while the class waits, each followed by chorus reading, and the clip ends on 'sizokwenza umsebenzi' with learners reading sound and syllable strings aloud. It does not show the teacher modelling how to say ng, learners each saying or blending the sound, most learners reading or building a word themselves, or any checking of the closing practice. This is a staged, edited demonstration; an unrehearsed lesson would also need to show many learners each reading and building ng words with the teacher correcting misreadings during practice.",
+ "scope_en": "Rumi coached only what the recording shows in class (the teacher and learners). Narration over the film is in the transcript but is not treated as evidence that a step happened. The recording is an edited training film, so a step it does not show may still have happened.",
+ "steps": [
+  {
+   "id": "P1",
+   "name": "Ukufudumeza ngomsindo",
+   "name_en": "Oral warm-up that foregrounds the sound",
+   "status": "seen",
+   "note_en": "Rhyme chanted standing, then the teacher asks which sound was heard most and ng is drawn out; only one learner names it.",
+   "evidence": [
+    {
+     "t": 0.5,
+     "turn_i": 0,
+     "quote": "namhlanje sizofunda umlolozelo omusha othi ilungelo",
+     "en": "today we are going to learn a new rhyme called ilungelo"
+    },
+    {
+     "t": 43.6,
+     "turn_i": 11,
+     "quote": "Imuphi umsindo enilokhu niwuzwa kakhulu kumlolozelo?",
+     "en": "Which sound do you keep hearing the most in the rhyme?"
+    },
+    {
+     "t": 50.0,
+     "turn_i": 14,
+     "quote": "Uthi ubuzwe umsindo bani? Ng.",
+     "en": "They say they heard which sound? Ng."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "P2",
+   "name": "Ukwethula umsindo omusha",
+   "name_en": "Introduce the sound and its letters",
+   "status": "seen",
+   "note_en": "Sound named and shown as n + g on the word wall; the recording does not show the teacher modelling how to say ng or learners repeating it.",
+   "evidence": [
+    {
+     "t": 153.63,
+     "turn_i": 47,
+     "quote": "Namhlanje sizofunda umsindo ng.",
+     "en": "Today we are going to learn the sound ng."
+    },
+    {
+     "t": 161.33,
+     "turn_i": 50,
+     "quote": "Umsindo ng uwakhiwe imisindo emibili",
+     "en": "The sound ng is made of two sounds"
+    },
+    {
+     "t": 198.22,
+     "turn_i": 63,
+     "quote": "Sithe lo msindo lo wakhiwe u-ni nobani? No-g.",
+     "en": "We said this sound is made of n and what? And g."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "P3",
+   "name": "Ukuhlanganisa nokuhlukanisa",
+   "name_en": "Blending and segmenting",
+   "status": "partly",
+   "note_en": "Syllable clapping is done in chorus; one learner's count of four is echoed by the teacher; no sound-level blending of ng words is heard.",
+   "evidence": [
+    {
+     "t": 70.4,
+     "turn_i": 19,
+     "quote": "Ngifuna silishayele izandla, sithole ukuthi lakhiwe ngamalunga amangaki.",
+     "en": "I want us to clap it, to find out how many syllables it is built of."
+    },
+    {
+     "t": 96.81,
+     "turn_i": 28,
+     "quote": "Uthi mane oqinile yini?",
+     "en": "They say four, is that correct?"
+    },
+    {
+     "t": 139.33,
+     "turn_i": 42,
+     "quote": "Sishayele izandla igama elithi ingubo, okay?",
+     "en": "Let's clap the word ingubo, okay?"
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "P4",
+   "name": "Ukufunda nokwakha amagama anomsindo",
+   "name_en": "Read and build words with the sound",
+   "status": "partly",
+   "note_en": "One learner reads ingulube and one builds ngena from letters; everyone else reads the words in chorus.",
+   "evidence": [
+    {
+     "t": 209.11,
+     "turn_i": 65,
+     "quote": "Sengifuna namanje umngani ozongifundela nanti igama.",
+     "en": "I now want a friend who will read this word for me."
+    },
+    {
+     "t": 246.01,
+     "turn_i": 79,
+     "quote": "Ngifuna ungakhele igama elithi ngena.",
+     "en": "I want you to build me the word ngena."
+    },
+    {
+     "t": 276.1,
+     "turn_i": 89,
+     "quote": "asibukeni lapha ekufunda khona. Sonke siyafunda?",
+     "en": "let's look here where it is read. Are we all reading?"
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "P5",
+   "name": "Ukuzijwayeza nokuhlola",
+   "name_en": "Practice and checking",
+   "status": "partly",
+   "note_en": "Work is set and learners read sound/syllable strings, but the recording shows no checking or correcting of individuals.",
+   "evidence": [
+    {
+     "t": 283.7,
+     "turn_i": 93,
+     "quote": "Njengamanje sizokwenza umsebenzi.",
+     "en": "Right now we are going to do work."
+    },
+    {
+     "t": 297.9,
+     "turn_i": 98,
+     "quote": "ki ze tu yi ti wa e o ku chi",
+     "en": "ki ze tu yi ti wa e o ku chi"
+    }
+   ],
+   "from_run": "r3"
+  }
+ ],
+ "culture": [
+  {
+   "id": "C1",
+   "name": "Ukubamba iqhaza kwabafundi bonke",
+   "name_en": "Participation of all learners",
+   "status": "partly",
+   "note_en": "Chorus responses dominate; a handful of individuals point, read, count or build.",
+   "evidence": [
+    {
+     "t": 66.7,
+     "turn_i": 18,
+     "quote": "Ngithi sonke sizwile igama elithi ilungelo?",
+     "en": "I say, did we all hear the word ilungelo?"
+    },
+    {
+     "t": 260.11,
+     "turn_i": 86,
+     "quote": "Thina sonke sithule simnikeze ithuba.",
+     "en": "All of us, let's be quiet and give them a chance."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C2",
+   "name": "Ukuncoma umzamo nokucabanga",
+   "name_en": "Praise of effort and thinking",
+   "status": "partly",
+   "note_en": "Thanks and confirmation, but no praise that names the learner's thinking or strategy.",
+   "evidence": [
+    {
+     "t": 153.63,
+     "turn_i": 47,
+     "quote": "Yebo, mathathu mngani.",
+     "en": "Yes, three, friend."
+    },
+    {
+     "t": 195.62,
+     "turn_i": 62,
+     "quote": "Siyabonga mngani wami. Umsindo g.",
+     "en": "Thank you my friend. The sound g."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C3",
+   "name": "Ukuphatha amaphutha",
+   "name_en": "Handling errors as learning",
+   "status": "not_observed",
+   "note_en": "No learner error is heard in the clip, so error handling cannot be judged.",
+   "evidence": [],
+   "from_run": "r3"
+  },
+  {
+   "id": "C4",
+   "name": "Isivinini nokusebenzisa isikhathi",
+   "name_en": "Pace and time on task",
+   "status": "seen",
+   "note_en": "Brisk movement from rhyme to clapping to sound to words to practice in about five minutes; the clip is edited, so real timing is unknown.",
+   "evidence": [
+    {
+     "t": 5.8,
+     "turn_i": 1,
+     "quote": "Sizosukuma size ngaphambili sizowusho umlolozelo.",
+     "en": "We will stand and come to the front to say the rhyme."
+    },
+    {
+     "t": 283.7,
+     "turn_i": 93,
+     "quote": "Njengamanje sizokwenza umsebenzi.",
+     "en": "Right now we are going to do work."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C5",
+   "name": "Ukuhlola ukuqonda komfundi ngamunye",
+   "name_en": "Checking individual understanding",
+   "status": "partly",
+   "note_en": "A few individuals are checked (syllable count, reading one word, building one word); no systematic check of the class.",
+   "evidence": [
+    {
+     "t": 96.81,
+     "turn_i": 28,
+     "quote": "Uthi mane oqinile yini?",
+     "en": "They say four, is that correct?"
+    },
+    {
+     "t": 237.91,
+     "turn_i": 77,
+     "quote": "Uzohlanganisa zonke izinhlamvu ungakhele igama.",
+     "en": "You will combine all the letters and build me a word."
+    }
+   ],
+   "from_run": "r3"
+  }
+ ],
+ "positives": [
+  {
+   "en": "The rhyme is used as a listening game: straight after chanting, the teacher asks which sound learners kept hearing, so the target sound comes from the learners' ears rather than from the board.",
+   "t": 43.6,
+   "turn_i": 11
+  },
+  {
+   "en": "The word wall is used to show that ng is written with two letters, n and g, with a learner coming up to point to g, which links sound and letters visibly.",
+   "t": 165.33,
+   "turn_i": 51
+  },
+  {
+   "en": "When one learner builds ngena from letters, the teacher asks the class to be quiet and give them a chance, protecting that learner's thinking time.",
+   "t": 260.11,
+   "turn_i": 86
+  },
+  {
+   "en": "The mystery box turns a new ng word (ingubo) into a moment of curiosity before it is clapped into syllables.",
+   "t": 128.03,
+   "turn_i": 38
+  }
+ ],
+ "blockages": [
+  {
+   "en": "The sound ng is named and shown as two letters, but the recording does not show the teacher saying it slowly or learners each saying it. Effect: learners who cannot yet hear or produce ng can hide in the chorus. Catch-up: model ng with the mouth shape, then let each row and several single learners say it and a word that starts with it.",
+   "t": 153.63,
+   "turn_i": 47
+  },
+  {
+   "en": "Only one learner reads ingulube and one builds ngena; the rest read in chorus ('Sonke siyafunda?'). Effect: the teacher cannot tell which learners can read or build an ng word on their own. Catch-up: give pairs letter cards to build ng words while the teacher listens to five learners read individually.",
+   "t": 276.1,
+   "turn_i": 89
+  },
+  {
+   "en": "The closing practice ('sizokwenza umsebenzi') is set but no checking is heard while learners read strings aloud. Effect: misreadings go uncorrected and are practised. Catch-up: circulate during the practice, stop at a few learners, listen and correct on the spot.",
+   "t": 283.7,
+   "turn_i": 93
+  }
+ ],
+ "level_of_change": {
+  "level": 3,
+  "en": "Focus skill: giving individual learners turns to read and build words and checking them. The teacher already does this for one learner at a time (protecting the builder's turn), so they can do it with effort but not yet across the class; one staged clip is thin evidence (low confidence). Coach move: encourage persistence and practice, growing from one learner to several per lesson."
+ },
+ "grow": {
+  "goal": {
+   "lang": "Ezifundweni zemisindo zeviki elizayo, abafundi abahlanu kuya kwabayisithupha esifundweni ngasinye bazofunda futhi bakhe igama elinomsindo omusha bebodwa, wena ulalele.",
+   "en": "In next week's phonics lessons, five to six learners per lesson will each read and build a word with the new sound on their own while you listen."
+  },
+  "reality": {
+   "lang": "Njengamanje, umfundi oyedwa ufunda igama, oyedwa uyakha igama, bese ikilasi lonke liphinda ngezwi elilodwa.",
+   "en": "At present one learner reads a word, one learner builds a word, and then the whole class repeats in chorus."
+  },
+  "options": {
+   "lang": "Ungasebenzisa amakhadi ezinhlamvu ngababili; ungabhala ohlwini amagama abafundi osubalalele; ungabiza abafundi abathulile kuqala.",
+   "en": "You could use letter cards in pairs; keep a short list of the learners you have heard; call quieter learners first."
+  },
+  "way_forward": {
+   "lang": "Sizovumelana ngokuthi uzozama amakhadi ezinhlamvu ngababili esifundweni esisodwa, bese sixoxa ngakho ngemuva kwalokho.",
+   "en": "We agree you will try letter cards in pairs in one lesson, and we will talk about it afterwards."
+  }
+ },
+ "questions": [
+  {
+   "lang": "Uma ubuza ukuthi imuphi umsindo abawuzwa kakhulu emlolozelweni, yini ebonisa wena ukuthi abafundi abaningi bawuzwile umsindo ng?",
+   "en": "When you ask which sound they heard most in the rhyme, what shows you that many learners heard the sound ng?",
+   "t": 43.6,
+   "turn_i": 11
+  },
+  {
+   "lang": "Ngesikhathi ikilasi lifunda igama elithi ngena ndawonye, ubungazi kanjani ukuthi ngubani okwaziyo ukulifunda yedwa?",
+   "en": "When the class reads ngena together, how could you know who can read it alone?",
+   "t": 282.5,
+   "turn_i": 92
+  },
+  {
+   "lang": "Uma abafundi besebenza ekugcineni, yini ongathanda ukuyizwa kubo ukuze wazi ukuthi isifundo sihambe kahle?",
+   "en": "When learners work at the end, what would you like to hear from them to know the lesson went well?",
+   "t": 283.7,
+   "turn_i": 93
+  }
+ ],
+ "debrief_plan": [
+  {
+   "step": 1,
+   "step_en": "Ask permission",
+   "coach_says": "Ngiyabonga ngokungivumela ukuthi ngibuke isifundo sakho somsindo ng. Ngingakwabelana yini nalokho engikubonile?",
+   "en": "Thank you for letting me watch your lesson on the sound ng. May I share what I saw?"
+  },
+  {
+   "step": 2,
+   "step_en": "Observation: positives and blockages",
+   "coach_says": "Ngithandile ukuthi ngemva komlolozelo ubuze ukuthi imuphi umsindo abawuzwa kakhulu, nokuthi ucele ikilasi lithule linike umfundi ithuba lokwakha igama elithi ngena. Ngibonile futhi ukuthi umfundi oyedwa kuphela ofunde igama elithi ingulube, abanye bafunda ndawonye.",
+   "en": "I liked that after the rhyme you asked which sound they heard most, and that you asked the class to be quiet and give a learner a chance to build ngena. I also saw that only one learner read ingulube; the others read together."
+  },
+  {
+   "step": 3,
+   "step_en": "Effect on learners",
+   "coach_says": "Uma abafundi befunda ndawonye kuphela, labo abasadinga usizo bayacasha ezwini lekilasi, futhi akulula ukwazi ukuthi ngubani osedinga ukusizwa.",
+   "en": "When learners only read together, those who still need help hide in the class voice, and it is hard to know who needs support."
+  },
+  {
+   "step": 4,
+   "step_en": "Pause and dialogue",
+   "coach_says": "Ngingathanda ukuzwa umbono wakho. Wena ubona kanjani ukufunda kwabafundi ngabanye kulesi sifundo?",
+   "en": "I'd like to hear your view. How do you see individual learners' reading in this lesson?"
+  },
+  {
+   "step": 5,
+   "step_en": "Opportunity and contracting",
+   "coach_says": "Ungathanda yini ukuzama amakhadi ezinhlamvu ngababili, ulalele abafundi abahlanu ngabanye? Ngingeza ngikubone, sixoxe ngakho ngemuva kwalokho.",
+   "en": "Would you like to try letter cards in pairs, listening to five learners one by one? I can come and see, and we talk afterwards."
+  }
+ ],
+ "next_step": {
+  "lang": "Esifundweni esilandelayo, nikeza ababili amakhadi ezinhlamvu ukuze bakhe amagama anomsindo ng, bese ulalela abafundi abahlanu ngabanye.",
+  "en": "In the next lesson, give pairs letter cards to build ng words, then listen to five learners one by one."
+ },
+ "voice": null,
+ "accuracy": {
+  "measures": "Rumi",
+  "grounding": {
+   "value": 1.0,
+   "found": 19,
+   "n": 19,
+   "label": "measured",
+   "display": "19 of 19 of Rumi's longer quotes (4+ words) are word for word in the turn Rumi cited",
+   "verbatim_any_turn": {
+    "found": 19,
+    "n": 19
+   },
+   "fuzzy_090_any_turn": {
+    "found": 19,
+    "n": 19
+   },
+   "evidence_handling": {
+    "cited": 22
+   },
+   "note_en": "Counted on Rumi's own quotes before any fix. Only quotes found word for word in the transcript on this page are published; each links to the moment it was said."
+  },
+  "coverage": {
+   "value": 1.0,
+   "found": 17,
+   "n": 17,
+   "label": "measured",
+   "display": "17 of 17 report items filled with evidence or a reason"
+  },
+  "stability": {
+   "sd": 4.24,
+   "runs": 3,
+   "label": "measured",
+   "status_agreement_all": "9 of 10",
+   "strand_agreement": "3 of 3",
+   "status_agreement_pairwise": 0.933,
+   "display": "Three independent readings gave the same status on 9 of 10 items"
+  },
+  "n_runs": 3,
+  "score": 10.0,
+  "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
+  "label": "measured",
+  "line": "These numbers measure Rumi: whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."
+ },
+ "model": "Lesson-step and classroom-culture judgements by Claude Opus 5.5, the stricter of the two models we compared. Three independent readings of the same transcript; the report shows the median reading, with each item's status taken from the majority.",
+ "sources": [
+  "fn-coaching-course",
+  "fn-caps-zu"
+ ]
+}

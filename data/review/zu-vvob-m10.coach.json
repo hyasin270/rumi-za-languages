@@ -1,0 +1,378 @@
+{
+ "id": "zu-vvob-m10",
+ "media_id": "zu-vvob-m10",
+ "lang": "zu",
+ "lesson": {
+  "strand": "shared_reading",
+  "focus": "group guided reading of the story 'Ngelikabani Leli Zinyo' (Whose tooth is this?): reviewing the sounds nj, sh and th in its words, building words from sound pieces, reading a passage and recall questions",
+  "grade": "not stated"
+ },
+ "summary_en": "This staged VVOB clip shows a group guided reading session: the class sings its reading song while the kiwi group comes to the front, the teacher reviews the sounds nj, sh and th from words in the story 'Ngelikabani Leli Zinyo', each learner builds a word from sound pieces and checks it against a matching word card, one learner reads a passage of the story aloud, and the teacher asks two recall questions before closing until tomorrow. Trainer narration at the start and end is not counted as observation. The clip does not show the teacher modelling the reading, the pairs and independent readers at work, or any talk about what the story's words mean. An unrehearsed lesson would also need to show every learner in the group reading the text aloud in turn while the teacher listens and supports, and questions that ask learners to think beyond recall.",
+ "scope_en": "Rumi coached only what the recording shows in class (the teacher and learners). Narration over the film is in the transcript but is not treated as evidence that a step happened. The recording is an edited training film, so a step it does not show may still have happened.",
+ "steps": [
+  {
+   "id": "S1",
+   "name": "Ngaphambi kokufunda",
+   "name_en": "Before reading: title, cover, predictions",
+   "status": "partly",
+   "note_en": "The title is recalled as the story the group is continuing; there is no cover talk or prediction, which fits a story already under way.",
+   "evidence": [
+    {
+     "t": 93.62,
+     "turn_i": 17,
+     "quote": "siyakhumbula indaba esiyifundayo ithi ngelikabani izinyo",
+     "en": "we remember the story we are reading is called whose tooth is it"
+    },
+    {
+     "t": 214.54,
+     "turn_i": 50,
+     "quote": "Sifunde indaba ethini, Ngelikabani Leli Zinyo? isihloko sendaba yethu.",
+     "en": "We read the story called what, Whose Tooth Is This? the title of our story."
+    }
+   ],
+   "from_run": "r2"
+  },
+  {
+   "id": "S2",
+   "name": "Amagama amasha ngaphambi kokufunda",
+   "name_en": "Pre-teach key words",
+   "status": "partly",
+   "note_en": "Sounds from the story's words are reviewed and learners build words from sound pieces and match word cards; the words are decoded but their meaning is not discussed.",
+   "evidence": [
+    {
+     "t": 93.62,
+     "turn_i": 17,
+     "quote": "sizoqala sibuyekeze imisindo eyakhe amagama akulendaba",
+     "en": "we will start by reviewing the sounds that build the words in this story"
+    },
+    {
+     "t": 128.48,
+     "turn_i": 33,
+     "quote": "Umunthu nomunthu ngizomnika izingcezu zakhe zemsindo akhe ini? igama.",
+     "en": "Each person I will give their sound pieces to build what? a word."
+    },
+    {
+     "t": 207.66,
+     "turn_i": 48,
+     "quote": "Izinkabi, izitshalo, izinkukhu.",
+     "en": "Oxen, plants, chickens."
+    }
+   ],
+   "from_run": "r2"
+  },
+  {
+   "id": "S3",
+   "name": "Uthisha ufunda ngokugeleza",
+   "name_en": "Model fluent reading",
+   "status": "not_observed",
+   "note_en": "The clip does not show the teacher reading the text; one learner reads a passage aloud instead (turn 52).",
+   "evidence": [],
+   "from_run": "r2"
+  },
+  {
+   "id": "S4",
+   "name": "Imibuzo yokuqondisisa",
+   "name_en": "Questions at different levels",
+   "status": "partly",
+   "note_en": "Two literal recall questions (what was found, where it was put), answered in chorus.",
+   "evidence": [
+    {
+     "t": 244.74,
+     "turn_i": 54,
+     "quote": "ngizokubuza ke nje imibuzo emibili emithathu ukubona ukuthi besiyilalele yini lendaba.",
+     "en": "I will just ask you two or three questions to see whether we were listening to this story."
+    },
+    {
+     "t": 254.74,
+     "turn_i": 60,
+     "quote": "Izinyo wathi melithatha walibeka kuphi? Kusiphi isitho somzimba?",
+     "en": "The tooth, when they took it, where did they put it? On which part of the body?"
+    }
+   ],
+   "from_run": "r2"
+  },
+  {
+   "id": "S5",
+   "name": "Ngemuva kokufunda",
+   "name_en": "After reading: structure, theme, retell",
+   "status": "not_observed",
+   "note_en": "The session closes after the recall questions with 'we will continue tomorrow'; no retell or theme work is shown, which may be planned for when the story is finished.",
+   "evidence": [
+    {
+     "t": 261.84,
+     "turn_i": 63,
+     "quote": "Sizophinde futhi siqhubeke kusasa.",
+     "en": "We will continue again tomorrow."
+    }
+   ],
+   "from_run": "r2"
+  }
+ ],
+ "culture": [
+  {
+   "id": "C1",
+   "name": "Ukubamba iqhaza kwabafundi bonke",
+   "name_en": "Participation of all learners",
+   "status": "seen",
+   "note_en": "The class sings together, single learners name each sound, every group member builds a word, and two learners say their word; the recall questions go to the chorus.",
+   "evidence": [
+    {
+     "t": 63.43,
+     "turn_i": 6,
+     "quote": "Funda wena, funda yo, funda mina, funda yo, isikhathi sesifikile.",
+     "en": "Read you, read yo, read me, read yo, the time has come."
+    },
+    {
+     "t": 195.36,
+     "turn_i": 43,
+     "quote": "Sizoqala ngala. Elakho igama lithini?",
+     "en": "We'll start here. What does your word say?"
+    },
+    {
+     "t": 205.96,
+     "turn_i": 47,
+     "quote": "Elakho igama olakhile?",
+     "en": "And yours, the word you built?"
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C2",
+   "name": "Ukuncoma umzamo nokucabanga",
+   "name_en": "Praise of effort and thinking",
+   "status": "partly",
+   "note_en": "Thanks, and a confirmation that a built word matches its letters; no praise of effort or of the strategy used.",
+   "evidence": [
+    {
+     "t": 202.76,
+     "turn_i": 46,
+     "quote": "ngiyalibona impela liyahambisana nezinhlamvu",
+     "en": "I see it indeed, it goes with the letters"
+    },
+    {
+     "t": 237.84,
+     "turn_i": 53,
+     "quote": "Siyabonga kakhulu mntanami.",
+     "en": "Thank you very much my child."
+    }
+   ],
+   "from_run": "r2"
+  },
+  {
+   "id": "C3",
+   "name": "Ukuphatha amaphutha",
+   "name_en": "Handling errors as learning",
+   "status": "not_observed",
+   "note_en": "No clear learner error is shown: 'Izinhla' (turn 44) may be a cut-off word or a transcription slip and the teacher accepts it, so no error-handling moment can be judged.",
+   "evidence": [],
+   "from_run": "r2"
+  },
+  {
+   "id": "C4",
+   "name": "Isivinini nokusebenzisa isikhathi",
+   "name_en": "Pace and time on task",
+   "status": "seen",
+   "note_en": "The song moves the group to the front, word building has a one-minute limit, and review, building, reading and questions fit into about four minutes of edited footage.",
+   "evidence": [
+    {
+     "t": 51.17,
+     "turn_i": 4,
+     "quote": "asicule ke iculo lethu lokufunda ngamaqembu.",
+     "en": "let us sing our song of reading in groups."
+    },
+    {
+     "t": 128.48,
+     "turn_i": 33,
+     "quote": "Ngininike umzuzu owodwa.",
+     "en": "I give you one minute."
+    }
+   ],
+   "from_run": "r2"
+  },
+  {
+   "id": "C5",
+   "name": "Ukuhlola ukuqonda komfundi ngamunye",
+   "name_en": "Checking individual understanding",
+   "status": "seen",
+   "note_en": "Each learner checks their built word against a word card and the teacher goes round asking each learner for their word; no adjustment is shown.",
+   "evidence": [
+    {
+     "t": 190.06,
+     "turn_i": 42,
+     "quote": "So bese uyalibuka-ke ukuthi ulakhe kahle yini.",
+     "en": "So then you look at it to see whether you built it well."
+    },
+    {
+     "t": 205.96,
+     "turn_i": 47,
+     "quote": "Elakho igama olakhile?",
+     "en": "Your word that you built?"
+    }
+   ],
+   "from_run": "r2"
+  }
+ ],
+ "positives": [
+  {
+   "en": "The reading song is used as a routine to bring the kiwi group to the front, so the move is quick and calm while the rest of the class gets ready for pair and independent reading.",
+   "t": 76.53,
+   "turn_i": 9
+  },
+  {
+   "en": "The sound review is tied to the text: the teacher reviews the sounds that build the words in 'Ngelikabani Leli Zinyo' before the group reads it, so decoding practice serves the story.",
+   "t": 93.62,
+   "turn_i": 17
+  },
+  {
+   "en": "Learners check their own work: after building a word from sound pieces, each picks the matching word card and compares, so they see for themselves whether they built it correctly.",
+   "t": 172.19,
+   "turn_i": 39
+  },
+  {
+   "en": "The teacher tells the group why they are asking questions — to see whether everyone was listening to the story — before asking them.",
+   "t": 244.74,
+   "turn_i": 54
+  }
+ ],
+ "blockages": [
+  {
+   "en": "In the clip only one learner reads the story aloud while the others listen. Effect on learners: in a guided reading group each learner needs to read so the teacher can hear who reads smoothly and who stalls; the listeners get little reading practice. Catch-up strategy: have every learner in the group read the same page softly at their own pace while the teacher listens to each one in turn for a sentence or two.",
+   "t": 224.74,
+   "turn_i": 52
+  },
+  {
+   "en": "The two story questions ask only for recall (what was found, where it was put) and are answered in chorus. Effect on learners: they are not asked to think about why things happen, and the teacher cannot tell which individuals understood. Catch-up strategy: add one 'why' or 'what do you think' question and ask two learners by name before the group answers together.",
+   "t": 254.74,
+   "turn_i": 60
+  }
+ ],
+ "level_of_change": {
+  "level": 3,
+  "en": "Focus skill: individual reading turns inside the guided reading group. The teacher already gives each learner an individual turn in word building and asks each for their word, so they can do this move with effort; it has not yet carried into the reading of the text. One staged, edited clip is thin evidence, so confidence is low. Coach move: encourage persistence and practice by agreeing on a short routine in which each learner reads a sentence aloud to the teacher during group reading."
+ },
+ "grow": {
+  "goal": {
+   "lang": "Eqenjini lokufunda, umfundi ngamunye afunde okungenani umusho owodwa endabeni ngezwi lakhe, wena ulalele.",
+   "en": "In the reading group, each learner reads at least one sentence of the story aloud while you listen."
+  },
+  "reality": {
+   "lang": "Esifundweni samanje bonke bakhe amagama ngabanye, kodwa endabeni kufunde umfundi oyedwa, abanye balalela.",
+   "en": "In this lesson everyone built words individually, but in the story only one learner read while the others listened."
+  },
+  "options": {
+   "lang": "Ungacela bonke bafunde ngezwi eliphansi ngesikhathi esisodwa bese ulalela ngamunye; unganika umfundi ngamunye umusho ngokulandelana; noma ungasebenzisa ababili abafundelana.",
+   "en": "You could have everyone read softly at the same time and listen to each in turn; give each learner a sentence in turn; or use pairs who read to each other."
+  },
+  "way_forward": {
+   "lang": "Esifundweni esilandelayo seqembu, uzolalela umfundi ngamunye efunda umusho owodwa, ubhale phansi ukuthi ngubani odinga usizo; mina ngizobuya ngibuke.",
+   "en": "In the next group lesson you will listen to each learner read one sentence and note who needs help; I will come back and watch."
+  }
+ },
+ "questions": [
+  {
+   "lang": "Ngesikhathi umfundi oyedwa efunda indaba, abanye eqenjini bebenzani, futhi wena ubufuna ukuzwa ini kubo?",
+   "en": "When one learner read the story, what were the others in the group doing, and what did you want to hear from them?",
+   "t": 224.74,
+   "turn_i": 52
+  },
+  {
+   "lang": "Imibuzo yakho ibuze ukuthi kutholakaleni nokuthi izinyo libekwe kuphi. Yimuphi umbuzo ongawubuza ukuze abafundi bacabange ngokuthi kungani kwenzeke lokho?",
+   "en": "Your questions asked what was found and where the tooth was put. What question could you ask so that learners think about why it happened?",
+   "t": 254.74,
+   "turn_i": 60
+  },
+  {
+   "lang": "Lapho abafundi bethatha igama elifana nalelo abalakhile, ubone ini ngokuthi ngubani osakudinga usizo?",
+   "en": "When learners took the word card matching the word they built, what did you notice about who still needs help?",
+   "t": 190.06,
+   "turn_i": 42
+  }
+ ],
+ "debrief_plan": [
+  {
+   "step": 1,
+   "step_en": "Ask permission",
+   "coach_says": "Ngiyabonga ngokungivumela ukuthi ngibe neqembu lakho lokufunda. Ngingakwabelana yini nalokho engikubonile?",
+   "en": "Thank you for letting me sit in on your reading group. May I share what I saw?"
+  },
+  {
+   "step": 2,
+   "step_en": "Observation: positives and blockages",
+   "coach_says": "Ngithandile ukuthi uqale ngokubuyekeza imisindo esemagameni endaba, nokuthi umfundi ngamunye ahlole igama alakhile ngekhadi. Kodwa endabeni kufunde umfundi oyedwa kuphela, futhi imibuzo emibili ibuze nje okwenzekile.",
+   "en": "I liked that you began by reviewing the sounds in the story's words, and that each learner checked the word they built against a card. But only one learner read the story, and the two questions asked only what happened."
+  },
+  {
+   "step": 3,
+   "step_en": "Effect on learners",
+   "coach_says": "Uma kufunda umfundi oyedwa, abanye abazijwayezi ukufunda, futhi awukwazi ukuzwa ukuthi ngubani osakhubeka emagameni.",
+   "en": "When one learner reads, the others do not practise reading, and you cannot hear who still stumbles on words."
+  },
+  {
+   "step": 4,
+   "step_en": "Pause and dialogue",
+   "coach_says": "Ngingathanda ukuzwa umbono wakho. Wena ubone ini ngesikhathi abanye belalele umfundi oyedwa efunda?",
+   "en": "I'd like to hear your view. What did you notice while the others listened to one learner read?"
+  },
+  {
+   "step": 5,
+   "step_en": "Opportunity and contracting",
+   "coach_says": "Ake sivumelane: esifundweni esilandelayo umfundi ngamunye uzofunda umusho owodwa kuwe, bese ubuza umbuzo owodwa othi kungani. Ngizobuya ngibuke, bese siphinde sixoxe.",
+   "en": "Let us agree: in the next lesson each learner will read one sentence to you, and you will ask one 'why' question. I will come back to watch, and then we will talk again."
+  }
+ ],
+ "next_step": {
+  "lang": "Esifundweni esilandelayo seqembu, lalela umfundi ngamunye efunda umusho owodwa endabeni, bese ubuza umbuzo owodwa othi kungani.",
+  "en": "In the next group lesson, listen to each learner read one sentence of the story, then ask one 'why' question."
+ },
+ "voice": null,
+ "accuracy": {
+  "measures": "Rumi",
+  "grounding": {
+   "value": 1.0,
+   "found": 12,
+   "n": 12,
+   "label": "measured",
+   "display": "12 of 12 of Rumi's longer quotes (4+ words) are word for word in the turn Rumi cited",
+   "verbatim_any_turn": {
+    "found": 12,
+    "n": 12
+   },
+   "fuzzy_090_any_turn": {
+    "found": 12,
+    "n": 12
+   },
+   "evidence_handling": {
+    "cited": 17
+   },
+   "note_en": "Counted on Rumi's own quotes before any fix. Only quotes found word for word in the transcript on this page are published; each links to the moment it was said."
+  },
+  "coverage": {
+   "value": 1.0,
+   "found": 17,
+   "n": 17,
+   "label": "measured",
+   "display": "17 of 17 report items filled with evidence or a reason"
+  },
+  "stability": {
+   "sd": 5.56,
+   "runs": 3,
+   "label": "measured",
+   "status_agreement_all": "5 of 10",
+   "strand_agreement": "2 of 3",
+   "strand_note_en": "2 of 3 readings classed this as a shared reading lesson; the other read it as phonics. The report follows the majority; the other reading's step items count as disagreement.",
+   "status_agreement_pairwise": 0.667,
+   "display": "Three independent readings gave the same status on 5 of 10 items"
+  },
+  "n_runs": 3,
+  "score": 9.93,
+  "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
+  "label": "measured",
+  "line": "These numbers measure Rumi: whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."
+ },
+ "model": "Lesson-step and classroom-culture judgements by Claude Opus 5.5, the stricter of the two models we compared. Three independent readings of the same transcript; the report shows the median reading, with each item's status taken from the majority.",
+ "sources": [
+  "fn-coaching-course",
+  "fn-caps-zu"
+ ]
+}
