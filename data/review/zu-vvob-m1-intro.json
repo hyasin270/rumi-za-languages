@@ -1,0 +1,113 @@
+{
+ "id": "zu-vvob-m1-intro",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 3.0,
+   "end": 5.2,
+   "speaker": "Trainer",
+   "text": "Sanibonani, nginguThisha [teacher].",
+   "en": "Hello, I am the teacher.",
+   "agree": 0.871
+  },
+  {
+   "i": 1,
+   "start": 6.0,
+   "end": 9.2,
+   "speaker": "Trainer",
+   "text": "Namhlanje sizokhuluma ngezemiso nezilinganiso zokufunda.",
+   "en": "Today we will talk about principles and standards of reading.",
+   "agree": 0.982
+  },
+  {
+   "i": 2,
+   "start": 9.8,
+   "end": 13.6,
+   "speaker": "Trainer",
+   "text": "Kule module sizochaza izimiso nezilinganiso.",
+   "en": "In this module we will explain principles and standards.",
+   "agree": 1.0
+  },
+  {
+   "i": 3,
+   "start": 14.6,
+   "end": 17.8,
+   "speaker": "Trainer",
+   "text": "Njenges'qalo, ake siphendule imibuzo emibili.",
+   "en": "As a start, let us answer two questions.",
+   "agree": 0.977
+  },
+  {
+   "i": 4,
+   "start": 18.6,
+   "end": 22.4,
+   "speaker": "Trainer",
+   "text": "Umbuzo wokuqala uthi, ziyini izimiso zokufunda?",
+   "en": "The first question says, what are the principles of reading?",
+   "agree": 1.0
+  },
+  {
+   "i": 5,
+   "start": 22.9,
+   "end": 31.0,
+   "speaker": "Trainer",
+   "text": "Izimiso zokufunda yindlela okulindeleke ukuthi kufundiswe ngayo ukufunda kulelo nalelo banga emabangeni aphansi.",
+   "en": "Principles of reading is the way it is expected that reading should be taught in each and every grade in the lower grades.",
+   "agree": 1.0
+  },
+  {
+   "i": 6,
+   "start": 32.28,
+   "end": 34.98,
+   "speaker": "Trainer",
+   "text": "Umbuzo wesibili uthi, ziyini izilinganiso zokufunda?",
+   "en": "The second question says, what are the standards of reading?",
+   "agree": 0.2
+  },
+  {
+   "i": 7,
+   "start": 35.98,
+   "end": 42.98,
+   "speaker": "Trainer",
+   "text": "Izilinganiso zokufunda zingamazinga anobuchule okumele atholakale ezingeni elithile lokufunda.",
+   "en": "Standards of reading are levels of competence that must be achieved at a certain level of reading.",
+   "agree": 1.0
+  },
+  {
+   "i": 8,
+   "start": 43.98,
+   "end": 51.98,
+   "speaker": "Trainer",
+   "text": "Njengoba sesichazile izimiso nezilinganiso zokufunda, asiqale i-module ukuze siyibone ukuthi sisebenza kanjani ekilasini.",
+   "en": "As we have already explained the principles and standards of reading, let us start the module so that we see how it works in the classroom.",
+   "agree": 0.983
+  },
+  {
+   "i": 9,
+   "start": 52.78,
+   "end": 56.28,
+   "speaker": "Trainer",
+   "text": "Ngizoba nginawe ngohambo lwakho lokufunda.",
+   "en": "I will be with you on your learning journey.",
+   "agree": 1.0
+  }
+ ],
+ "score": {
+  "value": 0.988,
+  "label": "engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.8% of characters across this 1-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+ },
+ "agreement": {
+  "value": 0.988,
+  "label": "engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.8% of characters across this 1-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

@@ -1,0 +1,425 @@
+/* review-page.js — the listening review (review.html).
+ *
+ * Data: data/review/index.json (the recordings), data/review/<id>.json (transcript), data/review/<id>.coach.json (coaching, when
+ * has_coaching), data/config.json (feedback service). Words: copy.json "review.*" (a missing key shows a marked placeholder).
+ * URL: ?lang=<code> filters the list · ?r=<id> opens a recording · &t=<seconds or m:ss> / &turn=<i> open it at that moment, highlight
+ * the turn and show the "you were sent here" banner. Nothing plays until the viewer presses play.
+ * Every string a reviewer typed reaches the page as a text node (RZ.el), never as HTML. Names never go into a URL.
+ */
+(async function () {
+  const RZ = window.RZ, FB = window.Feedback, el = RZ.el, $ = (id) => document.getElementById(id);
+  const ORDER = ["zu", "xh", "st", "nso", "tn", "af", "en"];
+  RZ.LANGS.en = RZ.LANGS.en || "English";
+
+  await RZ.boot({});
+  const has = (k) => RZ.has(k);
+  /** plain text for a key (vars filled); a clearly marked placeholder while the words are pending */
+  const fill = (s, v) => String(s).replace(/\{(\w+)\}/g, (m, k) => (v && v[k] !== undefined && v[k] !== null ? String(v[k]) : m));
+  const T = (k, v) => (has(k) ? fill(RZ.t(k), v) : `[copy: ${k}]`);
+  const H = (k, v) => (has(k) ? RZ.inline(fill(RZ.raw(k), v || {})) : RZ.placeholder(k));
+  const setH = (node, k, v) => { node.innerHTML = H(k, v); return node; };
+  const pageUrl = () => location.origin + location.pathname;
+  const linkFor = (id, extra) => pageUrl() + "?r=" + encodeURIComponent(id) + (extra || "");
+  const minutes = (d) => Math.max(1, Math.ceil((Number(d) || 0) / 60 - 1e-9));   // rounded UP: a 4:41 recording is "5 min"
+  const pctUp = (x) => (Math.ceil(Number(x) * 1000 - 1e-9) / 10).toFixed(1).replace(/\.0$/, "") + "%";  // error rates round up
+  const kindText = (k) => (k ? (has("review.card.kind." + k) ? RZ.t("review.card.kind." + k) : k.replace(/_/g, " ")) : "");
+  const recTitle = (r) => r.title_en || r.title || r.id;
+  const turnKey = (x, j) => (x.i !== undefined && x.i !== null ? Number(x.i) : j);
+
+  RZ.fillCopy();
+  const baseTitle = () => T("review.meta.title") + " — " + (RZ.t("index.meta.title") || "Rumi in South African languages");
+  document.title = baseTitle();
+  // how-to steps (numbered) and the score-label legend
+  const steps = RZ.raw("review.howto.steps");
+  $("how-steps").innerHTML = Array.isArray(steps) ? steps.map((x) => `<li>${RZ.inline(x)}</li>`).join("") : `<li>${RZ.placeholder("review.howto.steps")}</li>`;
+  $("labels-list").innerHTML = ["measured", "proxy", "pending"].map((k) => `<li>${H("review.scores." + k)}</li>`).join("");
+
+  const [index] = await Promise.all([RZ.load("data/review/index.json"), FB.init()]);
+  const RECS = ((index && index.recordings) || []).filter((r) => r && r.id && r.lang);
+  const byId = Object.fromEntries(RECS.map((r) => [r.id, r]));
+  const langsPresent = ORDER.filter((l) => RECS.some((r) => r.lang === l)).concat([...new Set(RECS.map((r) => r.lang))].filter((l) => !ORDER.includes(l)));
+
+  /* ---------- scores: the chip text says what the number is ---------- */
+  function scoreChip(sc) {
+    if (!sc) return `<span class="chip pending"><span class="v">${RZ.esc(T("review.scores.no_score"))}</span></span>`;
+    const s = RZ.score(sc), [lab, cls] = RZ.labelOf(s.label), n = Number(s.value);
+    const l = cls === "ai" ? T("review.scores.chip_proxy") : cls === "measured" ? T("review.scores.chip_measured") : cls === "pending" ? T("review.scores.chip_pending") : lab;
+    let txt;
+    if (s.display) txt = String(s.display);
+    else if (s.value === null || s.value === undefined || Number.isNaN(n)) return `<span class="chip pending"><span class="v">${RZ.esc(T("review.scores.no_score"))}</span></span>`;
+    // a proxy value is engine AGREEMENT (1 − CER): show the disagreement, rounded up; a measured value is a CER
+    else if (cls === "ai" && n <= 1) txt = T("review.scores.agreement_label", { pct: pctUp(1 - n) });
+    else if (n <= 1) txt = T("review.scores.cer_label", { pct: pctUp(n) });
+    else txt = RZ.trunc(n, 1) + "/10";
+    return `<span class="chip ${cls}"><span class="v rv-v">${RZ.esc(txt)}</span>${l ? `<span class="l">${RZ.esc(l)}</span>` : ""}</span>`;
+  }
+
+  /* ---------- reviewer (name required, remembered on this device only) ---------- */
+  const nameIn = $("rv-name"), roleIn = $("rv-role"), hp = $("rv-website");
+  setH($("rv-name-label"), "review.identity.name_label");
+  setH($("rv-role-label"), "review.identity.role_label");
+  nameIn.placeholder = has("review.identity.name_placeholder") ? RZ.t("review.identity.name_placeholder") : "";
+  roleIn.placeholder = has("review.identity.role_placeholder") ? RZ.t("review.identity.role_placeholder") : "";
+  const me = FB.reviewer();
+  nameIn.value = me.name; roleIn.value = me.role;
+  const saveMe = () => FB.setReviewer({ name: nameIn.value.trim(), role: roleIn.value.trim() });
+  nameIn.addEventListener("change", saveMe); roleIn.addEventListener("change", saveMe);
+  nameIn.addEventListener("input", () => { if (nameIn.value.trim()) { $("rv-name-err").hidden = true; nameIn.removeAttribute("aria-invalid"); } });
+  $("reviewer").addEventListener("submit", (e) => e.preventDefault());
+  function needName() {
+    const n = nameIn.value.trim();
+    if (n) return n;
+    setH($("rv-name-err"), "review.identity.name_required").hidden = false;
+    nameIn.setAttribute("aria-invalid", "true");
+    nameIn.scrollIntoView({ block: "center", behavior: "smooth" });
+    nameIn.focus({ preventScroll: true });
+    return null;
+  }
+  if (!FB.enabled) setH($("rv-closed"), "review.status.closed").hidden = false;
+  const queueLine = () => {
+    const n = FB.pending(), q = $("rv-queue");
+    q.hidden = !n;
+    if (!n) return;
+    q.innerHTML = "";
+    q.append(el("span", { html: H("review.status.offline") }), " ",
+      el("button", { type: "button", class: "btn small", onclick: () => FB.flush(), html: H("review.status.retry") }));
+  };
+  FB.onChange(queueLine);
+  queueLine();
+
+  /** Send one submission; paints statusNode; resolves "sent" | "queued" | null (failed: the reviewer's words stay in the box). */
+  async function submit(payload, statusNode, btn, okKey) {
+    if (!FB.enabled || !current) return null;
+    const name = needName();
+    if (!name) return null;
+    saveMe();
+    const rec = current;
+    const body = Object.assign({ rec_id: rec.id, name, role: roleIn.value.trim() || undefined, page_url: location.href, hp: hp.value || undefined }, payload);
+    if (btn) btn.disabled = true;
+    setH(statusNode, "review.status.sending"); statusNode.className = "rv-status";
+    const res = await FB.send(body);
+    if (btn) btn.disabled = false;
+    if (res.state === "sent" || res.state === "queued") {
+      setH(statusNode, res.state === "sent" ? okKey : "review.status.offline");
+      statusNode.className = "rv-status " + (res.state === "sent" ? "ok" : "wait");
+      // the service caches GET for a few seconds: show the reviewer's own words straight away
+      if (current === rec) addComment(Object.assign({}, body, { received_at: new Date().toISOString(), pending: res.state === "queued" }), true);
+      return res.state;
+    }
+    statusNode.innerHTML = ""; statusNode.className = "rv-status err";
+    if (res.state === "too_many") statusNode.append(el("span", { html: H("review.status.too_many") }));
+    else statusNode.append(el("span", { html: H("review.status.error") }), res.message ? el("span", { class: "rv-why" }, String(res.message)) : "", " ",
+      el("button", { type: "button", class: "btn small", html: H("review.status.retry"), onclick: () => submit(payload, statusNode, btn, okKey) }));
+    return null;
+  }
+
+  /* ---------- share (per recording and per turn) ---------- */
+  function shareText(rec, turn) {
+    const v = { lang: RZ.langName(rec.lang), title: recTitle(rec), min: minutes(rec.duration), time: turn ? RZ.fmt(turn.start) : "",
+      link: turn ? linkFor(rec.id, `&t=${Math.floor(turn.start)}&turn=${turnKey(turn, turn.idx)}`) : linkFor(rec.id) };
+    let msg = T(turn ? "review.share.message_turn" : "review.share.message", v);
+    if (msg.indexOf(v.link) < 0) msg += " " + v.link;
+    return { msg, link: v.link, subject: T("review.share.email_subject", v) };
+  }
+  async function copyText(s) {
+    try { await navigator.clipboard.writeText(s); return true; } catch (e) {}
+    try {
+      const ta = el("textarea", { readonly: true, style: "position:fixed;top:-1000px;left:0" }); ta.value = s; document.body.append(ta);
+      ta.select(); const ok = document.execCommand("copy"); ta.remove(); return ok;
+    } catch (e) { return false; }
+  }
+  function shareRow(rec, turn) {
+    const x = shareText(rec, turn);
+    const what = turn ? RZ.fmt(turn.start) : recTitle(rec);
+    const done = el("span", { class: "rv-copied", role: "status" });
+    const copyBtn = el("button", { type: "button", class: "btn small", "aria-label": `${T("review.share.copy_link")} — ${what}`, html: H("review.share.copy_link"),
+      onclick: async () => { const ok = await copyText(x.link); if (ok) { setH(done, "review.share.copied"); setTimeout(() => (done.innerHTML = ""), 2500); } else window.prompt(T("review.share.copy_link"), x.link); } });
+    const wa = el("a", { class: "btn small", target: "_blank", rel: "noopener", href: "https://wa.me/?text=" + encodeURIComponent(x.msg),
+      "aria-label": `${T("review.share.whatsapp")} — ${what}`, html: H("review.share.whatsapp") });
+    const mail = el("a", { class: "btn small", href: `mailto:?subject=${encodeURIComponent(x.subject)}&body=${encodeURIComponent(x.msg)}`,
+      "aria-label": `${T("review.share.email")} — ${what}`, html: H("review.share.email") });
+    return el("div", { class: "rv-share" }, turn ? "" : el("span", { class: "rv-share-label", html: H("review.share.heading") }), copyBtn, wa, mail, done);
+  }
+
+  /* ---------- the list ---------- */
+  let lang = null, current = null, player = null;
+  const counts = {};
+  const countHtml = (n) => H(n === 1 ? "review.card.comments_one" : n ? "review.card.comments" : "review.card.comments_none", { count: n, n });
+  function spokenLine(r) {
+    const others = (r.langs_spoken || []).filter((x) => x.lang !== r.lang && Number(x.share) >= 0.15);
+    if (!others.length) return "";
+    return T("review.card.languages_mixed", { lang: RZ.langName(r.lang), lang2: others.map((x) => RZ.langName(x.lang)).join(", ") });
+  }
+  function renderTabs() {
+    const nav = $("lang-tabs");
+    nav.innerHTML = "";
+    nav.hidden = !RECS.length;
+    if (!RECS.length) return;
+    nav.setAttribute("aria-label", T("review.switcher.label"));
+    const mk = (code, label, n) => el("button", { type: "button", class: "rv-tab", "aria-pressed": String(lang === code), lang: code && code !== "en" ? code : null,
+      onclick: () => go({ lang: code }) }, label, el("span", { class: "n", "aria-hidden": "true" }, String(n)),
+      el("span", { class: "sr-only" }, " (" + (n === 1 ? T("review.switcher.count_one") : T("review.switcher.count_line", { n })) + ")"));
+    nav.append(mk(null, T("review.switcher.all"), RECS.length));
+    langsPresent.forEach((l) => nav.append(mk(l, RZ.langName(l), RECS.filter((r) => r.lang === l).length)));
+  }
+  function card(r) {
+    const n = counts[r.id];
+    const cc = el("span", { class: "rv-count", "data-count": r.id });
+    if (n !== undefined) cc.innerHTML = countHtml(n);
+    const m = r.media || {};
+    const facts = [r.partner, T("review.card.duration", { min: minutes(r.duration) }), kindText(r.kind)].filter(Boolean).join(" · ");
+    const mixed = spokenLine(r);
+    return el("a", { class: "card rv-card", href: "review.html?r=" + encodeURIComponent(r.id),
+      onclick: (e) => { if (e.metaKey || e.ctrlKey || e.shiftKey || e.button) return; e.preventDefault(); go({ r: r.id }); } },
+      m.poster ? el("img", { class: "rv-thumb", src: m.poster, alt: "", loading: "lazy" })
+        : el("div", { class: "rv-thumb rv-thumb-" + (m.type || "x"), "aria-hidden": "true" }, el("span", {}, m.type === "mp3" ? "♪" : "▶")),
+      el("div", { class: "rv-card-body" },
+        el("h3", {}, recTitle(r)),
+        r.title && r.title_en && r.title !== r.title_en ? el("p", { class: "rv-sub", lang: r.lang }, r.title) : "",
+        el("p", { class: "rv-facts" }, facts),
+        mixed ? el("p", { class: "rv-facts" }, mixed) : "",
+        r.has_coaching ? el("p", { class: "rv-tag", html: H("review.card.coaching") }) : "",
+        el("div", { class: "rv-card-foot", html: scoreChip(r.score) }, cc)));
+  }
+  function renderList() {
+    const list = lang ? RECS.filter((r) => r.lang === lang) : RECS;
+    const host = $("cards");
+    host.innerHTML = "";
+    $("list-heading").textContent = lang ? RZ.langName(lang) : T("review.switcher.all");
+    if (!index) { $("list-notice").innerHTML = RZ.soon(""); return; }
+    $("list-notice").innerHTML = list.length ? "" : `<p class="soon">${H("review.switcher.empty", { lang: RZ.langName(lang) })}</p>`;
+    const groups = lang ? [[lang, list]] : langsPresent.map((l) => [l, list.filter((r) => r.lang === l)]);
+    groups.forEach(([l, recs]) => {
+      if (!recs.length) return;
+      if (!lang) host.append(el("h2", { class: "rv-group" }, RZ.langName(l)));
+      // partner recordings first, then public; shortest first inside each
+      const sorted = recs.slice().sort((a, b) => (a.source === "public") - (b.source === "public") || (a.duration || 0) - (b.duration || 0));
+      host.append(el("ul", { class: "rv-grid" }, sorted.map((r) => el("li", {}, card(r)))));
+    });
+  }
+  async function loadCounts() {
+    if (!FB.enabled) return;
+    const ids = (lang ? RECS.filter((r) => r.lang === lang) : RECS).map((r) => r.id).filter((id) => counts[id] === undefined);
+    if (!ids.length) return;
+    Object.assign(counts, await FB.counts(ids));
+    document.querySelectorAll("[data-count]").forEach((n) => {
+      const c = counts[n.getAttribute("data-count")];
+      if (c !== undefined) n.innerHTML = countHtml(c);
+    });
+  }
+
+  /* ---------- one recording ---------- */
+  function parseT(x) {
+    if (x === null || x === undefined || x === "") return null;
+    const m = String(x).match(/^(\d+):(\d{1,2}(?:\.\d+)?)$/);
+    const v = m ? Number(m[1]) * 60 + Number(m[2]) : Number(String(x).replace(/s$/, ""));
+    return Number.isFinite(v) && v >= 0 ? v : null;
+  }
+  const VERDICTS = ["right", "wrong", "unsure"];
+
+  function turnFeedback(rec) {
+    return (tu, idx) => {
+      const k = turnKey(tu, idx);
+      const box = el("div", { class: "fb-turn" });
+      const status = el("span", { class: "rv-status", role: "status" });
+      const corr = el("textarea", { rows: "2", maxlength: "2000", lang: rec.lang, id: `corr-${idx}`, placeholder: has("review.turn.correction_placeholder") ? RZ.t("review.turn.correction_placeholder") : "" });
+      const note = el("input", { type: "text", maxlength: "2000", id: `note-${idx}`, placeholder: has("review.turn.note_placeholder") ? RZ.t("review.turn.note_placeholder") : "" });
+      const send = el("button", { type: "submit", class: "btn small primary", html: H("review.turn.submit"), disabled: !FB.enabled });
+      const form = el("form", { class: "fb-form", hidden: true, novalidate: true },
+        el("label", { for: `corr-${idx}`, html: H("review.turn.correction_label") }), corr,
+        el("label", { for: `note-${idx}`, html: H("review.turn.note_label") }), note,
+        el("div", { class: "rv-actions" }, send));
+      let verdict = null;
+      const btns = VERDICTS.map((v) => el("button", { type: "button", class: `btn small fb-v fb-${v}`, "aria-pressed": "false", disabled: !FB.enabled,
+        "aria-label": `${T("review.turn." + v)} — ${RZ.fmt(tu.start)}`, html: H("review.turn." + v),
+        onclick: () => {
+          const off = verdict === v;
+          pick(off ? null : v);
+          form.hidden = off;
+          if (!off) (v === "right" ? send : corr).focus();
+        } }));
+      function pick(v) { verdict = v; btns.forEach((b, j) => b.setAttribute("aria-pressed", String(VERDICTS[j] === v))); }
+      form.addEventListener("submit", async (e) => {
+        e.preventDefault();
+        if (!verdict) return;
+        const r = await submit({ turn_i: k, t: tu.start, verdict, correction: corr.value.trim() || undefined, note: note.value.trim() || undefined }, status, send, "review.turn.saved");
+        if (r) { form.hidden = true; corr.value = ""; note.value = ""; }
+      });
+      const shareBtn = el("button", { type: "button", class: "btn small fb-share", "aria-expanded": "false", html: H("review.turn.share") });
+      const sharePanel = shareRow(rec, Object.assign({ idx }, tu));
+      sharePanel.hidden = true;
+      shareBtn.addEventListener("click", () => { sharePanel.hidden = !sharePanel.hidden; shareBtn.setAttribute("aria-expanded", String(!sharePanel.hidden)); });
+      box.append(el("div", { class: "fb-row" }, ...btns, shareBtn), status, form, sharePanel);
+      return box;
+    };
+  }
+
+  function playFrom(t, turnI) {
+    if (!player) return;
+    const idx = turnI === null || turnI === undefined ? -1 : player.turns.findIndex((x, j) => turnKey(x, j) === Number(turnI));
+    if (idx >= 0) player.highlight(idx);
+    $("player-host").scrollIntoView({ block: "start", behavior: "smooth" });
+    player.seek(Math.max(0, Number(t) || 0), true);
+  }
+
+  function commentItem(c) {
+    const when = c.received_at ? new Date(c.received_at) : null;
+    const whenTxt = when && !isNaN(when) ? when.toLocaleString(undefined, { day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit" }) : "";
+    const turnI = c.turn_i === null || c.turn_i === undefined || c.turn_i === "" ? null : Number(c.turn_i);
+    const tu = turnI !== null && player ? player.turns.find((x, j) => turnKey(x, j) === turnI) : null;
+    const t = c.t !== null && c.t !== undefined && c.t !== "" && Number.isFinite(Number(c.t)) ? Number(c.t) : tu ? tu.start : null;
+    const head = el("div", { class: "c-head" }, el("strong", {}, String(c.name || "")), c.role ? el("span", { class: "c-role" }, String(c.role)) : "",
+      whenTxt ? el("time", { datetime: String(c.received_at) }, whenTxt) : "");
+    const bits = el("div", { class: "c-bits" });
+    if (t !== null) bits.append(el("button", { type: "button", class: "ts", "aria-label": `${T("review.comment.go_to_line")} ${RZ.fmt(t)}`, onclick: () => playFrom(t, turnI) }, "▶ " + RZ.fmt(t)));
+    if (VERDICTS.includes(c.verdict)) bits.append(el("span", { class: `c-verdict fb-${c.verdict}`, html: H("review.comment.verdict." + c.verdict) }));
+    const li = el("li", { class: "c-item" + (c.pending ? " pending" : "") }, head, bits.childNodes.length ? bits : "");
+    if (c.correction) li.append(el("p", { class: "c-corr" }, el("span", { class: "c-lab", html: H("review.comment.correction_prefix") }), " ", el("span", { lang: current ? current.lang : null }, String(c.correction))));
+    if (c.note) li.append(el("p", { class: "c-note" }, el("span", { class: "c-lab", html: H("review.comment.note_prefix") }), " ", String(c.note)));
+    if (c.comment) li.append(el("p", { class: "c-comment" }, String(c.comment)));
+    return li;
+  }
+  function addComment(c, top) {
+    const host = $("comments");
+    host.querySelectorAll("li.empty").forEach((n) => n.remove());
+    const li = commentItem(c);
+    top ? host.prepend(li) : host.append(li);
+  }
+  async function loadComments(id) {
+    const host = $("comments");
+    host.innerHTML = "";
+    if (!FB.enabled) { host.append(el("li", { class: "note empty", html: H("review.status.closed") })); return; }
+    const rows = await FB.list(id);
+    if (!current || current.id !== id) return;
+    host.innerHTML = "";
+    if (rows === null) { host.append(el("li", { class: "note empty", html: H("review.status.error") })); return; }
+    counts[id] = rows.length;
+    if (!rows.length) { host.append(el("li", { class: "note empty", html: H("review.comment.empty") })); return; }
+    rows.forEach((c) => addComment(c, false));
+  }
+
+  async function openRec(id, o) {
+    o = o || {};
+    const rec = byId[id];
+    current = rec; player = null;
+    $("list").hidden = true; $("intro").hidden = true; $("lang-tabs").hidden = true;
+    const sec = $("rec");
+    sec.hidden = false;
+    setH($("back"), "review.player.back_to_list");
+    $("back").href = "review.html?lang=" + encodeURIComponent(rec.lang);
+    $("back").onclick = (e) => { if (e.metaKey || e.ctrlKey) return; e.preventDefault(); go({ lang: rec.lang }); };
+    $("rec-title").textContent = recTitle(rec);
+    document.title = recTitle(rec) + " — " + baseTitle();
+    const meta = $("rec-meta");
+    meta.innerHTML = "";
+    meta.append(el("span", {}, RZ.langName(rec.lang)), rec.partner ? el("span", {}, rec.partner) : "",
+      el("span", {}, T("review.card.duration", { min: minutes(rec.duration) })), rec.kind ? el("span", {}, kindText(rec.kind)) : "",
+      rec.source ? el("span", { html: H("review.card.source." + rec.source) }) : "", spokenLine(rec) ? el("span", {}, spokenLine(rec)) : "");
+    $("rec-share").innerHTML = ""; $("rec-share").append(shareRow(rec, null));
+    $("player-host").innerHTML = "";
+
+    const stt = await RZ.load(`data/review/${encodeURIComponent(id)}.json`);
+    if (current !== rec) return;
+    const turns = ((stt && stt.turns) || []).slice().sort((a, b) => a.start - b.start);
+    let t = o.t, idx = null;
+    if (o.turn !== null && o.turn !== undefined) {
+      const j = turns.findIndex((x, n) => turnKey(x, n) === Number(o.turn));
+      if (j >= 0) { idx = j; if (t === null || t === undefined) t = turns[j].start; }
+    } else if (t !== null && t !== undefined) {
+      for (let j = 0; j < turns.length; j++) if (turns[j].start <= t + 0.05) idx = j;
+    }
+    if (t === undefined) t = null;
+    const banner = $("banner");
+    if (o.fromLink) {
+      banner.innerHTML = "";
+      banner.append(el("span", { html: H(t !== null ? "review.banner.deeplink_turn" : "review.banner.deeplink", { time: t !== null ? RZ.fmt(t) : "" }) }),
+        el("button", { type: "button", class: "btn small rv-x", html: H("review.banner.dismiss"), onclick: () => (banner.hidden = true) }));
+      banner.hidden = false;
+    } else banner.hidden = true;
+
+    const m = rec.media || {};
+    if (!m.src && !m.youtube_id) $("player-host").innerHTML = RZ.soon("");
+    else {
+      const data = Object.assign({ lang: rec.lang, title: recTitle(rec) }, stt || {}, { turns, media: m });
+      if (m.type === "youtube") data.video = { youtube_id: m.youtube_id, start: m.start || 0, end: m.end, title: rec.title, channel: rec.partner, url: `https://www.youtube.com/watch?v=${m.youtube_id}` };
+      const credit = m.type === "youtube" ? undefined : [rec.title, rec.partner].filter(Boolean).join(" · ");
+      player = new SyncPlayer($("player-host"), data, { key: rec.id, startAt: t, credit,
+        english: has("review.player.english_toggle") ? RZ.t("review.player.english_toggle") : undefined, turnExtra: turns.length ? turnFeedback(rec) : null });
+      SyncPlayer.byLang[rec.lang] = player;   // the coaching report's timestamps play this recording
+      $("player-host").querySelector(".sync").classList.add("rv-sync");
+      if (!turns.length) $("player-host").append(el("p", { class: "soon rv-soon", html: H("review.player.no_transcript") }));
+      if (idx !== null) { const p = player; requestAnimationFrame(() => p.highlight(idx)); }
+    }
+    // this recording's numbers: agreement is a proxy; a measured CER appears only where a verbatim same-language reference exists
+    const sc = $("rec-scores"), parts = [];
+    const line = (s) => `<div class="score-line">${scoreChip(s)} ${RZ.score(s).line ? `<span class="note">${RZ.esc(RZ.score(s).line)}</span>` : ""}</div>`;
+    const main = (stt && stt.score) || rec.score;
+    if (main) parts.push(line(main));
+    if (stt && stt.agreement && JSON.stringify(stt.agreement) !== JSON.stringify(main)) parts.push(line(stt.agreement));
+    if (stt && stt.reference && stt.reference.line) parts.push(`<p class="note">${RZ.esc(stt.reference.line)}</p>`);
+    if (stt && (stt.sources || []).length) parts.push(`<p class="note">${RZ.esc(RZ.ui("sources_label", "Sources"))} ${RZ.cite(stt.sources)}</p>`);
+    sc.innerHTML = parts.join("");
+
+    $("comment-label").innerHTML = H("review.comment.heading");
+    $("comment-text").placeholder = has("review.comment.placeholder") ? RZ.t("review.comment.placeholder") : "";
+    $("comment-text").disabled = !FB.enabled; $("comment-send").disabled = !FB.enabled;
+    setH($("comment-send"), "review.comment.submit");
+    $("comment-status").innerHTML = "";
+    loadComments(rec.id);
+
+    const cw = $("coach-wrap"); cw.hidden = true; $("coach-host").innerHTML = "";
+    if (rec.has_coaching) {
+      const coach = await RZ.load(`data/review/${encodeURIComponent(id)}.coach.json`);
+      if (coach && current === rec) {
+        if (coach.voice) coach.voice.words = await RZ.words(coach.voice.words);
+        window.Report.mount($("coach-host"), coach, rec.lang, {});
+        cw.hidden = false;
+      }
+    }
+    footnotes();
+    if (o.fromLink) { banner.scrollIntoView({ block: "start" }); sec.focus({ preventScroll: true }); }
+    else window.scrollTo(0, 0);
+  }
+  $("comment-form").addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const txt = $("comment-text").value.trim();
+    if (!txt || !current) { $("comment-text").focus(); return; }
+    const r = await submit({ comment: txt }, $("comment-status"), $("comment-send"), "review.status.thanks");
+    if (r) $("comment-text").value = "";
+  });
+
+  function footnotes() {
+    const any = document.querySelector("sup.fn");
+    $("sources").hidden = !any;
+    if (any) RZ.renderFootnotes($("fn-host"));
+  }
+
+  /* ---------- routing ---------- */
+  function showList() {
+    current = null; player = null;
+    $("rec").hidden = true; $("list").hidden = false; $("intro").hidden = false;
+    $("player-host").innerHTML = "";
+    document.title = baseTitle();
+    renderTabs(); renderList(); loadCounts(); footnotes();
+  }
+  function route(fromLink) {
+    const q = new URLSearchParams(location.search);
+    const r = q.get("r"), l = q.get("lang");
+    lang = l && langsPresent.includes(l) ? l : null;
+    if (r && byId[r]) {
+      const turn = q.get("turn");
+      return openRec(r, { t: parseT(q.get("t")), turn: turn !== null && /^\d+$/.test(turn) ? Number(turn) : null, fromLink });
+    }
+    showList();
+    if (l && !lang && index) $("list-notice").innerHTML = `<p class="soon">${H("review.switcher.empty", { lang: RZ.langName(l) })}</p>`;
+    if (r) $("list-notice").innerHTML = index ? `<p class="soon" role="alert">${H("review.player.no_transcript")}</p>` : RZ.soon("");
+  }
+  function go(p) {
+    const q = new URLSearchParams();
+    if (p.r) q.set("r", p.r); else if (p.lang) q.set("lang", p.lang);
+    history.pushState(null, "", "review.html" + (q.toString() ? "?" + q : ""));
+    route(false);
+  }
+  window.addEventListener("popstate", () => route(false));
+  route(true);
+})();

@@ -1,0 +1,960 @@
+{
+ "recordings": [
+  {
+   "id": "en-fw-plc-start",
+   "lang": "en",
+   "langs_spoken": [
+    {
+     "lang": "en",
+     "share": 1.0
+    }
+   ],
+   "title": "How do I start a PLC in my school",
+   "title_en": "Starting a professional learning community in a school",
+   "source": "partner",
+   "partner": "Funda Wande",
+   "kind": "training",
+   "duration": 148.84,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/en-fw-plc-start.mp4",
+    "poster": "assets/media/en-fw-plc-start.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "15LSCpnPW17-OH7SVpl_CVO2luwxkj3Po"
+  },
+  {
+   "id": "st-fw-syllable-cards",
+   "lang": "st",
+   "langs_spoken": [
+    {
+     "lang": "st",
+     "share": 1.0
+    }
+   ],
+   "title": "Building words with syllable cards",
+   "title_en": "Building words with syllable cards",
+   "source": "partner",
+   "partner": "Funda Wande",
+   "kind": "classroom",
+   "duration": 281.88,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/st-fw-syllable-cards.mp4",
+    "poster": "assets/media/st-fw-syllable-cards.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "1wEpYT3OHD1RzM6UqjSGjHS7khRbWNDM5"
+  },
+  {
+   "id": "xh-fw-coaching-prep",
+   "lang": "xh",
+   "langs_spoken": [
+    {
+     "lang": "xh",
+     "share": 0.73
+    },
+    {
+     "lang": "en",
+     "share": 0.27
+    }
+   ],
+   "title": "Coaching Prep Session",
+   "title_en": "A coaching preparation session",
+   "source": "partner",
+   "partner": "Funda Wande",
+   "kind": "meeting",
+   "duration": 415.47,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/xh-fw-coaching-prep.mp4",
+    "poster": "assets/media/xh-fw-coaching-prep.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "1cI1EDtTU6s0SxbdZWUNwrjW9UeeNgBDY"
+  },
+  {
+   "id": "xh-fw-what-is-orf",
+   "lang": "xh",
+   "langs_spoken": [
+    {
+     "lang": "xh",
+     "share": 0.98
+    },
+    {
+     "lang": "en",
+     "share": 0.02
+    }
+   ],
+   "title": "What is ORF · Part 1",
+   "title_en": "What is oral reading fluency, part 1",
+   "source": "partner",
+   "partner": "Funda Wande",
+   "kind": "training",
+   "duration": 211.84,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/xh-fw-what-is-orf.mp4",
+    "poster": "assets/media/xh-fw-what-is-orf.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "1mEN2vjYRcGILXMg4sysyJ2qkcbVrjI1c"
+  },
+  {
+   "id": "zu-vvob-m1-intro",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 0.97
+    },
+    {
+     "lang": "en",
+     "share": 0.03
+    }
+   ],
+   "title": "Module 1 · Izimiso nezilinganiso zokufunda · Isingeniso",
+   "title_en": "Module 1 · Reading principles and standards · Introduction",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "training",
+   "duration": 59.12,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m1-intro.mp4",
+    "poster": "assets/media/zu-vvob-m1-intro.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "1u3qW3-50l4uUbUl8458RfR3cSP_Igg8Y"
+  },
+  {
+   "id": "zu-vvob-m10-intro",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 10 · Ukufunda ngamaqembu okuholwa nguthisha · Isingeniso",
+   "title_en": "Module 10 · Group guided reading · Introduction",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "training",
+   "duration": 71.2,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m10-intro.mp4",
+    "poster": "assets/media/zu-vvob-m10-intro.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "1S2l6mMw0CecEHbCxqCEWxE8yjJArkr6K"
+  },
+  {
+   "id": "zu-vvob-m11-intro",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 11 · Ukufunda ngababili nokufunda ngokuzimela · Isingeniso",
+   "title_en": "Module 11 · Paired and independent reading · Introduction",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "training",
+   "duration": 70.76,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m11-intro.mp4",
+    "poster": "assets/media/zu-vvob-m11-intro.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "10wXxEEqDlJVgjC8Re1QQH7YsEJrZtPRk"
+  },
+  {
+   "id": "zu-vvob-m12-intro",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 12 · Ukufunda kuzwakale · Isingeniso",
+   "title_en": "Module 12 · Reading aloud · Introduction",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "training",
+   "duration": 60.48,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m12-intro.mp4",
+    "poster": "assets/media/zu-vvob-m12-intro.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "1b6yQoNCdqhDQCHCfI8yR8EqJDuHR7whl"
+  },
+  {
+   "id": "zu-vvob-m13-intro",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 13 · Ukugqugquzela usiko lokufunda emabangeni aphansi · Isingeniso",
+   "title_en": "Module 13 · Building a reading culture in the Foundation Phase · Introduction",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "training",
+   "duration": 107.62,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m13-intro.mp4",
+    "poster": "assets/media/zu-vvob-m13-intro.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "15wS1vySfHl8l7hGS044k6DWgiHD28Kbe"
+  },
+  {
+   "id": "zu-vvob-m2-intro",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 2 · Inqubekela phambili yokufunda ngokwamabanga ahlukene · Isingeniso",
+   "title_en": "Module 2 · Reading progression across the grades · Introduction",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "training",
+   "duration": 79.29,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m2-intro.mp4",
+    "poster": "assets/media/zu-vvob-m2-intro.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "125E8Ejdm6DWb3HdYkUrnCuJqWFntnSs6"
+  },
+  {
+   "id": "zu-vvob-m3-intro",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 3 · Ukufunda kokuqala ebangeni R · Isingeniso",
+   "title_en": "Module 3 · Emergent reading in Grade R · Introduction",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "training",
+   "duration": 61.36,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m3-intro.mp4",
+    "poster": "assets/media/zu-vvob-m3-intro.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "1jhAnKbbjWZr4D32mTwk18aNX2fp0goc7"
+  },
+  {
+   "id": "zu-vvob-m4-intro",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 0.97
+    },
+    {
+     "lang": "en",
+     "share": 0.03
+    }
+   ],
+   "title": "Module 4 · Ukuqonda imisindo kanye nolwazi lwemisindo · Isingeniso",
+   "title_en": "Module 4 · Phonological awareness and phonics · Introduction",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "training",
+   "duration": 81.6,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m4-intro.mp4",
+    "poster": "assets/media/zu-vvob-m4-intro.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "1mGoi0Ri4Zw6BtLSyoz9Ywy3WHJ9Yswei"
+  },
+  {
+   "id": "zu-vvob-m5-intro",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 5 · Imisindo · Isingeniso",
+   "title_en": "Module 5 · Phonics · Introduction",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "training",
+   "duration": 69.88,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m5-intro.mp4",
+    "poster": "assets/media/zu-vvob-m5-intro.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "1M5Am0FbfUeYu4QXfm8QXYWDbty8YuSQt"
+  },
+  {
+   "id": "zu-vvob-m6-intro",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 6 · Ukufunda ngokugeleza · Isingeniso",
+   "title_en": "Module 6 · Reading fluency · Introduction",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "training",
+   "duration": 64.0,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m6-intro.mp4",
+    "poster": "assets/media/zu-vvob-m6-intro.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "1ximKMvR_lG6_94qPSqot3tPRwlUQC5Pg"
+  },
+  {
+   "id": "zu-vvob-m6-l6",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 0.98
+    },
+    {
+     "lang": "en",
+     "share": 0.02
+    }
+   ],
+   "title": "Module 6 · Imisindo · Lesson 6 · Ukuhlola imisindo",
+   "title_en": "Module 6 · Phonics · Lesson 6 · Checking sounds",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "classroom",
+   "duration": 368.9,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m6-l6.mp4",
+    "poster": "assets/media/zu-vvob-m6-l6.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "13gsd4GaQvKkhs6nudPHoGOdv9n8TOqTL"
+  },
+  {
+   "id": "zu-vvob-m7-intro",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 7 · Ulwazimagama · Isingeniso",
+   "title_en": "Module 7 · Vocabulary · Introduction",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "training",
+   "duration": 74.12,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m7-intro.mp4",
+    "poster": "assets/media/zu-vvob-m7-intro.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "1vOznqyxfP477iBq6r2dTYq6vqtgHy4Re"
+  },
+  {
+   "id": "zu-vvob-m8-intro",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 8 · Isifundo sokuqondisisa · Isingeniso",
+   "title_en": "Module 8 · Comprehension lesson · Introduction",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "training",
+   "duration": 74.16,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m8-intro.mp4",
+    "poster": "assets/media/zu-vvob-m8-intro.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "13TO77gfBIw8GfP7lVNsk25sjb7PxH96K"
+  },
+  {
+   "id": "zu-vvob-m9-intro",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Module 9 · Ukufunda ngokuhlanganyela · Isingeniso",
+   "title_en": "Module 9 · Shared reading · Introduction",
+   "source": "partner",
+   "partner": "VVOB",
+   "kind": "training",
+   "duration": 70.32,
+   "media": {
+    "type": "mp4",
+    "src": "assets/media/zu-vvob-m9-intro.mp4",
+    "poster": "assets/media/zu-vvob-m9-intro.jpg",
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": "1SRAXbjTnZA-uHCmKsc2vlr9q7nnLRFNc"
+  },
+  {
+   "id": "zu-mindset-phonics",
+   "lang": "zu",
+   "langs_spoken": [
+    {
+     "lang": "zu",
+     "share": 1.0
+    }
+   ],
+   "title": "Phonics - isiZulu",
+   "title_en": "Mindset Teach phonics lesson in isiZulu (public YouTube video)",
+   "source": "public",
+   "partner": "Mindset Teach",
+   "kind": "classroom",
+   "duration": 372.0,
+   "media": {
+    "type": "youtube",
+    "src": null,
+    "poster": null,
+    "youtube_id": "U5GLqE4Ox1U",
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-video-zu"
+   ]
+  },
+  {
+   "id": "xh-mindset-phonics-tsh",
+   "lang": "xh",
+   "langs_spoken": [
+    {
+     "lang": "xh",
+     "share": 1.0
+    }
+   ],
+   "title": "Phonics \"tsh\" - isiXhosa",
+   "title_en": "Mindset Teach phonics lesson in isiXhosa (public YouTube video)",
+   "source": "public",
+   "partner": "Mindset Teach",
+   "kind": "classroom",
+   "duration": 375.0,
+   "media": {
+    "type": "youtube",
+    "src": null,
+    "poster": null,
+    "youtube_id": "TG_Z0xhGnLE",
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-video-xh"
+   ]
+  },
+  {
+   "id": "st-mindset-phonics-ng",
+   "lang": "st",
+   "langs_spoken": [
+    {
+     "lang": "st",
+     "share": 1.0
+    }
+   ],
+   "title": "Phonics \"ng\" - seSotho",
+   "title_en": "Mindset Teach phonics lesson in Sesotho (public YouTube video)",
+   "source": "public",
+   "partner": "Mindset Teach",
+   "kind": "classroom",
+   "duration": 348.0,
+   "media": {
+    "type": "youtube",
+    "src": null,
+    "poster": null,
+    "youtube_id": "H_EDt8PyOM8",
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-video-st"
+   ]
+  },
+  {
+   "id": "st-nchlt-1",
+   "lang": "st",
+   "langs_spoken": [
+    {
+     "lang": "st",
+     "share": 1.0
+    }
+   ],
+   "title": "Sesotho read sentence 1 (NCHLT)",
+   "title_en": "A read sentence in Sesotho from the NCHLT speech dataset (South African Centre for Digital Language Resources, CC BY 3.0), with its published transcript",
+   "source": "public",
+   "partner": "NCHLT",
+   "kind": "read_speech",
+   "duration": 6.85,
+   "media": {
+    "type": "mp3",
+    "src": "assets/media/st-nchlt-1.mp3",
+    "poster": null,
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-nchlt"
+   ]
+  },
+  {
+   "id": "st-nchlt-2",
+   "lang": "st",
+   "langs_spoken": [
+    {
+     "lang": "st",
+     "share": 1.0
+    }
+   ],
+   "title": "Sesotho read sentence 2 (NCHLT)",
+   "title_en": "A read sentence in Sesotho from the NCHLT speech dataset (South African Centre for Digital Language Resources, CC BY 3.0), with its published transcript",
+   "source": "public",
+   "partner": "NCHLT",
+   "kind": "read_speech",
+   "duration": 6.21,
+   "media": {
+    "type": "mp3",
+    "src": "assets/media/st-nchlt-2.mp3",
+    "poster": null,
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-nchlt"
+   ]
+  },
+  {
+   "id": "st-nchlt-3",
+   "lang": "st",
+   "langs_spoken": [
+    {
+     "lang": "st",
+     "share": 1.0
+    }
+   ],
+   "title": "Sesotho read sentence 3 (NCHLT)",
+   "title_en": "A read sentence in Sesotho from the NCHLT speech dataset (South African Centre for Digital Language Resources, CC BY 3.0), with its published transcript",
+   "source": "public",
+   "partner": "NCHLT",
+   "kind": "read_speech",
+   "duration": 5.89,
+   "media": {
+    "type": "mp3",
+    "src": "assets/media/st-nchlt-3.mp3",
+    "poster": null,
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-nchlt"
+   ]
+  },
+  {
+   "id": "nso-fleurs-1",
+   "lang": "nso",
+   "langs_spoken": [
+    {
+     "lang": "nso",
+     "share": 1.0
+    }
+   ],
+   "title": "Sepedi read sentence 1 (FLEURS)",
+   "title_en": "A read sentence in Sepedi from the FLEURS speech dataset (Google, CC BY 4.0), with its published transcript",
+   "source": "public",
+   "partner": "FLEURS",
+   "kind": "read_speech",
+   "duration": 13.74,
+   "media": {
+    "type": "mp3",
+    "src": "assets/media/nso-fleurs-1.mp3",
+    "poster": null,
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-fleurs"
+   ]
+  },
+  {
+   "id": "nso-fleurs-2",
+   "lang": "nso",
+   "langs_spoken": [
+    {
+     "lang": "nso",
+     "share": 1.0
+    }
+   ],
+   "title": "Sepedi read sentence 2 (FLEURS)",
+   "title_en": "A read sentence in Sepedi from the FLEURS speech dataset (Google, CC BY 4.0), with its published transcript",
+   "source": "public",
+   "partner": "FLEURS",
+   "kind": "read_speech",
+   "duration": 13.68,
+   "media": {
+    "type": "mp3",
+    "src": "assets/media/nso-fleurs-2.mp3",
+    "poster": null,
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-fleurs"
+   ]
+  },
+  {
+   "id": "nso-fleurs-3",
+   "lang": "nso",
+   "langs_spoken": [
+    {
+     "lang": "nso",
+     "share": 1.0
+    }
+   ],
+   "title": "Sepedi read sentence 3 (FLEURS)",
+   "title_en": "A read sentence in Sepedi from the FLEURS speech dataset (Google, CC BY 4.0), with its published transcript",
+   "source": "public",
+   "partner": "FLEURS",
+   "kind": "read_speech",
+   "duration": 13.68,
+   "media": {
+    "type": "mp3",
+    "src": "assets/media/nso-fleurs-3.mp3",
+    "poster": null,
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-fleurs"
+   ]
+  },
+  {
+   "id": "tn-nchlt-1",
+   "lang": "tn",
+   "langs_spoken": [
+    {
+     "lang": "tn",
+     "share": 1.0
+    }
+   ],
+   "title": "Setswana read sentence 1 (NCHLT)",
+   "title_en": "A read sentence in Setswana from the NCHLT speech dataset (South African Centre for Digital Language Resources, CC BY 3.0), with its published transcript",
+   "source": "public",
+   "partner": "NCHLT",
+   "kind": "read_speech",
+   "duration": 14.64,
+   "media": {
+    "type": "mp3",
+    "src": "assets/media/tn-nchlt-1.mp3",
+    "poster": null,
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-nchlt"
+   ]
+  },
+  {
+   "id": "tn-nchlt-2",
+   "lang": "tn",
+   "langs_spoken": [
+    {
+     "lang": "tn",
+     "share": 1.0
+    }
+   ],
+   "title": "Setswana read sentence 2 (NCHLT)",
+   "title_en": "A read sentence in Setswana from the NCHLT speech dataset (South African Centre for Digital Language Resources, CC BY 3.0), with its published transcript",
+   "source": "public",
+   "partner": "NCHLT",
+   "kind": "read_speech",
+   "duration": 7.56,
+   "media": {
+    "type": "mp3",
+    "src": "assets/media/tn-nchlt-2.mp3",
+    "poster": null,
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-nchlt"
+   ]
+  },
+  {
+   "id": "tn-nchlt-3",
+   "lang": "tn",
+   "langs_spoken": [
+    {
+     "lang": "tn",
+     "share": 1.0
+    }
+   ],
+   "title": "Setswana read sentence 3 (NCHLT)",
+   "title_en": "A read sentence in Setswana from the NCHLT speech dataset (South African Centre for Digital Language Resources, CC BY 3.0), with its published transcript",
+   "source": "public",
+   "partner": "NCHLT",
+   "kind": "read_speech",
+   "duration": 6.84,
+   "media": {
+    "type": "mp3",
+    "src": "assets/media/tn-nchlt-3.mp3",
+    "poster": null,
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-nchlt"
+   ]
+  },
+  {
+   "id": "af-fleurs-1",
+   "lang": "af",
+   "langs_spoken": [
+    {
+     "lang": "af",
+     "share": 1.0
+    }
+   ],
+   "title": "Afrikaans read sentence 1 (FLEURS)",
+   "title_en": "A read sentence in Afrikaans from the FLEURS speech dataset (Google, CC BY 4.0), with its published transcript",
+   "source": "public",
+   "partner": "FLEURS",
+   "kind": "read_speech",
+   "duration": 21.96,
+   "media": {
+    "type": "mp3",
+    "src": "assets/media/af-fleurs-1.mp3",
+    "poster": null,
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-fleurs"
+   ]
+  },
+  {
+   "id": "af-fleurs-2",
+   "lang": "af",
+   "langs_spoken": [
+    {
+     "lang": "af",
+     "share": 1.0
+    }
+   ],
+   "title": "Afrikaans read sentence 2 (FLEURS)",
+   "title_en": "A read sentence in Afrikaans from the FLEURS speech dataset (Google, CC BY 4.0), with its published transcript",
+   "source": "public",
+   "partner": "FLEURS",
+   "kind": "read_speech",
+   "duration": 20.28,
+   "media": {
+    "type": "mp3",
+    "src": "assets/media/af-fleurs-2.mp3",
+    "poster": null,
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-fleurs"
+   ]
+  },
+  {
+   "id": "af-fleurs-3",
+   "lang": "af",
+   "langs_spoken": [
+    {
+     "lang": "af",
+     "share": 1.0
+    }
+   ],
+   "title": "Afrikaans read sentence 3 (FLEURS)",
+   "title_en": "A read sentence in Afrikaans from the FLEURS speech dataset (Google, CC BY 4.0), with its published transcript",
+   "source": "public",
+   "partner": "FLEURS",
+   "kind": "read_speech",
+   "duration": 20.22,
+   "media": {
+    "type": "mp3",
+    "src": "assets/media/af-fleurs-3.mp3",
+    "poster": null,
+    "youtube_id": null,
+    "start": 0,
+    "end": null
+   },
+   "has_coaching": false,
+   "score": null,
+   "drive_file_id": null,
+   "sources": [
+    "fn-fleurs"
+   ]
+  }
+ ]
+}

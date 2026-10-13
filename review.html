@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Listening review — Rumi in South African languages</title>
+<meta name="description" content="Listen to classroom and training recordings in South African languages and tell us where Rumi heard them right or wrong.">
+<link rel="icon" type="image/png" href="assets/img/rumi-mark.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body class="review-page">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header"><div class="inner">
+  <a class="brand" href="index.html" aria-label="Rumi in South African languages — overview"><img src="assets/img/rumi-mark.png" alt="Rumi"><span>South African languages</span></a>
+  <nav class="lang-switch" aria-label="Pages">
+    <a href="index.html">Overview</a>
+    <a href="zu.html" lang="zu">isiZulu</a>
+    <a href="xh.html" lang="xh">isiXhosa</a>
+    <a href="st.html" lang="st">Sesotho</a>
+    <a href="review.html" aria-current="page"><span class="nav-long">Listening review</span><span class="nav-short">Review</span></a>
+  </nav>
+</div></header>
+<main id="main" class="review-main">
+  <section id="intro" class="review-intro">
+    <h1 data-copy="review.meta.title"></h1>
+    <p class="lede" data-copy="review.meta.lead"></p>
+    <p class="note" data-copy="review.meta.dateline"></p>
+    <div class="card how">
+      <h2 class="subcard-title" data-copy="review.howto.heading"></h2>
+      <ol class="how-steps" id="how-steps"></ol>
+      <p class="note" data-copy="review.howto.time_note"></p>
+      <p class="note" data-copy="review.privacy.line"></p>
+    </div>
+  </section>
+
+  <nav id="lang-tabs" class="rv-tabs" aria-label="Languages"></nav>
+
+  <section id="list" class="rv-list" aria-live="polite">
+    <h2 id="list-heading" class="sr-only"></h2>
+    <div id="list-notice"></div>
+    <div id="cards" class="rv-cards"></div>
+    <details class="card labels-help" id="labels-help">
+      <summary data-copy="review.scores.heading"></summary>
+      <ul class="bullets" id="labels-list"></ul>
+      <p class="note" data-copy="review.meta.page_note"></p>
+    </details>
+  </section>
+
+  <section id="rec" class="rv-rec" hidden tabindex="-1" aria-labelledby="rec-title">
+    <p><a href="review.html" id="back" class="rv-back"></a></p>
+    <h2 id="rec-title"></h2>
+    <div id="rec-meta" class="rv-meta"></div>
+    <div id="rec-share" class="rv-share-row"></div>
+
+    <form id="reviewer" class="rv-reviewer card" autocomplete="on" novalidate>
+      <p class="subcard-title rv-who" data-copy="review.identity.heading"></p>
+      <div class="rv-field">
+        <label for="rv-name" id="rv-name-label"></label>
+        <input id="rv-name" name="name" type="text" maxlength="60" required autocomplete="name" aria-describedby="rv-name-err">
+      </div>
+      <div class="rv-field">
+        <label for="rv-role" id="rv-role-label"></label>
+        <input id="rv-role" name="role" type="text" maxlength="60" list="rv-roles" autocomplete="organization-title">
+        <datalist id="rv-roles"></datalist>
+      </div>
+      <div class="rv-hp" aria-hidden="true"><label for="rv-website">Website</label><input id="rv-website" name="website" type="text" tabindex="-1" autocomplete="off"></div>
+      <p id="rv-name-err" class="rv-err" role="alert" hidden></p>
+      <p id="rv-closed" class="rv-closed" hidden></p>
+      <p id="rv-queue" class="rv-queue" role="status" hidden></p>
+      <p class="note rv-remember" data-copy="review.identity.remember_note"></p>
+    </form>
+
+    <div id="banner" class="rv-banner" role="status" hidden></div>
+    <h3 class="rv-player-h" data-copy="review.player.heading"></h3>
+    <div id="player-host" class="rv-player"></div>
+    <p class="note" data-copy="review.player.speakers_note"></p>
+    <div id="rec-scores" class="rv-scores"></div>
+
+    <div class="rv-bottom">
+      <section class="card rv-comment" aria-labelledby="comment-h">
+        <h3 id="comment-h" data-copy="review.comment.heading"></h3>
+        <form id="comment-form" novalidate>
+          <label for="comment-text" class="sr-only" id="comment-label"></label>
+          <textarea id="comment-text" rows="4" maxlength="2000"></textarea>
+          <div class="rv-actions"><button type="submit" class="btn primary" id="comment-send"></button><span class="rv-status" id="comment-status" role="status"></span></div>
+        </form>
+      </section>
+      <section class="card rv-comments" aria-labelledby="comments-h">
+        <h3 id="comments-h" data-copy="review.comment.list_heading"></h3>
+        <ol id="comments" class="rv-comment-list"></ol>
+      </section>
+    </div>
+    <section id="coach-wrap" class="block" hidden>
+      <h3 data-copy="review.card.coaching"></h3>
+      <div id="coach-host"></div>
+    </section>
+  </section>
+
+  <section id="sources" class="block">
+    <div id="fn-host"></div>
+  </section>
+</main>
+<footer class="site-footer"><p><img src="assets/img/rumi-mark.png" alt=""><span data-copy="review.footer.line"></span></p><p data-copy="review.footer.credit"></p></footer>
+<script src="assets/js/core.js"></script>
+<script src="assets/js/karaoke.js"></script>
+<script src="assets/js/syncplayer.js"></script>
+<script src="assets/js/components.js"></script>
+<script src="assets/js/feedback.js"></script>
+<script src="assets/js/review-page.js"></script>
+</body>
+</html>

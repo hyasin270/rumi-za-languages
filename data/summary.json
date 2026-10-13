@@ -38,7 +38,8 @@
     "Q2": {
      "value": "8.8",
      "label": "measured",
-     "href": "zu.html#listening"
+     "href": "zu.html#listening",
+     "review_href": "review.html?lang=zu"
     },
     "Q3": {
      "value": "9.6",
@@ -73,7 +74,8 @@
     "Q2": {
      "value": "7.8",
      "label": "measured",
-     "href": "xh.html#listening"
+     "href": "xh.html#listening",
+     "review_href": "review.html?lang=xh"
     },
     "Q3": {
      "value": "7.6",
@@ -108,7 +110,8 @@
      "value": "7.8",
      "label": "measured",
      "href": "st.html#listening",
-     "note": "short read prompts; not comparable with isiZulu/isiXhosa"
+     "note": "short read prompts; not comparable with isiZulu/isiXhosa",
+     "review_href": "review.html?lang=st"
     },
     "Q3": {
      "value": "9.7",
@@ -147,7 +150,8 @@
      "Q2": {
       "value": "7.8",
       "label": "measured",
-      "href": "index.html#also-tested"
+      "href": "index.html#also-tested",
+      "review_href": "review.html?lang=nso"
      },
      "Q3": {
       "value": "9.3",
@@ -181,7 +185,8 @@
      "Q2": {
       "value": "9.1",
       "label": "measured",
-      "href": "index.html#also-tested"
+      "href": "index.html#also-tested",
+      "review_href": "review.html?lang=af"
      },
      "Q3": {
       "value": "—",
@@ -216,7 +221,8 @@
       "value": "8.9",
       "label": "measured",
       "href": "index.html#also-tested",
-      "note": "short read prompts; not comparable with isiZulu/isiXhosa"
+      "note": "short read prompts; not comparable with isiZulu/isiXhosa",
+      "review_href": "review.html?lang=tn"
      },
      "Q3": {
       "value": "—",
@@ -248,6 +254,7 @@
   "measured": "a script compared Rumi's output with a known-good reference",
   "AI-judged": "a second AI model judged it, or two engines were compared where no human reference exists; never decides a verdict",
   "native ear pending": "no first-language speaker has checked it yet; true of every number on this site",
-  "verdict": "GREEN: every test run scored 7 or more out of 10. AMBER: one landed between 4 and 7. RED: one fell below 4. Rounding always goes against us: scores are cut down, error rates up."
+  "verdict": "GREEN: every test run scored 7 or more out of 10. AMBER: one landed between 4 and 7. RED: one fell below 4. Rounding always goes against us: scores are cut down, error rates up.",
+  "review": "Listening review: partner recordings and public lessons, transcript shown line by line; reviewers' corrections become a measured error rate per recording. The headline Listening score comes from read speech with human transcripts and does not change."
  }
 }

@@ -1,0 +1,4 @@
+{
+ "feedback_api": "https://feedback-api-production-09fe.up.railway.app/api",
+ "sheet_note": "Your name and feedback are saved for the evaluation team and shown under this recording. No email or phone number is collected."
+}

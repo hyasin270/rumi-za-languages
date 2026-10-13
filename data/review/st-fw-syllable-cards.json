@@ -1,0 +1,734 @@
+{
+ "id": "st-fw-syllable-cards",
+ "lang": "st",
+ "engine": "Gemini 3.5 Flash",
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 1.1,
+   "end": 2.1,
+   "speaker": "Teacher",
+   "text": "E, nthebe.",
+   "en": "Yes, look at me.",
+   "agree": 0.625
+  },
+  {
+   "i": 1,
+   "start": 3.1,
+   "end": 4.1,
+   "speaker": "Teacher",
+   "text": "Hema.",
+   "en": "Breathe.",
+   "agree": 1.0
+  },
+  {
+   "i": 2,
+   "start": 5.1,
+   "end": 10.1,
+   "speaker": "Trainer",
+   "text": "Kajeno re tlo tla re bopa mantswe. Re tlo bopa",
+   "en": "Today we are going to come and build words. We are going to build",
+   "agree": 1.0
+  },
+  {
+   "i": 3,
+   "start": 10.1,
+   "end": 11.1,
+   "speaker": "Learners",
+   "text": "mantswe.",
+   "en": "words.",
+   "agree": 1.0
+  },
+  {
+   "i": 4,
+   "start": 11.1,
+   "end": 20.0,
+   "speaker": "Trainer",
+   "text": "Re tlo bopa mantswe. Mantswe a rona ha re tlo tla re a bopa, re tlo tla re a bopela mona letlapeng la rona. O tlo tla o kgetha medumo o mametse",
+   "en": "We are going to build words. Our words when we come to build them, we are going to come and build them here on our board. You will come and choose sounds while listening",
+   "agree": 0.964
+  },
+  {
+   "i": 5,
+   "start": 28.5,
+   "end": 40.0,
+   "speaker": "Teacher",
+   "text": "O tlo tlo kgetha medumo o mametse modumo o o reng ke ofe o tlo bitsang lentswe. Ke tlo kgetha a le mong a tlo tla a nketsetsa lentswe leo. O tlo le tlosa mona",
+   "en": "You will come and choose sounds while listening to which sound is saying what, which will call the word. I will choose one who will come and make that word for me. You will take it from here",
+   "agree": 0.865
+  },
+  {
+   "i": 6,
+   "start": 40.0,
+   "end": 46.9,
+   "speaker": "Teacher",
+   "text": "wa fihla wa beya mona wa aha lentswe. Tlhola letsogo ke tla ikgethela gore na ke tla kgetha mang. Lentswe la pele",
+   "en": "and when you arrive you put it here and build a word. Raise your hand, I will choose for myself who I will choose. The first word",
+   "agree": 0.856
+  },
+  {
+   "i": 7,
+   "start": 46.9,
+   "end": 51.9,
+   "speaker": "Teacher",
+   "text": "re tlo tla re bopa lentswe le reng nama. Re tlo bopa lentswe le reng eng?",
+   "en": "we are going to come and build the word that says nama. We are going to build the word that says what?",
+   "agree": 0.986
+  },
+  {
+   "i": 8,
+   "start": 51.9,
+   "end": 54.3,
+   "speaker": "Learners",
+   "text": "Nama.",
+   "en": "Nama.",
+   "agree": 0.75
+  },
+  {
+   "i": 9,
+   "start": 54.3,
+   "end": 56.6,
+   "speaker": "Teacher",
+   "text": "Re tlo bopa lentswe le reng?",
+   "en": "We are going to build the word that says?",
+   "agree": 1.0
+  },
+  {
+   "i": 10,
+   "start": 60.0,
+   "end": 62.0,
+   "speaker": "Teacher",
+   "text": "Gona re bapaleng lentswe la reng?",
+   "en": "Now let's play the word that says?",
+   "agree": 0.594
+  },
+  {
+   "i": 11,
+   "start": 62.0,
+   "end": 63.5,
+   "speaker": "Learners",
+   "text": "nama",
+   "en": "nama",
+   "agree": 0.0
+  },
+  {
+   "i": 12,
+   "start": 63.5,
+   "end": 67.0,
+   "speaker": "Teacher",
+   "text": "Ha ke re nama, o utlwa modumo ofe o qalang?",
+   "en": "When I say nama, which starting sound do you hear?",
+   "agree": 0.976
+  },
+  {
+   "i": 13,
+   "start": 67.0,
+   "end": 68.6,
+   "speaker": "Learners",
+   "text": "n",
+   "en": "n",
+   "agree": 0.0
+  },
+  {
+   "i": 14,
+   "start": 68.6,
+   "end": 71.0,
+   "speaker": "Teacher",
+   "text": "Ha o re na, ke n le eng?",
+   "en": "When you say na, it is n and what?",
+   "agree": 0.909
+  },
+  {
+   "i": 15,
+   "start": 71.0,
+   "end": 72.5,
+   "speaker": "Learners",
+   "text": "le a",
+   "en": "and a",
+   "agree": 1.0
+  },
+  {
+   "i": 16,
+   "start": 72.5,
+   "end": 74.0,
+   "speaker": "Teacher",
+   "text": "Ke n le eng?",
+   "en": "It is n and what?",
+   "agree": 0.818
+  },
+  {
+   "i": 17,
+   "start": 74.0,
+   "end": 75.5,
+   "speaker": "Learners",
+   "text": "le a",
+   "en": "and a",
+   "agree": 0.0
+  },
+  {
+   "i": 18,
+   "start": 75.5,
+   "end": 82.0,
+   "speaker": "Teacher",
+   "text": "[learner]. Tlo o tlo tla o re bopela lentswe la rona la nama. O tlo tla o kgetha modumo",
+   "en": "[learner]. Come, you will come and build for us our word of nama. You will come and choose the sound",
+   "agree": 0.906
+  },
+  {
+   "i": 19,
+   "start": 82.0,
+   "end": 83.3,
+   "speaker": "Teacher",
+   "text": "na.",
+   "en": "na.",
+   "agree": 1.0
+  },
+  {
+   "i": 20,
+   "start": 84.3,
+   "end": 88.0,
+   "speaker": "Teacher",
+   "text": "O shebe medumo ya hao, o kgethe na.",
+   "en": "Look at your sounds, choose na.",
+   "agree": 0.97
+  },
+  {
+   "i": 21,
+   "start": 88.0,
+   "end": 90.0,
+   "speaker": "Teacher",
+   "text": "O tlo tla o beya mona.",
+   "en": "You will come and put it here.",
+   "agree": 0.952
+  },
+  {
+   "i": 22,
+   "start": 90.6,
+   "end": 93.6,
+   "speaker": "Teacher",
+   "text": "Ba nthetseng, modumo o o beileng ke ofeng?",
+   "en": "Look at me, which sound did you put?",
+   "agree": 0.775
+  },
+  {
+   "i": 23,
+   "start": 93.6,
+   "end": 94.5,
+   "speaker": "Learners",
+   "text": "Nna.",
+   "en": "Nna.",
+   "agree": 1.0
+  },
+  {
+   "i": 24,
+   "start": 94.5,
+   "end": 99.6,
+   "speaker": "Teacher",
+   "text": "Ke modumo \"nna\". Ha o qala ho beya modumo \"nna\", ho tlo latela eng?",
+   "en": "It is the sound \"nna\". When you start putting the sound \"nna\", what is going to follow?",
+   "agree": 0.933
+  },
+  {
+   "i": 25,
+   "start": 99.6,
+   "end": 100.6,
+   "speaker": "Learners",
+   "text": "A.",
+   "en": "A.",
+   "agree": 1.0
+  },
+  {
+   "i": 26,
+   "start": 100.6,
+   "end": 105.6,
+   "speaker": "Teacher",
+   "text": "Ho latela \"a\", ke \"n\" le \"a\". Tšhole re re'ng? \"Nna\". \"Mma\".",
+   "en": "It follows \"a\", it is \"n\" and \"a\". What do we say? \"Nna\". \"Mma\".",
+   "agree": 0.889
+  },
+  {
+   "i": 27,
+   "start": 105.6,
+   "end": 112.4,
+   "speaker": "Teacher",
+   "text": "Re batla \"mma\". Re tlo tla re sheba \"mma\". \"Mma\" ne? Re tlo tla re e beya mona. Ha o re \"mma\", o utloa modumo ofe le ofe?",
+   "en": "We want \"mma\". We will come and look for \"mma\". \"Mma\" right? We will come and put it here. When you say \"mma\", which sounds do you hear?",
+   "agree": 0.841
+  },
+  {
+   "i": 28,
+   "start": 112.4,
+   "end": 114.3,
+   "speaker": "Learner",
+   "text": "\"M\" le \"a\".",
+   "en": "\"M\" and \"a\".",
+   "agree": 0.5
+  },
+  {
+   "i": 29,
+   "start": 114.3,
+   "end": 119.6,
+   "speaker": "Teacher",
+   "text": "O utloa modumo \"m\" le \"a\". Nka modumo wa hao wa \"mma\".",
+   "en": "You hear the sound \"m\" and \"a\". Take your sound of \"mma\".",
+   "agree": 0.978
+  },
+  {
+   "i": 30,
+   "start": 119.6,
+   "end": 122.0,
+   "speaker": "Teacher",
+   "text": "Nka modumo wa hao wa mma",
+   "en": "Take your sound of mma",
+   "agree": 0.958
+  },
+  {
+   "i": 31,
+   "start": 124.3,
+   "end": 131.6,
+   "speaker": "Teacher",
+   "text": "Aha, lentswe la rona le se le feletse. Ha re le bale re tlo re ke?",
+   "en": "Aha, our word is now complete. When we read it, we will say it is?",
+   "agree": 0.778
+  },
+  {
+   "i": 32,
+   "start": 131.6,
+   "end": 133.6,
+   "speaker": "Learners",
+   "text": "nama",
+   "en": "nama",
+   "agree": 0.5
+  },
+  {
+   "i": 33,
+   "start": 133.6,
+   "end": 137.0,
+   "speaker": "Teacher",
+   "text": "Ke kopa [learner] yena fela a bue, ne? Ha re e bale, [learner], ke?",
+   "en": "I ask that [learner] only should speak, right? When we read it, [learner], it is?",
+   "agree": 0.724
+  },
+  {
+   "i": 34,
+   "start": 137.0,
+   "end": 138.6,
+   "speaker": "Learner",
+   "text": "nama",
+   "en": "nama",
+   "agree": 0.5
+  },
+  {
+   "i": 35,
+   "start": 138.6,
+   "end": 140.3,
+   "speaker": "Teacher",
+   "text": "Ke batla o pitlella hape",
+   "en": "I want you to press again",
+   "agree": 0.75
+  },
+  {
+   "i": 36,
+   "start": 140.3,
+   "end": 141.6,
+   "speaker": "Learner",
+   "text": "nama",
+   "en": "nama",
+   "agree": 0.5
+  },
+  {
+   "i": 37,
+   "start": 141.6,
+   "end": 143.6,
+   "speaker": "Teacher",
+   "text": "Le bitse hantle, ke eng?",
+   "en": "Pronounce it well, what is it?",
+   "agree": 1.0
+  },
+  {
+   "i": 38,
+   "start": 143.6,
+   "end": 145.0,
+   "speaker": "Learner",
+   "text": "nama",
+   "en": "nama",
+   "agree": 0.5
+  },
+  {
+   "i": 39,
+   "start": 145.0,
+   "end": 147.6,
+   "speaker": "Teacher",
+   "text": "[learner], tsamaea o yo dula fatshe.",
+   "en": "[learner], go and sit down.",
+   "agree": 0.719
+  },
+  {
+   "i": 40,
+   "start": 147.6,
+   "end": 150.0,
+   "speaker": "Teacher",
+   "text": "Opela [learner] matsoho.",
+   "en": "Clap hands for [learner].",
+   "agree": 0.952
+  },
+  {
+   "i": 41,
+   "start": 151.0,
+   "end": 159.9,
+   "speaker": "Teacher",
+   "text": "Tlohella re tlo etsa lentswe le leng hape hape. Re tlo etsa lentswe le leng hape hape la, re qetile ka matsogo, re tlo etsa lentswe la ta-ma-ti. Re tlo etsa'ng?",
+   "en": "Let's go on to make another word again and again. We are going to make another word again and again of, we are done with hands, we are going to make the word of ta-ma-ti. What are we going to make?",
+   "agree": 0.735
+  },
+  {
+   "i": 42,
+   "start": 159.9,
+   "end": 161.9,
+   "speaker": "Learners",
+   "text": "Ta-ma-ti.",
+   "en": "Ta-ma-ti.",
+   "agree": 0.5
+  },
+  {
+   "i": 43,
+   "start": 161.9,
+   "end": 163.0,
+   "speaker": "Teacher",
+   "text": "Ha ke utlwi.",
+   "en": "I don't hear.",
+   "agree": 0.0
+  },
+  {
+   "i": 44,
+   "start": 163.0,
+   "end": 165.0,
+   "speaker": "Learners",
+   "text": "Ta-ma-ti.",
+   "en": "Ta-ma-ti.",
+   "agree": 0.0
+  },
+  {
+   "i": 45,
+   "start": 165.0,
+   "end": 170.5,
+   "speaker": "Teacher",
+   "text": "Re lebohile. Ke batla o tle, o tlo tla o re bopela lentswe la rona la ta-ma-ti.",
+   "en": "Thank you. I want you to come, you will come and build for us our word of ta-ma-ti.",
+   "agree": 0.895
+  },
+  {
+   "i": 46,
+   "start": 179.6,
+   "end": 180.8,
+   "speaker": "Teacher",
+   "text": "O tlolla mose.",
+   "en": "You cross over.",
+   "agree": 0.308
+  },
+  {
+   "i": 47,
+   "start": 181.6,
+   "end": 185.0,
+   "speaker": "Teacher",
+   "text": "Tla. Ha re re tla, o utloa modumo mang?",
+   "en": "Come. When we say tla, which sound do you hear?",
+   "agree": 0.861
+  },
+  {
+   "i": 48,
+   "start": 185.0,
+   "end": 186.0,
+   "speaker": "Learner",
+   "text": "Le a.",
+   "en": "And a.",
+   "agree": 1.0
+  },
+  {
+   "i": 49,
+   "start": 186.0,
+   "end": 189.0,
+   "speaker": "Teacher",
+   "text": "O utloa tl le a. Kgetha tl le a.",
+   "en": "You hear tl and a. Choose tl and a.",
+   "agree": 0.967
+  },
+  {
+   "i": 50,
+   "start": 192.0,
+   "end": 193.6,
+   "speaker": "Teacher",
+   "text": "Tla. Ho latela eng?",
+   "en": "Tla. What follows?",
+   "agree": 1.0
+  },
+  {
+   "i": 51,
+   "start": 193.6,
+   "end": 197.0,
+   "speaker": "Teacher",
+   "text": "Tla, ma, ti. Ho latela eng?",
+   "en": "Tla, ma, ti. What follows?",
+   "agree": 0.913
+  },
+  {
+   "i": 52,
+   "start": 197.0,
+   "end": 198.2,
+   "speaker": "Learner",
+   "text": "Le m.",
+   "en": "And m.",
+   "agree": 1.0
+  },
+  {
+   "i": 53,
+   "start": 198.2,
+   "end": 202.0,
+   "speaker": "Teacher",
+   "text": "Na ho latela tl? Ha re re ma, ho latela eng le eng?",
+   "en": "Does tl follow? When we say ma, what and what follows?",
+   "agree": 0.896
+  },
+  {
+   "i": 54,
+   "start": 202.0,
+   "end": 203.0,
+   "speaker": "Learner",
+   "text": "Le a.",
+   "en": "And a.",
+   "agree": 1.0
+  },
+  {
+   "i": 55,
+   "start": 203.0,
+   "end": 206.0,
+   "speaker": "Teacher",
+   "text": "Ho latela m le a. Sheba m.",
+   "en": "It follows m and a. Look at m.",
+   "agree": 0.833
+  },
+  {
+   "i": 56,
+   "start": 208.5,
+   "end": 212.0,
+   "speaker": "Teacher",
+   "text": "le a. Go latela m le a. Sheba m ya gago le a.",
+   "en": "and a. It follows m and a. Look at your m and a.",
+   "agree": 0.833
+  },
+  {
+   "i": 57,
+   "start": 215.5,
+   "end": 222.5,
+   "speaker": "Teacher",
+   "text": "Aha. Lentsu la rona ha le so felle, re na le ta. Ma. Re tlo tla re kenya ti. Go latela eng le eng?",
+   "en": "Aha. Our word is not yet complete, we have ta. Ma. We will come and put ti. What and what follows?",
+   "agree": 0.957
+  },
+  {
+   "i": 58,
+   "start": 222.5,
+   "end": 223.5,
+   "speaker": "Learners",
+   "text": "t le i",
+   "en": "t and i",
+   "agree": 1.0
+  },
+  {
+   "i": 59,
+   "start": 223.5,
+   "end": 226.0,
+   "speaker": "Teacher",
+   "text": "Go latela t le i. Kaofela ha re be ntse re shebile, akere?",
+   "en": "It follows t and i. All of us let's be looking, right?",
+   "agree": 0.782
+  },
+  {
+   "i": 60,
+   "start": 226.0,
+   "end": 227.0,
+   "speaker": "Learners",
+   "text": "Eya.",
+   "en": "Yes.",
+   "agree": 0.333
+  },
+  {
+   "i": 61,
+   "start": 227.5,
+   "end": 233.0,
+   "speaker": "Teacher",
+   "text": "Aha. Lentsu la rona ke leo jwale le se le feletse. Re tlo tla re le bala. Le tsebeng mo ke eng?",
+   "en": "Aha. Our word is that one now it is complete. We will come and read it. Do you know here what is it?",
+   "agree": 0.582
+  },
+  {
+   "i": 62,
+   "start": 233.0,
+   "end": 234.0,
+   "speaker": "Learners",
+   "text": "ta",
+   "en": "ta",
+   "agree": 0.0
+  },
+  {
+   "i": 63,
+   "start": 239.9,
+   "end": 240.8,
+   "speaker": "Learners",
+   "text": "Ta.",
+   "en": "Ta.",
+   "agree": 0.0
+  },
+  {
+   "i": 64,
+   "start": 240.8,
+   "end": 243.9,
+   "speaker": "Teacher",
+   "text": "A-a, ha ho bale yena a le mong. Re tla bala le yena ka morao, akere?",
+   "en": "No, let him not read alone. We will read with him afterwards, right?",
+   "agree": 0.656
+  },
+  {
+   "i": 65,
+   "start": 243.9,
+   "end": 244.6,
+   "speaker": "Learners",
+   "text": "Ta.",
+   "en": "Ta.",
+   "agree": 1.0
+  },
+  {
+   "i": 66,
+   "start": 244.6,
+   "end": 247.0,
+   "speaker": "Learners",
+   "text": "Ma, ti.",
+   "en": "Ma, ti.",
+   "agree": 0.8
+  },
+  {
+   "i": 67,
+   "start": 247.0,
+   "end": 247.9,
+   "speaker": "Teacher",
+   "text": "Hape.",
+   "en": "Again.",
+   "agree": 1.0
+  },
+  {
+   "i": 68,
+   "start": 247.9,
+   "end": 250.9,
+   "speaker": "Learners",
+   "text": "Ta, ma, ti.",
+   "en": "Ta, ma, ti.",
+   "agree": 0.875
+  },
+  {
+   "i": 69,
+   "start": 250.9,
+   "end": 254.9,
+   "speaker": "Teacher",
+   "text": "Ke batla re le bitse re potlakile jwale. E tlo ba lentswe le feletseng la re ke eng?",
+   "en": "I want us to say it quickly now. It will be a complete word saying what?",
+   "agree": 0.878
+  },
+  {
+   "i": 70,
+   "start": 254.9,
+   "end": 257.6,
+   "speaker": "Learners",
+   "text": "Ta, ma, ti.",
+   "en": "Ta, ma, ti.",
+   "agree": 0.875
+  },
+  {
+   "i": 71,
+   "start": 257.6,
+   "end": 259.9,
+   "speaker": "Teacher",
+   "text": "Le bitse hantle, la re ke eng?",
+   "en": "Say it well, saying what?",
+   "agree": 0.75
+  },
+  {
+   "i": 72,
+   "start": 259.9,
+   "end": 261.6,
+   "speaker": "Learners",
+   "text": "Tamati.",
+   "en": "Tamati.",
+   "agree": 1.0
+  },
+  {
+   "i": 73,
+   "start": 261.6,
+   "end": 262.6,
+   "speaker": "Teacher",
+   "text": "Hape, hape.",
+   "en": "Again, again.",
+   "agree": 1.0
+  },
+  {
+   "i": 74,
+   "start": 262.6,
+   "end": 264.0,
+   "speaker": "Learners",
+   "text": "Tamati.",
+   "en": "Tamati.",
+   "agree": 1.0
+  },
+  {
+   "i": 75,
+   "start": 264.0,
+   "end": 266.6,
+   "speaker": "Teacher",
+   "text": "Ha re bitsa lentswe la rona ke eng?",
+   "en": "When we say our word, what is it?",
+   "agree": 0.971
+  },
+  {
+   "i": 76,
+   "start": 266.6,
+   "end": 269.0,
+   "speaker": "Learners",
+   "text": "Tamati.",
+   "en": "Tamati.",
+   "agree": 1.0
+  },
+  {
+   "i": 77,
+   "start": 268.5,
+   "end": 273.1,
+   "speaker": "Trainer",
+   "text": "Hame a pheha, o pheha dijo o tshela eng dijong?",
+   "en": "When mother cooks, she cooks food, she puts what in the food?",
+   "agree": 0.0
+  },
+  {
+   "i": 78,
+   "start": 273.1,
+   "end": 275.0,
+   "speaker": "Trainer",
+   "text": "Tamati.",
+   "en": "Tamati.",
+   "agree": 0.0
+  }
+ ],
+ "score": {
+  "value": 0.843,
+  "label": "engine agreement (proxy)",
+  "line": "Two engines (Gemini 3.5 Flash and Gemini 2.5 Pro) agree on 84.3% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+ },
+ "agreement": {
+  "value": 0.843,
+  "label": "engine agreement (proxy)",
+  "line": "Two engines (Gemini 3.5 Flash and Gemini 2.5 Pro) agree on 84.3% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

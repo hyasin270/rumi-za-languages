@@ -45,7 +45,8 @@
    "Steps seen / partly / not observed, each with a timed quote",
    "Debrief: questions, five-step plan, next step",
    "Grounding · coverage · stability"
-  ]
+  ],
+  "review_line": "New: a [Listening review page](review.html) with the partners' own recordings. Anyone who speaks the language can play one, read what Rumi heard, and mark each line right or wrong; those checks become the first native-ear scores."
  },
  "index.languages": {
   "heading": "The three languages",
@@ -238,7 +239,8 @@
    "bullets": [
     "The runner-up is under two points behind; a second set of short phone prompts agrees [[fn:fn-nchlt]]. On this video the engines disagree mostly on names, chants and songs.",
     "A two-engine agreement gate stops a misheard name becoming a coaching question, as once happened in an earlier run."
-   ]
+   ],
+   "review_line": "Help us check: [review the isiZulu recordings →](review.html?lang=zu) and mark each line right or wrong. No first-language speaker has done this yet."
   },
   "coaching": {
    "heading": "Coaching",
@@ -328,7 +330,8 @@
    "lead": "Score 7.8: the best engine gets 11.0% of characters wrong on read isiXhosa, the highest error of the six.",
    "bullets": [
     "The next engine is about three points behind. Across the three public isiXhosa clips [[fn:fn-video-xh-2]] [[fn:fn-video-xh-3]] the two best engines disagree on 14.8% to 28.1% of characters (AI-judged), so the agreement gate is mandatory here."
-   ]
+   ],
+   "review_line": "Help us check: [review the isiXhosa recordings →](review.html?lang=xh) and mark each line right or wrong. No first-language speaker has done this yet."
   },
   "coaching": {
    "heading": "Coaching",
@@ -420,7 +423,8 @@
    "bullets": [
     "The main public sentence set has no Sesotho, so the score uses short phone prompts [[fn:fn-nchlt]] with their own English control; not comparable with isiZulu or isiXhosa.",
     "On this video the engines disagree on a noisy chorus and spelling turns; the other public clip [[fn:fn-video-st-2]] gives 23.9%. One slip reached the coach: n and g heard as \"m\" and \"kh\"."
-   ]
+   ],
+   "review_line": "Help us check: [review the Sesotho recordings →](review.html?lang=st) and mark each line right or wrong. No first-language speaker has done this yet."
   },
   "coaching": {
    "heading": "Coaching",
@@ -451,6 +455,146 @@
   },
   "footnotes": {
    "heading": "Sources for this page"
+  }
+ },
+ "review": {
+  "meta": {
+   "title": "Listening review",
+   "lead": "Help us check how well Rumi hears each language. Play a recording, read what Rumi heard, and tell us where it is right and where it is wrong.",
+   "dateline": "Recordings from VVOB, Funda Wande and public lessons · scores are labelled measured, AI-judged or native ear pending",
+   "nav_index": "Overview",
+   "nav_languages": "Languages",
+   "nav_review": "Listening review",
+   "page_note": "Every transcript on this page is a Rumi draft. Your corrections become the first native-ear score for that language."
+  },
+  "howto": {
+   "heading": "How to review",
+   "steps": [
+    "Pick your language, then open a recording. The transcript follows the audio line by line.",
+    "For each line, tap Right, Wrong or Not sure. If it is wrong, type what was actually said.",
+    "Add your name once, leave a comment on the recording if you like, and you are done. Two or three recordings is plenty."
+   ],
+   "time_note": "A five-minute recording takes about ten minutes to check. You can stop at any line; everything you have marked is already saved."
+  },
+  "switcher": {
+   "label": "Language",
+   "all": "All languages",
+   "count_line": "{n} recordings",
+   "count_one": "1 recording",
+   "empty": "No recordings in this language yet. Pick another language above."
+  },
+  "card": {
+   "open": "Open",
+   "duration": "{min} min",
+   "comments": "{count} comments",
+   "comments_one": "1 comment",
+   "comments_none": "No comments yet",
+   "coaching": "Coaching report",
+   "kind": {
+    "classroom": "Classroom lesson",
+    "training": "Training session",
+    "meeting": "Meeting",
+    "read_speech": "Read speech"
+   },
+   "source": {
+    "partner": "Partner recording",
+    "public": "Public recording"
+   },
+   "languages_line": "Mostly {lang}",
+   "languages_mixed": "{lang} with some {lang2}"
+  },
+  "player": {
+   "heading": "What Rumi heard",
+   "play": "Play",
+   "pause": "Pause",
+   "english_toggle": "English",
+   "speakers_note": "Names become [learner], [teacher] and [school]. Lines are labelled by who is speaking.",
+   "turn_time": "at {time}",
+   "back_to_list": "All recordings",
+   "no_transcript": "Rumi's transcript for this recording is not ready yet. Check back shortly."
+  },
+  "banner": {
+   "deeplink": "You were sent here to check this recording. Press play when you are ready; it will not start on its own.",
+   "deeplink_turn": "You were sent here to check one line of this recording. It is highlighted below; press play to hear it.",
+   "dismiss": "Got it"
+  },
+  "turn": {
+   "right": "Right",
+   "wrong": "Wrong",
+   "unsure": "Not sure",
+   "correction_label": "How it should read",
+   "correction_placeholder": "Type what was actually said, in the language spoken",
+   "note_label": "A note (optional)",
+   "note_placeholder": "For example: a name, a word in English, children talking over the teacher",
+   "submit": "Save",
+   "saved": "Saved, thank you.",
+   "share": "Share this line",
+   "marked_by": "Checked by {name}"
+  },
+  "comment": {
+   "heading": "Your comment on this recording",
+   "placeholder": "What did Rumi get right? Where did it go wrong? Anything a teacher would notice.",
+   "submit": "Send comment",
+   "list_heading": "Comments so far",
+   "empty": "No one has checked this recording yet. You could be the first.",
+   "go_to_line": "Go to this line",
+   "verdict": {
+    "right": "Right",
+    "wrong": "Wrong",
+    "unsure": "Not sure"
+   },
+   "correction_prefix": "Should read:",
+   "note_prefix": "Note:"
+  },
+  "identity": {
+   "heading": "Who is checking",
+   "name_label": "Your name",
+   "name_placeholder": "First name is fine",
+   "name_required": "Please add your name so we know who checked this.",
+   "role_label": "Your role (optional)",
+   "role_placeholder": "Teacher, coach, subject advisor…",
+   "remember_note": "We remember your name on this device so you only type it once.",
+   "change": "Change"
+  },
+  "share": {
+   "heading": "Ask a speaker to check this",
+   "copy_link": "Copy link",
+   "copied": "Link copied",
+   "whatsapp": "WhatsApp",
+   "email": "Email",
+   "message": "Could you check one {lang} recording for us? It is {min} minutes long. Play it and mark each line right or wrong: {link}",
+   "message_turn": "Could you check one line of a {lang} recording for us? It takes a minute: {link}",
+   "email_subject": "One {lang} recording to check"
+  },
+  "status": {
+   "thanks": "Thank you. Your check is on the page and in our records.",
+   "thanks_short": "Thank you",
+   "error": "That did not save. Your words are still in the box; please try again.",
+   "retry": "Try again",
+   "sending": "Saving…",
+   "closed": "Feedback opens shortly. You can still play every recording and read what Rumi heard.",
+   "offline": "You seem to be offline. Your check will save when you are back online; keep the page open.",
+   "too_many": "That is a lot of checks in a short time. Please wait a few minutes and try again."
+  },
+  "privacy": {
+   "line": "Your name and your comment are shown on this page. Nothing else about you is kept, except a scrambled network code that stops spam."
+  },
+  "scores": {
+   "heading": "What the score labels mean on this page",
+   "measured": "Measured: Rumi's transcript was compared, character by character, with a reference in the same language: the recording's own captions, a published transcript, or the corrections reviewers have typed here.",
+   "proxy": "AI-judged (proxy): no reference exists, so two transcription engines were compared with each other. Where they disagree, at least one is wrong; where they agree, both can still be wrong.",
+   "pending": "Native ear pending: no first-language speaker has checked this recording yet. Your checks change that.",
+   "chip_measured": "measured",
+   "chip_proxy": "AI-judged",
+   "chip_pending": "native ear pending",
+   "agreement_label": "Engines disagree on {pct} of characters",
+   "cer_label": "{pct} of characters wrong",
+   "reviewer_label": "{pct} of characters wrong, from {n} reviewer corrections",
+   "no_score": "Not scored yet"
+  },
+  "footer": {
+   "line": "Built by Rumi. Transcripts on this page are Rumi drafts; the comments are the reviewers' own words.",
+   "credit": "Partner recordings are shown with the permission of VVOB and Funda Wande. Public lessons are credited by title and channel."
   }
  }
 }
