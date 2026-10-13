@@ -2,6 +2,7 @@
  "id": "zu-vvob-m1-intro",
  "lang": "zu",
  "engine": "Gemini 2.5 Pro",
+ "version": 1,
  "turns_version": 1,
  "turns": [
   {
@@ -98,11 +99,13 @@
  "score": {
   "value": 0.988,
   "label": "engine agreement (proxy)",
+  "display": "98.8% engine agreement (proxy)",
   "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.8% of characters across this 1-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
  },
  "agreement": {
   "value": 0.988,
   "label": "engine agreement (proxy)",
+  "display": "98.8% engine agreement (proxy)",
   "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.8% of characters across this 1-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
  },
  "reference": {

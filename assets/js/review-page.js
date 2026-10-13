@@ -217,7 +217,7 @@
   }
   const VERDICTS = ["right", "wrong", "unsure"];
 
-  function turnFeedback(rec) {
+  function turnFeedback(rec, version) {
     return (tu, idx) => {
       const k = turnKey(tu, idx);
       const box = el("div", { class: "fb-turn" });
@@ -242,7 +242,7 @@
       form.addEventListener("submit", async (e) => {
         e.preventDefault();
         if (!verdict) return;
-        const r = await submit({ turn_i: k, t: tu.start, verdict, correction: corr.value.trim() || undefined, note: note.value.trim() || undefined }, status, send, "review.turn.saved");
+        const r = await submit({ turn_i: k, t: tu.start, turn_text: String(tu.text || "").slice(0, 2000) || undefined, transcript_version: version, verdict, correction: corr.value.trim() || undefined, note: note.value.trim() || undefined }, status, send, "review.turn.saved");
         if (r) { form.hidden = true; corr.value = ""; note.value = ""; }
       });
       const shareBtn = el("button", { type: "button", class: "btn small fb-share", "aria-expanded": "false", html: H("review.turn.share") });
@@ -344,7 +344,7 @@
       if (m.type === "youtube") data.video = { youtube_id: m.youtube_id, start: m.start || 0, end: m.end, title: rec.title, channel: rec.partner, url: `https://www.youtube.com/watch?v=${m.youtube_id}` };
       const credit = m.type === "youtube" ? undefined : [rec.title, rec.partner].filter(Boolean).join(" · ");
       player = new SyncPlayer($("player-host"), data, { key: rec.id, startAt: t, credit,
-        english: has("review.player.english_toggle") ? RZ.t("review.player.english_toggle") : undefined, turnExtra: turns.length ? turnFeedback(rec) : null });
+        english: has("review.player.english_toggle") ? RZ.t("review.player.english_toggle") : undefined, turnExtra: turns.length ? turnFeedback(rec, stt && (stt.version != null ? stt.version : stt.turns_version != null ? stt.turns_version : undefined)) : null });
       SyncPlayer.byLang[rec.lang] = player;   // the coaching report's timestamps play this recording
       $("player-host").querySelector(".sync").classList.add("rv-sync");
       if (!turns.length) $("player-host").append(el("p", { class: "soon rv-soon", html: H("review.player.no_transcript") }));

@@ -51,7 +51,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.843,
+    "label": "engine agreement (proxy)",
+    "display": "84.3% engine agreement (proxy)",
+    "line": "Two engines (Gemini 3.5 Flash and Gemini 2.5 Pro) agree on 84.3% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+   },
    "drive_file_id": "1wEpYT3OHD1RzM6UqjSGjHS7khRbWNDM5"
   },
   {
@@ -144,7 +149,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.988,
+    "label": "engine agreement (proxy)",
+    "display": "98.8% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.8% of characters across this 1-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+   },
    "drive_file_id": "1u3qW3-50l4uUbUl8458RfR3cSP_Igg8Y"
   },
   {

@@ -2,6 +2,7 @@
  "id": "st-fw-syllable-cards",
  "lang": "st",
  "engine": "Gemini 3.5 Flash",
+ "version": 1,
  "turns_version": 1,
  "turns": [
   {
@@ -719,11 +720,13 @@
  "score": {
   "value": 0.843,
   "label": "engine agreement (proxy)",
+  "display": "84.3% engine agreement (proxy)",
   "line": "Two engines (Gemini 3.5 Flash and Gemini 2.5 Pro) agree on 84.3% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
  },
  "agreement": {
   "value": 0.843,
   "label": "engine agreement (proxy)",
+  "display": "84.3% engine agreement (proxy)",
   "line": "Two engines (Gemini 3.5 Flash and Gemini 2.5 Pro) agree on 84.3% of characters across this 5-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
  },
  "reference": {
