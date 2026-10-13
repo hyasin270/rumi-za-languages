@@ -572,7 +572,7 @@
    "whatsapp": "WhatsApp",
    "email": "Email",
    "message": "Could you check one {lang} recording for us? It takes about {min} min. Play it and mark each line right or wrong: {link}",
-   "message_turn": "Could you check one line of a {lang} recording for us? It takes a minute: {link}",
+   "message_turn": "Could you check one line of this {lang} recording for us? It takes a minute: {link}",
    "email_subject": "One {lang} recording to check"
   },
   "status": {

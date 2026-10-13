@@ -46,7 +46,7 @@
     new SyncPlayer($("sync-host"), stt, { english: RZ.t("listening.english_toggle") });
     const line = (s, key) => `<div class="score-line">${RZ.chip(s, { key })} <span class="note">${esc(RZ.score(s).line || "")}</span></div>`;
     $("stt-score").innerHTML = (stt.score ? (RZ.has("listening.score_line") ? `<div class="score-line">${RZ.chip(stt.score, { key: RZ.t("verdict.chips.Q2") || "Listening" })} <span class="note">${RZ.html("listening.score_line")}</span></div>` : line(stt.score, RZ.t("verdict.chips.Q2") || "Listening")) : "") +
-      // two engines compared with each other: a proxy, never "AI-judged" (COS, 13 Oct), whatever label the older data file carries
+      // two engines compared with each other: a proxy, never "AI-judged", whatever label the older data file carries
       (stt.agreement ? `<div class="score-line">${RZ.chip(Object.assign({}, RZ.score(stt.agreement), { label: "engine agreement (proxy)" }), { key: RZ.ui("stt_disagree", "Engines disagree on"), kind: Number(RZ.score(stt.agreement).value) <= 1 ? "pct-up" : "10" })} <span class="note">${
         RZ.has("listening.agreement_line") ? RZ.html("listening.agreement_line") : esc(RZ.score(stt.agreement).line || "")}</span></div>` : "") +
       ((stt.sources || []).length ? `<p class="note" style="margin-top:6px">${esc(RZ.ui("sources_label", "Sources"))} ${RZ.cite(stt.sources)}</p>` : "");
@@ -72,7 +72,7 @@
     Chat.mount($("chat-host"), tts);
     const s = RZ.score(tts.score);
     $("tts-score").innerHTML = `<div class="score-line">${RZ.chip(s, { key: RZ.t("verdict.chips.Q4") || "Speaking" })} <span class="note">${RZ.has("speaking.score_line") ? RZ.html("speaking.score_line") : esc(s.line || "")}${RZ.cite(tts.sources)}</span></div>`;
-    // the voices auditioned against the pick (VOICE lane): same sentence each, AI-judged nativeness + measured round trip
+    // the voices auditioned against the pick: same sentence each, AI-judged nativeness + measured round trip
     const trials = tts.voice_trials || [];
     if (trials.length) {
       const pct = (x) => (Math.ceil(x * 1000 - 1e-9) / 10).toFixed(1) + "%";   // error rates round up

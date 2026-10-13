@@ -10,7 +10,7 @@
  * Feedback.pending()         number of submissions waiting to send.  Feedback.flush() retries them now.
  * Feedback.onChange(fn)      called after any queue change / flush / send.
  * Feedback.list(recId)       GET /feedback?rec_id= → newest-first array, or null when the service cannot be reached.
- * Feedback.counts(ids)       {rec_id: n}: GET /feedback/counts when the service has it, else one GET per id (≤4 at a time).
+ * Feedback.counts(ids)       {rec_id: n}: one GET per id, at most 4 in flight.
  */
 (function () {
   const QKEY = "rz.review.queue", RKEY = "rz.review.reviewer";
@@ -107,10 +107,6 @@
     async counts(ids) {
       const out = {};
       if (!API || !ids.length) return out;
-      try {
-        const r = await fetch(API + "/feedback/counts", { cache: "no-store" });
-        if (r.ok) { const j = await r.json(); if (j && typeof j === "object") { ids.forEach((id) => (out[id] = Number(j[id]) || 0)); return out; } }
-      } catch (e) {}
       const todo = ids.slice(0, 60);
       const worker = async () => { while (todo.length) { const id = todo.shift(); const l = await Feedback.list(id); if (l) out[id] = l.length; } };
       await Promise.all([worker(), worker(), worker(), worker()]);

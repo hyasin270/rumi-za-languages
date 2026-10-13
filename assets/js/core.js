@@ -147,7 +147,7 @@
     const k = String(label || "").toLowerCase();
     if (!k) return ["", ""];
     if (k.includes("not run")) return [RZ.ui("label_not_run", "not run"), "pending"];
-    // "AI-judged" = a model scored it; "proxy" / "engine agreement" = two engines compared, nobody judged anything (COS, 13 Oct)
+    // "AI-judged" = a model scored it; "proxy" / "engine agreement" = two engines compared, nobody judged anything
     if (k.includes("ai-judged")) return [RZ.ui("label_ai", "AI-judged"), "ai"];
     if (k.includes("proxy") || k.includes("engine agreement")) return [RZ.ui("label_proxy", "proxy"), "proxy"];
     if (k.includes("ai")) return [RZ.ui("label_ai", "AI-judged"), "ai"];

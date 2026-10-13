@@ -7,7 +7,7 @@
  * Every string a reviewer typed reaches the page as a text node (RZ.el), never as HTML. Names never go into a URL.
  */
 (async function () {
-  const RZ = window.RZ, FB = window.Feedback, el = RZ.el, $ = (id) => document.getElementById(id);
+  const RZ = window.RZ, feedback = window.Feedback, el = RZ.el, $ = (id) => document.getElementById(id);
   const ORDER = ["zu", "xh", "st", "nso", "tn", "af", "en"];
   RZ.LANGS.en = RZ.LANGS.en || "English";
 
@@ -34,7 +34,7 @@
   $("how-steps").innerHTML = Array.isArray(steps) ? steps.map((x) => `<li>${RZ.inline(x)}</li>`).join("") : `<li>${RZ.placeholder("review.howto.steps")}</li>`;
   $("labels-list").innerHTML = ["measured", "proxy", "ai_judged", "pending", "read_sentence"].filter((k) => has("review.scores." + k)).map((k) => `<li>${H("review.scores." + k)}</li>`).join("");
 
-  const [index] = await Promise.all([RZ.load("data/review/index.json"), FB.init()]);
+  const [index] = await Promise.all([RZ.load("data/review/index.json"), feedback.init()]);
   const RECS = ((index && index.recordings) || []).filter((r) => r && r.id && r.lang);
   const byId = Object.fromEntries(RECS.map((r) => [r.id, r]));
   const langsPresent = ORDER.filter((l) => RECS.some((r) => r.lang === l)).concat([...new Set(RECS.map((r) => r.lang))].filter((l) => !ORDER.includes(l)));
@@ -69,57 +69,95 @@
     const word = chipWord(cls), mean = chipMeaning(cls);
     return `<span class="chip ${cls}"${mean ? ` title="${RZ.esc(mean)}"` : ""}><span class="v rv-v">${RZ.esc(txt)}</span>${word ? `<span class="l">${RZ.esc(word)}</span>` : ""}</span>`;
   }
-  /** A score's own line without STT3's trailing silence sentence (the page prints ED3's words for it once, below). */
+  /** A score's own line without its trailing silence sentence (the page prints that once, below, in its own words). */
   const SILENCE_RE = /\s*\d+ lines? the engine heard in silence (?:were|was) removed\.?/gi;
   const silenceLine = (n) => (n > 0 ? T(n === 1 ? "review.scores.removed_in_silence_one" : "review.scores.removed_in_silence", { n }) : "");
 
   /* ---------- names: a word typed against [learner] / [teacher] / [school] shows as that placeholder ----------
    * The same word-by-word alignment the feedback service applies before it returns a row; used here for the reviewer's own
-   * copy shown straight after Save, so a child's name never appears on the page even for a moment. */
-  const PH_RE = /\[(?:learner|teacher|school)\]/i;
-  const bare = (w) => w.toLowerCase().replace(/^[^\p{L}\p{N}\[]+|[^\p{L}\p{N}\]]+$/gu, "");
-  function maskNames(turnText, text) {
-    const a = String(turnText || "").split(/\s+/).filter(Boolean), b = String(text || "").split(/\s+/).filter(Boolean);
-    if (!b.length || !a.some((w) => PH_RE.test(w))) return { text: String(text || ""), names: [] };
-    const n = a.length, m = b.length, D = Array.from({ length: n + 1 }, (_, i) => Array.from({ length: m + 1 }, (_, j) => (i ? (j ? 0 : i) : j)));
-    const sub = (i, j) => (PH_RE.test(a[i]) || bare(a[i]) === bare(b[j]) ? 0 : 1);
-    for (let i = 1; i <= n; i++) for (let j = 1; j <= m; j++) D[i][j] = Math.min(D[i - 1][j - 1] + sub(i - 1, j - 1), D[i - 1][j] + 1, D[i][j - 1] + 1);
-    const out = b.slice(), names = [], masked = new Set(), extra = new Set();
-    let i = n, j = m;
-    for (; i > 0 && j > 0;) {
-      if (D[i][j] === D[i - 1][j - 1] + sub(i - 1, j - 1)) {
-        const ph = a[i - 1].match(PH_RE);
-        if (ph && !PH_RE.test(b[j - 1])) {
-          const w = b[j - 1], core = w.replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, "");
-          if (core) { names.push(core); out[j - 1] = w.replace(core, ph[0]); masked.add(j - 1); }
-        }
-        i--; j--;
-      } else if (D[i][j] === D[i - 1][j] + 1) i--;
-      else { extra.add(j - 1); j--; }
-    }
-    for (; j > 0; j--) extra.add(j - 1);
-    // a second capitalised word typed next to a masked one ("Nkawu Dlamini" against one [learner]) is part of the same name
-    let grew = true;
-    while (grew) {
-      grew = false;
-      for (const k of [...extra]) {
-        if ((masked.has(k - 1) || masked.has(k + 1)) && /^\p{Lu}/u.test(b[k].replace(/^[^\p{L}]+/u, ""))) {
-          names.push(b[k].replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, "")); out[k] = ""; masked.add(k); extra.delete(k); grew = true;
-        }
-      }
-    }
-    return { text: out.filter((w) => w !== "").join(" "), names };
+   * copy shown straight after Save, so a child's name never appears on the page even for a moment.
+   * One correction word per placeholder slot (adjacent placeholders take one word each); words around it are never folded in,
+   * and a word that occurs in the recording's own transcript is never treated as a name. */
+  const PH_RE = /\[(?:learner|teacher|school)\]/;
+  const EDGE = /^[^\p{L}\p{N}[\]]*([\s\S]*?)[^\p{L}\p{N}[\]]*$/u, UPPER = /\p{Lu}/u;
+  const parts = (tok) => { const core = tok.match(EDGE)[1], s = tok.indexOf(core); return { pre: tok.slice(0, s), core, post: tok.slice(s + core.length) }; };
+  const words = (s) => String(s || "").split(/\s+/).filter(Boolean);
+  const wkey = (tok) => parts(tok).core.toLowerCase();
+  const isPh = (tok) => PH_RE.test(tok);
+  // longest common subsequence on normalised words; a placeholder never matches a word
+  function matches(a, b) {
+    const n = a.length, m = b.length, L = Array.from({ length: n + 1 }, () => new Uint16Array(m + 1));
+    const same = (i, j) => !isPh(b[j]) && wkey(a[i]) !== "" && wkey(a[i]) === wkey(b[j]);
+    for (let i = n - 1; i >= 0; i--) for (let j = m - 1; j >= 0; j--) L[i][j] = same(i, j) ? L[i + 1][j + 1] + 1 : Math.max(L[i + 1][j], L[i][j + 1]);
+    const out = []; let i = 0, j = 0;
+    while (i < n && j < m) { if (same(i, j)) { out.push([i, j]); i++; j++; } else if (L[i + 1][j] >= L[i][j + 1]) i++; else j++; }
+    return out;
   }
-  function scrub(text, names) {
-    let t = String(text || "");
-    names.filter((x) => /^\p{Lu}/u.test(x)).forEach((x) => { t = t.replace(new RegExp("(^|[^\\p{L}])" + x.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "(?![\\p{L}])", "giu"), "$1[learner]"); });
-    return t;
+  const asPh = (turnTok, corrTok) => parts(turnTok).pre.replace(/^\W+/, "") + parts(turnTok).core + parts(corrTok).post;
+  // one unmatched block: each placeholder takes the single word in its own slot, counted from the nearer edge of the block
+  // (on a tie, from the edge that is a matched word rather than the start or end of the text)
+  function blockMap(cs, ts, ci, fromLeft) {
+    if (!cs.length) return [];
+    const out = [], used = new Set();
+    ts.forEach((t, k) => {
+      if (!isPh(t)) return;
+      const right = ts.length - 1 - k;
+      const left = cs.length === ts.length || k < right || (k === right && fromLeft);
+      const idx = left ? Math.min(k, cs.length - 1) : Math.max(0, cs.length - 1 - right);
+      if (used.has(idx)) return;
+      used.add(idx); out.push({ at: ci + idx, to: t });
+    });
+    return out;
   }
+  function plan(text, turnText) {
+    const cs = words(text), ts = words(turnText), anchors = [...matches(cs, ts), [cs.length, ts.length]], maps = [];
+    let pi = 0, pj = 0;
+    for (const [i, j] of anchors) { maps.push(...blockMap(cs.slice(pi, i), ts.slice(pj, j), pi, pi > 0 || i >= cs.length)); pi = i + 1; pj = j + 1; }
+    return { cs, maps };
+  }
+  function alignPlaceholders(text, turnText) {
+    if (!text || !turnText || !PH_RE.test(turnText)) return text || "";
+    const { cs, maps } = plan(text, turnText), out = cs.slice();
+    for (const { at, to } of maps) out[at] = asPh(to, cs[at]);
+    return out.join(" ");
+  }
+  const tailOf = (core) => core.replace(/^\p{Ll}+(?=\p{Lu})/u, ""); // "eSizwe" → also "Sizwe"
+  function namesFrom(text, turnText, vocab) {
+    const names = new Map();
+    if (!text || !turnText || !PH_RE.test(turnText)) return names;
+    const { cs, maps } = plan(text, turnText);
+    for (const { at, to } of maps) {
+      const core = parts(cs[at]).core;
+      if (!UPPER.test(core) || isPh(core)) continue;
+      const ph = to.match(PH_RE)[0];
+      for (const w of new Set([core, tailOf(core)])) if (!vocab.has(w.toLowerCase())) names.set(w.toLowerCase(), ph);
+    }
+    return names;
+  }
+  function scrubNames(text, names) {
+    if (!text || !names.size) return text || "";
+    return String(text).split(/(\s+)/).map((tok) => {
+      if (/^\s*$/.test(tok)) return tok;
+      const p = parts(tok);
+      if (!UPPER.test(p.core)) return tok;
+      const ph = names.get(p.core.toLowerCase()) || names.get(tailOf(p.core).toLowerCase());
+      return ph ? p.pre + ph + p.post : tok;
+    }).join("");
+  }
+  /** Every word of the open recording's transcript (text and gloss): never a name. */
+  const transcriptWords = () => {
+    const v = new Set();
+    ((player && player.turns) || []).forEach((tu) => [tu.text, tu.en, tu.gloss].forEach((s) => words(s).forEach((w) => v.add(wkey(w)))));
+    return v;
+  };
   /** The reviewer's own submission as the page may show it. */
   function shownCopy(body) {
     if (!body.turn_text) return body;
-    const c = maskNames(body.turn_text, body.correction);
-    return Object.assign({}, body, { correction: body.correction ? c.text : body.correction, note: body.note ? scrub(body.note, c.names) : body.note });
+    const names = namesFrom(body.correction, body.turn_text, transcriptWords());
+    return Object.assign({}, body, {
+      correction: body.correction ? scrubNames(alignPlaceholders(body.correction, body.turn_text), names) : body.correction,
+      note: body.note ? scrubNames(body.note, names) : body.note,
+    });
   }
 
   /* ---------- reviewer (name required, remembered on this device only) ---------- */
@@ -128,9 +166,9 @@
   setH($("rv-role-label"), "review.identity.role_label");
   nameIn.placeholder = has("review.identity.name_placeholder") ? RZ.t("review.identity.name_placeholder") : "";
   roleIn.placeholder = has("review.identity.role_placeholder") ? RZ.t("review.identity.role_placeholder") : "";
-  const me = FB.reviewer();
+  const me = feedback.reviewer();
   nameIn.value = me.name; roleIn.value = me.role;
-  const saveMe = () => FB.setReviewer({ name: nameIn.value.trim(), role: roleIn.value.trim() });
+  const saveMe = () => feedback.setReviewer({ name: nameIn.value.trim(), role: roleIn.value.trim() });
   nameIn.addEventListener("change", saveMe); roleIn.addEventListener("change", saveMe);
   nameIn.addEventListener("input", () => { if (nameIn.value.trim()) { $("rv-name-err").hidden = true; nameIn.removeAttribute("aria-invalid"); } });
   $("reviewer").addEventListener("submit", (e) => e.preventDefault());
@@ -143,21 +181,21 @@
     nameIn.focus({ preventScroll: true });
     return null;
   }
-  if (!FB.enabled) setH($("rv-closed"), "review.status.closed").hidden = false;
+  if (!feedback.enabled) setH($("rv-closed"), "review.status.closed").hidden = false;
   const queueLine = () => {
-    const n = FB.pending(), q = $("rv-queue");
+    const n = feedback.pending(), q = $("rv-queue");
     q.hidden = !n;
     if (!n) return;
     q.innerHTML = "";
     q.append(el("span", { html: H("review.status.offline") }), " ",
-      el("button", { type: "button", class: "btn small", onclick: () => FB.flush(), html: H("review.status.retry") }));
+      el("button", { type: "button", class: "btn small", onclick: () => feedback.flush(), html: H("review.status.retry") }));
   };
-  FB.onChange(queueLine);
+  feedback.onChange(queueLine);
   queueLine();
 
   /** Send one submission; paints statusNode; resolves "sent" | "queued" | null (failed: the reviewer's words stay in the box). */
   async function submit(payload, statusNode, btn, okKey) {
-    if (!FB.enabled || !current) return null;
+    if (!feedback.enabled || !current) return null;
     const name = needName();
     if (!name) return null;
     saveMe();
@@ -165,7 +203,7 @@
     const body = Object.assign({ rec_id: rec.id, name, role: roleIn.value.trim() || undefined, page_url: location.href, hp: hp.value || undefined }, payload);
     if (btn) btn.disabled = true;
     setH(statusNode, "review.status.sending"); statusNode.className = "rv-status";
-    const res = await FB.send(body);
+    const res = await feedback.send(body);
     if (btn) btn.disabled = false;
     if (res.state === "sent" || res.state === "queued") {
       setH(statusNode, res.state === "sent" ? okKey : "review.status.offline");
@@ -256,7 +294,7 @@
     $("list-heading").textContent = lang ? RZ.langName(lang) : T("review.switcher.all");
     if (!index) { $("list-notice").innerHTML = RZ.soon(""); return; }
     $("list-notice").innerHTML = list.length ? "" : `<p class="soon">${H("review.switcher.empty", { lang: RZ.langName(lang) })}</p>`;
-    // above one language's list: ED3's line for that language, why English is here, and what the score labels can and cannot say
+    // above one language's list: the partner line for that language, why English is here, and what the score labels can and cannot say
     const notes = $("list-notes"); notes.innerHTML = "";
     if (lang && list.length) {
       const p = (k) => (has(k) ? notes.append(el("p", { class: "rv-note", html: H(k) })) : null);
@@ -275,10 +313,10 @@
     });
   }
   async function loadCounts() {
-    if (!FB.enabled) return;
+    if (!feedback.enabled) return;
     const ids = (lang ? RECS.filter((r) => r.lang === lang) : RECS).map((r) => r.id).filter((id) => counts[id] === undefined);
     if (!ids.length) return;
-    Object.assign(counts, await FB.counts(ids));
+    Object.assign(counts, await feedback.counts(ids));
     document.querySelectorAll("[data-count]").forEach((n) => {
       const c = counts[n.getAttribute("data-count")];
       if (c !== undefined) n.innerHTML = countHtml(c);
@@ -301,14 +339,14 @@
       const status = el("span", { class: "rv-status", role: "status" });
       const corr = el("textarea", { rows: "2", maxlength: "2000", lang: rec.lang, id: `corr-${idx}`, "aria-describedby": `corr-hint-${idx}`, placeholder: has("review.turn.correction_placeholder") ? RZ.t("review.turn.correction_placeholder") : "" });
       const note = el("input", { type: "text", maxlength: "2000", id: `note-${idx}`, placeholder: has("review.turn.note_placeholder") ? RZ.t("review.turn.note_placeholder") : "" });
-      const send = el("button", { type: "submit", class: "btn small primary", html: H("review.turn.submit"), disabled: !FB.enabled });
+      const send = el("button", { type: "submit", class: "btn small primary", html: H("review.turn.submit"), disabled: !feedback.enabled });
       const form = el("form", { class: "fb-form", hidden: true, novalidate: true },
         el("label", { for: `corr-${idx}`, html: H("review.turn.correction_label") }), corr,
         el("p", { class: "rv-hint", id: `corr-hint-${idx}`, html: H("review.correction_hint") }),
         el("label", { for: `note-${idx}`, html: H("review.turn.note_label") }), note,
         el("div", { class: "rv-actions" }, send));
       let verdict = null;
-      const btns = VERDICTS.map((v) => el("button", { type: "button", class: `btn small fb-v fb-${v}`, "aria-pressed": "false", disabled: !FB.enabled,
+      const btns = VERDICTS.map((v) => el("button", { type: "button", class: `btn small fb-v fb-${v}`, "aria-pressed": "false", disabled: !feedback.enabled,
         "aria-label": `${T("review.turn." + v)} — ${RZ.fmt(tu.start)}`, html: H("review.turn." + v),
         onclick: () => {
           const off = verdict === v;
@@ -367,8 +405,8 @@
   async function loadComments(id) {
     const host = $("comments");
     host.innerHTML = "";
-    if (!FB.enabled) { host.append(el("li", { class: "note empty", html: H("review.status.closed") })); return; }
-    const rows = await FB.list(id);
+    if (!feedback.enabled) { host.append(el("li", { class: "note empty", html: H("review.status.closed") })); return; }
+    const rows = await feedback.list(id);
     if (!current || current.id !== id) return;
     host.innerHTML = "";
     if (rows === null) { host.append(el("li", { class: "note empty", html: H("review.status.error") })); return; }
@@ -453,7 +491,7 @@
 
     $("comment-label").innerHTML = H("review.comment.heading");
     $("comment-text").placeholder = has("review.comment.placeholder") ? RZ.t("review.comment.placeholder") : "";
-    $("comment-text").disabled = !FB.enabled; $("comment-send").disabled = !FB.enabled;
+    $("comment-text").disabled = !feedback.enabled; $("comment-send").disabled = !feedback.enabled;
     setH($("comment-send"), "review.comment.submit");
     $("comment-status").innerHTML = "";
     loadComments(rec.id);
