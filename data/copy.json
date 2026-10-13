@@ -12,7 +12,7 @@
   "lead": "Yes, with three conditions. On automated tests in all three languages, Rumi plans lessons from the curriculum, transcribes classroom speech, drafts coaching and replies in voice notes. No native speaker has checked a word yet.",
   "bullets": [
    "Lesson plans and coaching are strong in all three languages; listening is the capability that separates them.",
-   "Six languages, four capabilities, about ninety dollars of metered model and voice calls."
+   "Six languages, four capabilities, about a hundred dollars of metered model and voice calls."
   ],
   "conditions_heading": "The three conditions",
   "table_heading": "The scores at a glance",
@@ -143,7 +143,7 @@
  },
  "index.cost": {
   "heading": "What this cost",
-  "lead": "About ninety dollars of metered model and voice calls for six languages, four capabilities, 19 lesson plans, 12 classroom recordings and about 300 speech tests; authoring and judging ran on subscription seats.",
+  "lead": "About a hundred dollars of metered model and voice calls for six languages, four capabilities, 19 lesson plans, 12 classroom recordings and about 300 speech tests; authoring and judging ran on subscription seats.",
   "columns": [
    "Spend",
    "Amount"
@@ -151,15 +151,15 @@
   "rows": [
    [
     "Model calls, metered",
-    "$70.24"
+    "$83.51"
    ],
    [
     "Voice synthesis",
-    "$19.79"
+    "$20.08"
    ],
    [
     "Transcription and voice, billed direct",
-    "$2.31"
+    "$2.38"
    ],
    [
     "Image generation",
@@ -167,14 +167,14 @@
    ],
    [
     "Total",
-    "$92.42"
+    "$106.07"
    ]
   ],
-  "note": "Read from our spend ledger on 8 October 2026, including the voice auditions and the interactive demos on this site."
+  "note": "Read from our spend ledger on 13 October 2026, including the listening review (48 recordings transcribed and checked), the voice auditions and the interactive demos on this site."
  },
  "index.sources": {
   "heading": "Sources",
-  "lead": "Every document, recording and dataset used, linked to the exact file. Partner material is credited but not shown."
+  "lead": "Every document, recording and dataset used, linked to the exact file. The partners' own recordings play on the Listening review page; their coaching course is credited but not public."
  },
  "index.footer": {
   "line": "Built by Rumi. Lesson plans, transcripts, reports and voices on this site are Rumi drafts, not yet reviewed by a first-language speaker.",
@@ -190,7 +190,7 @@
     "Q3": "Coaching",
     "Q4": "Speaking"
    },
-   "lead": "GREEN on all four tests, and the only language where coaching was measured on partner material: three VVOB training videos, analysed privately.",
+   "lead": "GREEN on all four tests, and the only language where coaching was measured on partner material: three VVOB training videos, which now play on the Listening review page with all of VVOB's recordings.",
    "material": "Material: CAPS [[fn:fn-caps-zu]], the Grade 1 workbook [[fn:fn-wb-zu]], three readers [[fn:fn-asb-zu]], a speech set [[fn:fn-fleurs]], three partner videos [[fn:fn-vvob-videos]], two public lessons [[fn:fn-video-zu]] [[fn:fn-video-zu-2]]."
   },
   "lesson_plans": {
@@ -249,7 +249,7 @@
    "accuracy_heading": "How well Rumi observed",
    "accuracy_note": "These measure Rumi, not the teacher: quotes found, items filled, agreement across three runs.",
    "debrief_heading": "The spoken debrief",
-   "lead": "Score 9.6 comes from three partner training videos, analysed privately [[fn:fn-vvob-videos]]: 97.2% of quotes found, 93.3% of steps addressed, three runs in close agreement. Below, a full report on the public lesson above.",
+   "lead": "Score 9.6 comes from three VVOB training videos [[fn:fn-vvob-videos]] (they play on the Listening review page): 97.2% of quotes found, 93.3% of steps addressed, three runs in close agreement. Below, a full report on the public lesson above.",
    "bullets": [
     "The instrument discriminates: a staged demonstration and a real lesson of the same strand came out clearly apart; the stricter reader used below named a blockage a more lenient model missed.",
     "AI-judged, beside the score: feedback prose 5.0 out of 10 (understandable, not natural); 21.7% of factual claims flagged unsupported, an over-count including evaluative lines."
