@@ -1,0 +1,450 @@
+{
+ "id": "xh-fw-what-is-orf",
+ "media_id": "xh-fw-what-is-orf",
+ "lang": "xh",
+ "lesson": {
+  "strand": "shared_reading",
+  "focus": "learners reading aloud one at a time: a story 'Ujakalashe olambileyo' (the hungry jackal) and an information book on insects and the spider, then a recap of the insects",
+  "grade": "not stated"
+ },
+ "summary_en": "The clip opens mid-session with one learner reading the start of a story about a hungry jackal aloud, then another learner reads a page about a spider and is helped to re-read 'it is not an insect' and a sentence from the print. The teacher then leads a brisk whole-group recap of each insect met in the book with 'what did we meet?' and 'what does it do?' questions, answers the spider question themself, and sends learners back to their desks for a poem. It does not show how the session began, how the group or text was chosen, what the rest of the class was doing, a modelled reading, any question beyond recall, or any note about each reader; an unrehearsed session would also need to show the teacher recording what each reader needs next.",
+ "scope_en": "Rumi coached only what the recording shows in class (the teacher and learners). Narration over the film is in the transcript but is not treated as evidence that a step happened. The recording is an edited training film, so a step it does not show may still have happened.",
+ "steps": [
+  {
+   "id": "S1",
+   "name": "Before reading: title, cover, predictions",
+   "name_en": "Before reading: title, cover, predictions",
+   "status": "not_observed",
+   "note_en": "The clip starts with a learner already reading; no introduction of the text is shown.",
+   "evidence": [],
+   "from_run": "r3"
+  },
+  {
+   "id": "S2",
+   "name": "Pre-teach key words",
+   "name_en": "Pre-teach key words",
+   "status": "not_observed",
+   "note_en": "No pre-teaching of words is shown before the reading in the clip.",
+   "evidence": [],
+   "from_run": "r3"
+  },
+  {
+   "id": "S3",
+   "name": "Model fluent reading",
+   "name_en": "Model fluent reading",
+   "status": "partly",
+   "note_en": "The teacher reads two spider sentences aloud once; whether this is modelling for the group is not clear, and learners do most of the reading.",
+   "evidence": [
+    {
+     "t": 108.39,
+     "turn_i": 21,
+     "quote": "Isigcawu asinamaphiko. Isigcawu sitya izinambuzane.",
+     "en": "A spider does not have wings. A spider eats insects."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "S4",
+   "name": "Questions at different levels",
+   "name_en": "Questions at different levels",
+   "status": "partly",
+   "note_en": "A run of literal recall questions about each insect; the one 'what does the spider eat' question is answered by the teacher.",
+   "evidence": [
+    {
+     "t": 116.39,
+     "turn_i": 22,
+     "quote": "Zeziphi ezi nambuzane esidibene nazo? Siqale sadibana nantoni?",
+     "en": "Which are these insects we have met? First we met what?"
+    },
+    {
+     "t": 128.66,
+     "turn_i": 29,
+     "quote": "Etheni?",
+     "en": "Which does what?"
+    },
+    {
+     "t": 184.19,
+     "turn_i": 58,
+     "quote": "Sitya iintoni? Izinambuzane.",
+     "en": "What does it eat? Insects."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "S5",
+   "name": "After reading: structure, theme, retell",
+   "name_en": "After reading: structure, theme, retell",
+   "status": "partly",
+   "note_en": "The recap goes back over every insect in the book in order, teacher-led and in chorus; then a move to an unlinked poem.",
+   "evidence": [
+    {
+     "t": 179.24,
+     "turn_i": 55,
+     "quote": "Sadibana nantoni ke ngokokugqibela?",
+     "en": "We met what then lastly?"
+    },
+    {
+     "t": 188.49,
+     "turn_i": 59,
+     "quote": "Buyelani ezidesikeni ke, sikhuphe la mbongo.",
+     "en": "Go back to the desks then, so we can take out that poem."
+    }
+   ],
+   "from_run": "r3"
+  }
+ ],
+ "culture": [
+  {
+   "id": "C1",
+   "name": "Ukuthatha inxaxheba kwabafundi bonke",
+   "name_en": "Participation of all learners",
+   "status": "partly",
+   "note_en": "Two learners are heard reading individually; the recap is answered mostly in chorus, with one or two single voices.",
+   "evidence": [
+    {
+     "t": 96.19,
+     "turn_i": 16,
+     "quote": "Isigcawu sinemilenze esibhozo.",
+     "en": "A spider has eight legs."
+    },
+    {
+     "t": 121.89,
+     "turn_i": 23,
+     "quote": "Ngubululu.",
+     "en": "It is a caterpillar."
+    },
+    {
+     "t": 140.46,
+     "turn_i": 40,
+     "quote": "Onombala obomvu nemibala emibomvu namnyama.",
+     "en": "Which has a red colour and red and black colours."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C2",
+   "name": "Ukuncoma umzamo nokucinga",
+   "name_en": "Praise of effort and thinking",
+   "status": "partly",
+   "note_en": "Praise is general (good, you read very well) rather than naming what a reader did.",
+   "evidence": [
+    {
+     "t": 184.19,
+     "turn_i": 58,
+     "quote": "Nifunde kakuhle kakhulu okumeke abantwana bam.",
+     "en": "You read very well indeed, my children."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C3",
+   "name": "Ukuphatha iimpazamo",
+   "name_en": "Handling errors as learning",
+   "status": "seen",
+   "note_en": "On a misread word the teacher prompts repeated tries and sends the reader back to the print; the learner self-corrects. The teacher recasts a muddled answer.",
+   "evidence": [
+    {
+     "t": 78.18,
+     "turn_i": 8,
+     "quote": "Khaw'phinde, asi?",
+     "en": "Please repeat, it is not?"
+    },
+    {
+     "t": 100.39,
+     "turn_i": 17,
+     "quote": "Khaw'phinde ufunde sasibhalwe khona.",
+     "en": "Please read again where it was written."
+    },
+    {
+     "t": 143.46,
+     "turn_i": 41,
+     "quote": "Onombala obomvu namachokoza amnyama.",
+     "en": "Which has a red colour and black spots."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C4",
+   "name": "Isantya nokusebenzisa ixesha",
+   "name_en": "Pace and time on task",
+   "status": "seen",
+   "note_en": "The recap moves quickly through all the insects and the move back to desks is prompt; the clip is edited.",
+   "evidence": [
+    {
+     "t": 116.39,
+     "turn_i": 22,
+     "quote": "Makhe siqale msinyane ke.",
+     "en": "Let us start quickly then."
+    },
+    {
+     "t": 188.49,
+     "turn_i": 59,
+     "quote": "Buyelani ezidesikeni ke",
+     "en": "Go back to the desks then"
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "C5",
+   "name": "Ukuhlola ukuqonda komfundi ngamnye",
+   "name_en": "Checking individual understanding",
+   "status": "partly",
+   "note_en": "One reader's word and sentence are checked and re-read; other learners are not checked individually.",
+   "evidence": [
+    {
+     "t": 86.68,
+     "turn_i": 12,
+     "quote": "Yitsho kakuhle ke.",
+     "en": "Say it well then."
+    },
+    {
+     "t": 103.79,
+     "turn_i": 19,
+     "quote": "Isigcawu sinemilenze esibhozo.",
+     "en": "A spider has eight legs."
+    }
+   ],
+   "from_run": "r3"
+  }
+ ],
+ "positives": [
+  {
+   "en": "When a reader stumbled, the teacher sent them back to read the sentence where it was written, so the correction came from the print and not from memory.",
+   "t": 100.39,
+   "turn_i": 17
+  },
+  {
+   "en": "The teacher kept asking the reader to try again rather than giving the answer, and the learner finally read 'it is not an insect' on their own.",
+   "t": 93.59,
+   "turn_i": 14
+  },
+  {
+   "en": "The recap went through every insect in the book in order at a brisk pace, so the whole group revisited the content they had read.",
+   "t": 116.39,
+   "turn_i": 22
+  },
+  {
+   "en": "When a learner's description of the ladybird came out muddled, the teacher recast it clearly without stopping the flow.",
+   "t": 143.46,
+   "turn_i": 41
+  }
+ ],
+ "blockages": [
+  {
+   "en": "The recap questions stay at recall (what did we meet, what does it do), and on the spider the teacher answers their own question. Effect: learners repeat facts but are not asked to think about why a spider is not an insect, which the text sets up. Catch-up: ask one 'why' question, wait a few seconds, and have a learner point to the line in the book that gives the answer.",
+   "t": 181.64,
+   "turn_i": 57
+  },
+  {
+   "en": "When the reader misread the spider sentence, the prompts were 'repeat' and 'say it well' four times before the reader got it. Effect: time goes on one word and the reader may lose confidence. Catch-up: point at the word and read it in parts with the reader, then have them read the whole sentence again.",
+   "t": 86.68,
+   "turn_i": 12
+  }
+ ],
+ "level_of_change": {
+  "level": 3,
+  "en": "Focus skill: asking learners to think beyond recall after reading. The teacher already runs a quick, orderly question routine, so adding a 'why' question needs effort and practice rather than a new method; level 3 fits, with low confidence from one short edited clip. Coach move: encourage persistence, plan two 'why' questions together and practise waiting for answers."
+ },
+ "grow": {
+  "goal": {
+   "lang": "Emva kokufunda, abantwana baza kuphendula umbuzo omnye othi kutheni ngamazwi abo, ungakhange ubanike impendulo.",
+   "en": "After reading, the children will answer one 'why' question in their own words, without you giving them the answer."
+  },
+  "reality": {
+   "lang": "Ubuza imibuzo emininzi yokukhumbula ngokukhawuleza, kwaye abantwana baphendula kakuhle bonke kunye. Xa ubuze ukuba isigcawu sitya ntoni, impendulo uyinike wena.",
+   "en": "You ask many recall questions quickly, and the children answer well together. When you asked what the spider eats, you gave the answer yourself."
+  },
+  "options": {
+   "lang": "Ungabuza ukuba kutheni isigcawu singesosinambuzane, ulinde kancinci; ungacela abantwana babonise kwiphepha apho kubhalwe khona impendulo; ungacela umntwana omnye aphendule ngamazwi akhe.",
+   "en": "You could ask why a spider is not an insect and wait a little; you could ask the children to show on the page where the answer is written; you could ask one child to answer in their own words."
+  },
+  "way_forward": {
+   "lang": "Kwiseshoni elandelayo uza kulungiselela imibuzo emibini ethi kutheni, ulinde ngaphambi kokuba ubize umntwana, size sithethe emva koko.",
+   "en": "In the next session you will prepare two 'why' questions, wait before calling on a child, and we will talk afterwards."
+  }
+ },
+ "questions": [
+  {
+   "lang": "Xa ubuze ukuba isigcawu sitya ntoni, impendulo yaphuma kuwe. Ucinga ukuba abantwana ngebathini ukuba ubalindile kancinci?",
+   "en": "When you asked what the spider eats, the answer came from you. What do you think the children would have said if you had waited a little?",
+   "t": 184.19,
+   "turn_i": 58
+  },
+  {
+   "lang": "Xa umntwana ebebuya ephinda igama elinye kaninzi, yintoni ebinokumnceda ukuba alibone kakuhle elo gama?",
+   "en": "When the child kept repeating the same word several times, what could have helped them see that word clearly?",
+   "t": 78.18,
+   "turn_i": 8
+  },
+  {
+   "lang": "Ukukhumbula zonke izinambuzane kwahamba ngokukhawuleza nangocwangco. Ungayisebenzisa njani loo ndlela ukuze abantwana bathelekise izinambuzane?",
+   "en": "Recalling all the insects went quickly and in order. How could you use that routine so children compare the insects?",
+   "t": 116.39,
+   "turn_i": 22
+  }
+ ],
+ "debrief_plan": [
+  {
+   "step": 1,
+   "step_en": "Ask permission",
+   "coach_says": "Enkosi ngokundivumela ukuba ndibukele abantwana befunda ngokuvakalayo. Ndingakuxelela izinto endizibonileyo?",
+   "en": "Thank you for letting me watch the children reading aloud. May I tell you what I saw?"
+  },
+  {
+   "step": 2,
+   "step_en": "Observation: positives and blockages",
+   "coach_says": "Ndibone ucela umntwana ukuba aphinde afunde apho kubhalwe khona, waze walungisa ngokwakhe. Ndibone kananjalo ukuba imibuzo yokugqibela ibikukukhumbula kuphela, kwaye impendulo yesigcawu uyinike wena.",
+   "en": "I saw you ask a child to read again where it was written, and they corrected it themselves. I also saw that the final questions were recall only, and you gave the spider answer yourself."
+  },
+  {
+   "step": 3,
+   "step_en": "Effect on learners",
+   "coach_says": "Xa impendulo ivela kutitshala, abantwana abafumani thuba lokucinga ukuba kutheni isigcawu singesosinambuzane, nangona incwadi isinika olo lwazi.",
+   "en": "When the answer comes from the teacher, the children do not get a chance to think about why a spider is not an insect, even though the book gives us that information."
+  },
+  {
+   "step": 4,
+   "step_en": "Pause and dialogue",
+   "coach_says": "Ndingathanda ukuva umbono wakho. Ubucinga ntoni ngelo xesha, kwaye ingaba ixesha belikucinezele?",
+   "en": "I would like to hear your view. What were you thinking at that moment, and was time pressing on you?"
+  },
+  {
+   "step": 5,
+   "step_en": "Opportunity and contracting",
+   "coach_says": "Masivumelane ukuba kwiseshoni elandelayo uza kubuza umbuzo omnye othi kutheni, ulinde kancinci, uze ucele umntwana omnye aphendule. Ndiza kubuya sibone kunye ukuba kuhambe njani.",
+   "en": "Let us agree that in the next session you will ask one 'why' question, wait a little, and then ask one child to answer. I will come back and we will see together how it went."
+  }
+ ],
+ "next_step": {
+  "lang": "Emva kokufunda, buza umbuzo omnye othi kutheni, ulinde kancinci, uze ucele umntwana omnye aphendule ngamazwi akhe.",
+  "en": "After reading, ask one 'why' question, wait a little, then ask one child to answer in their own words."
+ },
+ "voice": null,
+ "accuracy": {
+  "measures": "Rumi",
+  "grounding": {
+   "value": 1.0,
+   "found": 12,
+   "n": 12,
+   "label": "measured",
+   "display": "12 of 12 of Rumi's longer quotes (4+ words) are word for word in the turn Rumi cited",
+   "verbatim_any_turn": {
+    "found": 12,
+    "n": 12
+   },
+   "fuzzy_090_any_turn": {
+    "found": 12,
+    "n": 12
+   },
+   "evidence_handling": {
+    "cited": 21
+   },
+   "note_en": "Counted on Rumi's own quotes before any fix. Only quotes found word for word in the transcript on this page are published; each links to the moment it was said."
+  },
+  "coverage": {
+   "value": 1.0,
+   "found": 22,
+   "n": 22,
+   "label": "measured",
+   "display": "22 of 22 report items filled with evidence or a reason"
+  },
+  "stability": {
+   "sd": 1.79,
+   "runs": 3,
+   "label": "measured",
+   "status_agreement_all": "13 of 15",
+   "status_agreement_pairwise": 0.911,
+   "display": "Three independent readings gave the same status on 13 of 15 items"
+  },
+  "n_runs": 3,
+  "score": 10.0,
+  "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
+  "label": "measured",
+  "line": "These numbers measure Rumi: whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."
+ },
+ "model": "Lesson-step and classroom-culture judgements by Claude Opus 5.5, the stricter of the two models we compared. Three independent readings of the same transcript; the report shows the median reading, with each item's status taken from the majority.",
+ "sources": [
+  "fn-coaching-course",
+  "fn-caps-xh"
+ ],
+ "routine": [
+  {
+   "id": "G1",
+   "name": "Class settled on independent work",
+   "name_en": "Class settled on independent work",
+   "status": "not_observed",
+   "note_en": "The rest of the class is not shown.",
+   "evidence": [],
+   "from_run": "r3"
+  },
+  {
+   "id": "G2",
+   "name": "Small group with the teacher",
+   "name_en": "Small group with the teacher",
+   "status": "partly",
+   "note_en": "The learners are sent back to their desks at the end, which suggests a group working with the teacher away from the desks; the grouping itself is not shown.",
+   "evidence": [
+    {
+     "t": 188.49,
+     "turn_i": 59,
+     "quote": "Buyelani ezidesikeni ke, sikhuphe la mbongo.",
+     "en": "Go back to the desks then, so we can take out that poem."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "G3",
+   "name": "Activities matched to the group's level",
+   "name_en": "Activities matched to the group's level",
+   "status": "not_observed",
+   "note_en": "How the text was matched to the readers' level is not shown.",
+   "evidence": [],
+   "from_run": "r3"
+  },
+  {
+   "id": "G4",
+   "name": "Each learner reads; help in the moment",
+   "name_en": "Each learner reads; help in the moment",
+   "status": "seen",
+   "note_en": "Learners read aloud one at a time and the teacher helps the reader in the moment by re-reading from the print; no meaning check for the reader.",
+   "evidence": [
+    {
+     "t": 13.8,
+     "turn_i": 0,
+     "quote": "Ujakalashe olambileyo. Kudala-dala kwakukho usapho olwaluhlala efama.",
+     "en": "The hungry jackal. Long, long ago there was a family that lived on a farm."
+    },
+    {
+     "t": 93.59,
+     "turn_i": 14,
+     "quote": "Asisosinambuzane.",
+     "en": "It is not an insect."
+    },
+    {
+     "t": 100.39,
+     "turn_i": 17,
+     "quote": "Khaw'phinde ufunde sasibhalwe khona.",
+     "en": "Please read again where it was written."
+    }
+   ],
+   "from_run": "r3"
+  },
+  {
+   "id": "G5",
+   "name": "Notes plan the next session",
+   "name_en": "Notes plan the next session",
+   "status": "not_observed",
+   "note_en": "The clip does not show any notes on the readers.",
+   "evidence": [],
+   "from_run": "r3"
+  }
+ ],
+ "routine_note_en": "Extra lens for this partner's recordings: the steps of their group guided reading routine."
+}

@@ -233,7 +233,7 @@
     "start": 0,
     "end": null
    },
-   "has_coaching": false,
+   "has_coaching": true,
    "score": {
     "value": 0.723,
     "label": "engine agreement (proxy)",
@@ -270,7 +270,7 @@
     "start": 0,
     "end": null
    },
-   "has_coaching": false,
+   "has_coaching": true,
    "score": {
     "value": 0.83,
     "label": "engine agreement (proxy)",

@@ -405,7 +405,12 @@
       const j = turns.findIndex((x, n) => turnKey(x, n) === Number(o.turn));
       if (j >= 0) { idx = j; if (t === null || t === undefined) t = turns[j].start; }
     } else if (t !== null && t !== undefined) {
-      for (let j = 0; j < turns.length; j++) if (turns[j].start <= t + 0.05) idx = j;
+      // the line playing at t; a shared link floors seconds, so a line starting within 1 s after t is the one meant
+      const at = turns.findIndex((x) => x.start <= t + 0.05 && (x.end === undefined || x.end === null || t < x.end));
+      const soon = turns.findIndex((x) => x.start > t && x.start < t + 1);
+      if (soon >= 0 && (at < 0 || turns[at].start < t - 0.05)) idx = soon;
+      else if (at >= 0) idx = at;
+      else for (let j = 0; j < turns.length; j++) if (turns[j].start <= t + 0.05) idx = j;
     }
     if (t === undefined) t = null;
     const banner = $("banner");

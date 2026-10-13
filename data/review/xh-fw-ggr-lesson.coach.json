@@ -1,0 +1,520 @@
+{
+ "id": "xh-fw-ggr-lesson",
+ "media_id": "xh-fw-ggr-lesson",
+ "lang": "xh",
+ "lesson": {
+  "strand": "shared_reading",
+  "focus": "group guided reading of the reader 'Amabaso okutya okunempilo' (presents of healthy food) with one group on the mat; each learner reads sentences aloud",
+  "grade": "not stated"
+ },
+ "summary_en": "The recording opens with the teacher telling the class to keep reading while one named group comes to the mat; settling the group takes about two and a half minutes, then the teacher asks the group to recall what to do with an unknown word and to read the book title. Learners then read sentences aloud one at a time while the teacher listens, prompts re-reading from the start of a sentence, gives first-syllable cues and praises one learner for going back and re-reading a whole sentence; the session closes with a reminder to read fluently and the books being collected. The recording does not show what the rest of the class was doing independently, how this group's text level was chosen, any notes the teacher keeps for the next session, or any discussion of what the story means; an unrehearsed session would also need to show these. One possible slip (turns 177-181, 'ngobusi' vs 'ngobuso') is treated as a transcription question, not as a learner error.",
+ "scope_en": "Rumi coached only what the recording shows in class (the teacher and learners). Narration over the film is in the transcript but is not treated as evidence that a step happened. The recording is an edited training film, so a step it does not show may still have happened.",
+ "steps": [
+  {
+   "id": "S1",
+   "name": "Before reading: title, cover, predictions",
+   "name_en": "Before reading: title, cover, predictions",
+   "status": "partly",
+   "note_en": "The title is asked for and read, first in chorus and then by one learner; the cover, author and predictions are not discussed.",
+   "evidence": [
+    {
+     "t": 133.52,
+     "turn_i": 48,
+     "quote": "Sithini isihloko seleli bali kuqala?",
+     "en": "What does the title of this story say first?"
+    },
+    {
+     "t": 151.74,
+     "turn_i": 55,
+     "quote": "Amabaso okutya okunempilo.",
+     "en": "Presents of healthy food."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "S2",
+   "name": "Pre-teach key words",
+   "name_en": "Pre-teach key words",
+   "status": "partly",
+   "note_en": "Before reading the teacher reviews what to do with an unknown word, but no key words from this text are read or explained in advance.",
+   "evidence": [
+    {
+     "t": 89.54,
+     "turn_i": 32,
+     "quote": "Ntoni ebendiyenzile xa ndingalazi igama okanye xa ndingaqondi igama?",
+     "en": "What had I done when I do not know the word or when I do not understand the word?"
+    },
+    {
+     "t": 93.44,
+     "turn_i": 33,
+     "quote": "Uqala ulibulijile igama.",
+     "en": "First you look at the word."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "S3",
+   "name": "Model fluent reading",
+   "name_en": "Model fluent reading",
+   "status": "partly",
+   "note_en": "The teacher models single sentences or words after a misreading, and learners re-read; there is no modelled reading of the whole text.",
+   "evidence": [
+    {
+     "t": 178.48,
+     "turn_i": 60,
+     "quote": "Ukabelo ucela ibhotile yejusi.",
+     "en": "Kabelo asks for a bottle of juice."
+    },
+    {
+     "t": 260.2,
+     "turn_i": 84,
+     "quote": "Ndakubhaqa kaBhelo, usiba, itshokolethi.",
+     "en": "I will catch you Kabelo, feather, chocolate."
+    },
+    {
+     "t": 541.99,
+     "turn_i": 169,
+     "quote": "Sithi uKabelo ubhaselwa ngobusi obumthubi.",
+     "en": "We say Kabelo is rewarded with yellow honey."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "S4",
+   "name": "Questions at different levels",
+   "name_en": "Questions at different levels",
+   "status": "partly",
+   "note_en": "Only one meaning question is heard (the meaning of a single word), and the answer is accepted without a check; no questions about the story itself.",
+   "evidence": [
+    {
+     "t": 405.18,
+     "turn_i": 125,
+     "quote": "Isinqe sithetha ntoni?",
+     "en": "What does 'isinqe' mean?"
+    },
+    {
+     "t": 408.78,
+     "turn_i": 128,
+     "quote": "Ima, andithi?",
+     "en": "Stop, isn't it?"
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "S5",
+   "name": "After reading: structure, theme, retell",
+   "name_en": "After reading: structure, theme, retell",
+   "status": "not_observed",
+   "note_en": "The session ends after the reading with a reminder about fluent reading and collecting the books; no retell, theme or story structure is discussed.",
+   "evidence": [
+    {
+     "t": 752.95,
+     "turn_i": 224,
+     "quote": "sifuna ufunda utyibilika, sifunde kahle.",
+     "en": "we want fluent reading, reading well."
+    },
+    {
+     "t": 762.95,
+     "turn_i": 226,
+     "quote": "Qokelelani incwadi.",
+     "en": "Collect the books."
+    }
+   ],
+   "from_run": "r1"
+  }
+ ],
+ "culture": [
+  {
+   "id": "C1",
+   "name": "Ukuthatha inxaxheba kwabafundi bonke",
+   "name_en": "Participation of all learners",
+   "status": "seen",
+   "note_en": "Every learner in the group gets an individual reading turn; a few learners are not looking at the book at times.",
+   "evidence": [
+    {
+     "t": 72.35,
+     "turn_i": 28,
+     "quote": "Sizawuva umntu ngamnye efunda.",
+     "en": "We will hear each person reading."
+    },
+    {
+     "t": 226.71,
+     "turn_i": 76,
+     "quote": "Abanye abantu abajonganga kule ndawo sifunda kuyo.",
+     "en": "Other people are not looking at this place where we are reading."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C2",
+   "name": "Ukuncoma umzamo nokucinga",
+   "name_en": "Praise of effort and thinking",
+   "status": "seen",
+   "note_en": "Alongside 'very good', the teacher twice names the strategy a learner used (self-correcting; going back to re-read the whole sentence).",
+   "evidence": [
+    {
+     "t": 373.01,
+     "turn_i": 117,
+     "quote": "Khawulezile ngoku, uyibon' uba uphikisile inantsi kakancinci.",
+     "en": "You were fast now, you see that you corrected this one a little bit."
+    },
+    {
+     "t": 643.62,
+     "turn_i": 197,
+     "quote": "Waphinde wabuyela back, wayiqalela, wayifunda ke ngoku iyonke la sivakalisi.",
+     "en": "They went back again, started it over, and read it now, the whole of that sentence."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C3",
+   "name": "Ukuphatha iimpazamo",
+   "name_en": "Handling errors as learning",
+   "status": "seen",
+   "note_en": "Misreadings are met with prompts to look again, re-read from the start of the sentence or a first-syllable cue; at times the teacher supplies the word, and twice imitates halting reading as the thing to avoid.",
+   "evidence": [
+    {
+     "t": 184.58,
+     "turn_i": 62,
+     "quote": "Kaloku asifuni kwenza njeba sithi, mh mh mh mh mh mh mh.",
+     "en": "Because we don't want to do like this and say, mh mh mh mh mh mh mh."
+    },
+    {
+     "t": 518.5,
+     "turn_i": 162,
+     "quote": "Qale ekuqaleni jonga, fe sasi vakalise. Phindele.",
+     "en": "Start from the beginning look, at that sentence. Go back."
+    },
+    {
+     "t": 691.44,
+     "turn_i": 208,
+     "quote": "Ngaliphinde lelo gama. Abawa-",
+     "en": "Repeat that word. These that they-"
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C4",
+   "name": "Isantya nokusebenzisa ixesha",
+   "name_en": "Pace and time on task",
+   "status": "partly",
+   "note_en": "Getting the group to the mat and seated takes from the start to about 02:40 before the first sentence is read, and later the teacher notes only two minutes are left.",
+   "evidence": [
+    {
+     "t": 33.16,
+     "turn_i": 12,
+     "quote": "Bahlala ngendawu, kuba kaloku kukho abantu abathatha iindawo kwabanye abantu",
+     "en": "They sit in their places, because of course there are people who take places from other people"
+    },
+    {
+     "t": 66.45,
+     "turn_i": 26,
+     "quote": "I- okay, ndijahile. Andinako.",
+     "en": "The- okay, I am in a hurry. I cannot."
+    },
+    {
+     "t": 667.7,
+     "turn_i": 203,
+     "quote": "Sishiyekelwe yimizuzu emibini qha.",
+     "en": "We are left with only two minutes."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "C5",
+   "name": "Ukuhlola ukuqonda komfundi ngamnye",
+   "name_en": "Checking individual understanding",
+   "status": "seen",
+   "note_en": "The teacher listens to one reader at a time and responds to each; the checks are about accurate decoding, and no record of what each learner needs is seen.",
+   "evidence": [
+    {
+     "t": 314.07,
+     "turn_i": 102,
+     "quote": "So ndifuna umamela yena ngoku",
+     "en": "So I want to listen to them now"
+    },
+    {
+     "t": 455.93,
+     "turn_i": 142,
+     "quote": "Yifunde yonke ke ngoku la esasivakalisi. Qale qaleni.",
+     "en": "Read that whole sentence now. Start from the beginning."
+    }
+   ],
+   "from_run": "r1"
+  }
+ ],
+ "positives": [
+  {
+   "en": "Every learner in the group gets their own reading turn while the others follow, so the teacher can hear each child's reading rather than a chorus.",
+   "t": 72.35,
+   "turn_i": 28
+  },
+  {
+   "en": "When a learner stumbles, the teacher sends them back to the start of the sentence and lets them read it whole again, which keeps the learner doing the decoding work.",
+   "t": 455.93,
+   "turn_i": 142
+  },
+  {
+   "en": "The teacher names the exact strategy a learner used (going back and re-reading the whole sentence) in front of the group, so the others learn what to do when they get stuck.",
+   "t": 643.62,
+   "turn_i": 197
+  },
+  {
+   "en": "Before reading, the teacher has the group recall what to do with an unknown word, linking this session to the earlier shared reading.",
+   "t": 89.54,
+   "turn_i": 32
+  }
+ ],
+ "blockages": [
+  {
+   "en": "Reading well is framed as reading fast ('sifuna ukhawulezisa xa sifunda'), and only one meaning question is asked during the whole session. Effect: learners may come to believe that good reading means speed, and slower decoders hear their halting reading imitated as the thing to avoid, while no one checks whether the group understood the story. Catch-up: after each learner's sentence, ask one short meaning question ('yitsho ngamazwi akho') and close with a two-sentence retell of the page.",
+   "t": 546.69,
+   "turn_i": 170
+  },
+  {
+   "en": "Moving the group to the mat and settling places takes about two and a half minutes before the first sentence is read, and later the teacher warns that only two minutes are left. Effect: fewer reading turns and less time for the slowest readers, who need the most practice. Catch-up: a fixed mat routine (group leader brings the books, set places, pencils left at desks) practised until the group starts reading within a minute.",
+   "t": 33.16,
+   "turn_i": 12
+  }
+ ],
+ "level_of_change": {
+  "level": 2,
+  "en": "Focus skill: checking meaning (not only speed and accuracy) during group guided reading. The teacher already runs individual turns and decoding prompts, and says they want fluent reading, but the session shows no routine for meaning checks, which suggests knowing the goal without yet having the moves (level 2). One recorded session is thin evidence, so confidence is low. Matching coach move: demonstrate a short guided reading turn step by step, with one 'say it in your own words' question after each sentence, then plan the next session together."
+ },
+ "grow": {
+  "goal": {
+   "lang": "Kwiseshoni elandelayo yokufunda ngokukhokelwa eqeleni, emva kokuba umntwana ngamnye efunde isivakalisi sakhe, ndiza kubuza umbuzo omnye omfutshane malunga nentsingiselo.",
+   "en": "In the next group guided reading session, after each child reads their sentence, I will ask one short question about its meaning."
+  },
+  "reality": {
+   "lang": "Ngoku umntwana ngamnye uyafunda kwaye ndiyamnceda ukuba aphinde afunde, kodwa ndibuza kanye kuphela malunga nentsingiselo, kwaye ndigxininisa ekukhawulezeni.",
+   "en": "Right now each child reads and I help them re-read, but I ask about meaning only once, and I stress reading fast."
+  },
+  "options": {
+   "lang": "Ndingabuza ndithi yitsho ngamazwi akho; ndingacela iqela ukuba libalise ibali ngamafutshane ekupheleni; okanye ndingalungiselela imibuzo emibini ngaphambi kweseshoni.",
+   "en": "I could ask 'say it in your own words'; I could ask the group to retell the story briefly at the end; or I could prepare two questions before the session."
+  },
+  "way_forward": {
+   "lang": "Ngomso ndiza kubhala imibuzo emibini emfutshane kwincwadi yeqela, ndiyibuze ngexesha lokufunda, kwaye ndibhale amagama abantwana abaye bayiqonda.",
+   "en": "Tomorrow I will write two short questions for the group's book, ask them during reading, and note which children understood."
+  }
+ },
+ "questions": [
+  {
+   "lang": "Xa uthi kubantwana sifuna ukukhawulezisa xa sifunda, ucinga ukuba bayiqonda njani into ethi ukufunda kakuhle?",
+   "en": "When you tell the children we want to speed up when we read, how do you think they understand what reading well means?",
+   "t": 546.69,
+   "turn_i": 170
+  },
+  {
+   "lang": "Xa wancoma umntwana owabuyela ekuqaleni kwesivakalisi, yintoni obona ngathi abanye abantwana bayifundile kuloo mzuzu?",
+   "en": "When you praised the child who went back to the start of the sentence, what do you think the other children learnt in that moment?",
+   "t": 643.62,
+   "turn_i": 197
+  },
+  {
+   "lang": "Ungathanda ukuba ukuza kweqela emethini kubonakale njani, ukuze ixesha elininzi lisetyenziselwe ukufunda?",
+   "en": "How would you like the group's arrival at the mat to look, so that more of the time is used for reading?",
+   "t": 33.16,
+   "turn_i": 12
+  }
+ ],
+ "debrief_plan": [
+  {
+   "step": 1,
+   "step_en": "Ask permission",
+   "coach_says": "Enkosi ngokundamkela kwiseshoni yakho yokufunda neqela. Ndingabelana nawe ngezinto endizibonileyo?",
+   "en": "Thank you for welcoming me to your group reading session. May I share with you what I saw?"
+  },
+  {
+   "step": 2,
+   "step_en": "Observation: positives and blockages",
+   "coach_says": "Ndibone ukuba umntwana ngamnye ufunde ngokwakhe, kwaye xa umntwana ebebambekile umbuyisele ekuqaleni kwesivakalisi, wamncoma xa ebuyela emva. Ndiphinde ndabona ukuba ugxininise kakhulu ekukhawulezeni, kwaye ubuze kanye kuphela malunga nentsingiselo yegama.",
+   "en": "I saw that each child read on their own, and when a child got stuck you sent them back to the start of the sentence and praised them for going back. I also saw that you stressed speed a lot, and asked about meaning only once, about one word."
+  },
+  {
+   "step": 3,
+   "step_en": "Effect on learners",
+   "coach_says": "Xa abantwana besiva ukuba ukufunda kakuhle kukukhawuleza, banokufunda amagama ngaphandle kokuqonda ibali, kwaye abo bafunda kancinci banokuziva beneentloni.",
+   "en": "When children hear that reading well means being fast, they may read the words without understanding the story, and those who read slowly may feel embarrassed."
+  },
+  {
+   "step": 4,
+   "step_en": "Pause and dialogue",
+   "coach_says": "Ndingathanda ukuva umbono wakho. Wena ufuna ukuba abantwana bakho bazi ntoni ngokufunda ngokugeleza?",
+   "en": "I would like to hear your view. What do you want your children to know about fluent reading?"
+  },
+  {
+   "step": 5,
+   "step_en": "Opportunity and contracting",
+   "coach_says": "Masivumelane ngento enye: emva kwesivakalisi ngasinye, ubuze umbuzo omnye omfutshane, umzekelo yitsho ngamazwi akho. Ndingeza ndikubonise kwiseshoni elandelayo, size sithethe kwakhona emva koko.",
+   "en": "Let us agree on one thing: after each sentence, ask one short question, for example 'say it in your own words'. I can come and show you in the next session, and we can talk again afterwards."
+  }
+ ],
+ "next_step": {
+  "lang": "Emva kokuba umntwana ngamnye efunde isivakalisi sakhe, buza umbuzo omnye omfutshane ngentsingiselo, umzekelo yitsho ngamazwi akho, phambi kokuba uqhubele komnye umntwana.",
+  "en": "After each child reads their sentence, ask one short meaning question, for example 'say it in your own words', before moving to the next child."
+ },
+ "voice": null,
+ "accuracy": {
+  "measures": "Rumi",
+  "grounding": {
+   "value": 1.0,
+   "found": 23,
+   "n": 23,
+   "label": "measured",
+   "display": "23 of 23 of Rumi's longer quotes (4+ words) are word for word in the turn Rumi cited",
+   "verbatim_any_turn": {
+    "found": 23,
+    "n": 23
+   },
+   "fuzzy_090_any_turn": {
+    "found": 23,
+    "n": 23
+   },
+   "evidence_handling": {
+    "cited": 32
+   },
+   "note_en": "Counted on Rumi's own quotes before any fix. Only quotes found word for word in the transcript on this page are published; each links to the moment it was said."
+  },
+  "coverage": {
+   "value": 1.0,
+   "found": 22,
+   "n": 22,
+   "label": "measured",
+   "display": "22 of 22 report items filled with evidence or a reason"
+  },
+  "stability": {
+   "sd": 3.03,
+   "runs": 3,
+   "label": "measured",
+   "status_agreement_all": "12 of 15",
+   "status_agreement_pairwise": 0.867,
+   "display": "Three independent readings gave the same status on 12 of 15 items"
+  },
+  "n_runs": 3,
+  "score": 10.0,
+  "score_formula": "0.5×grounding + 0.25×coverage + 0.25×stability, each 0–10",
+  "label": "measured",
+  "line": "These numbers measure Rumi: whether its quotes are really in the lesson, whether it filled every part of the report, and whether it reads the lesson the same way three times. They do not grade the teacher."
+ },
+ "model": "Lesson-step and classroom-culture judgements by Claude Opus 5.5, the stricter of the two models we compared. Three independent readings of the same transcript; the report shows the median reading, with each item's status taken from the majority.",
+ "sources": [
+  "fn-coaching-course",
+  "fn-caps-xh"
+ ],
+ "routine": [
+  {
+   "id": "G1",
+   "name": "Class settled on independent work",
+   "name_en": "Class settled on independent work",
+   "status": "partly",
+   "note_en": "The class is told to keep reading while the group is called, but the rest of the class is not shown and noise from outside the group is mentioned.",
+   "evidence": [
+    {
+     "t": 6.9,
+     "turn_i": 1,
+     "quote": "Uyaqhubekeka uyafunda.",
+     "en": "You continue reading."
+    },
+    {
+     "t": 653.72,
+     "turn_i": 198,
+     "quote": "Kukho abantu abangxolayo.",
+     "en": "There are people making noise."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "G2",
+   "name": "Small group with the teacher",
+   "name_en": "Small group with the teacher",
+   "status": "seen",
+   "note_en": "One named group comes to the mat with a group leader handing out books; seating takes several reminders.",
+   "evidence": [
+    {
+     "t": 6.9,
+     "turn_i": 1,
+     "quote": "Indlovu mazi khawuleze zize emethini.",
+     "en": "Elephants, please hurry up and come to the mat."
+    },
+    {
+     "t": 12.9,
+     "turn_i": 2,
+     "quote": "I-group leader ithathe incwadi.",
+     "en": "The group leader should take the book."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "G3",
+   "name": "Activities matched to the group's level",
+   "name_en": "Activities matched to the group's level",
+   "status": "partly",
+   "note_en": "The group reads a connected text, but several learners decode syllable by syllable, so it is not clear from the recording that the text matches every reader's level.",
+   "evidence": [
+    {
+     "t": 280.16,
+     "turn_i": 91,
+     "quote": "Ba za ku ba za ku ba a i i o u u si sa so.",
+     "en": "Ba za ku ba za ku ba a i i o u u si sa so."
+    },
+    {
+     "t": 479.19,
+     "turn_i": 148,
+     "quote": "Ku su ku ku ku base.",
+     "en": "Ku su ku ku ku base."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "G4",
+   "name": "Each learner reads; help in the moment",
+   "name_en": "Each learner reads; help in the moment",
+   "status": "seen",
+   "note_en": "Each learner reads aloud and the teacher helps in the moment with decoding and re-reading; meaning is checked only once.",
+   "evidence": [
+    {
+     "t": 530.6,
+     "turn_i": 166,
+     "quote": "Uh-uh. Ngo-",
+     "en": "Uh-uh. With-"
+    },
+    {
+     "t": 695.34,
+     "turn_i": 210,
+     "quote": "Phinde kweliqala eli la esasivakalisi.",
+     "en": "Repeat from the beginning of that sentence."
+    },
+    {
+     "t": 698.34,
+     "turn_i": 211,
+     "quote": "Babuyela amabhasho abawafumele.",
+     "en": "They are happy for the prizes they received."
+    }
+   ],
+   "from_run": "r1"
+  },
+  {
+   "id": "G5",
+   "name": "Notes plan the next session",
+   "name_en": "Notes plan the next session",
+   "status": "not_observed",
+   "note_en": "The recording does not show the teacher noting what each learner needs for the next session.",
+   "evidence": [],
+   "from_run": "r1"
+  }
+ ],
+ "routine_note_en": "Extra lens for this partner's recordings: the steps of their group guided reading routine."
+}
