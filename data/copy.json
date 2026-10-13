@@ -73,7 +73,7 @@
   "heading": "Also tested",
   "lead": "Sepedi, Afrikaans and Setswana ran the same tests without a page of their own; coaching was not run for Afrikaans and Setswana (no classroom recording sourced).",
   "lines": {
-   "nso": "Sepedi (Funda Wande's Limpopo language; not Sesotho): coaching was run on one public reading lesson [[fn:fn-video-nso]]. The transcription engines disagree most here (19.0% to 36.6% of classroom characters on two public lessons [[fn:fn-video-nso-2]], AI-judged), so the agreement gate matters most.",
+   "nso": "Sepedi (Funda Wande's Limpopo language; not Sesotho): coaching was run on one public reading lesson [[fn:fn-video-nso]]. The transcription engines disagree most here (19.0% to 36.6% of classroom characters on two public lessons [[fn:fn-video-nso-2]], proxy: two engines compared), so the agreement gate matters most.",
    "af": "Afrikaans: the strongest listening of the six; its voice, Paul Steyn, is a first-language Afrikaans voice from the ElevenLabs library.",
    "tn": "Setswana: the winning engine is fragile on longer audio, so the runner-up is the safer choice; the voice is designed to sound like a first-language Setswana speaker."
   },
@@ -330,7 +330,7 @@
    "agreement_line": "On this video the two best engines disagree on 15.1% of characters. No human transcript exists for classroom audio, so this is a proxy, not an accuracy score.",
    "lead": "Score 7.8: the best engine gets 11.0% of characters wrong on read isiXhosa, the highest error of the six.",
    "bullets": [
-    "The next engine is about three points behind. Across the three public isiXhosa clips [[fn:fn-video-xh-2]] [[fn:fn-video-xh-3]] the two best engines disagree on 14.8% to 28.1% of characters (AI-judged), so the agreement gate is mandatory here."
+    "The next engine is about three points behind. Across the three public isiXhosa clips [[fn:fn-video-xh-2]] [[fn:fn-video-xh-3]] the two best engines disagree on 14.8% to 28.1% of characters (proxy: two engines compared), so the agreement gate is mandatory here."
    ],
    "review_line": "Help us check: [review the isiXhosa recordings →](review.html?lang=xh) and mark each line right or wrong. No first-language speaker has done this yet.",
    "partner_line": "The score above overstates how well Rumi hears an isiXhosa classroom. On Funda Wande's isiXhosa classroom recordings the two engines disagree on about a quarter of characters (25.5%, proxy: two engines compared, not checked against a person), while a meaning check against the partner's own English subtitles scores 8.5 of 10 (AI-judged). isiXhosa classroom audio is where native reviewers' corrections matter most."
