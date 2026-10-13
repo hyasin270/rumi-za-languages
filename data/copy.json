@@ -146,7 +146,7 @@
  },
  "index.cost": {
   "heading": "What this cost",
-  "lead": "About a hundred dollars of metered model and voice calls for six languages, four capabilities, 19 lesson plans, 12 classroom recordings and about 300 speech tests; authoring and judging ran on subscription seats.",
+  "lead": "About a hundred and ten dollars of metered model and voice calls for six languages, four capabilities, 19 lesson plans, 12 classroom recordings and about 300 speech tests; authoring and judging ran on subscription seats.",
   "columns": [
    "Spend",
    "Amount"
@@ -154,15 +154,15 @@
   "rows": [
    [
     "Model calls, metered",
-    "$83.51"
+    "$86.69"
    ],
    [
     "Voice synthesis",
-    "$20.08"
+    "$22.54"
    ],
    [
     "Transcription and voice, billed direct",
-    "$2.38"
+    "$2.46"
    ],
    [
     "Image generation",
@@ -170,7 +170,7 @@
    ],
    [
     "Total",
-    "$106.07"
+    "$111.78"
    ]
   ],
   "note": "Read from our spend ledger on 13 October 2026, including the listening review (48 recordings transcribed and checked), the voice auditions and the interactive demos on this site."
