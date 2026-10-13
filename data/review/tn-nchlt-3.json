@@ -1,0 +1,38 @@
+{
+ "id": "tn-nchlt-3",
+ "lang": "tn",
+ "engine": "Gemini 3.8 Flash",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 0.0,
+   "end": 6.84,
+   "speaker": "Speaker 1",
+   "text": "Go madirelo a Aforika Borwa",
+   "en": "To South African industries",
+   "agree": 1.0
+  }
+ ],
+ "score": {
+  "value": 0.0,
+  "label": "measured (automated)",
+  "display": "0.0% of characters wrong (measured)",
+  "line": "Gemini 3.8 Flash against the published NCHLT Speech Corpus transcript of this sentence: 0.0% of characters wrong (CER 0.000). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+ },
+ "agreement": {
+  "value": 1.0,
+  "label": "engine agreement (proxy)",
+  "display": "100.0% engine agreement (proxy)",
+  "line": "Gemini 3.8 Flash and Gemini 3.1 Pro agree on 100.0% of characters for this sentence."
+ },
+ "reference": {
+  "kind": "published",
+  "text": "go madirelo a aforika borwa",
+  "line": "Published reference transcript from NCHLT Speech Corpus (CC BY 3.0)."
+ },
+ "sources": [
+  "fn-nchlt"
+ ]
+}

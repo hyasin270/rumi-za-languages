@@ -207,9 +207,10 @@
       let last = -1;
       if (!this.showAll) for (let i = 0; i < this.rows.length; i++) if (t >= this.rows[i].tu.start) last = i;
       const focus = cur >= 0 ? cur : last;
+      const held = this.holdT != null && !this.playing && this.linked != null;   // a deep link pinned the pane; leave it there
       if (focus !== this.focus) {
         this.focus = focus;
-        if (focus >= 0) {
+        if (focus >= 0 && !held) {
           const li = this.rows[focus].li;
           const top = li.offsetTop - this.list.offsetTop - 12;
           if (top < this.list.scrollTop || top + li.offsetHeight > this.list.scrollTop + this.list.clientHeight - 24) this.list.scrollTop = Math.max(0, top - 40);
@@ -222,11 +223,11 @@
           li.classList.add("now");
           // scroll the pane only, never the page
           const top = li.offsetTop - this.list.offsetTop - 12;
-          if (top < this.list.scrollTop || top + li.offsetHeight > this.list.scrollTop + this.list.clientHeight - 24) this.list.scrollTop = Math.max(0, top - 40);
+          if (!held && top < this.list.scrollTop || top + li.offsetHeight > this.list.scrollTop + this.list.clientHeight - 24) this.list.scrollTop = Math.max(0, top - 40);
         }
         this.cur = cur;
       }
-      if (cur >= 0 && !this.showAll) {
+      if (cur >= 0 && !this.showAll && !held) {
         // keep the typing line in view while it grows
         const li = this.rows[cur].li, bottom = li.offsetTop - this.list.offsetTop + li.offsetHeight;
         if (bottom > this.list.scrollTop + this.list.clientHeight) this.list.scrollTop = bottom - this.list.clientHeight + 16;

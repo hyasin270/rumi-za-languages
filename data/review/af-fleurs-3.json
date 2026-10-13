@@ -1,0 +1,38 @@
+{
+ "id": "af-fleurs-3",
+ "lang": "af",
+ "engine": "Soniox v5",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 0.0,
+   "end": 20.22,
+   "speaker": "Speaker 1",
+   "text": "Raking die globale finansiële situasie het Zapatero voortgegaan deur te sê dat die, deur te sê dat, die finansiële sisteem is 'n deel van die ekonomie, 'n aansienlike deel.",
+   "en": "Regarding the global financial situation, Zapatero continued by saying that the, by saying that, the financial system is a part of the economy, a significant part.",
+   "agree": 0.982
+  }
+ ],
+ "score": {
+  "value": 0.0119,
+  "label": "measured (automated)",
+  "display": "1.2% of characters wrong (measured)",
+  "line": "Soniox v5 against the published FLEURS transcript of this sentence: 1.2% of characters wrong (CER 0.012). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+ },
+ "agreement": {
+  "value": 0.982,
+  "label": "engine agreement (proxy)",
+  "display": "98.2% engine agreement (proxy)",
+  "line": "Soniox v5 and Gemini 2.5 Pro agree on 98.2% of characters for this sentence."
+ },
+ "reference": {
+  "kind": "published",
+  "text": "Rakend die globale finansiële situasie, het Zapatero voortgegaan deur te sê dat die deur te sê dat “die finansiële sisteem is ‘n deel van die ekonomie, ‘n aansienlike deel.",
+  "line": "Published reference transcript from FLEURS (Google, CC BY 4.0)."
+ },
+ "sources": [
+  "fn-fleurs"
+ ]
+}

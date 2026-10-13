@@ -1,0 +1,38 @@
+{
+ "id": "st-nchlt-2",
+ "lang": "st",
+ "engine": "Gemini 3.5 Flash",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 0.0,
+   "end": 6.21,
+   "speaker": "Speaker 1",
+   "text": "Ke ho tsofala le ho",
+   "en": "It is growing old and",
+   "agree": 0.684
+  }
+ ],
+ "score": {
+  "value": 0.0,
+  "label": "measured (automated)",
+  "display": "0.0% of characters wrong (measured)",
+  "line": "Gemini 3.5 Flash against the published NCHLT Speech Corpus transcript of this sentence: 0.0% of characters wrong (CER 0.000). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+ },
+ "agreement": {
+  "value": 0.684,
+  "label": "engine agreement (proxy)",
+  "display": "68.4% engine agreement (proxy)",
+  "line": "Gemini 3.5 Flash and Gemini 2.5 Pro agree on 68.4% of characters for this sentence."
+ },
+ "reference": {
+  "kind": "published",
+  "text": "ke ho tsofala le ho",
+  "line": "Published reference transcript from NCHLT Speech Corpus (CC BY 3.0)."
+ },
+ "sources": [
+  "fn-nchlt"
+ ]
+}

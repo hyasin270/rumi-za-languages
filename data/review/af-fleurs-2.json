@@ -1,0 +1,38 @@
+{
+ "id": "af-fleurs-2",
+ "lang": "af",
+ "engine": "Soniox v5",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 0.0,
+   "end": 20.28,
+   "speaker": "Speaker 1",
+   "text": "Kommun se beleid het beplande ouerskap gediskwalifiseer as gevolg van 'n onbesliste ondersoek oor hoe beplande ouerskap se verteenwoordiger, Cliff Stearns, hulle geld spandeer het en gerapporteer wat uitgevoer is.",
+   "en": "Komen's policy disqualified Planned Parenthood as a result of an undecided investigation into how Planned Parenthood's representative, Cliff Stearns, spent their money and reported what was carried out.",
+   "agree": 0.99
+  }
+ ],
+ "score": {
+  "value": 0.0144,
+  "label": "measured (automated)",
+  "display": "1.5% of characters wrong (measured)",
+  "line": "Soniox v5 against the published FLEURS transcript of this sentence: 1.5% of characters wrong (CER 0.015). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+ },
+ "agreement": {
+  "value": 0.99,
+  "label": "engine agreement (proxy)",
+  "display": "99.0% engine agreement (proxy)",
+  "line": "Soniox v5 and Gemini 2.5 Pro agree on 99.0% of characters for this sentence."
+ },
+ "reference": {
+  "kind": "published",
+  "text": "Komen se beleid het Beplande Ouerskap gediskwalifiseer as gevolg van ‘n onbesliste ondersoek oor hoe Beplande Ouerskap se verteenwoordiger, Cliff Sterns, hulle geld spandeer het en gerapporteer wat uitgevoer is.",
+  "line": "Published reference transcript from FLEURS (Google, CC BY 4.0)."
+ },
+ "sources": [
+  "fn-fleurs"
+ ]
+}

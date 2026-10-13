@@ -1,0 +1,38 @@
+{
+ "id": "st-nchlt-1",
+ "lang": "st",
+ "engine": "Gemini 3.5 Flash",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 0.0,
+   "end": 6.85,
+   "speaker": "Speaker 1",
+   "text": "A se a le mochini",
+   "en": "It is not a machine",
+   "agree": 0.729
+  }
+ ],
+ "score": {
+  "value": 0.2,
+  "label": "measured (automated)",
+  "display": "20.0% of characters wrong (measured)",
+  "line": "Gemini 3.5 Flash against the published NCHLT Speech Corpus transcript of this sentence: 20.0% of characters wrong (CER 0.200). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+ },
+ "agreement": {
+  "value": 0.729,
+  "label": "engine agreement (proxy)",
+  "display": "72.9% engine agreement (proxy)",
+  "line": "Gemini 3.5 Flash and Gemini 2.5 Pro agree on 72.9% of characters for this sentence."
+ },
+ "reference": {
+  "kind": "published",
+  "text": "a se a le motjhining",
+  "line": "Published reference transcript from NCHLT Speech Corpus (CC BY 3.0)."
+ },
+ "sources": [
+  "fn-nchlt"
+ ]
+}

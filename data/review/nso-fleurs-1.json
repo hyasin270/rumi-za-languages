@@ -1,0 +1,38 @@
+{
+ "id": "nso-fleurs-1",
+ "lang": "nso",
+ "engine": "Gemini 3.5 Flash",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 0.0,
+   "end": 13.74,
+   "speaker": "Speaker 1",
+   "text": "Daniel Lanthand, setsebi sa bolwetši sa UN, o boletše gore phatlalalo e hlotšwe ke badirakutšo.",
+   "en": "Daniel Lanthand, a UN disease expert, said that the spread was caused by activists.",
+   "agree": 0.967
+  }
+ ],
+ "score": {
+  "value": 0.0632,
+  "label": "measured (automated)",
+  "display": "6.4% of characters wrong (measured)",
+  "line": "Gemini 3.5 Flash against the published FLEURS transcript of this sentence: 6.4% of characters wrong (CER 0.064). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+ },
+ "agreement": {
+  "value": 0.967,
+  "label": "engine agreement (proxy)",
+  "display": "96.7% engine agreement (proxy)",
+  "line": "Gemini 3.5 Flash and Gemini 2.5 Pro agree on 96.7% of characters for this sentence."
+ },
+ "reference": {
+  "kind": "published",
+  "text": "Danielle Lantagne, setsebi sa bolwetši sa UN, o boletše gore phatlalalo e hlotšwe ke badirakhutšo.",
+  "line": "Published reference transcript from FLEURS (Google, CC BY 4.0)."
+ },
+ "sources": [
+  "fn-fleurs"
+ ]
+}

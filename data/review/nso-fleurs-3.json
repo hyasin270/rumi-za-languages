@@ -1,0 +1,38 @@
+{
+ "id": "nso-fleurs-3",
+ "lang": "nso",
+ "engine": "Gemini 3.5 Flash",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 0.0,
+   "end": 13.68,
+   "speaker": "Speaker 1",
+   "text": "Kamogelo ya kakanyo ya Aristotle godimo ga ditaba ka moka tša tša saense go akaretša le thutogopolo",
+   "en": "The acceptance of Aristotle's idea on all scientific matters including psychology",
+   "agree": 0.745
+  }
+ ],
+ "score": {
+  "value": 0.1415,
+  "label": "measured (automated)",
+  "display": "14.2% of characters wrong (measured)",
+  "line": "Gemini 3.5 Flash against the published FLEURS transcript of this sentence: 14.2% of characters wrong (CER 0.142). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+ },
+ "agreement": {
+  "value": 0.745,
+  "label": "engine agreement (proxy)",
+  "display": "74.5% engine agreement (proxy)",
+  "line": "Gemini 3.5 Flash and Gemini 2.5 Pro agree on 74.5% of characters for this sentence."
+ },
+ "reference": {
+  "kind": "published",
+  "text": "Go amogetšwe dikakanyo tša Aristotle godimo ga ditaba ka moka tša tša saentshe, go akaretša le thutokgopolo.",
+  "line": "Published reference transcript from FLEURS (Google, CC BY 4.0)."
+ },
+ "sources": [
+  "fn-fleurs"
+ ]
+}

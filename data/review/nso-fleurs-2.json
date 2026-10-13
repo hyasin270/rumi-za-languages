@@ -1,0 +1,38 @@
+{
+ "id": "nso-fleurs-2",
+ "lang": "nso",
+ "engine": "Gemini 3.5 Flash",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 0.0,
+   "end": 13.68,
+   "speaker": "Speaker 1",
+   "text": "Bogodimo bja ngwedi bo dirilwe ka maswika le lerole. Le manonala a ka ntle-ntle la ngwedi le bitšwa legogo.",
+   "en": "The surface of the moon is made of rocks and dust. And the outermost layer of the moon is called the crust.",
+   "agree": 0.903
+  }
+ ],
+ "score": {
+  "value": 0.0693,
+  "label": "measured (automated)",
+  "display": "7.0% of characters wrong (measured)",
+  "line": "Gemini 3.5 Flash against the published FLEURS transcript of this sentence: 7.0% of characters wrong (CER 0.070). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+ },
+ "agreement": {
+  "value": 0.903,
+  "label": "engine agreement (proxy)",
+  "display": "90.3% engine agreement (proxy)",
+  "line": "Gemini 3.5 Flash and Gemini 2.5 Pro agree on 90.3% of characters for this sentence."
+ },
+ "reference": {
+  "kind": "published",
+  "text": "Bogodimo bja Ngwedi bo dirilwe ka maswika le lerole. Lemanoga la ka ntlentle la Ngwedi le bišwa legogo.",
+  "line": "Published reference transcript from FLEURS (Google, CC BY 4.0)."
+ },
+ "sources": [
+  "fn-fleurs"
+ ]
+}

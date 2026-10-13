@@ -1,0 +1,38 @@
+{
+ "id": "tn-nchlt-1",
+ "lang": "tn",
+ "engine": "Gemini 3.8 Flash",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 0.0,
+   "end": 14.64,
+   "speaker": "Speaker 1",
+   "text": "Tswa mo emeleng mme o",
+   "en": "Get out of the queue and",
+   "agree": 0.85
+  }
+ ],
+ "score": {
+  "value": 0.0455,
+  "label": "measured (automated)",
+  "display": "4.6% of characters wrong (measured)",
+  "line": "Gemini 3.8 Flash against the published NCHLT Speech Corpus transcript of this sentence: 4.6% of characters wrong (CER 0.046). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+ },
+ "agreement": {
+  "value": 0.85,
+  "label": "engine agreement (proxy)",
+  "display": "85.0% engine agreement (proxy)",
+  "line": "Gemini 3.8 Flash and Gemini 3.1 Pro agree on 85.0% of characters for this sentence."
+ },
+ "reference": {
+  "kind": "published",
+  "text": "tswa mo emeileng mme o",
+  "line": "Published reference transcript from NCHLT Speech Corpus (CC BY 3.0)."
+ },
+ "sources": [
+  "fn-nchlt"
+ ]
+}

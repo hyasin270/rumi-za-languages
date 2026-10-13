@@ -1,0 +1,973 @@
+{
+ "id": "xh-mindset-phonics-tsh",
+ "lang": "xh",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 11.7,
+   "end": 13.38,
+   "speaker": "Teacher",
+   "text": "I-theme yam, ebendisenza i-lesson, i-theme yam,",
+   "en": "My theme, when I was doing the lesson, my theme,",
+   "agree": null
+  },
+  {
+   "i": 1,
+   "start": 15.92,
+   "end": 16.22,
+   "speaker": "Teacher",
+   "text": "isihloko sayo,",
+   "en": "its title,",
+   "agree": null
+  },
+  {
+   "i": 2,
+   "start": 16.58,
+   "end": 16.91,
+   "speaker": "Teacher",
+   "text": "ibizi-phonics.",
+   "en": "was phonics.",
+   "agree": null
+  },
+  {
+   "i": 3,
+   "start": 18.71,
+   "end": 20.68,
+   "speaker": "Teacher",
+   "text": "UnguNontshaba. Nantsiya. Ngubani igama lakhe?",
+   "en": "It's Nontshaba. There she is. What is her name?",
+   "agree": null
+  },
+  {
+   "i": 4,
+   "start": 20.78,
+   "end": 21.08,
+   "speaker": "Learners",
+   "text": "NguNontshaba!",
+   "en": "It's Nontshaba!",
+   "agree": null
+  },
+  {
+   "i": 5,
+   "start": 21.47,
+   "end": 22.97,
+   "speaker": "Teacher",
+   "text": "Ngubani igama lakhe?",
+   "en": "What is her name?",
+   "agree": null
+  },
+  {
+   "i": 6,
+   "start": 23.81,
+   "end": 25.67,
+   "speaker": "Teacher",
+   "text": "Igama linguNontshaba. Igama lakhe ngubani?",
+   "en": "The name is Nontshaba. What is her name?",
+   "agree": null
+  },
+  {
+   "i": 7,
+   "start": 26.07,
+   "end": 27.07,
+   "speaker": "Learners",
+   "text": "NguNontshaba!",
+   "en": "It's Nontshaba!",
+   "agree": null
+  },
+  {
+   "i": 8,
+   "start": 27.47,
+   "end": 31.57,
+   "speaker": "Teacher",
+   "text": "NguNontshaba. Umhlobo wam uzakunibalisela ibali elimnandi.",
+   "en": "It's Nontshaba. My friend is going to tell you a nice story.",
+   "agree": null
+  },
+  {
+   "i": 9,
+   "start": 34.34,
+   "end": 35.24,
+   "speaker": "Teacher",
+   "text": "Uniphathele ibali elithini?",
+   "en": "She has brought you what kind of story?",
+   "agree": null
+  },
+  {
+   "i": 10,
+   "start": 35.54,
+   "end": 36.44,
+   "speaker": "Learners",
+   "text": "Elimnandi!",
+   "en": "A nice one!",
+   "agree": null
+  },
+  {
+   "i": 11,
+   "start": 37.74,
+   "end": 38.94,
+   "speaker": "Teacher",
+   "text": "I'm Miss [teacher],",
+   "en": "I'm Miss [teacher],",
+   "agree": null
+  },
+  {
+   "i": 12,
+   "start": 41.47,
+   "end": 42.14,
+   "speaker": "Teacher",
+   "text": "u-teacher [school].",
+   "en": "the teacher at [school].",
+   "agree": null
+  },
+  {
+   "i": 13,
+   "start": 44.39,
+   "end": 45.16,
+   "speaker": "Teacher",
+   "text": "kwa-grade 1A.",
+   "en": "in grade 1A.",
+   "agree": null
+  },
+  {
+   "i": 14,
+   "start": 46.16,
+   "end": 47.16,
+   "speaker": "Teacher",
+   "text": "Umtshayelo.",
+   "en": "A broom.",
+   "agree": null
+  },
+  {
+   "i": 15,
+   "start": 47.56,
+   "end": 48.96,
+   "speaker": "Learners",
+   "text": "Umtshayelo.",
+   "en": "A broom.",
+   "agree": null
+  },
+  {
+   "i": 16,
+   "start": 49.66,
+   "end": 50.56,
+   "speaker": "Teacher",
+   "text": "Umtshana.",
+   "en": "A niece/nephew.",
+   "agree": null
+  },
+  {
+   "i": 17,
+   "start": 50.96,
+   "end": 51.96,
+   "speaker": "Learners",
+   "text": "Umtshana.",
+   "en": "A niece/nephew.",
+   "agree": null
+  },
+  {
+   "i": 18,
+   "start": 52.46,
+   "end": 54.86,
+   "speaker": "Teacher",
+   "text": "I-phonics ezithetha ngomtshato.",
+   "en": "The phonics that talk about a wedding.",
+   "agree": null
+  },
+  {
+   "i": 19,
+   "start": 56.22,
+   "end": 57.52,
+   "speaker": "Teacher",
+   "text": "Ntoni enye esiyibonayo?",
+   "en": "What else do we see?",
+   "agree": null
+  },
+  {
+   "i": 20,
+   "start": 58.96,
+   "end": 60.42,
+   "speaker": "Learners",
+   "text": "Abantwana abathandanayo.",
+   "en": "Children who love each other.",
+   "agree": null
+  },
+  {
+   "i": 21,
+   "start": 60.92,
+   "end": 63.37,
+   "speaker": "Teacher",
+   "text": "Ndababonisa isandi esingu-tsh.",
+   "en": "I showed them the sound that is 'tsh'.",
+   "agree": null
+  },
+  {
+   "i": 22,
+   "start": 64.24,
+   "end": 67.22,
+   "speaker": "Teacher",
+   "text": "Umtshana wakhe uPriscilla uzakucula.",
+   "en": "Her niece Priscilla is going to sing.",
+   "agree": null
+  },
+  {
+   "i": 23,
+   "start": 67.82,
+   "end": 69.72,
+   "speaker": "Learners",
+   "text": "Umtshana wakhe uPriscilla",
+   "en": "Her niece Priscilla",
+   "agree": null
+  },
+  {
+   "i": 24,
+   "start": 70.15,
+   "end": 73.48,
+   "speaker": "Learners",
+   "text": "Umtshana wakhe uPriscilla uzakucula.",
+   "en": "Her niece Priscilla is going to sing.",
+   "agree": null
+  },
+  {
+   "i": 25,
+   "start": 74.98,
+   "end": 79.88,
+   "speaker": "Teacher",
+   "text": "Umtsha- umtshana wakhe uPriscilla uzakucula.",
+   "en": "The nie- her niece Priscilla is going to sing.",
+   "agree": null
+  },
+  {
+   "i": 26,
+   "start": 79.94,
+   "end": 82.74,
+   "speaker": "Learners",
+   "text": "Umtshana wakhe uPriscilla uzakucula.",
+   "en": "Her niece Priscilla is going to sing.",
+   "agree": null
+  },
+  {
+   "i": 27,
+   "start": 84.44,
+   "end": 85.94,
+   "speaker": "Teacher",
+   "text": "Umtshato kaNonthlanthla.",
+   "en": "Nonthlanthla's wedding.",
+   "agree": null
+  },
+  {
+   "i": 28,
+   "start": 86.24,
+   "end": 87.74,
+   "speaker": "Learners",
+   "text": "Umtshato kaNonthlanthla.",
+   "en": "Nonthlanthla's wedding.",
+   "agree": null
+  },
+  {
+   "i": 29,
+   "start": 88.14,
+   "end": 90.74,
+   "speaker": "Teacher",
+   "text": "And then ngoku ke nibachazele into yokuba isandi esingu-tsh.",
+   "en": "And then now you explain to them that the sound is 'tsh'.",
+   "agree": null
+  },
+  {
+   "i": 30,
+   "start": 91.14,
+   "end": 91.74,
+   "speaker": "Teacher",
+   "text": "Isandi sethu",
+   "en": "Our sound",
+   "agree": null
+  },
+  {
+   "i": 31,
+   "start": 93.4,
+   "end": 95.27,
+   "speaker": "Teacher",
+   "text": "esingu-tsh. Isandi sethu esingubani?",
+   "en": "is 'tsh'. Our sound is what?",
+   "agree": null
+  },
+  {
+   "i": 32,
+   "start": 95.77,
+   "end": 96.27,
+   "speaker": "Learners",
+   "text": "U-tsh.",
+   "en": "u-tsh.",
+   "agree": null
+  },
+  {
+   "i": 33,
+   "start": 96.87,
+   "end": 97.77,
+   "speaker": "Teacher",
+   "text": "Isandi sethu esingubani?",
+   "en": "Our sound is what?",
+   "agree": null
+  },
+  {
+   "i": 34,
+   "start": 98.27,
+   "end": 98.77,
+   "speaker": "Learners",
+   "text": "U-tsh.",
+   "en": "u-tsh.",
+   "agree": null
+  },
+  {
+   "i": 35,
+   "start": 99.27,
+   "end": 100.77,
+   "speaker": "Teacher",
+   "text": "Isandi sethu esingu-tsh.",
+   "en": "Our sound is 'tsh'.",
+   "agree": null
+  },
+  {
+   "i": 36,
+   "start": 101.67,
+   "end": 103.07,
+   "speaker": "Teacher",
+   "text": "Kusohlulwa kathathu",
+   "en": "It is divided three times",
+   "agree": null
+  },
+  {
+   "i": 37,
+   "start": 104.71,
+   "end": 107.83,
+   "speaker": "Teacher",
+   "text": "Kusohlulwa kathathu ngezandi ezintathu, sakhiwa ngezandi ezintathu. U-t...",
+   "en": "It is divided three times by three sounds, it is built with three sounds. u-t...",
+   "agree": null
+  },
+  {
+   "i": 38,
+   "start": 111.96,
+   "end": 112.95,
+   "speaker": "Teacher",
+   "text": "Esesibini ngu-s...",
+   "en": "The second one is 's'...",
+   "agree": null
+  },
+  {
+   "i": 39,
+   "start": 117.29,
+   "end": 118.31,
+   "speaker": "Teacher",
+   "text": "Esesithathu ngu-h.",
+   "en": "The third one is 'h'.",
+   "agree": null
+  },
+  {
+   "i": 40,
+   "start": 122.34,
+   "end": 122.64,
+   "speaker": "Teacher",
+   "text": "Igama elithi umtshato.",
+   "en": "The word 'umtshato' (wedding).",
+   "agree": null
+  },
+  {
+   "i": 41,
+   "start": 122.41,
+   "end": 124.81,
+   "speaker": "Teacher",
+   "text": "Ndaphinda ndafumana igama elithi",
+   "en": "I again found the word that says",
+   "agree": null
+  },
+  {
+   "i": 42,
+   "start": 128.85,
+   "end": 132.0,
+   "speaker": "Teacher",
+   "text": "Amanye amagama amatsha endiwafumeneyo ibe yinto umtshana, umtshakazi, umyeni.",
+   "en": "Other new words that I found were 'umtshana' (niece/nephew), 'umtshakazi' (bride), 'umyeni' (groom).",
+   "agree": null
+  },
+  {
+   "i": 43,
+   "start": 134.13,
+   "end": 143.28,
+   "speaker": "Teacher",
+   "text": "Ubani onondipha amagama amagama amatsha awafumene kwibali lethu anesandi esiqala ngo-tsh.",
+   "en": "Who can give me words new words that they found in our story that have the sound that starts with 'tsh'.",
+   "agree": null
+  },
+  {
+   "i": 44,
+   "start": 144.28,
+   "end": 144.58,
+   "speaker": "Learner",
+   "text": "Lona apha?",
+   "en": "This one here?",
+   "agree": null
+  },
+  {
+   "i": 45,
+   "start": 145.88,
+   "end": 146.18,
+   "speaker": "Learner",
+   "text": "Umtshato.",
+   "en": "Wedding.",
+   "agree": null
+  },
+  {
+   "i": 46,
+   "start": 146.98,
+   "end": 147.88,
+   "speaker": "Teacher",
+   "text": "Umtshato.",
+   "en": "Wedding.",
+   "agree": null
+  },
+  {
+   "i": 47,
+   "start": 150.16,
+   "end": 156.04,
+   "speaker": "Teacher",
+   "text": "Sifuna izichazi zethu ke ngoku. I-step sam sesithathu, sizichasi zam.",
+   "en": "We want our opposites now. My third step, my opposites.",
+   "agree": null
+  },
+  {
+   "i": 48,
+   "start": 156.76,
+   "end": 158.96,
+   "speaker": "Teacher",
+   "text": "Xa into ingantshanga sithi yinto enjani?",
+   "en": "When something is not new we say it is what kind of thing?",
+   "agree": null
+  },
+  {
+   "i": 49,
+   "start": 159.36,
+   "end": 159.96,
+   "speaker": "Learners",
+   "text": "Indala.",
+   "en": "Old.",
+   "agree": null
+  },
+  {
+   "i": 50,
+   "start": 160.26,
+   "end": 160.76,
+   "speaker": "Teacher",
+   "text": "Yinto endala.",
+   "en": "It is an old thing.",
+   "agree": null
+  },
+  {
+   "i": 51,
+   "start": 161.56,
+   "end": 162.17,
+   "speaker": "Teacher",
+   "text": "Xa umntu",
+   "en": "When a person",
+   "agree": null
+  },
+  {
+   "i": 52,
+   "start": 163.16,
+   "end": 165.34,
+   "speaker": "Teacher",
+   "text": "engamjanga, omde, xa engamdanga umntu.",
+   "en": "is not young, tall, when a person is not tall.",
+   "agree": null
+  },
+  {
+   "i": 53,
+   "start": 165.64,
+   "end": 166.64,
+   "speaker": "Learner",
+   "text": "Ulapha kumtshato.",
+   "en": "He/she is here at the wedding.",
+   "agree": null
+  },
+  {
+   "i": 54,
+   "start": 167.1,
+   "end": 167.74,
+   "speaker": "Learner",
+   "text": "Umfutshane.",
+   "en": "Short.",
+   "agree": null
+  },
+  {
+   "i": 55,
+   "start": 168.34,
+   "end": 173.04,
+   "speaker": "Teacher",
+   "text": "Sawelala kwi-step sethu sesine. I-step sethu sithi ne...",
+   "en": "We crossed over to our fourth step. Our step says ne...",
+   "agree": null
+  },
+  {
+   "i": 56,
+   "start": 174.82,
+   "end": 178.48,
+   "speaker": "Teacher",
+   "text": "Bathi u-teacher yila ebanike isivakalisi esithi umtshakazi utshayela ntoni? Ibala.",
+   "en": "They say the teacher is the one who gave them the sentence that says the bride sweeps what? The yard.",
+   "agree": null
+  },
+  {
+   "i": 57,
+   "start": 178.88,
+   "end": 179.68,
+   "speaker": "Teacher",
+   "text": "Ibala lantoni?",
+   "en": "The yard of what?",
+   "agree": null
+  },
+  {
+   "i": 58,
+   "start": 180.08,
+   "end": 180.48,
+   "speaker": "Learners",
+   "text": "Lerabhi!",
+   "en": "Of rugby!",
+   "agree": null
+  },
+  {
+   "i": 59,
+   "start": 180.78,
+   "end": 183.48,
+   "speaker": "Teacher",
+   "text": "Ibala lerabhi. Elinye ibala.",
+   "en": "The rugby field. Another yard/field.",
+   "agree": null
+  },
+  {
+   "i": 60,
+   "start": 187.0,
+   "end": 187.67,
+   "speaker": "Teacher",
+   "text": "Elinye ibala?",
+   "en": "Another yard/field?",
+   "agree": null
+  },
+  {
+   "i": 61,
+   "start": 188.2,
+   "end": 189.67,
+   "speaker": "Learner",
+   "text": "Ibala lebhola.",
+   "en": "A ball field.",
+   "agree": null
+  },
+  {
+   "i": 62,
+   "start": 190.07,
+   "end": 194.07,
+   "speaker": "Teacher",
+   "text": "Masizifundeni. Ngumtshato, kutshata udade wethu.",
+   "en": "Let's read them. It's a wedding, our sister is getting married.",
+   "agree": null
+  },
+  {
+   "i": 63,
+   "start": 194.67,
+   "end": 198.67,
+   "speaker": "Learners",
+   "text": "Ngumtshato, kutshata udade wethu.",
+   "en": "It's a wedding, our sister is getting married.",
+   "agree": null
+  },
+  {
+   "i": 64,
+   "start": 199.07,
+   "end": 201.73,
+   "speaker": "Teacher",
+   "text": "Umtshana uza kucula kumtshato.",
+   "en": "The niece/nephew will sing at the wedding.",
+   "agree": null
+  },
+  {
+   "i": 65,
+   "start": 202.04,
+   "end": 205.26,
+   "speaker": "Learners",
+   "text": "Umtshana uza kucula kumtshato.",
+   "en": "The niece/nephew will sing at the wedding.",
+   "agree": null
+  },
+  {
+   "i": 66,
+   "start": 206.58,
+   "end": 214.06,
+   "speaker": "Teacher",
+   "text": "Sawuyela kwi-step sesihlanu. I-step sezivakalisi, apho ndicele bona bandakhele ntoni? Izivakalisi.",
+   "en": "We went to the fifth step. The step of sentences, where I asked them to build for me what? Sentences.",
+   "agree": null
+  },
+  {
+   "i": 67,
+   "start": 215.94,
+   "end": 223.82,
+   "speaker": "Teacher",
+   "text": "Ndababonisa izivakalisi zibhalwa njani. Isivakalisi sinesibizo, sibe nesenzi. Ndabafundela eso sivakalisi bendi sibekile.",
+   "en": "I showed them how sentences are written. A sentence has a noun, and has a verb. I read for them that sentence I had put up.",
+   "agree": null
+  },
+  {
+   "i": 68,
+   "start": 224.84,
+   "end": 227.85,
+   "speaker": "Teacher",
+   "text": "Ndathi mabanokheleleke ngokubona izibhamandiphezu bona izivakalisi zabo.",
+   "en": "I said they should be inspired by seeing the capital letters for their sentences.",
+   "agree": null
+  },
+  {
+   "i": 69,
+   "start": 228.71,
+   "end": 231.11,
+   "speaker": "Learner",
+   "text": "Umtshato ngomso, kutshata udade wethu.",
+   "en": "The wedding is tomorrow, our sister is getting married.",
+   "agree": null
+  },
+  {
+   "i": 70,
+   "start": 231.51,
+   "end": 234.51,
+   "speaker": "Teacher",
+   "text": "Umtshato ngomso, kutshata udade wethu.",
+   "en": "The wedding is tomorrow, our sister is getting married.",
+   "agree": null
+  },
+  {
+   "i": 71,
+   "start": 234.91,
+   "end": 240.53,
+   "speaker": "Teacher",
+   "text": "Abantwana ndibanika umsebenzi ngokomgangatho wabo wokuqonda.",
+   "en": "The children, I give them work according to their level of understanding.",
+   "agree": null
+  },
+  {
+   "i": 72,
+   "start": 242.3,
+   "end": 244.94,
+   "speaker": "Teacher",
+   "text": "Apha eklasini yam, ku-grade one, ndinamaqela ngamaqela.",
+   "en": "Here in my class, in grade one, I have groups by groups.",
+   "agree": null
+  },
+  {
+   "i": 73,
+   "start": 245.74,
+   "end": 248.74,
+   "speaker": "Teacher",
+   "text": "Kukh' abakwazi ukubhala, kukh' abangakwazi ukubhala.",
+   "en": "There are those who can write, there are those who cannot write.",
+   "agree": null
+  },
+  {
+   "i": 74,
+   "start": 249.36,
+   "end": 250.02,
+   "speaker": "Teacher",
+   "text": "Mtshana.",
+   "en": "Niece/nephew.",
+   "agree": null
+  },
+  {
+   "i": 75,
+   "start": 251.7,
+   "end": 259.2,
+   "speaker": "Teacher",
+   "text": "Abanye ndibanike umsebenzi wokubhala, babhal' ok'ke, abanye ndibanike umsebenzi wokukopa amagama, abanye ndibanike umsebenzi wokukopa izivakalisi.",
+   "en": "Some I give them work of writing, they write then, others I give them work of copying words, others I give them work of copying sentences.",
+   "agree": null
+  },
+  {
+   "i": 76,
+   "start": 259.98,
+   "end": 262.18,
+   "speaker": "Learner",
+   "text": "Lona ngumtshato ka bhuti.",
+   "en": "This is brother's wedding.",
+   "agree": null
+  },
+  {
+   "i": 77,
+   "start": 262.92,
+   "end": 264.88,
+   "speaker": "Teacher",
+   "text": "Lona ngumtshato ka bhuti.",
+   "en": "This is brother's wedding.",
+   "agree": null
+  },
+  {
+   "i": 78,
+   "start": 265.58,
+   "end": 270.09,
+   "speaker": "Teacher",
+   "text": "Abanye ndibonike umsebenzi woba mabachathise, abanye ndibanike umsebenzi woba maba-",
+   "en": "Others I gave them work that they should match, others I gave them work that they should-",
+   "agree": null
+  },
+  {
+   "i": 79,
+   "start": 270.67,
+   "end": 272.47,
+   "speaker": "Teacher",
+   "text": "Mabakwazi ukohlula igama.",
+   "en": "They should be able to break down the word.",
+   "agree": null
+  },
+  {
+   "i": 80,
+   "start": 273.27,
+   "end": 274.45,
+   "speaker": "Teacher",
+   "text": "Elandelayo yintoni?",
+   "en": "The next one is what?",
+   "agree": null
+  },
+  {
+   "i": 81,
+   "start": 274.87,
+   "end": 275.57,
+   "speaker": "Learners",
+   "text": "Itshokolethi.",
+   "en": "Chocolate.",
+   "agree": null
+  },
+  {
+   "i": 82,
+   "start": 275.87,
+   "end": 280.07,
+   "speaker": "Teacher",
+   "text": "Itshokolethi. Ndolathele igama elithi itshokolethi. Ewe, nesandi.",
+   "en": "Chocolate. Point for me to the word that says chocolate. Yes, and the sound.",
+   "agree": null
+  },
+  {
+   "i": 83,
+   "start": 284.1,
+   "end": 292.84,
+   "speaker": "Teacher",
+   "text": "Yiza [learner], aphakamise ikhadi elibomvu. Ubani ondibize elinye igama elingenaso- elingenaso esisandi singu-tsh, uzophakamisa ikhadi eliluhlaza.",
+   "en": "Come [learner], and raise the red card. Who can call for me another word that doesn't have- that doesn't have this sound that is 'tsh', you will raise the green card.",
+   "agree": null
+  },
+  {
+   "i": 84,
+   "start": 293.94,
+   "end": 296.14,
+   "speaker": "Teacher",
+   "text": "Sikhona isandi esingu-tsh apha?",
+   "en": "Is the sound 'tsh' here?",
+   "agree": null
+  },
+  {
+   "i": 85,
+   "start": 297.38,
+   "end": 298.58,
+   "speaker": "Teacher",
+   "text": "Latshotsholozela.",
+   "en": "It slid/glided.",
+   "agree": null
+  },
+  {
+   "i": 86,
+   "start": 299.28,
+   "end": 300.58,
+   "speaker": "Teacher",
+   "text": "Latshotsholozela.",
+   "en": "It slid/glided.",
+   "agree": null
+  },
+  {
+   "i": 87,
+   "start": 302.48,
+   "end": 304.48,
+   "speaker": "Teacher",
+   "text": "Sikhona isandi esingu-tsh apha?",
+   "en": "Is the sound 'tsh' here?",
+   "agree": null
+  },
+  {
+   "i": 88,
+   "start": 305.0,
+   "end": 305.3,
+   "speaker": "Learners",
+   "text": "Ewe.",
+   "en": "Yes.",
+   "agree": null
+  },
+  {
+   "i": 89,
+   "start": 305.88,
+   "end": 307.08,
+   "speaker": "Teacher",
+   "text": "Siphi? Khawundolathele.",
+   "en": "Where is it? Please point to it for me.",
+   "agree": null
+  },
+  {
+   "i": 90,
+   "start": 307.84,
+   "end": 308.14,
+   "speaker": "Teacher",
+   "text": "Siphi?",
+   "en": "Where is it?",
+   "agree": null
+  },
+  {
+   "i": 91,
+   "start": 311.67,
+   "end": 312.05,
+   "speaker": "Teacher",
+   "text": "Siphi?",
+   "en": "Where is it?",
+   "agree": null
+  },
+  {
+   "i": 92,
+   "start": 312.95,
+   "end": 314.04,
+   "speaker": "Teacher",
+   "text": "Siyasibona esi sandi singu-tsh?",
+   "en": "Do we see this sound that is 'tsh'?",
+   "agree": null
+  },
+  {
+   "i": 93,
+   "start": 315.35,
+   "end": 315.65,
+   "speaker": "Learners",
+   "text": "Ewe.",
+   "en": "Yes.",
+   "agree": null
+  },
+  {
+   "i": 94,
+   "start": 316.15,
+   "end": 316.55,
+   "speaker": "Teacher",
+   "text": "Eke.",
+   "en": "Okay.",
+   "agree": null
+  },
+  {
+   "i": 95,
+   "start": 316.95,
+   "end": 320.41,
+   "speaker": "Teacher",
+   "text": "Ndabanika ke ngoku umsebenzi we-class, basebenza ngokwamaqela.",
+   "en": "I gave them now the class work, they worked according to groups.",
+   "agree": null
+  },
+  {
+   "i": 96,
+   "start": 320.99,
+   "end": 323.79,
+   "speaker": "Teacher",
+   "text": "Apho besenza khona yintoni? I-shared, besenza i-shared reading.",
+   "en": "Where they were doing what? I-shared, they were doing shared reading.",
+   "agree": null
+  },
+  {
+   "i": 97,
+   "start": 324.79,
+   "end": 327.3,
+   "speaker": "Teacher",
+   "text": "UPriscilla uze ekhaya enomqala obuhlungu.",
+   "en": "Priscilla came home with a sore throat.",
+   "agree": null
+  },
+  {
+   "i": 98,
+   "start": 328.89,
+   "end": 331.09,
+   "speaker": "Teacher",
+   "text": "UPriscilla ebengakwazi ukuthetha.",
+   "en": "Priscilla was not able to speak.",
+   "agree": null
+  },
+  {
+   "i": 99,
+   "start": 331.93,
+   "end": 336.6,
+   "speaker": "Teacher",
+   "text": "Ubuze ukuba uzakucula njani kumtshato kaNonhlanhla.",
+   "en": "She asked how she is going to sing at Nonhlanhla's wedding.",
+   "agree": null
+  },
+  {
+   "i": 100,
+   "start": 338.3,
+   "end": 339.6,
+   "speaker": "Teacher",
+   "text": "Wasebeza watsho.",
+   "en": "She whispered and said.",
+   "agree": null
+  },
+  {
+   "i": 101,
+   "start": 340.2,
+   "end": 354.82,
+   "speaker": "Learners",
+   "text": "Mmakoti sithi phis'hiya Mmakoti sithi phis'hiya, asikathini. Umkhwenyana uzolala phi? Asikathini. Mmakoti sithi phis'hiya, asikathini. Umkhwenyana uzolala phi? Asikathini. Mmakoti sithi phis'hiya.",
+   "en": "Bride we say phis'hiya Bride we say phis'hiya, we haven't yet. Where will the groom sleep? We haven't yet. Bride we say phis'hiya, we haven't yet. Where will the groom sleep? We haven't yet. Bride we say phis'hiya.",
+   "agree": null
+  },
+  {
+   "i": 102,
+   "start": 368.17,
+   "end": 370.17,
+   "speaker": "Teacher",
+   "text": "Okay, masijongeni apha ebhodini.",
+   "en": "Okay, let's look here on the board.",
+   "agree": null
+  },
+  {
+   "i": 103,
+   "start": 370.97,
+   "end": 371.77,
+   "speaker": "Learners",
+   "text": "Ewe, Tishala.",
+   "en": "Yes, Teacher.",
+   "agree": null
+  },
+  {
+   "i": 104,
+   "start": 372.47,
+   "end": 374.14,
+   "speaker": "Teacher",
+   "text": "Sizakwenza i-pattern yethu.",
+   "en": "We are going to do our pattern.",
+   "agree": null
+  }
+ ],
+ "score": {
+  "value": 0.849,
+  "label": "engine agreement (proxy)",
+  "display": "84.9% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 84.9% of characters across this video. No human transcript exists, so this is a proxy, not an accuracy score."
+ },
+ "agreement": {
+  "value": 0.849,
+  "label": "engine agreement (proxy)",
+  "display": "84.9% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 84.9% of characters across this video. No human transcript exists, so this is a proxy, not an accuracy score."
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No written transcript of this video is published."
+ },
+ "sources": [
+  "fn-video-xh"
+ ]
+}
