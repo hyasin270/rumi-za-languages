@@ -432,7 +432,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.883,
+    "label": "engine agreement (proxy)",
+    "display": "88.3% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 88.3% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+   },
    "drive_file_id": "13gsd4GaQvKkhs6nudPHoGOdv9n8TOqTL"
   },
   {
@@ -540,7 +545,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.836,
+    "label": "engine agreement (proxy)",
+    "display": "83.6% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 83.6% of characters across this video. No human transcript exists, so this is a proxy, not an accuracy score."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-video-zu"
@@ -570,7 +580,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.849,
+    "label": "engine agreement (proxy)",
+    "display": "84.9% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 84.9% of characters across this video. No human transcript exists, so this is a proxy, not an accuracy score."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-video-xh"
@@ -600,7 +615,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.742,
+    "label": "engine agreement (proxy)",
+    "display": "74.2% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 74.2% of characters across this video. No human transcript exists, so this is a proxy, not an accuracy score."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-video-st"
@@ -630,7 +650,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.2,
+    "label": "measured (automated)",
+    "display": "20.0% of characters wrong (measured)",
+    "line": "Gemini 3.5 Flash against the published NCHLT Speech Corpus transcript of this sentence: 20.0% of characters wrong (CER 0.200). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-nchlt"
@@ -660,7 +685,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.0,
+    "label": "measured (automated)",
+    "display": "0.0% of characters wrong (measured)",
+    "line": "Gemini 3.5 Flash against the published NCHLT Speech Corpus transcript of this sentence: 0.0% of characters wrong (CER 0.000). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-nchlt"
@@ -690,7 +720,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.0,
+    "label": "measured (automated)",
+    "display": "0.0% of characters wrong (measured)",
+    "line": "Gemini 3.5 Flash against the published NCHLT Speech Corpus transcript of this sentence: 0.0% of characters wrong (CER 0.000). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-nchlt"
@@ -720,7 +755,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.0632,
+    "label": "measured (automated)",
+    "display": "6.4% of characters wrong (measured)",
+    "line": "Gemini 3.5 Flash against the published FLEURS transcript of this sentence: 6.4% of characters wrong (CER 0.064). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-fleurs"
@@ -750,7 +790,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.0693,
+    "label": "measured (automated)",
+    "display": "7.0% of characters wrong (measured)",
+    "line": "Gemini 3.5 Flash against the published FLEURS transcript of this sentence: 7.0% of characters wrong (CER 0.070). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-fleurs"
@@ -780,7 +825,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.1415,
+    "label": "measured (automated)",
+    "display": "14.2% of characters wrong (measured)",
+    "line": "Gemini 3.5 Flash against the published FLEURS transcript of this sentence: 14.2% of characters wrong (CER 0.142). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-fleurs"
@@ -810,7 +860,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.0455,
+    "label": "measured (automated)",
+    "display": "4.6% of characters wrong (measured)",
+    "line": "Gemini 3.8 Flash against the published NCHLT Speech Corpus transcript of this sentence: 4.6% of characters wrong (CER 0.046). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-nchlt"
@@ -840,7 +895,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.0,
+    "label": "measured (automated)",
+    "display": "0.0% of characters wrong (measured)",
+    "line": "Gemini 3.8 Flash against the published NCHLT Speech Corpus transcript of this sentence: 0.0% of characters wrong (CER 0.000). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-nchlt"
@@ -870,7 +930,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.0,
+    "label": "measured (automated)",
+    "display": "0.0% of characters wrong (measured)",
+    "line": "Gemini 3.8 Flash against the published NCHLT Speech Corpus transcript of this sentence: 0.0% of characters wrong (CER 0.000). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-nchlt"
@@ -900,7 +965,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.0446,
+    "label": "measured (automated)",
+    "display": "4.5% of characters wrong (measured)",
+    "line": "Soniox v5 against the published FLEURS transcript of this sentence: 4.5% of characters wrong (CER 0.045). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-fleurs"
@@ -930,7 +1000,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.0144,
+    "label": "measured (automated)",
+    "display": "1.5% of characters wrong (measured)",
+    "line": "Soniox v5 against the published FLEURS transcript of this sentence: 1.5% of characters wrong (CER 0.015). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-fleurs"
@@ -960,7 +1035,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.0119,
+    "label": "measured (automated)",
+    "display": "1.2% of characters wrong (measured)",
+    "line": "Soniox v5 against the published FLEURS transcript of this sentence: 1.2% of characters wrong (CER 0.012). One sentence is a demonstration, not a benchmark; the language score uses the full test set."
+   },
    "drive_file_id": null,
    "sources": [
     "fn-fleurs"

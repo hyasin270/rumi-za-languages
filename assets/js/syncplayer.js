@@ -254,6 +254,8 @@
       this.linked = i; r.shown = -2;
       if (this.holdT == null || this.holdT < r.tu.start) this.holdT = r.tu.start;
       this.lastT = this.holdT; this.lastPoll = performance.now();
+      // later lines would still be hidden, leaving the linked one stuck at the bottom: open the whole transcript instead
+      if (!this.showAll) this.toggleAll(true);
       this.update(this.holdT + 0.01);
       const top = r.li.offsetTop - this.list.offsetTop - 12;
       const prev = this.list.style.scrollBehavior;

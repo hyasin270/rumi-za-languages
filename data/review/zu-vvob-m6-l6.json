@@ -7,51 +7,6 @@
  "turns": [
   {
    "i": 0,
-   "start": 15.1,
-   "end": 16.3,
-   "speaker": "Teacher",
-   "text": "Okay, siyabonga.",
-   "en": "Okay, thank you.",
-   "agree": 0.0
-  },
-  {
-   "i": 1,
-   "start": 18.2,
-   "end": 19.4,
-   "speaker": "Teacher",
-   "text": "Siyabonga, grade one.",
-   "en": "Thank you, grade one.",
-   "agree": 0.0
-  },
-  {
-   "i": 2,
-   "start": 21.1,
-   "end": 22.3,
-   "speaker": "Teacher",
-   "text": "Siyabonga, grade one.",
-   "en": "Thank you, grade one.",
-   "agree": 0.0
-  },
-  {
-   "i": 3,
-   "start": 24.1,
-   "end": 25.3,
-   "speaker": "Teacher",
-   "text": "Siyabonga, grade one.",
-   "en": "Thank you, grade one.",
-   "agree": 0.0
-  },
-  {
-   "i": 4,
-   "start": 27.1,
-   "end": 28.3,
-   "speaker": "Teacher",
-   "text": "Siyabonga, grade one.",
-   "en": "Thank you, grade one.",
-   "agree": 0.0
-  },
-  {
-   "i": 5,
    "start": 34.32,
    "end": 39.32,
    "speaker": "Teacher",
@@ -60,7 +15,7 @@
    "agree": 1.0
   },
   {
-   "i": 6,
+   "i": 1,
    "start": 39.72,
    "end": 43.32,
    "speaker": "Teacher",
@@ -69,7 +24,7 @@
    "agree": 1.0
   },
   {
-   "i": 7,
+   "i": 2,
    "start": 43.82,
    "end": 45.52,
    "speaker": "Teacher",
@@ -78,7 +33,7 @@
    "agree": 0.931
   },
   {
-   "i": 8,
+   "i": 3,
    "start": 46.12,
    "end": 50.32,
    "speaker": "Learners",
@@ -87,7 +42,7 @@
    "agree": 0.972
   },
   {
-   "i": 9,
+   "i": 4,
    "start": 50.52,
    "end": 51.12,
    "speaker": "Learners",
@@ -96,7 +51,7 @@
    "agree": 1.0
   },
   {
-   "i": 10,
+   "i": 5,
    "start": 51.52,
    "end": 52.12,
    "speaker": "Learners",
@@ -105,7 +60,7 @@
    "agree": 1.0
   },
   {
-   "i": 11,
+   "i": 6,
    "start": 52.52,
    "end": 55.12,
    "speaker": "Learners",
@@ -114,7 +69,7 @@
    "agree": 1.0
   },
   {
-   "i": 12,
+   "i": 7,
    "start": 55.52,
    "end": 56.12,
    "speaker": "Learners",
@@ -123,7 +78,7 @@
    "agree": 0.0
   },
   {
-   "i": 13,
+   "i": 8,
    "start": 61.79,
    "end": 63.09,
    "speaker": "Learners",
@@ -132,7 +87,7 @@
    "agree": 1.0
   },
   {
-   "i": 14,
+   "i": 9,
    "start": 63.39,
    "end": 65.49,
    "speaker": "Learners",
@@ -141,7 +96,7 @@
    "agree": 0.762
   },
   {
-   "i": 15,
+   "i": 10,
    "start": 65.99,
    "end": 67.49,
    "speaker": "Learners",
@@ -150,7 +105,7 @@
    "agree": 1.0
   },
   {
-   "i": 16,
+   "i": 11,
    "start": 67.79,
    "end": 70.09,
    "speaker": "Learners",
@@ -159,7 +114,7 @@
    "agree": 0.636
   },
   {
-   "i": 17,
+   "i": 12,
    "start": 70.39,
    "end": 73.49,
    "speaker": "Learners",
@@ -168,7 +123,7 @@
    "agree": 0.708
   },
   {
-   "i": 18,
+   "i": 13,
    "start": 73.89,
    "end": 76.89,
    "speaker": "Learners",
@@ -177,7 +132,7 @@
    "agree": 0.917
   },
   {
-   "i": 19,
+   "i": 14,
    "start": 77.19,
    "end": 78.49,
    "speaker": "Teacher",
@@ -186,7 +141,7 @@
    "agree": 0.793
   },
   {
-   "i": 20,
+   "i": 15,
    "start": 78.89,
    "end": 80.49,
    "speaker": "Teacher",
@@ -195,7 +150,7 @@
    "agree": 0.893
   },
   {
-   "i": 21,
+   "i": 16,
    "start": 80.69,
    "end": 83.49,
    "speaker": "Teacher",
@@ -204,7 +159,7 @@
    "agree": 0.75
   },
   {
-   "i": 22,
+   "i": 17,
    "start": 83.59,
    "end": 84.19,
    "speaker": "Teacher",
@@ -213,7 +168,7 @@
    "agree": 1.0
   },
   {
-   "i": 23,
+   "i": 18,
    "start": 84.89,
    "end": 87.19,
    "speaker": "Teacher",
@@ -222,16 +177,16 @@
    "agree": 0.95
   },
   {
-   "i": 24,
+   "i": 19,
    "start": 87.29,
    "end": 88.69,
    "speaker": "Teacher",
    "text": "Uthi uzwa umsindo bani?",
-   "en": "She says she hears which sound?",
+   "en": "She says she hears what sound?",
    "agree": 0.955
   },
   {
-   "i": 25,
+   "i": 20,
    "start": 92.82,
    "end": 101.02,
    "speaker": "Teacher",
@@ -240,7 +195,7 @@
    "agree": 0.946
   },
   {
-   "i": 26,
+   "i": 21,
    "start": 101.32,
    "end": 101.82,
    "speaker": "Learner",
@@ -249,7 +204,7 @@
    "agree": 0.25
   },
   {
-   "i": 27,
+   "i": 22,
    "start": 102.12,
    "end": 103.82,
    "speaker": "Teacher",
@@ -258,7 +213,7 @@
    "agree": 1.0
   },
   {
-   "i": 28,
+   "i": 23,
    "start": 104.02,
    "end": 105.82,
    "speaker": "Teacher",
@@ -267,7 +222,7 @@
    "agree": 0.95
   },
   {
-   "i": 29,
+   "i": 24,
    "start": 106.12,
    "end": 107.02,
    "speaker": "Learners",
@@ -276,7 +231,7 @@
    "agree": 1.0
   },
   {
-   "i": 30,
+   "i": 25,
    "start": 107.12,
    "end": 114.82,
    "speaker": "Teacher",
@@ -285,7 +240,7 @@
    "agree": 0.992
   },
   {
-   "i": 31,
+   "i": 26,
    "start": 115.02,
    "end": 116.92,
    "speaker": "Teacher",
@@ -294,7 +249,7 @@
    "agree": 1.0
   },
   {
-   "i": 32,
+   "i": 27,
    "start": 117.42,
    "end": 119.52,
    "speaker": "Learners",
@@ -303,16 +258,16 @@
    "agree": 0.091
   },
   {
-   "i": 33,
+   "i": 28,
    "start": 120.46,
    "end": 123.96,
    "speaker": "Teacher",
    "text": "sonke ke ilungelo. I-lu-nge-lo.",
-   "en": "Everyone then, ilungelo. I-lu-nge-lo.",
+   "en": "everyone then ilungelo. I-lu-nge-lo.",
    "agree": 0.31
   },
   {
-   "i": 34,
+   "i": 29,
    "start": 124.06,
    "end": 125.46,
    "speaker": "Learners",
@@ -321,7 +276,7 @@
    "agree": 0.0
   },
   {
-   "i": 35,
+   "i": 30,
    "start": 125.76,
    "end": 126.76,
    "speaker": "Teacher",
@@ -330,7 +285,7 @@
    "agree": 1.0
   },
   {
-   "i": 36,
+   "i": 31,
    "start": 126.96,
    "end": 127.46,
    "speaker": "Learners",
@@ -339,7 +294,7 @@
    "agree": 1.0
   },
   {
-   "i": 37,
+   "i": 32,
    "start": 127.76,
    "end": 131.46,
    "speaker": "Teacher",
@@ -348,7 +303,7 @@
    "agree": 0.833
   },
   {
-   "i": 38,
+   "i": 33,
    "start": 131.96,
    "end": 133.46,
    "speaker": "Teacher",
@@ -357,7 +312,7 @@
    "agree": 1.0
   },
   {
-   "i": 39,
+   "i": 34,
    "start": 133.76,
    "end": 134.46,
    "speaker": "Learners",
@@ -366,7 +321,7 @@
    "agree": 1.0
   },
   {
-   "i": 40,
+   "i": 35,
    "start": 134.76,
    "end": 136.76,
    "speaker": "Teacher",
@@ -375,7 +330,7 @@
    "agree": 1.0
   },
   {
-   "i": 41,
+   "i": 36,
    "start": 137.06,
    "end": 139.46,
    "speaker": "Learners",
@@ -384,7 +339,7 @@
    "agree": 0.727
   },
   {
-   "i": 42,
+   "i": 37,
    "start": 139.46,
    "end": 142.96,
    "speaker": "Teacher",
@@ -393,7 +348,7 @@
    "agree": 1.0
   },
   {
-   "i": 43,
+   "i": 38,
    "start": 143.96,
    "end": 146.96,
    "speaker": "Teacher",
@@ -402,7 +357,7 @@
    "agree": 1.0
   },
   {
-   "i": 44,
+   "i": 39,
    "start": 147.66,
    "end": 150.76,
    "speaker": "Teacher",
@@ -411,16 +366,16 @@
    "agree": 0.943
   },
   {
-   "i": 45,
+   "i": 40,
    "start": 150.43,
    "end": 158.03,
    "speaker": "Teacher",
    "text": "sike ebhokisini lami, uyacimeza, uthatha into noma yini azoyifica la phakathi uyayithatha, uyayiphakamisa, uyasitshela ukuthi uthole ini ebhokisini likamisi, angithi?",
-   "en": "When they get to my box, they close their eyes, they take anything they find inside here, they take it, they lift it up, they tell us what they found in the teacher's box, right?",
+   "en": "come to my box, they close their eyes, they take anything they find inside here, they take it, they lift it up, they tell us what they found in miss's box, right?",
    "agree": 0.981
   },
   {
-   "i": 46,
+   "i": 41,
    "start": 160.33,
    "end": 161.23,
    "speaker": "Teacher",
@@ -429,7 +384,7 @@
    "agree": 1.0
   },
   {
-   "i": 47,
+   "i": 42,
    "start": 161.73,
    "end": 165.03,
    "speaker": "Teacher",
@@ -438,7 +393,7 @@
    "agree": 0.972
   },
   {
-   "i": 48,
+   "i": 43,
    "start": 165.53,
    "end": 167.03,
    "speaker": "Teacher",
@@ -447,7 +402,7 @@
    "agree": 0.917
   },
   {
-   "i": 49,
+   "i": 44,
    "start": 167.53,
    "end": 168.73,
    "speaker": "Learners",
@@ -456,7 +411,7 @@
    "agree": 1.0
   },
   {
-   "i": 50,
+   "i": 45,
    "start": 169.03,
    "end": 173.23,
    "speaker": "Teacher",
@@ -465,7 +420,7 @@
    "agree": 0.887
   },
   {
-   "i": 51,
+   "i": 46,
    "start": 173.63,
    "end": 175.73,
    "speaker": "Teacher",
@@ -474,7 +429,7 @@
    "agree": 0.976
   },
   {
-   "i": 52,
+   "i": 47,
    "start": 176.23,
    "end": 177.73,
    "speaker": "Learners",
@@ -483,7 +438,7 @@
    "agree": 1.0
   },
   {
-   "i": 53,
+   "i": 48,
    "start": 183.55,
    "end": 185.25,
    "speaker": "Learners",
@@ -492,7 +447,7 @@
    "agree": 0.0
   },
   {
-   "i": 54,
+   "i": 49,
    "start": 185.55,
    "end": 185.95,
    "speaker": "Teacher",
@@ -501,7 +456,7 @@
    "agree": 1.0
   },
   {
-   "i": 55,
+   "i": 50,
    "start": 186.45,
    "end": 187.65,
    "speaker": "Teacher",
@@ -510,7 +465,7 @@
    "agree": 1.0
   },
   {
-   "i": 56,
+   "i": 51,
    "start": 188.05,
    "end": 188.95,
    "speaker": "Teacher",
@@ -519,7 +474,7 @@
    "agree": 1.0
   },
   {
-   "i": 57,
+   "i": 52,
    "start": 189.35,
    "end": 189.85,
    "speaker": "Teacher",
@@ -528,16 +483,16 @@
    "agree": 1.0
   },
   {
-   "i": 58,
+   "i": 53,
    "start": 190.05,
    "end": 191.45,
    "speaker": "Teacher",
    "text": "Yebo, mathathu mngani.",
-   "en": "Yes, three, friend.",
+   "en": "Yes, three friend.",
    "agree": 1.0
   },
   {
-   "i": 59,
+   "i": 54,
    "start": 191.65,
    "end": 194.65,
    "speaker": "Teacher",
@@ -546,7 +501,7 @@
    "agree": 1.0
   },
   {
-   "i": 60,
+   "i": 55,
    "start": 195.15,
    "end": 196.85,
    "speaker": "Teacher",
@@ -555,7 +510,7 @@
    "agree": 0.923
   },
   {
-   "i": 61,
+   "i": 56,
    "start": 197.35,
    "end": 198.25,
    "speaker": "Learners",
@@ -564,16 +519,16 @@
    "agree": 1.0
   },
   {
-   "i": 62,
+   "i": 57,
    "start": 198.65,
    "end": 202.85,
    "speaker": "Teacher",
    "text": "Umsindo ng uwakhiwe imisindo emibili, angithi bangani bami?",
-   "en": "The sound ng is made of two sounds, isn't it my friends?",
+   "en": "The sound ng is made of two sounds, right my friends?",
    "agree": 0.982
   },
   {
-   "i": 63,
+   "i": 58,
    "start": 203.15,
    "end": 203.55,
    "speaker": "Teacher",
@@ -582,16 +537,16 @@
    "agree": 1.0
   },
   {
-   "i": 64,
+   "i": 59,
    "start": 203.95,
    "end": 206.55,
    "speaker": "Teacher",
    "text": "Angithole umngani ozongikhombela odongeni lwami lwamagama.",
-   "en": "Let me find a friend who will point for me on my wall of words.",
+   "en": "Let me get a friend who will point for me on my word wall.",
    "agree": 0.947
   },
   {
-   "i": 65,
+   "i": 60,
    "start": 209.45,
    "end": 209.95,
    "speaker": "Teacher",
@@ -600,7 +555,7 @@
    "agree": 1.0
   },
   {
-   "i": 66,
+   "i": 61,
    "start": 210.95,
    "end": 211.35,
    "speaker": "Teacher",
@@ -609,7 +564,7 @@
    "agree": 1.0
   },
   {
-   "i": 67,
+   "i": 62,
    "start": 213.06,
    "end": 213.36,
    "speaker": "Teacher",
@@ -618,7 +573,7 @@
    "agree": 0.0
   },
   {
-   "i": 68,
+   "i": 63,
    "start": 213.66,
    "end": 214.36,
    "speaker": "Teacher",
@@ -627,7 +582,7 @@
    "agree": 0.0
   },
   {
-   "i": 69,
+   "i": 64,
    "start": 214.46,
    "end": 214.76,
    "speaker": "Learners",
@@ -636,25 +591,25 @@
    "agree": 1.0
   },
   {
-   "i": 70,
+   "i": 65,
    "start": 214.96,
    "end": 217.56,
    "speaker": "Teacher",
    "text": "Ungqi unobani? Unoni, angithi bangani?",
-   "en": "The n has who? It has n, isn't it friends?",
+   "en": "The full stop has who? It has n, right friends?",
    "agree": 0.771
   },
   {
-   "i": 71,
+   "i": 66,
    "start": 217.86,
    "end": 220.36,
    "speaker": "Teacher",
    "text": "Unoni. Okay, nangu ungqi wami ngim'bekile.",
-   "en": "It has n. Okay, here is my n, I have placed it.",
+   "en": "It has n. Okay, here is my full stop, I have placed it.",
    "agree": 0.897
   },
   {
-   "i": 72,
+   "i": 67,
    "start": 220.56,
    "end": 222.06,
    "speaker": "Teacher",
@@ -663,7 +618,7 @@
    "agree": 0.972
   },
   {
-   "i": 73,
+   "i": 68,
    "start": 222.56,
    "end": 224.06,
    "speaker": "Teacher",
@@ -672,7 +627,7 @@
    "agree": 1.0
   },
   {
-   "i": 74,
+   "i": 69,
    "start": 226.66,
    "end": 228.36,
    "speaker": "Teacher",
@@ -681,7 +636,7 @@
    "agree": 0.882
   },
   {
-   "i": 75,
+   "i": 70,
    "start": 228.86,
    "end": 230.36,
    "speaker": "Teacher",
@@ -690,7 +645,7 @@
    "agree": 1.0
   },
   {
-   "i": 76,
+   "i": 71,
    "start": 230.56,
    "end": 233.06,
    "speaker": "Teacher",
@@ -699,7 +654,7 @@
    "agree": 1.0
   },
   {
-   "i": 77,
+   "i": 72,
    "start": 233.36,
    "end": 239.56,
    "speaker": "Teacher",
@@ -708,16 +663,16 @@
    "agree": 0.581
   },
   {
-   "i": 78,
+   "i": 73,
    "start": 244.41,
    "end": 246.91,
    "speaker": "Teacher",
    "text": "Sengifuna manje umngani ozongifundela nanti igama.",
-   "en": "Now I want a friend who will read this word for me.",
+   "en": "I want now a friend who will read this word for me.",
    "agree": 1.0
   },
   {
-   "i": 79,
+   "i": 74,
    "start": 247.81,
    "end": 248.41,
    "speaker": "Teacher",
@@ -726,16 +681,16 @@
    "agree": 0.9
   },
   {
-   "i": 80,
+   "i": 75,
    "start": 249.61,
    "end": 250.11,
    "speaker": "Teacher",
    "text": "Kakhulu.",
-   "en": "Very much.",
+   "en": "Loudly.",
    "agree": 1.0
   },
   {
-   "i": 81,
+   "i": 76,
    "start": 250.31,
    "end": 251.31,
    "speaker": "Learners",
@@ -744,7 +699,7 @@
    "agree": 1.0
   },
   {
-   "i": 82,
+   "i": 77,
    "start": 251.61,
    "end": 252.01,
    "speaker": "Teacher",
@@ -753,7 +708,7 @@
    "agree": 1.0
   },
   {
-   "i": 83,
+   "i": 78,
    "start": 252.31,
    "end": 253.81,
    "speaker": "Learners",
@@ -762,34 +717,34 @@
    "agree": 1.0
   },
   {
-   "i": 84,
+   "i": 79,
    "start": 254.01,
    "end": 256.81,
    "speaker": "Teacher",
-   "text": "Okay, walibeka [teacher] igama elithi ingulube.",
-   "en": "Okay, the teacher placed the word pig.",
+   "text": "Okay, walibeka u-miss igama elithi ingulube.",
+   "en": "Okay, miss placed the word pig.",
    "agree": 0.024
   },
   {
-   "i": 85,
+   "i": 80,
    "start": 257.31,
    "end": 258.31,
    "speaker": "Teacher",
-   "text": "[teacher] uphethe'ni?",
-   "en": "What is the teacher holding?",
+   "text": "U-miss uphethe'ni?",
+   "en": "What is miss holding?",
    "agree": 0.294
   },
   {
-   "i": 86,
+   "i": 81,
    "start": 258.81,
    "end": 259.81,
    "speaker": "Teacher",
-   "text": "Uphatheleni [teacher]?",
-   "en": "What is the teacher holding?",
+   "text": "Uphatheleni u-miss?",
+   "en": "What is miss holding?",
    "agree": 0.444
   },
   {
-   "i": 87,
+   "i": 82,
    "start": 260.31,
    "end": 261.81,
    "speaker": "Learners",
@@ -798,16 +753,16 @@
    "agree": 0.0
   },
   {
-   "i": 88,
+   "i": 83,
    "start": 262.31,
    "end": 263.31,
    "speaker": "Teacher",
-   "text": "[teacher] uphethe'ni?",
-   "en": "What is the teacher holding?",
+   "text": "U-miss uphethe'ni?",
+   "en": "What is miss holding?",
    "agree": 0.0
   },
   {
-   "i": 89,
+   "i": 84,
    "start": 263.61,
    "end": 265.31,
    "speaker": "Learners",
@@ -816,7 +771,7 @@
    "agree": 1.0
   },
   {
-   "i": 90,
+   "i": 85,
    "start": 265.81,
    "end": 269.31,
    "speaker": "Teacher",
@@ -825,7 +780,7 @@
    "agree": 0.935
   },
   {
-   "i": 91,
+   "i": 86,
    "start": 269.81,
    "end": 270.31,
    "speaker": "Teacher",
@@ -834,25 +789,25 @@
    "agree": 1.0
   },
   {
-   "i": 92,
+   "i": 87,
    "start": 272.53,
    "end": 280.03,
    "speaker": "Teacher",
    "text": "Bangani ngiyabonga niyaziwa yini? Njengamanje ngizobeka la igama ngifuna ungakhele lona wena. Uzohlanganisa zonke izinhlamvu ungakhele igama.",
-   "en": "Friends thank you, do you hear? Right now I will place a word here, I want you to build it for me. You will combine all the letters and build the word for me.",
+   "en": "Friends, thank you, do you hear? Right now I will place a word here, I want you to build it for me. You will combine all the letters and build the word for me.",
    "agree": 0.935
   },
   {
-   "i": 93,
+   "i": 88,
    "start": 280.13,
    "end": 281.13,
    "speaker": "Teacher",
    "text": "Siyazwana bangani bami?",
-   "en": "Do we understand each other my friends?",
+   "en": "Do we understand each other, my friends?",
    "agree": 0.773
   },
   {
-   "i": 94,
+   "i": 89,
    "start": 281.63,
    "end": 282.13,
    "speaker": "Learners",
@@ -861,7 +816,7 @@
    "agree": 1.0
   },
   {
-   "i": 95,
+   "i": 90,
    "start": 282.73,
    "end": 285.03,
    "speaker": "Teacher",
@@ -870,7 +825,7 @@
    "agree": 1.0
   },
   {
-   "i": 96,
+   "i": 91,
    "start": 285.73,
    "end": 286.73,
    "speaker": "Learners",
@@ -879,16 +834,16 @@
    "agree": 1.0
   },
   {
-   "i": 97,
+   "i": 92,
    "start": 287.33,
    "end": 288.83,
    "speaker": "Teacher",
    "text": "Igama lethu lithi ngena, angithi?",
-   "en": "Our word is ngena, isn't it?",
+   "en": "Our word is ngena, right?",
    "agree": 1.0
   },
   {
-   "i": 98,
+   "i": 93,
    "start": 289.33,
    "end": 290.53,
    "speaker": "Teacher",
@@ -897,7 +852,7 @@
    "agree": 0.95
   },
   {
-   "i": 99,
+   "i": 94,
    "start": 290.93,
    "end": 291.53,
    "speaker": "Teacher",
@@ -906,7 +861,7 @@
    "agree": 1.0
   },
   {
-   "i": 100,
+   "i": 95,
    "start": 292.73,
    "end": 293.73,
    "speaker": "Teacher",
@@ -915,7 +870,7 @@
    "agree": 1.0
   },
   {
-   "i": 101,
+   "i": 96,
    "start": 296.63,
    "end": 298.93,
    "speaker": "Teacher",
@@ -924,7 +879,7 @@
    "agree": 0.0
   },
   {
-   "i": 102,
+   "i": 97,
    "start": 302.55,
    "end": 305.05,
    "speaker": "Teacher",
@@ -933,7 +888,7 @@
    "agree": 1.0
   },
   {
-   "i": 103,
+   "i": 98,
    "start": 308.35,
    "end": 308.95,
    "speaker": "Learner",
@@ -942,7 +897,7 @@
    "agree": 1.0
   },
   {
-   "i": 104,
+   "i": 99,
    "start": 309.25,
    "end": 310.05,
    "speaker": "Teacher",
@@ -951,7 +906,7 @@
    "agree": 1.0
   },
   {
-   "i": 105,
+   "i": 100,
    "start": 310.65,
    "end": 312.85,
    "speaker": "Teacher",
@@ -960,7 +915,7 @@
    "agree": 0.882
   },
   {
-   "i": 106,
+   "i": 101,
    "start": 313.15,
    "end": 314.25,
    "speaker": "Learners",
@@ -969,7 +924,7 @@
    "agree": 1.0
   },
   {
-   "i": 107,
+   "i": 102,
    "start": 314.55,
    "end": 314.95,
    "speaker": "Teacher",
@@ -978,7 +933,7 @@
    "agree": 1.0
   },
   {
-   "i": 108,
+   "i": 103,
    "start": 315.55,
    "end": 316.35,
    "speaker": "Learners",
@@ -987,16 +942,16 @@
    "agree": 1.0
   },
   {
-   "i": 109,
+   "i": 104,
    "start": 316.55,
    "end": 322.05,
    "speaker": "Teacher",
    "text": "Oh, okay bangani bami, ngiyabonga kakhulu. Njengamanje sizokwenza umsebenzi. Nyezwa bangani bami?",
-   "en": "Oh, okay my friends, thank you very much. Right now we are going to do an activity. Do you hear my friends?",
+   "en": "Oh, okay my friends, thank you very much. Right now we are going to do work. Do you hear, my friends?",
    "agree": 0.989
   },
   {
-   "i": 110,
+   "i": 105,
    "start": 327.35,
    "end": 328.75,
    "speaker": "Teacher",
@@ -1005,7 +960,7 @@
    "agree": 1.0
   },
   {
-   "i": 111,
+   "i": 106,
    "start": 329.55,
    "end": 331.75,
    "speaker": "Learner",
@@ -1014,7 +969,7 @@
    "agree": 0.125
   },
   {
-   "i": 112,
+   "i": 107,
    "start": 333.81,
    "end": 352.11,
    "speaker": "Learner",
@@ -1023,7 +978,7 @@
    "agree": 0.682
   },
   {
-   "i": 113,
+   "i": 108,
    "start": 352.91,
    "end": 355.31,
    "speaker": "Learner",
