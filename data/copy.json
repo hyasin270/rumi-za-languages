@@ -746,7 +746,15 @@
    "none": "No one has rated this sentence yet. You could be the first.",
    "counts": "{n} reviewers so far. Ratings are kept separate until three people have rated this sentence, so that nobody is steered by someone else's answer.",
    "counts_one": "1 reviewer so far. Ratings are kept separate until three people have rated this sentence, so that nobody is steered by someone else's answer.",
-   "voice_line": "Voice {letter}: sounds first-language {natural} of 5 ({natural_n} ratings) · meaning clear {meaning} of 5 ({meaning_n} ratings) · best voice {best} votes",
+   "voice_line": "Voice {letter}: sounds first-language {natural} · meaning clear {meaning} · best voice {best}",
+   "score_of_5": "{value} of 5 ({count})",
+   "no_ratings": "no ratings yet",
+   "rating_one": "1 rating",
+   "ratings": "{n} ratings",
+   "vote_none": "no votes yet",
+   "vote_one": "1 vote",
+   "votes": "{n} votes",
+   "latest_note": "Each reviewer counts once per voice: their latest rating.",
    "shipped_line": "The shipped voice: natural {natural} · understandable but not natural {not_natural} · meaning lost {meaning_lost} · English words where there should not be {english}"
   },
   "banner": {
@@ -754,7 +762,7 @@
    "dismiss": "Got it"
   },
   "share": {
-   "heading": "Ask a {lang} speaker to rate these",
+   "heading": "Ask someone who speaks {lang} to rate these",
    "sentence_button": "Share this sentence",
    "copy_link": "Copy link",
    "copied": "Link copied",

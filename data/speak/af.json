@@ -75,7 +75,7 @@
       {
        "w": "te",
        "s": 1.8,
-       "e": 1.84
+       "e": 1.88
       },
       {
        "w": "hoor.",
@@ -120,7 +120,7 @@
       {
        "w": "met",
        "s": 1.44,
-       "e": 1.48
+       "e": 1.52
       },
       {
        "w": "die",
@@ -200,7 +200,7 @@
       {
        "w": "die",
        "s": 4.48,
-       "e": 4.52
+       "e": 4.56
       },
       {
        "w": "leerders",
@@ -240,12 +240,12 @@
       {
        "w": "in",
        "s": 6.64,
-       "e": 6.68
+       "e": 6.72
       },
       {
        "w": "die",
        "s": 6.76,
-       "e": 6.8
+       "e": 6.84
       },
       {
        "w": "lug.",
@@ -450,7 +450,7 @@
       {
        "w": "met",
        "s": 1.48,
-       "e": 1.52
+       "e": 1.56
       },
       {
        "w": "die",
@@ -569,7 +569,7 @@
       {
        "w": "in",
        "s": 6.92,
-       "e": 6.96
+       "e": 7.0
       },
       {
        "w": "die",
@@ -706,7 +706,7 @@
       },
       {
        "w": "Dis",
-       "s": 1.327,
+       "s": 1.28,
        "e": 1.36
       },
       {
@@ -737,7 +737,7 @@
       {
        "w": "hoor.",
        "s": 2.38,
-       "e": 2.44
+       "e": 2.46
       }
      ],
      "secs": 2.62,
@@ -987,7 +987,7 @@
       },
       {
        "w": "jy",
-       "s": 1.06,
+       "s": 1.02,
        "e": 1.1
       },
       {
@@ -1160,7 +1160,7 @@
       },
       {
        "w": "jy",
-       "s": 3.04,
+       "s": 3.0,
        "e": 3.08
       },
       {
@@ -1634,7 +1634,7 @@
       },
       {
        "w": "gaan",
-       "s": 1.54,
+       "s": 1.5,
        "e": 1.58
       },
       {
@@ -1695,7 +1695,7 @@
       {
        "w": "om",
        "s": 1.067,
-       "e": 1.12
+       "e": 1.147
       },
       {
        "w": "van",
@@ -1872,13 +1872,13 @@
       },
       {
        "w": "in",
-       "s": 7.867,
-       "e": 7.92
+       "s": 7.86,
+       "e": 7.94
       },
       {
        "w": "die",
        "s": 7.94,
-       "e": 8.0
+       "e": 8.02
       },
       {
        "w": "lug.",
@@ -2037,7 +2037,7 @@
      {
       "w": "te",
       "s": 1.8,
-      "e": 1.84
+      "e": 1.88
      },
      {
       "w": "hoor.",
@@ -2082,7 +2082,7 @@
      {
       "w": "met",
       "s": 1.44,
-      "e": 1.48
+      "e": 1.52
      },
      {
       "w": "die",
@@ -2162,7 +2162,7 @@
      {
       "w": "die",
       "s": 4.48,
-      "e": 4.52
+      "e": 4.56
      },
      {
       "w": "leerders",
@@ -2202,12 +2202,12 @@
      {
       "w": "in",
       "s": 6.64,
-      "e": 6.68
+      "e": 6.72
      },
      {
       "w": "die",
       "s": 6.76,
-      "e": 6.8
+      "e": 6.84
      },
      {
       "w": "lug.",
@@ -2337,7 +2337,7 @@
   "native_ear": "pending (this review)"
  },
  "notes": [
-  "No open-source voice is included. Meta's MMS-TTS publishes no model for this language. The one open South African multi-language model (South-African-TTS-11-Vits, non-commercial licence) is access-restricted: on 13 October our Hugging Face account was not on its access list, and we did not request access. Soniox, which accepts Afrikaans, takes that slot."
+  "No open-source voice is included. Meta's MMS-TTS publishes no model for this language. The one open South African multi-language model (South-African-TTS-11-Vits, non-commercial licence) is access-restricted: on 13 October our Hugging Face account was not on its access list, and we did not request access."
  ],
  "sources": []
 }

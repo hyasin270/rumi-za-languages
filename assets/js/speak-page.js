@@ -264,18 +264,24 @@
     if (!r || !r.reviewers) { box.append(el("p", { class: "note", html: H("results.none") })); return box; }
     if (r.reviewers < 3 || !r.rows) { box.append(el("p", { class: "note", html: H(r.reviewers === 1 ? "results.counts_one" : "results.counts", { n: r.reviewers }) })); return box; }
     if (part === "shipped") {
-      const rows = r.rows.filter((x) => x.verdict);
+      const rows = (() => { const m = new Map(); r.rows.filter((x) => x.verdict).sort((a, b) => String(a.received_at).localeCompare(String(b.received_at))).forEach((x) => m.set(String(x.name || "").trim().toLowerCase(), x)); return [...m.values()]; })();   // latest verdict per reviewer
       const c = (v) => rows.filter((x) => x.verdict === v).length;
       box.append(el("p", { class: "note", html: H("results.shipped_line", { natural: c("natural"), not_natural: c("not_natural"), meaning_lost: c("meaning_lost"), english: rows.filter((x) => x.english_words === true || x.english_words === "true").length, n: rows.length }) }));
       return box;
     }
+    // one rating per reviewer per voice (their latest), as the scorer counts them (QA4 FAIL 4)
+    const who = (x) => String(x.name || "").trim().toLowerCase();
+    const latest = (rows) => { const m = new Map(); rows.slice().sort((a, b) => String(a.received_at).localeCompare(String(b.received_at))).forEach((x) => m.set(who(x), x)); return [...m.values()]; };
+    const count = (n, one, many) => (n === 1 ? H("results." + one) : H("results." + many, { n }));
+    const score = (vals) => (vals.length ? H("results.score_of_5", { value: mean1(vals), count: count(vals.length, "rating_one", "ratings") }) : H("results.no_ratings"));
+    const bestRows = latest(r.rows.filter((x) => x.best_voice_key));
     const items = Object.entries(letterOf).map(([vk, letter]) => {
-      const rows = r.rows.filter((x) => x.voice_key === vk && !x.verdict);
+      const rows = latest(r.rows.filter((x) => x.voice_key === vk && !x.verdict && (x.natural || x.meaning)));
       const nat = rows.map((x) => Number(x.natural)).filter((x) => x >= 1 && x <= 5), mea = rows.map((x) => Number(x.meaning)).filter((x) => x >= 1 && x <= 5);
-      const best = r.rows.filter((x) => x.best_voice_key === vk).length;
-      return { letter, html: H("results.voice_line", { letter, natural: mean1(nat), natural_n: nat.length, meaning: mean1(mea), meaning_n: mea.length, best }) };
+      const best = bestRows.filter((x) => x.best_voice_key === vk).length;
+      return { letter, html: H("results.voice_line", { letter, natural: score(nat), meaning: score(mea), best: best ? count(best, "vote_one", "votes") : H("results.vote_none") }) };
     }).sort((a, b) => a.letter.localeCompare(b.letter));
-    box.append(el("p", { class: "subcard-title", html: H("results.heading", { n: r.reviewers }) }), el("ul", { class: "bullets" }, ...items.map((x) => el("li", { html: x.html }))));
+    box.append(el("p", { class: "subcard-title", html: H("results.heading", { n: r.reviewers }) }), el("ul", { class: "bullets" }, ...items.map((x) => el("li", { html: x.html }))), el("p", { class: "note", html: H("results.latest_note") }));
     return box;
   }
 
