@@ -682,7 +682,7 @@
   },
   "blind": {
    "heading": "Which voice sounds most like a first-language speaker?",
-   "lead": "The same five sentences, taken from what Rumi actually says to a teacher, read by four to six voices from different engines, among them the voice Rumi ships today and a version tuned for calmer, falling intonation. The names are hidden until you have saved a rating.",
+   "lead": "The same five sentences, taken from what Rumi actually says to a teacher, read by four to six voices from different engines, among them the voice Rumi ships today and, where it kept the words right, a version tuned for calmer, falling intonation. The names are hidden until you have saved a rating.",
    "sentence_label": "Sentence {n} of {total}",
    "voice": "Voice {letter}",
    "natural_label": "Sounds like a first-language speaker",
