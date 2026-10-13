@@ -68,15 +68,15 @@
       card.append(el("div", { class: "legend", html:
         `${statusChip("seen")} ${statusChip("partly")} ${statusChip("not_observed")} <span>${esc(L("legend_ts", "Every timestamp plays that moment in the video above."))}</span>` }));
 
-      const stepBlock = (title, steps) => {
+      const stepBlock = (title, steps, lead) => {
         if (!steps || !steps.length) return;
-        const wrap = el("div", { class: "step-group" }, el("h4", {}, title));
+        const wrap = el("div", { class: "step-group" }, el("h4", {}, title), lead ? el("p", { class: "note" }, lead) : "");
         ["seen", "partly", "not_observed"].forEach((st) => {
           steps.filter((s) => (s.status || "not_observed") === st).forEach((s) => {
             const ev = el("ul", { class: "evidence" });
             (s.evidence || []).forEach((e) => ev.append(el("li", {}, tsBtn(lang, e.t), el("q", { lang }, e.quote || ""), e.en ? el("span", { class: "qen" }, e.en) : "")));
             wrap.append(el("div", { class: `step ${st}` },
-              el("div", { class: "head", html: `${statusChip(st)} <span class="name">${esc(s.name_en || s.name || "")}</span>${s.name && s.name_en ? ` <span class="name-l" lang="${esc(lang)}">${esc(s.name)}</span>` : ""}` }),
+              el("div", { class: "head", html: `${statusChip(st)} <span class="name">${esc(s.name_en || s.name || "")}</span>${s.name && s.name_en && s.name !== s.name_en ? ` <span class="name-l" lang="${esc(lang)}">${esc(s.name)}</span>` : ""}` }),
               s.note_en ? el("p", { class: "note-en" }, s.note_en) : "", (s.evidence || []).length ? ev : ""));
           });
         });
@@ -84,6 +84,8 @@
       };
       stepBlock(L("lesson_steps", "Lesson steps"), c.steps);
       stepBlock(L("classroom_culture", "Classroom culture"), c.culture);
+      // optional: the partner's own routine (coach.json "routine" + "routine_note_en"), after culture
+      stepBlock(L("partner_routine", "The partner's routine"), c.routine, c.routine_note_en);
 
       const two = el("div", { class: "grid-2" });
       const pb = (title, items) => {
