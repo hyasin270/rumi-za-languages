@@ -276,8 +276,11 @@
     const score = (vals) => (vals.length ? H("results.score_of_5", { value: mean1(vals), count: count(vals.length, "rating_one", "ratings") }) : H("results.no_ratings"));
     const bestRows = latest(r.rows.filter((x) => x.best_voice_key));
     const items = Object.entries(letterOf).map(([vk, letter]) => {
-      const rows = latest(r.rows.filter((x) => x.voice_key === vk && !x.verdict && (x.natural || x.meaning)));
-      const nat = rows.map((x) => Number(x.natural)).filter((x) => x >= 1 && x <= 5), mea = rows.map((x) => Number(x.meaning)).filter((x) => x >= 1 && x <= 5);
+      // latest non-empty value per reviewer PER FIELD, exactly as review_speak.py counts (a later save that leaves one field blank keeps the earlier one)
+      const ok = (v) => v !== null && v !== undefined && v !== "" && Number(v) >= 1 && Number(v) <= 5;
+      const mine = r.rows.filter((x) => x.voice_key === vk && !x.verdict);
+      const nat = latest(mine.filter((x) => ok(x.natural))).map((x) => Number(x.natural));
+      const mea = latest(mine.filter((x) => ok(x.meaning))).map((x) => Number(x.meaning));
       const best = bestRows.filter((x) => x.best_voice_key === vk).length;
       return { letter, html: H("results.voice_line", { letter, natural: score(nat), meaning: score(mea), best: best ? count(best, "vote_one", "votes") : H("results.vote_none") }) };
     }).sort((a, b) => a.letter.localeCompare(b.letter));
