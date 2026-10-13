@@ -302,8 +302,11 @@
       return el("li", {}, el("strong", {}, T("blind.voice", { letter })), " — ", el("span", {}, [v.label_public, fam && fam !== v.label_public ? fam : ""].filter(Boolean).join(" · ")),
         cer && has("speak.key.cer") ? el("span", { class: "note" }, " · " + T("key.cer", { pct: cer })) : "");
     });
+    const ref = data.measures && data.measures.f0_rise_human_ref && data.measures.f0_rise_human_ref.line;
     box.append(el("div", { class: "card sp-key" }, el("p", { class: "subcard-title", html: H("key.heading") }), el("ul", { class: "bullets" }, ...items),
-      has("speak.key.note") ? el("p", { class: "note", html: H("key.note") }) : ""));
+      has("speak.key.note") ? el("p", { class: "note", html: H("key.note") }) : "",
+      has("speak.blind.clip_line_note") ? el("p", { class: "note", html: H("blind.clip_line_note") }) : "",
+      ref ? el("p", { class: "note" }, ref) : ""));
   }
 
   /** After this visitor's first save for a language: each voice's name and its clip's measured round trip + pitch proxy. */
@@ -350,7 +353,8 @@
       if (k && k.spans) k.spans.forEach((sp) => { sp.setAttribute("role", "button"); sp.setAttribute("tabindex", "0"); sp.setAttribute("aria-pressed", "false");
         sp.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); sp.click(); } }); });
       const a = scale("blind.natural_label", "blind.scale_low", "blind.scale_high", (x) => (st.nat = x));
-      const b = scale("blind.meaning_label", "blind.scale_low", "blind.scale_high", (x) => (st.mea = x));
+      const mEnds = has("speak.blind.meaning_low") && has("speak.blind.meaning_high") ? ["blind.meaning_low", "blind.meaning_high"] : ["blind.scale_low", "blind.scale_high"];
+      const b = scale("blind.meaning_label", mEnds[0], mEnds[1], (x) => (st.mea = x));
       li.append(el("div", { class: "sp-scales" }, a.node, b.node));
       list.append(li);
     });
@@ -383,7 +387,7 @@
       if (best || bw) rows.push(Object.assign({}, base, { best_voice_key: best || undefined, better_wording: bw || undefined }));
       if (!rows.length) { status.className = "rv-status err"; setH(status, "blind.need_rating"); return; }
       const res = await sendRows(rows, status, send);
-      if (res) { reveal(l); renderKey(l, data, order); paintReveal(l, data); }
+      if (res) { const first = !revealed()[l]; reveal(l); renderKey(l, data, order); paintReveal(l, data); if (first) renderShipped(l, data); }
     });
     card.append(el("div", { class: "rv-actions" }, send, status));
     card.append(resultsNode(l, s.i, letterOf, "blind"));
@@ -435,6 +439,15 @@
     return card;
   }
 
+  /** Rumi's shipped voice notes: locked until this visitor has saved a blind rating in this language (the shipped voice is
+   *  also one of the blind voices, so hearing it first would unblind the comparison). */
+  function renderShipped(l, data) {
+    const sh = $("shipped-host"), shipped = (data.shipped && data.shipped.clips) || [];
+    sh.innerHTML = "";
+    if (!revealed()[l]) { sh.append(el("p", { class: "note sp-locked card", html: H("shipped.locked") })); return; }
+    shipped.forEach((c, n) => sh.append(shippedCard(l, data, c, n + 1)));
+  }
+
   async function render(l, fromLink) {
     lang = l;
     renderTabs(READY);
@@ -455,11 +468,12 @@
     const order = shuffled(l, (data.voices || []).filter((v) => v && v.key));
     const letterOf = Object.fromEntries(order.map(({ v, letter }) => [v.key, letter]));
     renderKey(l, data, order);
+    (data.notes || []).forEach((t) => bh.append(el("p", { class: "note" }, t)));
     const total = data.sentences.length;
     data.sentences.forEach((s, n) => bh.append(blindCard(l, data, s, n + 1, total, order, letterOf)));
     const shipped = (data.shipped && data.shipped.clips) || [];
     $("shipped").hidden = !shipped.length;
-    shipped.forEach((c, n) => sh.append(shippedCard(l, data, c, n + 1)));
+    renderShipped(l, data);
     paintReveal(l, data);
     if ((data.sources || []).length) bh.append(el("p", { class: "note", html: `${RZ.esc(RZ.ui("sources_label", "Sources"))} ${RZ.cite(data.sources)}` }));
     RZ.renderFootnotes($("fn-host"));

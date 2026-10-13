@@ -71,7 +71,8 @@
 
   /* 3. coaching (+ partner videos, isiZulu only) */
   if (coach) {
-    Report.mount($("report-host"), coach, lang, { accuracyHeading: RZ.t("coaching.accuracy_heading"), accuracyNote: RZ.html("coaching.accuracy_note"), debriefHeading: RZ.t("coaching.debrief_heading") });
+    Report.mount($("report-host"), coach, lang, { accuracyHeading: RZ.t("coaching.accuracy_heading"), accuracyNote: RZ.html("coaching.accuracy_note"), debriefHeading: RZ.t("coaching.debrief_heading"),
+      debriefNote: RZ.has("coaching.debrief_note") ? RZ.html("coaching.debrief_note") : "" });
   } else $("report-host").innerHTML = RZ.soon(RZ.ui("soon_coach", "the coach's report"));
   if (partner) {
     const nums = (partner.numbers || []).map((n) => `<li><strong>${esc(n.name || "")}</strong>: ${esc(n.display || "")}${n.line ? ` <span class="note">${esc(n.line)}</span>` : ""}</li>`).join("");

@@ -1,0 +1,1472 @@
+{
+ "lang": "zu",
+ "sentences": [
+  {
+   "i": 0,
+   "text": "Sawubona thisha! Ngiyajabula ukuxhumana nawe.",
+   "en": "Hello, teacher! I am glad to connect with you.",
+   "source": "conversation"
+  },
+  {
+   "i": 1,
+   "text": "Sihambe kanjani isifundo semisindo namuhla?",
+   "en": "How did today's phonics lesson go?",
+   "source": "conversation"
+  },
+  {
+   "i": 2,
+   "text": "Into eyodwa okumele uyenze kahle yile: vumela abafundi bahlanganise imisindo bona ngokwabo.",
+   "en": "The one thing you must get right is this: let the learners blend the sounds by themselves.",
+   "source": "voice_note"
+  },
+  {
+   "i": 3,
+   "text": "Ngiyabonga kakhulu ngokungivumela ukuthi ngibe sekilasini lakho namuhla.",
+   "en": "Thank you very much for letting me be in your class today.",
+   "source": "debrief"
+  },
+  {
+   "i": 4,
+   "text": "Uzofundisa muphi umsindo olandelayo ngesonto elizayo?",
+   "en": "Which sound will you teach next week?",
+   "source": "conversation"
+  }
+ ],
+ "voices": [
+  {
+   "key": "v1",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Neo (newest model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/zu_v1_0.mp3",
+     "words": [
+      {
+       "w": "Sawubona",
+       "s": 0.0,
+       "e": 0.56
+      },
+      {
+       "w": "thisha!",
+       "s": 0.64,
+       "e": 1.12
+      },
+      {
+       "w": "Ngiyajabula",
+       "s": 1.56,
+       "e": 2.24
+      },
+      {
+       "w": "ukuxhumana",
+       "s": 2.36,
+       "e": 2.88
+      },
+      {
+       "w": "nawe.",
+       "s": 2.92,
+       "e": 3.28
+      }
+     ],
+     "secs": 3.52,
+     "cer": 0.0,
+     "f0_rise": 5.72
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/zu_v1_1.mp3",
+     "words": [
+      {
+       "w": "Sihambe",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "kanjani",
+       "s": 0.6,
+       "e": 1.12
+      },
+      {
+       "w": "isifundo",
+       "s": 1.24,
+       "e": 1.68
+      },
+      {
+       "w": "semisindo",
+       "s": 1.8,
+       "e": 2.32
+      },
+      {
+       "w": "namuhla?",
+       "s": 2.4,
+       "e": 2.96
+      }
+     ],
+     "secs": 3.2,
+     "cer": 0.0,
+     "f0_rise": 6.62
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/zu_v1_2.mp3",
+     "words": [
+      {
+       "w": "Into",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "eyodwa",
+       "s": 0.44,
+       "e": 0.88
+      },
+      {
+       "w": "okumele",
+       "s": 0.96,
+       "e": 1.44
+      },
+      {
+       "w": "uyenze",
+       "s": 1.6,
+       "e": 1.84
+      },
+      {
+       "w": "kahle",
+       "s": 1.96,
+       "e": 2.16
+      },
+      {
+       "w": "yile:",
+       "s": 2.24,
+       "e": 2.56
+      },
+      {
+       "w": "vumela",
+       "s": 3.2,
+       "e": 3.6
+      },
+      {
+       "w": "abafundi",
+       "s": 3.68,
+       "e": 4.24
+      },
+      {
+       "w": "bahlanganise",
+       "s": 4.36,
+       "e": 4.96
+      },
+      {
+       "w": "imisindo",
+       "s": 5.04,
+       "e": 5.68
+      },
+      {
+       "w": "bona",
+       "s": 5.92,
+       "e": 6.213
+      },
+      {
+       "w": "ngokwabo.",
+       "s": 6.267,
+       "e": 6.8
+      }
+     ],
+     "secs": 7.04,
+     "cer": 0.0,
+     "f0_rise": 6.59
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/zu_v1_3.mp3",
+     "words": [
+      {
+       "w": "Ngiyabonga",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "kakhulu",
+       "s": 0.52,
+       "e": 1.12
+      },
+      {
+       "w": "ngokungivumela",
+       "s": 1.16,
+       "e": 1.92
+      },
+      {
+       "w": "ukuthi",
+       "s": 2.0,
+       "e": 2.4
+      },
+      {
+       "w": "ngibe",
+       "s": 2.56,
+       "e": 2.8
+      },
+      {
+       "w": "sekilasini",
+       "s": 2.92,
+       "e": 3.52
+      },
+      {
+       "w": "lakho",
+       "s": 3.6,
+       "e": 3.92
+      },
+      {
+       "w": "namuhla.",
+       "s": 4.04,
+       "e": 4.56
+      }
+     ],
+     "secs": 4.72,
+     "cer": 0.0,
+     "f0_rise": 1.83
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/zu_v1_4.mp3",
+     "words": [
+      {
+       "w": "Uzofundisa",
+       "s": 0.0,
+       "e": 0.8
+      },
+      {
+       "w": "muphi",
+       "s": 0.84,
+       "e": 1.28
+      },
+      {
+       "w": "umsindo",
+       "s": 1.36,
+       "e": 1.84
+      },
+      {
+       "w": "olandelayo",
+       "s": 2.0,
+       "e": 2.64
+      },
+      {
+       "w": "ngesonto",
+       "s": 2.72,
+       "e": 3.2
+      },
+      {
+       "w": "elizayo?",
+       "s": 3.28,
+       "e": 3.76
+      }
+     ],
+     "secs": 4.0,
+     "cer": 0.0,
+     "f0_rise": 3.96
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.0,
+    "f0_rise_mean": 4.94
+   }
+  },
+  {
+   "key": "v2",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Nassdaq (newest model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/zu_v2_0.mp3",
+     "words": [
+      {
+       "w": "Sawubona",
+       "s": 0.0,
+       "e": 0.56
+      },
+      {
+       "w": "thisha!",
+       "s": 0.64,
+       "e": 1.04
+      },
+      {
+       "w": "Ngiyajabula",
+       "s": 1.48,
+       "e": 2.32
+      },
+      {
+       "w": "ukuxhumana",
+       "s": 2.4,
+       "e": 2.88
+      },
+      {
+       "w": "nawe.",
+       "s": 2.96,
+       "e": 3.36
+      }
+     ],
+     "secs": 3.6,
+     "cer": 0.0,
+     "f0_rise": 7.69
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/zu_v2_1.mp3",
+     "words": [
+      {
+       "w": "Sihambe",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "kanjani",
+       "s": 0.6,
+       "e": 1.12
+      },
+      {
+       "w": "isifundo",
+       "s": 1.36,
+       "e": 1.92
+      },
+      {
+       "w": "semisindo",
+       "s": 2.0,
+       "e": 2.56
+      },
+      {
+       "w": "namuhla?",
+       "s": 2.64,
+       "e": 3.12
+      }
+     ],
+     "secs": 3.36,
+     "cer": 0.024,
+     "f0_rise": 7.21
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/zu_v2_2.mp3",
+     "words": [
+      {
+       "w": "Into",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "eyodwa",
+       "s": 0.44,
+       "e": 0.88
+      },
+      {
+       "w": "okumele",
+       "s": 0.96,
+       "e": 1.44
+      },
+      {
+       "w": "uyenze",
+       "s": 1.52,
+       "e": 1.92
+      },
+      {
+       "w": "kahle",
+       "s": 2.08,
+       "e": 2.32
+      },
+      {
+       "w": "yile:",
+       "s": 2.4,
+       "e": 2.72
+      },
+      {
+       "w": "vumela",
+       "s": 3.36,
+       "e": 3.76
+      },
+      {
+       "w": "abafundi",
+       "s": 3.84,
+       "e": 4.48
+      },
+      {
+       "w": "bahlanganise",
+       "s": 4.56,
+       "e": 5.28
+      },
+      {
+       "w": "imisindo",
+       "s": 5.36,
+       "e": 6.0
+      },
+      {
+       "w": "bona",
+       "s": 6.16,
+       "e": 6.48
+      },
+      {
+       "w": "ngokwabo.",
+       "s": 6.52,
+       "e": 7.04
+      }
+     ],
+     "secs": 7.28,
+     "cer": 0.0,
+     "f0_rise": 7.96
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/zu_v2_3.mp3",
+     "words": [
+      {
+       "w": "Ngiyabonga",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "kakhulu",
+       "s": 0.587,
+       "e": 1.04
+      },
+      {
+       "w": "ngokungivumela",
+       "s": 1.08,
+       "e": 1.92
+      },
+      {
+       "w": "ukuthi",
+       "s": 2.0,
+       "e": 2.4
+      },
+      {
+       "w": "ngibe",
+       "s": 2.56,
+       "e": 2.96
+      },
+      {
+       "w": "sekilasini",
+       "s": 3.08,
+       "e": 3.6
+      },
+      {
+       "w": "lakho",
+       "s": 3.64,
+       "e": 4.0
+      },
+      {
+       "w": "namuhla.",
+       "s": 4.12,
+       "e": 4.64
+      }
+     ],
+     "secs": 4.8,
+     "cer": 0.0,
+     "f0_rise": 3.4
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/zu_v2_4.mp3",
+     "words": [
+      {
+       "w": "Uzofundisa",
+       "s": 0.0,
+       "e": 0.72
+      },
+      {
+       "w": "muphi",
+       "s": 0.8,
+       "e": 1.28
+      },
+      {
+       "w": "umsindo",
+       "s": 1.36,
+       "e": 1.92
+      },
+      {
+       "w": "olandelayo",
+       "s": 2.0,
+       "e": 2.72
+      },
+      {
+       "w": "ngesonto",
+       "s": 2.8,
+       "e": 3.28
+      },
+      {
+       "w": "elizayo?",
+       "s": 3.32,
+       "e": 3.76
+      }
+     ],
+     "secs": 4.0,
+     "cer": 0.0,
+     "f0_rise": 6.37
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.005,
+    "f0_rise_mean": 6.53
+   }
+  },
+  {
+   "key": "v3",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Neo (expressive model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/zu_v3_0.mp3",
+     "words": [
+      {
+       "w": "Sawubona",
+       "s": 0.0,
+       "e": 0.56
+      },
+      {
+       "w": "thisha!",
+       "s": 0.608,
+       "e": 0.96
+      },
+      {
+       "w": "Ngiyajabula",
+       "s": 1.48,
+       "e": 2.08
+      },
+      {
+       "w": "ukuxhumana",
+       "s": 2.133,
+       "e": 2.8
+      },
+      {
+       "w": "nawe.",
+       "s": 2.88,
+       "e": 3.2
+      }
+     ],
+     "secs": 3.36,
+     "cer": 0.024,
+     "f0_rise": 4.72
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/zu_v3_1.mp3",
+     "words": [
+      {
+       "w": "Sihambe",
+       "s": 0.0,
+       "e": 0.4
+      },
+      {
+       "w": "kanjani",
+       "s": 0.46,
+       "e": 1.04
+      },
+      {
+       "w": "isifundo",
+       "s": 1.147,
+       "e": 1.76
+      },
+      {
+       "w": "semisindo",
+       "s": 1.82,
+       "e": 2.48
+      },
+      {
+       "w": "namuhla?",
+       "s": 2.54,
+       "e": 3.12
+      }
+     ],
+     "secs": 3.36,
+     "cer": 0.0,
+     "f0_rise": 2.53
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/zu_v3_2.mp3",
+     "words": [
+      {
+       "w": "Into",
+       "s": 0.0,
+       "e": 0.24
+      },
+      {
+       "w": "eyodwa",
+       "s": 0.32,
+       "e": 0.8
+      },
+      {
+       "w": "okumele",
+       "s": 0.853,
+       "e": 1.36
+      },
+      {
+       "w": "uyenze",
+       "s": 1.4,
+       "e": 1.84
+      },
+      {
+       "w": "kahle",
+       "s": 1.9,
+       "e": 2.24
+      },
+      {
+       "w": "yile:",
+       "s": 2.32,
+       "e": 2.64
+      },
+      {
+       "w": "vumela",
+       "s": 3.48,
+       "e": 3.84
+      },
+      {
+       "w": "abafundi",
+       "s": 3.867,
+       "e": 4.4
+      },
+      {
+       "w": "bahlanganise",
+       "s": 4.44,
+       "e": 5.36
+      },
+      {
+       "w": "imisindo",
+       "s": 5.52,
+       "e": 6.4
+      },
+      {
+       "w": "bona",
+       "s": 6.448,
+       "e": 6.64
+      },
+      {
+       "w": "ngokwabo.",
+       "s": 6.667,
+       "e": 7.28
+      }
+     ],
+     "secs": 7.44,
+     "cer": 0.0,
+     "f0_rise": 6.27
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/zu_v3_3.mp3",
+     "words": [
+      {
+       "w": "Ngiyabonga",
+       "s": 0.0,
+       "e": 0.56
+      },
+      {
+       "w": "kakhulu",
+       "s": 0.64,
+       "e": 1.2
+      },
+      {
+       "w": "ngokungivumela",
+       "s": 1.253,
+       "e": 2.32
+      },
+      {
+       "w": "ukuthi",
+       "s": 2.427,
+       "e": 2.92
+      },
+      {
+       "w": "ngibe",
+       "s": 2.933,
+       "e": 3.2
+      },
+      {
+       "w": "sekilasini",
+       "s": 3.26,
+       "e": 4.0
+      },
+      {
+       "w": "lakho",
+       "s": 4.12,
+       "e": 4.64
+      },
+      {
+       "w": "namuhla.",
+       "s": 4.74,
+       "e": 5.36
+      }
+     ],
+     "secs": 5.6,
+     "cer": 0.0,
+     "f0_rise": 5.13
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/zu_v3_4.mp3",
+     "words": [
+      {
+       "w": "Uzofundisa",
+       "s": 0.0,
+       "e": 0.8
+      },
+      {
+       "w": "muphi",
+       "s": 0.84,
+       "e": 1.12
+      },
+      {
+       "w": "umsindo",
+       "s": 1.173,
+       "e": 1.68
+      },
+      {
+       "w": "olandelayo",
+       "s": 1.72,
+       "e": 2.36
+      },
+      {
+       "w": "ngesonto",
+       "s": 2.38,
+       "e": 2.8
+      },
+      {
+       "w": "elizayo?",
+       "s": 2.853,
+       "e": 3.36
+      }
+     ],
+     "secs": 3.52,
+     "cer": 0.0,
+     "f0_rise": 5.9
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.005,
+    "f0_rise_mean": 4.91
+   }
+  },
+  {
+   "key": "v4",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Neo (multilingual model, settings tuned for calmer intonation)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/zu_v4_0.mp3",
+     "words": [
+      {
+       "w": "Sawubona",
+       "s": 0.0,
+       "e": 0.627
+      },
+      {
+       "w": "thisha!",
+       "s": 0.673,
+       "e": 1.091
+      },
+      {
+       "w": "Ngiyajabula",
+       "s": 1.544,
+       "e": 2.229
+      },
+      {
+       "w": "ukuxhumana",
+       "s": 2.299,
+       "e": 3.007
+      },
+      {
+       "w": "nawe.",
+       "s": 3.077,
+       "e": 3.425
+      }
+     ],
+     "secs": 3.76,
+     "cer": 0.117,
+     "f0_rise": 2.48
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/zu_v4_1.mp3",
+     "words": [
+      {
+       "w": "Sihambe",
+       "s": 0.0,
+       "e": 0.511
+      },
+      {
+       "w": "kanjani",
+       "s": 0.557,
+       "e": 1.033
+      },
+      {
+       "w": "isifundo",
+       "s": 1.08,
+       "e": 1.649
+      },
+      {
+       "w": "semisindo",
+       "s": 1.718,
+       "e": 2.241
+      },
+      {
+       "w": "namuhla?",
+       "s": 2.31,
+       "e": 2.798
+      }
+     ],
+     "secs": 3.16,
+     "cer": 0.0,
+     "f0_rise": 3.82
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/zu_v4_2.mp3",
+     "words": [
+      {
+       "w": "Into",
+       "s": 0.0,
+       "e": 0.395
+      },
+      {
+       "w": "eyodwa",
+       "s": 0.499,
+       "e": 1.033
+      },
+      {
+       "w": "okumele",
+       "s": 1.115,
+       "e": 1.776
+      },
+      {
+       "w": "uyenze",
+       "s": 1.858,
+       "e": 2.38
+      },
+      {
+       "w": "kahle",
+       "s": 2.45,
+       "e": 2.821
+      },
+      {
+       "w": "yile:",
+       "s": 2.902,
+       "e": 3.32
+      },
+      {
+       "w": "vumela",
+       "s": 3.878,
+       "e": 4.412
+      },
+      {
+       "w": "abafundi",
+       "s": 4.481,
+       "e": 5.178
+      },
+      {
+       "w": "bahlanganise",
+       "s": 5.259,
+       "e": 6.281
+      },
+      {
+       "w": "imisindo",
+       "s": 6.711,
+       "e": 7.349
+      },
+      {
+       "w": "bona",
+       "s": 7.43,
+       "e": 7.744
+      },
+      {
+       "w": "ngokwabo.",
+       "s": 7.779,
+       "e": 8.557
+      }
+     ],
+     "secs": 8.87,
+     "cer": 0.0,
+     "f0_rise": 5.13
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/zu_v4_3.mp3",
+     "words": [
+      {
+       "w": "Ngiyabonga",
+       "s": 0.0,
+       "e": 0.627
+      },
+      {
+       "w": "kakhulu",
+       "s": 0.697,
+       "e": 1.184
+      },
+      {
+       "w": "ngokungivumela",
+       "s": 1.254,
+       "e": 2.171
+      },
+      {
+       "w": "ukuthi",
+       "s": 2.241,
+       "e": 2.647
+      },
+      {
+       "w": "ngibe",
+       "s": 2.694,
+       "e": 2.949
+      },
+      {
+       "w": "sekilasini",
+       "s": 2.995,
+       "e": 3.762
+      },
+      {
+       "w": "lakho",
+       "s": 3.831,
+       "e": 4.087
+      },
+      {
+       "w": "namuhla.",
+       "s": 4.156,
+       "e": 4.76
+      }
+     ],
+     "secs": 5.06,
+     "cer": 0.043,
+     "f0_rise": -0.05
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/zu_v4_4.mp3",
+     "words": [
+      {
+       "w": "Uzofundisa",
+       "s": 0.0,
+       "e": 0.789
+      },
+      {
+       "w": "muphi",
+       "s": 0.859,
+       "e": 1.126
+      },
+      {
+       "w": "umsindo",
+       "s": 1.207,
+       "e": 1.66
+      },
+      {
+       "w": "olandelayo",
+       "s": 1.741,
+       "e": 2.438
+      },
+      {
+       "w": "ngesonto",
+       "s": 2.473,
+       "e": 2.961
+      },
+      {
+       "w": "elizayo?",
+       "s": 3.03,
+       "e": 3.611
+      }
+     ],
+     "secs": 3.95,
+     "cer": 0.0,
+     "f0_rise": 1.36
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.032,
+    "f0_rise_mean": 2.55
+   }
+  },
+  {
+   "key": "v5",
+   "family": "openai",
+   "label_public": "OpenAI · gpt-4o-mini-tts (told to speak as a first-language teacher)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/zu_v5_0.mp3",
+     "words": [
+      {
+       "w": "Sawubona",
+       "s": 0.0,
+       "e": 1.04
+      },
+      {
+       "w": "thisha!",
+       "s": 1.04,
+       "e": 1.81
+      },
+      {
+       "w": "Ngiyajabula",
+       "s": 2.234,
+       "e": 3.38
+      },
+      {
+       "w": "ukuxhumana",
+       "s": 3.501,
+       "e": 4.5
+      },
+      {
+       "w": "nawe.",
+       "s": 4.5,
+       "e": 4.98
+      }
+     ],
+     "secs": 5.21,
+     "cer": 0.094,
+     "f0_rise": 0.7
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/zu_v5_1.mp3",
+     "words": [
+      {
+       "w": "Sihambe",
+       "s": 0.0,
+       "e": 1.1
+      },
+      {
+       "w": "kanjani",
+       "s": 1.1,
+       "e": 1.88
+      },
+      {
+       "w": "isifundo",
+       "s": 1.88,
+       "e": 2.98
+      },
+      {
+       "w": "semisindo",
+       "s": 2.98,
+       "e": 3.809
+      },
+      {
+       "w": "namuhla?",
+       "s": 4.114,
+       "e": 4.8
+      }
+     ],
+     "secs": 5.11,
+     "cer": 0.0,
+     "f0_rise": 2.51
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/zu_v5_2.mp3",
+     "words": [
+      {
+       "w": "Into",
+       "s": 0.0,
+       "e": 1.04
+      },
+      {
+       "w": "eyodwa",
+       "s": 1.04,
+       "e": 1.72
+      },
+      {
+       "w": "okumele",
+       "s": 1.72,
+       "e": 2.34
+      },
+      {
+       "w": "uyenze",
+       "s": 2.34,
+       "e": 2.98
+      },
+      {
+       "w": "kahle",
+       "s": 2.98,
+       "e": 3.58
+      },
+      {
+       "w": "yile:",
+       "s": 3.58,
+       "e": 4.429
+      },
+      {
+       "w": "vumela",
+       "s": 4.429,
+       "e": 4.96
+      },
+      {
+       "w": "abafundi",
+       "s": 4.96,
+       "e": 5.76
+      },
+      {
+       "w": "bahlanganise",
+       "s": 5.76,
+       "e": 6.6
+      },
+      {
+       "w": "imisindo",
+       "s": 6.6,
+       "e": 7.38
+      },
+      {
+       "w": "bona",
+       "s": 7.38,
+       "e": 7.7
+      },
+      {
+       "w": "ngokwabo.",
+       "s": 7.7,
+       "e": 8.3
+      }
+     ],
+     "secs": 8.81,
+     "cer": 0.0,
+     "f0_rise": 7.07
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/zu_v5_3.mp3",
+     "words": [
+      {
+       "w": "Ngiyabonga",
+       "s": 0.0,
+       "e": 1.3
+      },
+      {
+       "w": "kakhulu",
+       "s": 1.3,
+       "e": 2.0
+      },
+      {
+       "w": "ngokungivumela",
+       "s": 2.342,
+       "e": 3.72
+      },
+      {
+       "w": "ukuthi",
+       "s": 3.72,
+       "e": 4.44
+      },
+      {
+       "w": "ngibe",
+       "s": 4.793,
+       "e": 5.3
+      },
+      {
+       "w": "sekilasini",
+       "s": 5.3,
+       "e": 6.2
+      },
+      {
+       "w": "lakho",
+       "s": 6.2,
+       "e": 6.559
+      },
+      {
+       "w": "namuhla.",
+       "s": 6.774,
+       "e": 7.46
+      }
+     ],
+     "secs": 7.85,
+     "cer": 0.015,
+     "f0_rise": 0.8
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/zu_v5_4.mp3",
+     "words": [
+      {
+       "w": "Uzofundisa",
+       "s": 1.04,
+       "e": 2.68
+      },
+      {
+       "w": "muphi",
+       "s": 2.68,
+       "e": 3.864
+      },
+      {
+       "w": "umsindo",
+       "s": 3.864,
+       "e": 3.96
+      },
+      {
+       "w": "olandelayo",
+       "s": 3.96,
+       "e": 4.64
+      },
+      {
+       "w": "ngesonto",
+       "s": 4.64,
+       "e": 4.87
+      },
+      {
+       "w": "elizayo?",
+       "s": 5.1,
+       "e": 5.36
+      }
+     ],
+     "secs": 5.62,
+     "cer": 0.0,
+     "f0_rise": 4.85
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.022,
+    "f0_rise_mean": 3.19
+   }
+  }
+ ],
+ "shipped": {
+  "voice_key": "v1",
+  "label_public": "ElevenLabs · Neo (newest model)",
+  "how": "cut from the voice notes on the site at the sentence boundaries (same text, not re-rendered)",
+  "clips": [
+   {
+    "i": 0,
+    "mp3": "assets/audio/speak/zu_shipped_0.mp3",
+    "words": [
+     {
+      "w": "Sawubona",
+      "s": 0.0,
+      "e": 0.56
+     },
+     {
+      "w": "thisha!",
+      "s": 0.72,
+      "e": 1.04
+     },
+     {
+      "w": "Ngiyajabula",
+      "s": 1.48,
+      "e": 2.16
+     },
+     {
+      "w": "ukuxhumana",
+      "s": 2.24,
+      "e": 2.72
+     },
+     {
+      "w": "nawe.",
+      "s": 2.8,
+      "e": 3.12
+     }
+    ],
+    "secs": 3.37,
+    "cer": 0.0,
+    "f0_rise": 5.09,
+    "from": "conversation"
+   },
+   {
+    "i": 1,
+    "mp3": "assets/audio/speak/zu_shipped_1.mp3",
+    "words": [
+     {
+      "w": "Sihambe",
+      "s": 0.12,
+      "e": 0.44
+     },
+     {
+      "w": "kanjani",
+      "s": 0.56,
+      "e": 1.0
+     },
+     {
+      "w": "isifundo",
+      "s": 1.08,
+      "e": 1.48
+     },
+     {
+      "w": "semisindo",
+      "s": 1.56,
+      "e": 2.04
+     },
+     {
+      "w": "namuhla?",
+      "s": 2.16,
+      "e": 2.52
+     }
+    ],
+    "secs": 2.76,
+    "cer": 0.024,
+    "f0_rise": 9.04,
+    "from": "conversation"
+   },
+   {
+    "i": 2,
+    "mp3": "assets/audio/speak/zu_shipped_2.mp3",
+    "words": [
+     {
+      "w": "Into",
+      "s": 0.12,
+      "e": 0.28
+     },
+     {
+      "w": "eyodwa",
+      "s": 0.36,
+      "e": 0.76
+     },
+     {
+      "w": "okumele",
+      "s": 0.84,
+      "e": 1.24
+     },
+     {
+      "w": "uyenze",
+      "s": 1.4,
+      "e": 1.64
+     },
+     {
+      "w": "kahle",
+      "s": 1.76,
+      "e": 1.96
+     },
+     {
+      "w": "yile:",
+      "s": 2.04,
+      "e": 2.36
+     },
+     {
+      "w": "vumela",
+      "s": 2.92,
+      "e": 3.32
+     },
+     {
+      "w": "abafundi",
+      "s": 3.4,
+      "e": 3.96
+     },
+     {
+      "w": "bahlanganise",
+      "s": 4.12,
+      "e": 4.76
+     },
+     {
+      "w": "imisindo",
+      "s": 4.84,
+      "e": 5.32
+     },
+     {
+      "w": "bona",
+      "s": 5.44,
+      "e": 5.64
+     },
+     {
+      "w": "ngokwabo.",
+      "s": 5.72,
+      "e": 6.36
+     }
+    ],
+    "secs": 6.61,
+    "cer": 0.0,
+    "f0_rise": 7.97,
+    "from": "voice_note"
+   },
+   {
+    "i": 3,
+    "mp3": "assets/audio/speak/zu_shipped_3.mp3",
+    "words": [
+     {
+      "w": "Ngiyabonga",
+      "s": 0.0,
+      "e": 0.48
+     },
+     {
+      "w": "kakhulu",
+      "s": 0.587,
+      "e": 1.04
+     },
+     {
+      "w": "ngokungivumela",
+      "s": 1.08,
+      "e": 1.84
+     },
+     {
+      "w": "ukuthi",
+      "s": 1.92,
+      "e": 2.2
+     },
+     {
+      "w": "ngibe",
+      "s": 2.24,
+      "e": 2.48
+     },
+     {
+      "w": "sekilasini",
+      "s": 2.6,
+      "e": 3.2
+     },
+     {
+      "w": "lakho",
+      "s": 3.24,
+      "e": 3.52
+     },
+     {
+      "w": "namuhla.",
+      "s": 3.64,
+      "e": 4.08
+     }
+    ],
+    "secs": 4.33,
+    "cer": 0.0,
+    "f0_rise": 1.65,
+    "from": "debrief"
+   },
+   {
+    "i": 4,
+    "mp3": "assets/audio/speak/zu_shipped_4.mp3",
+    "words": [
+     {
+      "w": "Uzofundisa",
+      "s": 0.12,
+      "e": 0.72
+     },
+     {
+      "w": "muphi",
+      "s": 0.8,
+      "e": 1.2
+     },
+     {
+      "w": "umsindo",
+      "s": 1.36,
+      "e": 1.76
+     },
+     {
+      "w": "olandelayo",
+      "s": 1.92,
+      "e": 2.48
+     },
+     {
+      "w": "ngesonto",
+      "s": 2.52,
+      "e": 2.88
+     },
+     {
+      "w": "elizayo?",
+      "s": 2.96,
+      "e": 3.44
+     }
+    ],
+    "secs": 3.68,
+    "cer": 0.0,
+    "f0_rise": 3.1,
+    "from": "conversation"
+   }
+  ]
+ },
+ "measures": {
+  "cer": "measured (automated): text → speech → text with Gemini 2.5 Pro, character error rate after norm_v1, rounded up; lower means a machine recovered the words more exactly. It does not measure how natural the voice sounds.",
+  "f0_rise": "measured proxy: median pitch of the first word minus the median pitch of the whole sentence, in semitones (positive = the sentence starts higher than its own middle). A proxy for the 9 October comment about pitch at the start of sentences; first-language listeners decide.",
+  "f0_rise_human_ref": {
+   "median": 3.16,
+   "q1_q3": [
+    1.52,
+    5.25
+   ],
+   "n": 25,
+   "line": "For reference, 25 recordings of first-language speakers reading sentences aloud (FLEURS / NCHLT) start a median +3.2 semitones above their own middle (half of them between +1.5 and +5.2). A real speaker's sentence can start high too, so this number alone does not say a voice is wrong."
+  },
+  "native_ear": "pending (this review)"
+ },
+ "notes": [
+  "No open-source voice could be included: Meta's MMS-TTS does not publish a model for this language, and the one open South African multi-language model found is access-restricted."
+ ],
+ "sources": []
+}

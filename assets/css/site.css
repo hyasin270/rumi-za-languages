@@ -551,3 +551,9 @@ a.chip:hover { border-color: var(--coral); }
 .sp-ends { display: flex; justify-content: space-between; gap: 8px; max-width: 214px; }
 .sp-reveal { display: inline-flex; flex-wrap: wrap; gap: 2px 8px; font-size: .8rem; color: var(--muted); }
 .sp-reveal .sp-name { font-weight: 600; color: var(--seen); }
+/* a long label (e.g. the Speaking chip's two-part label) wraps inside the chip instead of widening the page */
+.chip { max-width: 100%; flex-wrap: wrap; }
+.chip .l { white-space: normal; min-width: 0; }
+.chip:has(.l) { border-radius: 14px; }
+/* six nav links (with the Speaking review) fit a 390 px phone without hiding the last one */
+@media (max-width: 420px) { .lang-switch { gap: 0; } .lang-switch a { padding: 6px 5px; font-size: .76rem; } .brand img { width: 26px; height: 26px; } }

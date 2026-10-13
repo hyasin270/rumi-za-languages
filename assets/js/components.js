@@ -126,6 +126,7 @@
       if (c.next_step) card.append(el("div", { class: "card", style: "border-left:4px solid var(--coral)" }, el("p", { class: "subcard-title" }, L("next_step", "One next step")), bil(c.next_step, lang)));
       if (c.voice && c.voice.mp3) {
         const v = el("div", { class: "card" }, el("p", { class: "subcard-title" }, o.debriefHeading || L("spoken_debrief", "The spoken debrief")));
+        if (o.debriefNote) v.append(el("p", { class: "note", html: o.debriefNote }));
         window.Karaoke.mount(v, { mp3: c.voice.mp3, words: c.voice.words, text: c.voice.script, en: c.voice.en || c.voice.script_en, lang, label: L("spoken_debrief", "The spoken debrief") });
         card.append(v);
       }

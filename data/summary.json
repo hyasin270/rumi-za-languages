@@ -1,7 +1,7 @@
 {
- "source": "Numbers copied from the evaluation scorecard computed at 2026-10-08T06:14 UTC; nothing typed by hand.",
+ "source": "Numbers copied from the evaluation scorecard computed at 2026-10-13T14:40 UTC; nothing typed by hand.",
  "question": "Can Rumi work in isiZulu, isiXhosa and Sesotho?",
- "governing_thought": "Yes, with three conditions. On automated tests in all three languages, Rumi plans lessons from the curriculum, transcribes classroom speech, drafts coaching and replies in voice notes. No native speaker has checked a word yet.",
+ "governing_thought": "Yes, with three conditions. Automated tests in all three languages show Rumi planning lessons, transcribing classrooms, drafting coaching and replying in voice notes; the first native listeners found its voice understandable, not yet natural.",
  "columns": [
   {
    "key": "Q1",
@@ -43,16 +43,17 @@
      "partner_note": "Partner recordings (25): engines agree on 91.0% of characters, classroom lessons 88.1% (proxy). The expected classroom gap."
     },
     "Q3": {
-     "value": "9.6",
+     "value": "9.4",
      "label": "measured",
      "href": "zu.html#coaching",
-     "note": "feedback prose 5.0/10, AI-judged"
+     "note": "feedback prose 5.0/10, AI-judged; measured on VVOB's classroom recordings; three readings agreed on what they saw in 84 of 110 items; measures Rumi, not the teacher"
     },
     "Q4": {
      "value": "9.9",
-     "label": "measured",
+     "label": "intelligible to a machine · first-language listeners: not yet natural",
      "href": "zu.html#speaking",
-     "note": "AI-judged 9.8/10 for sounding native (real speakers 9.5); native ear pending"
+     "note": "round trip measured; two first-language isiZulu speakers (9 October): understandable, not yet natural; blind voice review open",
+     "speak_href": "speak.html?lang=zu"
     },
     "verdict": {
      "value": "GREEN",
@@ -80,16 +81,17 @@
      "partner_note": "Partner classroom recordings: engines disagree on 25.5% of characters (proxy); meaning recovered 8.5 of 10 (AI-judged). The headline overstates classroom listening."
     },
     "Q3": {
-     "value": "7.6",
+     "value": "9.5",
      "label": "measured",
      "href": "xh.html#coaching",
-     "note": "feedback prose 2.5/10, AI-judged; one public lesson, not partner video"
+     "note": "feedback prose 2.5/10, AI-judged; measured on two Funda Wande classroom recordings; three readings agreed on what they saw in 25 of 30 items; measures Rumi, not the teacher"
     },
     "Q4": {
      "value": "9.7",
-     "label": "measured",
+     "label": "intelligible to a machine · first-language listeners: not yet natural",
      "href": "xh.html#speaking",
-     "note": "AI-judged 10.0/10 for sounding native (real speakers 8.7); intelligibility uncertain, a native ear decides"
+     "note": "round trip measured, a second listener engine disagrees; no first-language isiXhosa ear yet; blind voice review open",
+     "speak_href": "speak.html?lang=xh"
     },
     "verdict": {
      "value": "GREEN",
@@ -117,16 +119,17 @@
      "partner_note": "Partner recordings (2): engines agree on 85.9% of characters (proxy); meaning recovered 9.2 of 10 (AI-judged). The expected classroom gap."
     },
     "Q3": {
-     "value": "9.7",
+     "value": "9.5",
      "label": "measured",
      "href": "st.html#coaching",
-     "note": "feedback prose 5.0/10, AI-judged; one public lesson, not partner video"
+     "note": "feedback prose 5.0/10, AI-judged; measured on one Funda Wande classroom recording; three readings agreed on what they saw in 12 of 15 items; measures Rumi, not the teacher"
     },
     "Q4": {
      "value": "9.7",
-     "label": "measured",
+     "label": "intelligible to a machine · first-language listeners: not yet natural",
      "href": "st.html#speaking",
-     "note": "AI-judged 10.0/10 for sounding native (real speakers 9.9); native ear pending"
+     "note": "round trip measured; no first-language Sesotho ear yet; blind voice review open",
+     "speak_href": "speak.html?lang=st"
     },
     "verdict": {
      "value": "GREEN",
@@ -164,9 +167,10 @@
      },
      "Q4": {
       "value": "9.3",
-      "label": "measured",
+      "label": "intelligible to a machine · first-language listeners: not yet natural",
       "href": "index.html#also-tested",
-      "note": "AI-judged 8.0/10 for sounding native (real speakers 8.8); native ear pending"
+      "note": "round trip measured; no first-language Sepedi ear yet; blind voice review open",
+      "speak_href": "speak.html?lang=nso"
      },
      "verdict": {
       "value": "GREEN",
@@ -199,9 +203,10 @@
      },
      "Q4": {
       "value": "9.6",
-      "label": "measured",
+      "label": "intelligible to a machine · one first-language listener: impressed, not yet rated",
       "href": "index.html#also-tested",
-      "note": "AI-judged 9.7/10 for sounding native (real speakers 9.5); native ear pending"
+      "note": "round trip measured; one first-language listener on the 9 October call praised this voice; not yet rated",
+      "speak_href": "speak.html?lang=af"
      },
      "verdict": {
       "value": "GREEN",
@@ -235,9 +240,10 @@
      },
      "Q4": {
       "value": "9.7",
-      "label": "measured",
+      "label": "intelligible to a machine · first-language listeners: not yet natural",
       "href": "index.html#also-tested",
-      "note": "AI-judged 8.5/10 for sounding native (real speakers 9.2); native ear pending"
+      "note": "round trip measured; no first-language Setswana ear yet; blind voice review open",
+      "speak_href": "speak.html?lang=tn"
      },
      "verdict": {
       "value": "GREEN",
@@ -250,15 +256,17 @@
  },
  "conditions": [
   "Transcription uses the engine that scored best for each language; each page names it.",
-  "A first-language speaker reviews every lesson, transcript and voice before a teacher sees it. Nothing on this site has had that review yet.",
-  "Coaching feedback reads as understandable, not natural (AI-judged 5.0, 2.5 and 5.0 out of 10 for isiZulu, isiXhosa, Sesotho). The voices now sound close to first-language speakers to an AI listener; a native reviewer confirms both."
+  "A first-language speaker reviews every lesson, transcript and voice before a teacher sees it. Only the isiZulu voice has had a first listen; no lesson or transcript on this site has been checked yet.",
+  "Coaching feedback reads as understandable, not natural (AI-judged 5.0, 2.5 and 5.0 out of 10 for isiZulu, isiXhosa, Sesotho), and so does the voice: a machine recovers the words, but two first-language isiZulu speakers from the coalition (9 October) heard pitch in the wrong places, sentence openings that start wrong, a greeting pitched as no speaker would pitch it, one line whose meaning was lost, and more English words than a teacher would use. Afrikaans was the one voice a first-language listener on that call praised. Until first-language ratings pick a voice, every voice here is a draft: a blind review of five or six voices per language, intonation-tuned variants among them, is open, and native ratings decide."
  ],
  "legend": {
   "measured": "a script compared Rumi's output with a known-good reference",
   "AI-judged": "a second AI model judged it; never decides a verdict",
-  "native ear pending": "no first-language speaker has checked it yet; true of every number on this site",
+  "native ear pending": "the first native listeners heard the isiZulu voice on 9 October (understandable, not yet natural); no other output on this site has been checked by a first-language speaker yet",
   "verdict": "GREEN: every test run scored 7 or more out of 10. AMBER: one landed between 4 and 7. RED: one fell below 4. Rounding always goes against us: scores are cut down, error rates up.",
+  "proxy": "two engines compared; not checked against a person. Where they disagree at least one is wrong; where they agree both can still be wrong",
   "review": "Listening review: partner recordings and public lessons, transcript shown line by line; reviewers' corrections become a measured error rate per recording. The headline Listening score comes from read speech with human transcripts and does not change.",
-  "proxy": "two engines compared; not checked against a person. Where they disagree at least one is wrong; where they agree both can still be wrong"
- }
+  "speak": "Speaking review: five sentences read by five or six voices, shown blind; first-language listeners rate how natural each one sounds and whether the meaning is clear. The headline Speaking score is the measured round trip (a machine recovering the words) and says nothing about naturalness."
+ },
+ "speak_href": "speak.html"
 }

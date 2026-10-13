@@ -1,0 +1,1322 @@
+{
+ "lang": "xh",
+ "sentences": [
+  {
+   "i": 0,
+   "text": "Molo titshala! Ndiyavuya ukuva kuwe.",
+   "en": "Hello, teacher! I am happy to hear from you.",
+   "source": "conversation"
+  },
+  {
+   "i": 1,
+   "text": "Sihambe njani isifundo sezandi namhlanje?",
+   "en": "How did today's phonics lesson go?",
+   "source": "conversation"
+  },
+  {
+   "i": 2,
+   "text": "Namhlanje sifundisa isandi esitsha esibhalwa ngonobumba c.",
+   "en": "Today we teach a new sound, written with the letter c.",
+   "source": "voice_note"
+  },
+  {
+   "i": 3,
+   "text": "Molo, enkosi ngokundivumela ukuba ndibukele abantwana befunda ngokuvakalayo.",
+   "en": "Hello, thank you for letting me watch the children reading aloud.",
+   "source": "debrief"
+  },
+  {
+   "i": 4,
+   "text": "Sesiphi isandi oza kusifundisa kwiveki ezayo?",
+   "en": "Which sound will you teach next week?",
+   "source": "conversation"
+  }
+ ],
+ "voices": [
+  {
+   "key": "v1",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Katlego (newest model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/xh_v1_0.mp3",
+     "words": [
+      {
+       "w": "Molo",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "titshala!",
+       "s": 0.4,
+       "e": 1.12
+      },
+      {
+       "w": "Ndiyavuya",
+       "s": 1.52,
+       "e": 2.24
+      },
+      {
+       "w": "ukuva",
+       "s": 2.36,
+       "e": 2.64
+      },
+      {
+       "w": "kuwe.",
+       "s": 2.76,
+       "e": 3.04
+      }
+     ],
+     "secs": 3.28,
+     "cer": 0.03,
+     "f0_rise": 4.62
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/xh_v1_1.mp3",
+     "words": [
+      {
+       "w": "Sihambe",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "njani",
+       "s": 0.56,
+       "e": 0.96
+      },
+      {
+       "w": "isifundo",
+       "s": 1.04,
+       "e": 1.52
+      },
+      {
+       "w": "sezandi",
+       "s": 1.68,
+       "e": 2.16
+      },
+      {
+       "w": "namhlanje?",
+       "s": 2.24,
+       "e": 2.88
+      }
+     ],
+     "secs": 3.12,
+     "cer": 0.0,
+     "f0_rise": 14.79
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/xh_v1_2.mp3",
+     "words": [
+      {
+       "w": "Namhlanje",
+       "s": 0.0,
+       "e": 0.8
+      },
+      {
+       "w": "sifundisa",
+       "s": 0.96,
+       "e": 1.6
+      },
+      {
+       "w": "isandi",
+       "s": 1.76,
+       "e": 2.24
+      },
+      {
+       "w": "esitsha",
+       "s": 2.4,
+       "e": 2.96
+      },
+      {
+       "w": "esibhalwa",
+       "s": 3.04,
+       "e": 3.76
+      },
+      {
+       "w": "ngonobumba",
+       "s": 3.84,
+       "e": 4.48
+      },
+      {
+       "w": "c.",
+       "s": 4.64,
+       "e": 4.96
+      }
+     ],
+     "secs": 5.12,
+     "cer": 0.0,
+     "f0_rise": 2.59
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/xh_v1_3.mp3",
+     "words": [
+      {
+       "w": "Molo,",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "enkosi",
+       "s": 0.88,
+       "e": 1.28
+      },
+      {
+       "w": "ngokundivumela",
+       "s": 1.36,
+       "e": 2.24
+      },
+      {
+       "w": "ukuba",
+       "s": 2.32,
+       "e": 2.56
+      },
+      {
+       "w": "ndibukele",
+       "s": 2.64,
+       "e": 3.2
+      },
+      {
+       "w": "abantwana",
+       "s": 3.36,
+       "e": 3.76
+      },
+      {
+       "w": "befunda",
+       "s": 3.92,
+       "e": 4.32
+      },
+      {
+       "w": "ngokuvakalayo.",
+       "s": 4.36,
+       "e": 5.28
+      }
+     ],
+     "secs": 5.44,
+     "cer": 0.0,
+     "f0_rise": 3.0
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/xh_v1_4.mp3",
+     "words": [
+      {
+       "w": "Sesiphi",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "isandi",
+       "s": 0.6,
+       "e": 1.12
+      },
+      {
+       "w": "oza",
+       "s": 1.28,
+       "e": 1.52
+      },
+      {
+       "w": "kusifundisa",
+       "s": 1.64,
+       "e": 2.24
+      },
+      {
+       "w": "kwiveki",
+       "s": 2.28,
+       "e": 2.72
+      },
+      {
+       "w": "ezayo?",
+       "s": 2.84,
+       "e": 3.28
+      }
+     ],
+     "secs": 3.52,
+     "cer": 0.023,
+     "f0_rise": 9.0
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.011,
+    "f0_rise_mean": 6.8
+   }
+  },
+  {
+   "key": "v2",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Danny (newest model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/xh_v2_0.mp3",
+     "words": [
+      {
+       "w": "Molo",
+       "s": 0.0,
+       "e": 0.4
+      },
+      {
+       "w": "titshala!",
+       "s": 0.48,
+       "e": 1.28
+      },
+      {
+       "w": "Ndiyavuya",
+       "s": 1.68,
+       "e": 2.32
+      },
+      {
+       "w": "ukuva",
+       "s": 2.44,
+       "e": 2.72
+      },
+      {
+       "w": "kuwe.",
+       "s": 2.84,
+       "e": 3.12
+      }
+     ],
+     "secs": 3.28,
+     "cer": 0.0,
+     "f0_rise": 8.09
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/xh_v2_1.mp3",
+     "words": [
+      {
+       "w": "Sihambe",
+       "s": 0.0,
+       "e": 0.4
+      },
+      {
+       "w": "njani",
+       "s": 0.48,
+       "e": 0.88
+      },
+      {
+       "w": "isifundo",
+       "s": 0.96,
+       "e": 1.52
+      },
+      {
+       "w": "sezandi",
+       "s": 1.64,
+       "e": 2.0
+      },
+      {
+       "w": "namhlanje?",
+       "s": 2.08,
+       "e": 2.64
+      }
+     ],
+     "secs": 2.8,
+     "cer": 0.0,
+     "f0_rise": 11.18
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/xh_v2_2.mp3",
+     "words": [
+      {
+       "w": "Namhlanje",
+       "s": 0.0,
+       "e": 0.8
+      },
+      {
+       "w": "sifundisa",
+       "s": 0.96,
+       "e": 1.52
+      },
+      {
+       "w": "isandi",
+       "s": 1.6,
+       "e": 2.16
+      },
+      {
+       "w": "esitsha",
+       "s": 2.24,
+       "e": 2.96
+      },
+      {
+       "w": "esibhalwa",
+       "s": 3.04,
+       "e": 3.6
+      },
+      {
+       "w": "ngonobumba",
+       "s": 3.68,
+       "e": 4.24
+      },
+      {
+       "w": "c.",
+       "s": 4.4,
+       "e": 4.72
+      }
+     ],
+     "secs": 4.88,
+     "cer": 0.0,
+     "f0_rise": 1.48
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/xh_v2_3.mp3",
+     "words": [
+      {
+       "w": "Molo,",
+       "s": 0.0,
+       "e": 0.4
+      },
+      {
+       "w": "enkosi",
+       "s": 0.8,
+       "e": 1.28
+      },
+      {
+       "w": "ngokundivumela",
+       "s": 1.32,
+       "e": 2.24
+      },
+      {
+       "w": "ukuba",
+       "s": 2.32,
+       "e": 2.56
+      },
+      {
+       "w": "ndibukele",
+       "s": 2.64,
+       "e": 3.28
+      },
+      {
+       "w": "abantwana",
+       "s": 3.36,
+       "e": 3.92
+      },
+      {
+       "w": "befunda",
+       "s": 4.08,
+       "e": 4.48
+      },
+      {
+       "w": "ngokuvakalayo.",
+       "s": 4.52,
+       "e": 5.36
+      }
+     ],
+     "secs": 5.52,
+     "cer": 0.0,
+     "f0_rise": 1.63
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/xh_v2_4.mp3",
+     "words": [
+      {
+       "w": "Sesiphi",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "isandi",
+       "s": 0.56,
+       "e": 1.12
+      },
+      {
+       "w": "oza",
+       "s": 1.2,
+       "e": 1.44
+      },
+      {
+       "w": "kusifundisa",
+       "s": 1.52,
+       "e": 2.08
+      },
+      {
+       "w": "kwiveki",
+       "s": 2.12,
+       "e": 2.64
+      },
+      {
+       "w": "ezayo?",
+       "s": 2.76,
+       "e": 3.2
+      }
+     ],
+     "secs": 3.36,
+     "cer": 0.023,
+     "f0_rise": 10.7
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.005,
+    "f0_rise_mean": 6.62
+   }
+  },
+  {
+   "key": "v3",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Katlego (expressive model)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/xh_v3_0.mp3",
+     "words": [
+      {
+       "w": "Molo",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "titshala!",
+       "s": 0.38,
+       "e": 0.96
+      },
+      {
+       "w": "Ndiyavuya",
+       "s": 1.08,
+       "e": 1.68
+      },
+      {
+       "w": "ukuva",
+       "s": 1.76,
+       "e": 2.08
+      },
+      {
+       "w": "kuwe.",
+       "s": 2.16,
+       "e": 2.48
+      }
+     ],
+     "secs": 2.64,
+     "cer": 0.236,
+     "f0_rise": 1.15
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/xh_v3_1.mp3",
+     "words": [
+      {
+       "w": "Sihambe",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "njani",
+       "s": 0.373,
+       "e": 0.64
+      },
+      {
+       "w": "isifundo",
+       "s": 0.693,
+       "e": 1.2
+      },
+      {
+       "w": "sezandi",
+       "s": 1.26,
+       "e": 1.68
+      },
+      {
+       "w": "namhlanje?",
+       "s": 1.74,
+       "e": 2.4
+      }
+     ],
+     "secs": 2.48,
+     "cer": 0.325,
+     "f0_rise": 1.78
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/xh_v3_2.mp3",
+     "words": [
+      {
+       "w": "Namhlanje",
+       "s": 0.0,
+       "e": 0.56
+      },
+      {
+       "w": "sifundisa",
+       "s": 0.6,
+       "e": 1.28
+      },
+      {
+       "w": "isandi",
+       "s": 1.413,
+       "e": 2.0
+      },
+      {
+       "w": "esitsha",
+       "s": 2.053,
+       "e": 2.4
+      },
+      {
+       "w": "esibhalwa",
+       "s": 2.453,
+       "e": 2.92
+      },
+      {
+       "w": "ngonobumba",
+       "s": 2.944,
+       "e": 3.44
+      },
+      {
+       "w": "c.",
+       "s": 3.52,
+       "e": 3.6
+      }
+     ],
+     "secs": 3.76,
+     "cer": 0.071,
+     "f0_rise": 1.58
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/xh_v3_3.mp3",
+     "words": [
+      {
+       "w": "Molo,",
+       "s": 0.0,
+       "e": 0.4
+      },
+      {
+       "w": "enkosi",
+       "s": 0.613,
+       "e": 1.04
+      },
+      {
+       "w": "ngokundivumela",
+       "s": 1.067,
+       "e": 2.0
+      },
+      {
+       "w": "ukuba",
+       "s": 2.107,
+       "e": 2.56
+      },
+      {
+       "w": "ndibukele",
+       "s": 2.587,
+       "e": 3.36
+      },
+      {
+       "w": "abantwana",
+       "s": 3.493,
+       "e": 4.32
+      },
+      {
+       "w": "befunda",
+       "s": 4.4,
+       "e": 4.88
+      },
+      {
+       "w": "ngokuvakalayo.",
+       "s": 4.933,
+       "e": 6.0
+      }
+     ],
+     "secs": 6.08,
+     "cer": 0.0,
+     "f0_rise": 6.52
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/xh_v3_4.mp3",
+     "words": [
+      {
+       "w": "Sesiphi",
+       "s": 0.0,
+       "e": 0.56
+      },
+      {
+       "w": "isandi",
+       "s": 0.667,
+       "e": 1.36
+      },
+      {
+       "w": "oza",
+       "s": 1.52,
+       "e": 1.84
+      },
+      {
+       "w": "kusifundisa",
+       "s": 1.9,
+       "e": 2.72
+      },
+      {
+       "w": "kwiveki",
+       "s": 2.8,
+       "e": 3.44
+      },
+      {
+       "w": "ezayo?",
+       "s": 3.6,
+       "e": 4.24
+      }
+     ],
+     "secs": 4.56,
+     "cer": 0.046,
+     "f0_rise": 10.61
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.136,
+    "f0_rise_mean": 4.33
+   }
+  },
+  {
+   "key": "v4",
+   "family": "elevenlabs",
+   "label_public": "ElevenLabs · Katlego (newest model, settings tuned for calmer intonation)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/xh_v4_0.mp3",
+     "words": [
+      {
+       "w": "Molo",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "titshala!",
+       "s": 0.4,
+       "e": 1.2
+      },
+      {
+       "w": "Ndiyavuya",
+       "s": 1.68,
+       "e": 2.4
+      },
+      {
+       "w": "ukuva",
+       "s": 2.52,
+       "e": 2.72
+      },
+      {
+       "w": "kuwe.",
+       "s": 2.8,
+       "e": 3.2
+      }
+     ],
+     "secs": 3.44,
+     "cer": 0.03,
+     "f0_rise": 6.17
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/xh_v4_1.mp3",
+     "words": [
+      {
+       "w": "Sihambe",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "njani",
+       "s": 0.56,
+       "e": 1.04
+      },
+      {
+       "w": "isifundo",
+       "s": 1.16,
+       "e": 1.6
+      },
+      {
+       "w": "sezandi",
+       "s": 1.76,
+       "e": 2.16
+      },
+      {
+       "w": "namhlanje?",
+       "s": 2.24,
+       "e": 2.88
+      }
+     ],
+     "secs": 3.12,
+     "cer": 0.0,
+     "f0_rise": 11.48
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/xh_v4_2.mp3",
+     "words": [
+      {
+       "w": "Namhlanje",
+       "s": 0.0,
+       "e": 0.8
+      },
+      {
+       "w": "sifundisa",
+       "s": 0.96,
+       "e": 1.52
+      },
+      {
+       "w": "isandi",
+       "s": 1.68,
+       "e": 2.16
+      },
+      {
+       "w": "esitsha",
+       "s": 2.24,
+       "e": 2.88
+      },
+      {
+       "w": "esibhalwa",
+       "s": 2.96,
+       "e": 3.6
+      },
+      {
+       "w": "ngonobumba",
+       "s": 3.68,
+       "e": 4.32
+      },
+      {
+       "w": "c.",
+       "s": 4.48,
+       "e": 4.8
+      }
+     ],
+     "secs": 4.96,
+     "cer": 0.0,
+     "f0_rise": 1.84
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/xh_v4_3.mp3",
+     "words": [
+      {
+       "w": "Molo,",
+       "s": 0.0,
+       "e": 0.4
+      },
+      {
+       "w": "enkosi",
+       "s": 0.8,
+       "e": 1.28
+      },
+      {
+       "w": "ngokundivumela",
+       "s": 1.32,
+       "e": 2.24
+      },
+      {
+       "w": "ukuba",
+       "s": 2.32,
+       "e": 2.56
+      },
+      {
+       "w": "ndibukele",
+       "s": 2.64,
+       "e": 3.2
+      },
+      {
+       "w": "abantwana",
+       "s": 3.36,
+       "e": 3.84
+      },
+      {
+       "w": "befunda",
+       "s": 4.0,
+       "e": 4.4
+      },
+      {
+       "w": "ngokuvakalayo.",
+       "s": 4.44,
+       "e": 5.36
+      }
+     ],
+     "secs": 5.6,
+     "cer": 0.0,
+     "f0_rise": 3.37
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/xh_v4_4.mp3",
+     "words": [
+      {
+       "w": "Sesiphi",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "isandi",
+       "s": 0.56,
+       "e": 1.2
+      },
+      {
+       "w": "oza",
+       "s": 1.36,
+       "e": 1.6
+      },
+      {
+       "w": "kusifundisa",
+       "s": 1.72,
+       "e": 2.32
+      },
+      {
+       "w": "kwiveki",
+       "s": 2.36,
+       "e": 2.8
+      },
+      {
+       "w": "ezayo?",
+       "s": 2.88,
+       "e": 3.44
+      }
+     ],
+     "secs": 3.68,
+     "cer": 0.0,
+     "f0_rise": 11.8
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.006,
+    "f0_rise_mean": 6.93
+   }
+  },
+  {
+   "key": "v5",
+   "family": "openai",
+   "label_public": "OpenAI · gpt-4o-mini-tts (told to speak as a first-language teacher)",
+   "clips": [
+    {
+     "i": 0,
+     "mp3": "assets/audio/speak/xh_v5_0.mp3",
+     "words": [
+      {
+       "w": "Molo",
+       "s": 0.0,
+       "e": 0.88
+      },
+      {
+       "w": "titshala!",
+       "s": 0.88,
+       "e": 1.977
+      },
+      {
+       "w": "Ndiyavuya",
+       "s": 2.693,
+       "e": 3.82
+      },
+      {
+       "w": "ukuva",
+       "s": 3.82,
+       "e": 4.376
+      },
+      {
+       "w": "kuwe.",
+       "s": 4.376,
+       "e": 4.82
+      }
+     ],
+     "secs": 5.3,
+     "cer": 0.118,
+     "f0_rise": 0.66
+    },
+    {
+     "i": 1,
+     "mp3": "assets/audio/speak/xh_v5_1.mp3",
+     "words": [
+      {
+       "w": "Sihambe",
+       "s": 0.0,
+       "e": 1.04
+      },
+      {
+       "w": "njani",
+       "s": 1.04,
+       "e": 1.92
+      },
+      {
+       "w": "isifundo",
+       "s": 2.2,
+       "e": 2.76
+      },
+      {
+       "w": "sezandi",
+       "s": 2.76,
+       "e": 3.44
+      },
+      {
+       "w": "namhlanje?",
+       "s": 4.0,
+       "e": 4.6
+      }
+     ],
+     "secs": 5.3,
+     "cer": 0.075,
+     "f0_rise": 4.97
+    },
+    {
+     "i": 2,
+     "mp3": "assets/audio/speak/xh_v5_2.mp3",
+     "words": [
+      {
+       "w": "Namhlanje",
+       "s": 0.0,
+       "e": 1.18
+      },
+      {
+       "w": "sifundisa",
+       "s": 1.18,
+       "e": 2.28
+      },
+      {
+       "w": "isandi",
+       "s": 2.28,
+       "e": 3.04
+      },
+      {
+       "w": "esitsha",
+       "s": 3.04,
+       "e": 3.8
+      },
+      {
+       "w": "esibhalwa",
+       "s": 3.8,
+       "e": 5.078
+      },
+      {
+       "w": "ngonobumba",
+       "s": 5.308,
+       "e": 6.14
+      },
+      {
+       "w": "c.",
+       "s": 6.14,
+       "e": 6.14
+      }
+     ],
+     "secs": 6.5,
+     "cer": 0.036,
+     "f0_rise": 2.09
+    },
+    {
+     "i": 3,
+     "mp3": "assets/audio/speak/xh_v5_3.mp3",
+     "words": [
+      {
+       "w": "Molo,",
+       "s": 0.0,
+       "e": 0.7
+      },
+      {
+       "w": "enkosi",
+       "s": 1.44,
+       "e": 2.091
+      },
+      {
+       "w": "ngokundivumela",
+       "s": 2.2,
+       "e": 3.372
+      },
+      {
+       "w": "ukuba",
+       "s": 3.755,
+       "e": 4.043
+      },
+      {
+       "w": "ndibukele",
+       "s": 4.043,
+       "e": 5.08
+      },
+      {
+       "w": "abantwana",
+       "s": 5.08,
+       "e": 5.822
+      },
+      {
+       "w": "befunda",
+       "s": 6.156,
+       "e": 6.92
+      },
+      {
+       "w": "ngokuvakalayo.",
+       "s": 6.92,
+       "e": 8.16
+      }
+     ],
+     "secs": 8.62,
+     "cer": 0.041,
+     "f0_rise": 0.84
+    },
+    {
+     "i": 4,
+     "mp3": "assets/audio/speak/xh_v5_4.mp3",
+     "words": [
+      {
+       "w": "Sesiphi",
+       "s": 0.0,
+       "e": 1.16
+      },
+      {
+       "w": "isandi",
+       "s": 1.16,
+       "e": 1.909
+      },
+      {
+       "w": "oza",
+       "s": 2.56,
+       "e": 2.7
+      },
+      {
+       "w": "kusifundisa",
+       "s": 2.7,
+       "e": 3.7
+      },
+      {
+       "w": "kwiveki",
+       "s": 3.7,
+       "e": 4.24
+      },
+      {
+       "w": "ezayo?",
+       "s": 4.24,
+       "e": 4.86
+      }
+     ],
+     "secs": 5.16,
+     "cer": 0.137,
+     "f0_rise": 6.39
+    }
+   ],
+   "summary": {
+    "cer_mean": 0.082,
+    "f0_rise_mean": 2.99
+   }
+  }
+ ],
+ "shipped": {
+  "voice_key": "v1",
+  "label_public": "ElevenLabs · Katlego (newest model)",
+  "how": "cut from the voice notes on the site at the sentence boundaries (same text, not re-rendered)",
+  "clips": [
+   {
+    "i": 0,
+    "mp3": "assets/audio/speak/xh_shipped_0.mp3",
+    "words": [
+     {
+      "w": "Molo",
+      "s": 0.0,
+      "e": 0.32
+     },
+     {
+      "w": "titshala!",
+      "s": 0.4,
+      "e": 1.2
+     },
+     {
+      "w": "Ndiyavuya",
+      "s": 1.6,
+      "e": 2.24
+     },
+     {
+      "w": "ukuva",
+      "s": 2.36,
+      "e": 2.56
+     },
+     {
+      "w": "kuwe.",
+      "s": 2.64,
+      "e": 3.04
+     }
+    ],
+    "secs": 3.29,
+    "cer": 0.059,
+    "f0_rise": 4.6,
+    "from": "conversation"
+   },
+   {
+    "i": 1,
+    "mp3": "assets/audio/speak/xh_shipped_1.mp3",
+    "words": [
+     {
+      "w": "Sihambe",
+      "s": 0.12,
+      "e": 0.44
+     },
+     {
+      "w": "njani",
+      "s": 0.52,
+      "e": 0.84
+     },
+     {
+      "w": "isifundo",
+      "s": 0.92,
+      "e": 1.32
+     },
+     {
+      "w": "sezandi",
+      "s": 1.44,
+      "e": 1.8
+     },
+     {
+      "w": "namhlanje?",
+      "s": 1.88,
+      "e": 2.44
+     }
+    ],
+    "secs": 2.68,
+    "cer": 0.0,
+    "f0_rise": 11.28,
+    "from": "conversation"
+   },
+   {
+    "i": 2,
+    "mp3": "assets/audio/speak/xh_shipped_2.mp3",
+    "words": [
+     {
+      "w": "Namhlanje",
+      "s": 0.12,
+      "e": 0.72
+     },
+     {
+      "w": "sifundisa",
+      "s": 0.8,
+      "e": 1.44
+     },
+     {
+      "w": "isandi",
+      "s": 1.56,
+      "e": 2.0
+     },
+     {
+      "w": "esitsha",
+      "s": 2.12,
+      "e": 2.56
+     },
+     {
+      "w": "esibhalwa",
+      "s": 2.64,
+      "e": 3.2
+     },
+     {
+      "w": "ngonobumba",
+      "s": 3.24,
+      "e": 3.84
+     },
+     {
+      "w": "c.",
+      "s": 3.92,
+      "e": 4.24
+     }
+    ],
+    "secs": 4.49,
+    "cer": 0.0,
+    "f0_rise": 1.57,
+    "from": "voice_note"
+   },
+   {
+    "i": 3,
+    "mp3": "assets/audio/speak/xh_shipped_3.mp3",
+    "words": [
+     {
+      "w": "Molo,",
+      "s": 0.0,
+      "e": 0.347
+     },
+     {
+      "w": "enkosi",
+      "s": 0.8,
+      "e": 1.28
+     },
+     {
+      "w": "ngokundivumela",
+      "s": 1.32,
+      "e": 2.24
+     },
+     {
+      "w": "ukuba",
+      "s": 2.32,
+      "e": 2.56
+     },
+     {
+      "w": "ndibukele",
+      "s": 2.64,
+      "e": 3.2
+     },
+     {
+      "w": "abantwana",
+      "s": 3.36,
+      "e": 3.68
+     },
+     {
+      "w": "befunda",
+      "s": 3.76,
+      "e": 4.24
+     },
+     {
+      "w": "ngokuvakalayo.",
+      "s": 4.28,
+      "e": 5.12
+     }
+    ],
+    "secs": 5.37,
+    "cer": 0.014,
+    "f0_rise": 3.9,
+    "from": "debrief"
+   },
+   {
+    "i": 4,
+    "mp3": "assets/audio/speak/xh_shipped_4.mp3",
+    "words": [
+     {
+      "w": "Sesiphi",
+      "s": 0.12,
+      "e": 0.6
+     },
+     {
+      "w": "isandi",
+      "s": 0.72,
+      "e": 1.16
+     },
+     {
+      "w": "oza",
+      "s": 1.24,
+      "e": 1.48
+     },
+     {
+      "w": "kusifundisa",
+      "s": 1.56,
+      "e": 2.04
+     },
+     {
+      "w": "kwiveki",
+      "s": 2.08,
+      "e": 2.52
+     },
+     {
+      "w": "ezayo?",
+      "s": 2.64,
+      "e": 3.08
+     }
+    ],
+    "secs": 3.32,
+    "cer": 0.023,
+    "f0_rise": 11.63,
+    "from": "conversation"
+   }
+  ]
+ },
+ "measures": {
+  "cer": "measured (automated): text → speech → text with Gemini 2.5 Pro, character error rate after norm_v1, rounded up; lower means a machine recovered the words more exactly. It does not measure how natural the voice sounds.",
+  "f0_rise": "measured proxy: median pitch of the first word minus the median pitch of the whole sentence, in semitones (positive = the sentence starts higher than its own middle). A proxy for the 9 October comment about pitch at the start of sentences; first-language listeners decide.",
+  "f0_rise_human_ref": {
+   "median": 2.68,
+   "q1_q3": [
+    1.27,
+    4.78
+   ],
+   "n": 25,
+   "line": "For reference, 25 recordings of first-language speakers reading sentences aloud (FLEURS / NCHLT) start a median +2.7 semitones above their own middle (half of them between +1.3 and +4.8). A real speaker's sentence can start high too, so this number alone does not say a voice is wrong."
+  },
+  "native_ear": "pending (this review)"
+ },
+ "notes": [
+  "No open-source voice could be included: Meta's MMS-TTS does not publish a model for this language, and the one open South African multi-language model found is access-restricted."
+ ],
+ "sources": []
+}

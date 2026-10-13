@@ -32,7 +32,7 @@
    "Classroom recording to coaching report: the best transcription engine writes the transcript; the coaching engine reads it against the partners' coaching course [[fn:fn-coaching-course]], quotes a timed moment for every step it credits, and drafts the debrief.",
    "References: the official file's own text, human transcripts of read speech [[fn:fn-fleurs]] [[fn:fn-nchlt]], the lesson transcript, and the spoken script. The three labels are explained below the diagrams."
   ],
-  "samples": "Feasibility-sized samples, not a benchmark: 19 lesson plans and 6 two-week overviews; 143 curriculum, workbook and reader pages; 32 to 70 read sentences per language; 12 classroom recordings (3 partner, 9 public); 6 spoken sentences per voice.",
+  "samples": "Feasibility-sized samples, not a benchmark: 19 lesson plans and 6 two-week overviews; 143 curriculum, workbook and reader pages; 32 to 70 read sentences per language; 48 recordings on the review page (33 partner, 15 public), with coaching reports on 14 partner classroom recordings; 6 spoken sentences per voice, and five sentences per language in the speaking review.",
   "limits": "Listening scores come from read speech in quiet rooms, an upper bound for a Grade 1 classroom. The World Bank structure check [[fn:fn-wb-tool]] tests structure our template enforces, so it sits beside the lesson-plan score, not in it.",
   "diagram_lp": [
    "Official pages",
@@ -230,7 +230,7 @@
   },
   "voice_note": {
    "heading": "The teacher's voice note",
-   "lead": "The voice note a teacher receives with the lesson, read by Neo, a South African voice from the ElevenLabs library."
+   "lead": "The voice note a teacher receives with the lesson, read by Neo, a South African voice from the ElevenLabs library: the voice two first-language isiZulu speakers heard on 9 October, understandable, not yet natural."
   },
   "listening": {
    "heading": "Listening",
@@ -293,7 +293,7 @@
     "Q4": "Speaking"
    },
    "lead": "GREEN on all four automated tests, with the hardest listening of the six and the weakest coaching prose. Listening and coaching below run on Funda Wande's own classroom recording, What is oral reading fluency, part 1.",
-   "material": "Material: CAPS [[fn:fn-caps-xh]], the Grade 1 workbook [[fn:fn-wb-xh]], three readers [[fn:fn-asb-xh]], a speech set [[fn:fn-fleurs]], Funda Wande's classroom recordings; one public lesson in the first round [[fn:fn-video-xh]]."
+   "material": "Material: CAPS [[fn:fn-caps-xh]], the Grade 1 workbook [[fn:fn-wb-xh]], three readers [[fn:fn-asb-xh]], a speech set [[fn:fn-fleurs]], Funda Wande's classroom recordings [[fn:fn-fw-videos]]; one public lesson in the first round [[fn:fn-video-xh]]."
   },
   "lesson_plans": {
    "heading": "Lesson plans",
@@ -329,7 +329,7 @@
   },
   "voice_note": {
    "heading": "The teacher's voice note",
-   "lead": "The voice note for this lesson, read by Katlego, a South African voice from the ElevenLabs library."
+   "lead": "The voice note for this lesson, read by Katlego, a South African voice from the ElevenLabs library; no first-language isiXhosa speaker has heard it yet."
   },
   "listening": {
    "heading": "Listening",
@@ -391,7 +391,7 @@
     "Q4": "Speaking"
    },
    "lead": "GREEN on all four automated tests with the cleanest page reading of the six; listening uses a different test set. Listening and coaching below run on Funda Wande's own classroom recording, Building words with syllable cards.",
-   "material": "Material: CAPS [[fn:fn-caps-st]], the Grade 1 workbook [[fn:fn-wb-st]], three readers [[fn:fn-asb-st]], short read phone prompts [[fn:fn-nchlt]], Funda Wande's classroom recordings; one public lesson in the first round [[fn:fn-video-st]]."
+   "material": "Material: CAPS [[fn:fn-caps-st]], the Grade 1 workbook [[fn:fn-wb-st]], three readers [[fn:fn-asb-st]], short read phone prompts [[fn:fn-nchlt]], Funda Wande's classroom recordings [[fn:fn-fw-videos]]; one public lesson in the first round [[fn:fn-video-st]]."
   },
   "lesson_plans": {
    "heading": "Lesson plans",
@@ -427,7 +427,7 @@
   },
   "voice_note": {
    "heading": "The teacher's voice note",
-   "lead": "The teacher's voice note for this lesson, in a voice designed to sound like a first-language Sesotho speaker."
+   "lead": "The teacher's voice note for this lesson, in a voice designed to sound like a first-language Sesotho speaker; no first-language Sesotho speaker has heard it yet."
   },
   "listening": {
    "heading": "Listening",
@@ -665,7 +665,7 @@
   "howto": {
    "heading": "How to review",
    "steps": [
-    "Pick your language. Each sentence plays in five or six voices, in an order that is different for everyone; listen to all of them.",
+    "Pick your language and start with the blind comparison: each sentence plays in five or six voices, in an order that is different for everyone, with the names hidden. Listen to all of them.",
     "For each voice, rate two things from 1 to 5: does it sound like a first-language speaker, and is the meaning clear. Tap any word whose pitch or stress is wrong.",
     "Pick the best voice for the sentence, add your name once, and save. Five sentences is the whole job; the voices' names appear once you have saved."
    ],
@@ -698,7 +698,8 @@
    "submit": "Save my ratings for this sentence",
    "need_rating": "Rate at least one voice first, or pick the best one.",
    "sent": "Saved, thank you. The voices' names are now shown below.",
-   "clip_line": "{cer} of characters lost on the round trip (measured) · pitch rise on the first word {f0} (proxy)",
+   "clip_line": "{cer} of characters lost on the round trip (measured) · starts {f0} semitones above its own middle (proxy)",
+   "clip_line_note": "The round trip is a machine recovering the words. The pitch figure is the first word's pitch against the sentence's own middle, a rough stand-in for what the first native listeners heard at sentence openings; real speakers start high too (25 recordings of first-language speakers reading aloud start a median +3.2 semitones above their own middle), so it is a proxy, not a judgement.",
    "family": {
     "elevenlabs": "ElevenLabs",
     "openai": "OpenAI",
@@ -722,7 +723,9 @@
    "english_words": "There are English words where there should not be",
    "better_label": "The words a teacher would really use (optional)",
    "better_placeholder": "Type the line the way a teacher would say it in class",
-   "submit": "Save"
+   "submit": "Save",
+   "locked": "Opens once you have saved one blind rating in this language, so that you hear the voices without knowing which one Rumi uses.",
+   "locked_deeplink": "You were sent to one of Rumi's shipped voice notes. The blind comparison comes first, so that you hear the voices without knowing which one Rumi uses; this section opens once you have saved one rating."
   },
   "record": {
    "heading": "Say it right (optional)",
@@ -739,8 +742,8 @@
   "results": {
    "heading": "What {n} reviewers said",
    "none": "No one has rated this sentence yet. You could be the first.",
-   "counts": "{n} reviewers so far. Results appear once three have rated this sentence, so that no one is steered by the first answer.",
-   "counts_one": "1 reviewer so far. Results appear once three have rated this sentence, so that no one is steered by the first answer.",
+   "counts": "{n} reviewers so far. Ratings are kept separate until three people have rated this sentence, so that nobody is steered by someone else's answer.",
+   "counts_one": "1 reviewer so far. Ratings are kept separate until three people have rated this sentence, so that nobody is steered by someone else's answer.",
    "voice_line": "Voice {letter}: sounds first-language {natural} of 5 ({natural_n} ratings) · meaning clear {meaning} of 5 ({meaning_n} ratings) · best voice {best} votes",
    "shipped_line": "The shipped voice: natural {natural} · understandable but not natural {not_natural} · meaning lost {meaning_lost} · English words where there should not be {english}"
   },

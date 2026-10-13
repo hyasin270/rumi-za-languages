@@ -7,7 +7,7 @@
   "value": 9.714285714285714,
   "display": "9.7",
   "label": "intelligible to a machine · first-language listeners: not yet natural",
-  "line": "ElevenLabs eleven_v4: text → speech → text came back with 1.4% of characters lost (6 sentences, measured). That is intelligibility to a machine, not naturalness. No first-language Setswana speaker has heard this voice yet; it comes from the same engine as the isiZulu voice the first native listeners found not yet natural. Native ratings on the speaking review decide the voice."
+  "line": "ElevenLabs eleven_v4: text → speech → text came back with the measured share of characters lost (6 sentences, measured). That is intelligibility to a machine, not naturalness. No first-language Setswana speaker has heard this voice yet; it comes from the same engine as the isiZulu voice the first native listeners found not yet natural. Native ratings on the speaking review decide the voice."
  },
  "conversation": [
   {

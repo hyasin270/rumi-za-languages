@@ -147,6 +147,9 @@
     const k = String(label || "").toLowerCase();
     if (!k) return ["", ""];
     if (k.includes("not run")) return [RZ.ui("label_not_run", "not run"), "pending"];
+    // the Speaking label: "intelligible to a machine · <what first-language listeners found>" — the chip shows the first half,
+    // the full label rides in the chip's title (checked before the "ai" substring test, which it must never hit)
+    if (k.includes("intelligible to a machine")) return [RZ.ui("label_machine", "intelligible to a machine"), "measured", String(label)];
     // "AI-judged" = a model scored it; "proxy" / "engine agreement" = two engines compared, nobody judged anything
     if (k.includes("ai-judged")) return [RZ.ui("label_ai", "AI-judged"), "ai"];
     if (k.includes("proxy") || k.includes("engine agreement")) return [RZ.ui("label_proxy", "proxy"), "proxy"];
@@ -169,7 +172,8 @@
   RZ.chip = function (score, opts) {
     opts = opts || {};
     const sc = RZ.score(score);
-    const [lab, cls] = RZ.labelOf(sc.label);
+    const [lab, cls, full] = RZ.labelOf(sc.label);
+    if (full) opts = Object.assign({ title: full }, opts);
     const v = sc.value, n = Number(v);
     const disp = sc.display !== undefined && sc.display !== null ? String(sc.display) : "";
     const kind = opts.kind || "10";
@@ -189,8 +193,10 @@
     const key = opts.key ? `<span class="k">${esc(opts.key)}</span>` : "";
     const l = lab && !opts.noLabel ? `<span class="l">${esc(lab)}</span>` : "";
     const aria = esc([opts.key, inner.replace(/<[^>]+>/g, ""), lab].filter(Boolean).join(" "));
-    if (opts.href) return `<a class="chip ${cls}" href="${esc(opts.href)}" aria-label="${aria}">${key}${inner}${l}</a>`;
-    return `<span class="chip ${cls}" aria-label="${aria}">${key}${inner}${l}</span>`;
+    const aria2 = opts.title ? esc([opts.key, inner.replace(/<[^>]+>/g, ""), opts.title].filter(Boolean).join(" ")) : aria;
+    const tt = opts.title ? ` title="${esc(opts.title)}"` : "";
+    if (opts.href) return `<a class="chip ${cls}" href="${esc(opts.href)}" aria-label="${aria2}"${tt}>${key}${inner}${l}</a>`;
+    return `<span class="chip ${cls}" aria-label="${aria2}"${tt}>${key}${inner}${l}</span>`;
   }
 
   /* ---------- misc ---------- */
