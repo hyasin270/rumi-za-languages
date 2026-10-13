@@ -1,0 +1,143 @@
+{
+ "id": "zu-vvob-m11-intro",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 5.0,
+   "end": 6.6,
+   "speaker": "Trainer",
+   "text": "Sanibonani futhi bothisha.",
+   "en": "Hello again teachers.",
+   "agree": 1.0
+  },
+  {
+   "i": 1,
+   "start": 6.8,
+   "end": 11.8,
+   "speaker": "Trainer",
+   "text": "Futhi namukelekile kwi-module yenu yokugcina yokufunda ngababili nokufunda ngokuzimela.",
+   "en": "And welcome to your last module of paired reading and independent reading.",
+   "agree": 0.988
+  },
+  {
+   "i": 2,
+   "start": 12.2,
+   "end": 20.8,
+   "speaker": "Trainer",
+   "text": "Kubalulekile ukuthi uma sekuyisikhathi sokufunda ngababili noma ngokuzimela, uqale ngokuhlela izincwadi esebezifundile ngamaqembu ukuze kube lula ukufunda.",
+   "en": "It is important that when it is time for paired or independent reading, you start by organizing the books they have already read in groups so that it is easy to read.",
+   "agree": 0.876
+  },
+  {
+   "i": 3,
+   "start": 21.3,
+   "end": 23.5,
+   "speaker": "Trainer",
+   "text": "Isibonelo, abafundi befundelana bodwa.",
+   "en": "For example, learners reading to each other.",
+   "agree": 0.972
+  },
+  {
+   "i": 4,
+   "start": 24.0,
+   "end": 26.5,
+   "speaker": "Trainer",
+   "text": "Ucabanga yini ukuthi ungayibona yenzeke engadini?",
+   "en": "Do you think you can see it happening in the garden?",
+   "agree": 0.646
+  },
+  {
+   "i": 5,
+   "start": 28.6,
+   "end": 32.5,
+   "speaker": "Trainer",
+   "text": "Ucabanga yini ongayibona yenzeke endabeni? Umfundi ebuza omunye umfundi.",
+   "en": "What do you think you can see happening in the story? A learner asking another learner.",
+   "agree": 1.0
+  },
+  {
+   "i": 6,
+   "start": 33.3,
+   "end": 38.5,
+   "speaker": "Trainer",
+   "text": "Emuva kokuqeda le-module uzokwazi ukuchaza ukuthi kuyini ukufunda ngababili nangokuzimela.",
+   "en": "After completing this module you will be able to explain what paired and independent reading is.",
+   "agree": 0.955
+  },
+  {
+   "i": 7,
+   "start": 39.3,
+   "end": 43.5,
+   "speaker": "Trainer",
+   "text": "Ukuchaza ukuyinzuzo ngokufunda ngababili nangokuzimela.",
+   "en": "To explain the benefit of paired and independent reading.",
+   "agree": 0.981
+  },
+  {
+   "i": 8,
+   "start": 44.3,
+   "end": 50.5,
+   "speaker": "Trainer",
+   "text": "Ukukhombisa ukuqonda kokuhlela indawo efanele ezothuthukisa amathuba okufunda ngababili nangokuzimela.",
+   "en": "To show understanding of organizing a suitable space that will promote opportunities for paired and independent reading.",
+   "agree": 1.0
+  },
+  {
+   "i": 9,
+   "start": 51.3,
+   "end": 56.5,
+   "speaker": "Trainer",
+   "text": "Ukungaveza impumela emihle yokufunda ngokuqondisisa nangolwazimagama.",
+   "en": "To show the positive outcome of reading with comprehension and vocabulary.",
+   "agree": 0.941
+  },
+  {
+   "i": 10,
+   "start": 57.3,
+   "end": 58.5,
+   "speaker": "Trainer",
+   "text": "Ukucacisa ukuthi angafundiswa kanjani amasu okufunda",
+   "en": "To clarify how reading strategies can be taught",
+   "agree": 0.808
+  },
+  {
+   "i": 11,
+   "start": 58.5,
+   "end": 63.3,
+   "speaker": "Trainer",
+   "text": "Kulo mqeqesho uzofunda ukuthi ungafundiswa kanjani amasu okufunda ngababili nangokuzimela.",
+   "en": "In this training you will learn how paired and independent reading strategies can be taught.",
+   "agree": 0.764
+  },
+  {
+   "i": 12,
+   "start": 65.0,
+   "end": 65.8,
+   "speaker": "Trainer",
+   "text": "Asiqale.",
+   "en": "Let us start.",
+   "agree": 1.0
+  }
+ ],
+ "score": {
+  "value": 0.911,
+  "label": "engine agreement (proxy)",
+  "display": "91.1% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 91.1% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+ },
+ "agreement": {
+  "value": 0.911,
+  "label": "engine agreement (proxy)",
+  "display": "91.1% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 91.1% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

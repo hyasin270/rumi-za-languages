@@ -1,0 +1,134 @@
+{
+ "id": "en-fw-plc-start",
+ "lang": "en",
+ "engine": "OpenAI gpt-4o-transcribe",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 6.51,
+   "end": 11.25,
+   "speaker": "Speaker 1",
+   "text": "The second question is, how do I start a PLC in my school?",
+   "en": "The second question is, how do I start a PLC in my school?",
+   "agree": 1.0
+  },
+  {
+   "i": 1,
+   "start": 12.03,
+   "end": 21.51,
+   "speaker": "Speaker 1",
+   "text": "OK, so we talked about a group of teachers, right? So it is advisable",
+   "en": "OK, so we talked about a group of teachers, right? So it is advisable",
+   "agree": 0.894
+  },
+  {
+   "i": 2,
+   "start": 22.05,
+   "end": 33.69,
+   "speaker": "Speaker 1",
+   "text": "Of course you're going to read your context, right? It is advisable for teachers to come together first on their first PLC, agree on how they are going to work with each other.",
+   "en": "Of course you're going to read your context, right? It is advisable for teachers to come together first on their first PLC, agree on how they are going to work with each other.",
+   "agree": 0.872
+  },
+  {
+   "i": 3,
+   "start": 33.99,
+   "end": 45.81,
+   "speaker": "Speaker 1",
+   "text": "Right. And write those down. Some people call them standards, some people call them norms,",
+   "en": "Right. And write those down. Some people call them standards, some people call them norms,",
+   "agree": 0.128
+  },
+  {
+   "i": 4,
+   "start": 46.31,
+   "end": 60.15,
+   "speaker": "Speaker 1",
+   "text": "That we are going to be working like this. So things like, okay, when are we going to start and the dates that we're going to use, and honor those dates and time and be on time on the PLC.",
+   "en": "That we are going to be working like this. So things like, okay, when are we going to start and the dates that we're going to use, and honor those dates and time and be on time on the PLC.",
+   "agree": 0.874
+  },
+  {
+   "i": 5,
+   "start": 60.87,
+   "end": 70.39,
+   "speaker": "Speaker 1",
+   "text": "You can talk about is how do you want to be in terms of like sharing. People should be free to say anything meaning that we're going to really respect",
+   "en": "You can talk about is how do you want to be in terms of like sharing. People should be free to say anything meaning that we're going to really respect",
+   "agree": 0.953
+  },
+  {
+   "i": 6,
+   "start": 70.89,
+   "end": 82.22,
+   "speaker": "Speaker 1",
+   "text": "People's ideas, we are going to respect people's experiences that they are sharing, with no judgment at all. Again, we are going to actively listen.",
+   "en": "People's ideas, we are going to respect people's experiences that they are sharing, with no judgment at all. Again, we are going to actively listen.",
+   "agree": 0.874
+  },
+  {
+   "i": 7,
+   "start": 82.77,
+   "end": 93.93,
+   "speaker": "Speaker 1",
+   "text": "to what people are saying so that we can respond with questions about it. And again, we're going to stop if there are any violations of these",
+   "en": "to what people are saying so that we can respond with questions about it. And again, we're going to stop if there are any violations of these",
+   "agree": 0.885
+  },
+  {
+   "i": 8,
+   "start": 95.13,
+   "end": 108.51,
+   "speaker": "Speaker 1",
+   "text": "Things that we are putting of ways of working together, we're going to stop and say, okay, no, I feel that we are not honoring this kind of a thing that we agreed on. And we're going to stop, lastly, we're going to stop",
+   "en": "Things that we are putting of ways of working together, we're going to stop and say, okay, no, I feel that we are not honoring this kind of a thing that we agreed on. And we're going to stop, lastly, we're going to stop",
+   "agree": 0.991
+  },
+  {
+   "i": 9,
+   "start": 109.65,
+   "end": 120.93,
+   "speaker": "Speaker 1",
+   "text": "and kind of reflect and see if our PLCs are working, right?",
+   "en": "and kind of reflect and see if our PLCs are working, right?",
+   "agree": 0.0
+  },
+  {
+   "i": 10,
+   "start": 121.65,
+   "end": 133.35,
+   "speaker": "Speaker 1",
+   "text": "You decide on that, right? Okay, I get that we share the same grade.",
+   "en": "You decide on that, right? Okay, I get that we share the same grade.",
+   "agree": 0.0
+  },
+  {
+   "i": 11,
+   "start": 134.07,
+   "end": 142.47,
+   "speaker": "Speaker 1",
+   "text": "Oh, what did you the same subject? Now we are done. We know how to work together. How do we actually do now a PLC?",
+   "en": "Oh, what did you the same subject? Now we are done. We know how to work together. How do we actually do now a PLC?",
+   "agree": 0.881
+  }
+ ],
+ "score": {
+  "value": 0.77,
+  "label": "engine agreement (proxy)",
+  "display": "77.0% engine agreement (proxy)",
+  "line": "Two engines (OpenAI gpt-4o-transcribe and Soniox v5) agree on 77.0% of characters across this 3-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+ },
+ "agreement": {
+  "value": 0.77,
+  "label": "engine agreement (proxy)",
+  "display": "77.0% engine agreement (proxy)",
+  "line": "Two engines (OpenAI gpt-4o-transcribe and Soniox v5) agree on 77.0% of characters across this 3-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No written transcript of this recording exists."
+ },
+ "sources": []
+}

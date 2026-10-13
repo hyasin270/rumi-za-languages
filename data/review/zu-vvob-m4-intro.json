@@ -1,0 +1,150 @@
+{
+ "id": "zu-vvob-m4-intro",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 5.0,
+   "end": 11.5,
+   "speaker": "Trainer",
+   "text": "Sanibonani. Le module imayelana nokuqonda imisindo kanye nolwazi lwemisindo.",
+   "en": "Hello everyone. This module is about phonological awareness and phonics.",
+   "agree": null
+  },
+  {
+   "i": 1,
+   "start": 12.3,
+   "end": 17.5,
+   "speaker": "Trainer",
+   "text": "Siyazi ukuthi izingane zifika ebangeni lika-grade R sezikwazi ukukhuluma.",
+   "en": "We know that children arrive in grade R already knowing how to speak.",
+   "agree": null
+  },
+  {
+   "i": 2,
+   "start": 17.8,
+   "end": 22.8,
+   "speaker": "Trainer",
+   "text": "Njengothisha, sikhuthaza ukuthi uxoxe nabo cishe ngayo yonke into.",
+   "en": "As a teacher, we encourage that you talk with them about almost everything.",
+   "agree": null
+  },
+  {
+   "i": 3,
+   "start": 23.5,
+   "end": 28.9,
+   "speaker": "Trainer",
+   "text": "Yingakho kubalulekile ukugxilisa ulwazi lwemisindo ukuze bawuzwe umsindo indlela obizwa ngayo.",
+   "en": "That is why it is important to instill phonics so that they hear the sound, the way it is pronounced.",
+   "agree": null
+  },
+  {
+   "i": 4,
+   "start": 28.9,
+   "end": 35.5,
+   "speaker": "Trainer",
+   "text": "ukuze bawuzwe umsindo, indlela obizwa ngayo, bakwazi nokuwehlukanisa ngokuwuzwa.",
+   "en": "so that they hear the sound, the way it is pronounced, and they are also able to distinguish it by hearing it.",
+   "agree": null
+  },
+  {
+   "i": 5,
+   "start": 36.3,
+   "end": 40.4,
+   "speaker": "Trainer",
+   "text": "Ingxenye yokuqala ye-module iphathelene nokuqonda imisindo.",
+   "en": "The first part of the module is about phonological awareness.",
+   "agree": null
+  },
+  {
+   "i": 6,
+   "start": 40.9,
+   "end": 44.6,
+   "speaker": "Trainer",
+   "text": "Ingxenye yesibili ye-module ikhuluma ngolwazi lwemisindo.",
+   "en": "The second part of the module talks about phonics.",
+   "agree": null
+  },
+  {
+   "i": 7,
+   "start": 45.4,
+   "end": 52.5,
+   "speaker": "Trainer",
+   "text": "Emuva kokuqeda le-module, uzokwazi ukuhlukanisa kanye nokuqonda imisindo ehlukahlukene.",
+   "en": "After finishing this module, you will be able to distinguish and understand different sounds.",
+   "agree": null
+  },
+  {
+   "i": 8,
+   "start": 53.2,
+   "end": 57.8,
+   "speaker": "Trainer",
+   "text": "Ukubaluleka kokuqonda imisindo nokwazi ukuqonda imisindo.",
+   "en": "The importance of phonological awareness and knowing how to understand sounds.",
+   "agree": null
+  },
+  {
+   "i": 9,
+   "start": 58.4,
+   "end": 59.0,
+   "speaker": "Trainer",
+   "text": "Ukwehlukanisa ongwaqa, onkamisa",
+   "en": "Distinguishing consonants, vowels",
+   "agree": null
+  },
+  {
+   "i": 10,
+   "start": 59.0,
+   "end": 62.1,
+   "speaker": "Trainer",
+   "text": "ukwehlukanisa ongwaqa, onkamisa, namagama.",
+   "en": "distinguishing consonants, vowels, and words.",
+   "agree": null
+  },
+  {
+   "i": 11,
+   "start": 62.8,
+   "end": 66.6,
+   "speaker": "Trainer",
+   "text": "Ukuhlukanisa, ukuhlanganisa kanye nokuhumusha imisindo.",
+   "en": "Segmenting, blending and translating sounds.",
+   "agree": null
+  },
+  {
+   "i": 12,
+   "start": 67.4,
+   "end": 70.6,
+   "speaker": "Trainer",
+   "text": "Ukufundisa nokuhola ulwazi lwemisindo.",
+   "en": "Teaching and guiding phonics.",
+   "agree": null
+  },
+  {
+   "i": 13,
+   "start": 71.3,
+   "end": 73.4,
+   "speaker": "Trainer",
+   "text": "Kulungile ke. Asiqale.",
+   "en": "Alright then. Let's start.",
+   "agree": null
+  }
+ ],
+ "score": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides."
+ },
+ "agreement": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides."
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

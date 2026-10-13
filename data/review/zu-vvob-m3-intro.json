@@ -1,0 +1,107 @@
+{
+ "id": "zu-vvob-m3-intro",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 2.8,
+   "end": 6.5,
+   "speaker": "Trainer",
+   "text": "Sanibonani. Kule module sizobheka ukufunda kokuqala.",
+   "en": "Hello. In this module we will look at emergent reading.",
+   "agree": 1.0
+  },
+  {
+   "i": 1,
+   "start": 7.6,
+   "end": 10.2,
+   "speaker": "Trainer",
+   "text": "Ukufunda kokuqala kuqale ebungeni R.",
+   "en": "Emergent reading starts in Grade R.",
+   "agree": 0.943
+  },
+  {
+   "i": 2,
+   "start": 10.9,
+   "end": 26.0,
+   "speaker": "Trainer",
+   "text": "Ngokujwayelekile, ukufundisa ukufunda ebungeni R kuye kube sengathi akwenziwa ngendlela ehlelekile, kanti ilapho okufanele kuqiniswe kakhulu umgogodlo wokufunda ukuze balungele ukufunda ebungeni lokuqala.",
+   "en": "Usually, teaching reading in Grade R seems as if it is not done in a structured way, whereas that is where the backbone of reading should be strengthened the most so that they are ready for reading in Grade 1.",
+   "agree": 0.98
+  },
+  {
+   "i": 3,
+   "start": 27.5,
+   "end": 29.0,
+   "speaker": "Trainer",
+   "text": "Emuva kokuqeda umsebenzi wale module",
+   "en": "After finishing the work of this module",
+   "agree": 1.0
+  },
+  {
+   "i": 4,
+   "start": 29.0,
+   "end": 32.3,
+   "speaker": "Trainer",
+   "text": "Emuva kokuqeda umsebenzi wale module uzokwazi ukuthi",
+   "en": "After finishing the work of this module you will know",
+   "agree": 0.981
+  },
+  {
+   "i": 5,
+   "start": 33.1,
+   "end": 37.4,
+   "speaker": "Trainer",
+   "text": "kuyini ukufunda kokuqala, kubaluleke ngani kanti futhi kufundiswa kanjani.",
+   "en": "what is emergent reading, why is it important and also how is it taught.",
+   "agree": 1.0
+  },
+  {
+   "i": 6,
+   "start": 38.0,
+   "end": 42.9,
+   "speaker": "Trainer",
+   "text": "Kuhlanganisa kanjani imisebenzi yansuku zonke lokufundisa ukufunda ebangeni R?",
+   "en": "How does it integrate daily activities with teaching reading in Grade R?",
+   "agree": 0.987
+  },
+  {
+   "i": 7,
+   "start": 43.7,
+   "end": 50.4,
+   "speaker": "Trainer",
+   "text": "Ihlelwa kanjani imisebenzi yokuthuthukisa ikhono lokufunda ngokudlala imidlalo nabafundi kanye nokusebenzisa umculo.",
+   "en": "How are activities planned to develop the skill of reading by playing games with learners and using music.",
+   "agree": 0.983
+  },
+  {
+   "i": 8,
+   "start": 51.1,
+   "end": 52.7,
+   "speaker": "Trainer",
+   "text": "Kulungile ke, asiqale.",
+   "en": "Alright then, let us start.",
+   "agree": 1.0
+  }
+ ],
+ "score": {
+  "value": 0.984,
+  "label": "engine agreement (proxy)",
+  "display": "98.4% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.4% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+ },
+ "agreement": {
+  "value": 0.984,
+  "label": "engine agreement (proxy)",
+  "display": "98.4% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.4% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

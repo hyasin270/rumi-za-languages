@@ -24,7 +24,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.77,
+    "label": "engine agreement (proxy)",
+    "display": "77.0% engine agreement (proxy)",
+    "line": "Two engines (OpenAI gpt-4o-transcribe and Soniox v5) agree on 77.0% of characters across this 3-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+   },
    "drive_file_id": "15LSCpnPW17-OH7SVpl_CVO2luwxkj3Po"
   },
   {
@@ -50,7 +55,7 @@
     "start": 0,
     "end": null
    },
-   "has_coaching": false,
+   "has_coaching": true,
    "score": {
     "value": 0.843,
     "label": "engine agreement (proxy)",
@@ -87,7 +92,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.808,
+    "label": "engine agreement (proxy)",
+    "display": "80.8% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 80.8% of characters across this 7-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+   },
    "drive_file_id": "1cI1EDtTU6s0SxbdZWUNwrjW9UeeNgBDY"
   },
   {
@@ -118,7 +128,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.83,
+    "label": "engine agreement (proxy)",
+    "display": "83.0% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 83.0% of characters across this 4-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+   },
    "drive_file_id": "1mEN2vjYRcGILXMg4sysyJ2qkcbVrjI1c"
   },
   {
@@ -181,7 +196,11 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": null,
+    "label": "engine agreement (proxy)",
+    "line": "A second engine was not run on this recording; a native ear decides."
+   },
    "drive_file_id": "1S2l6mMw0CecEHbCxqCEWxE8yjJArkr6K"
   },
   {
@@ -208,7 +227,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.911,
+    "label": "engine agreement (proxy)",
+    "display": "91.1% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 91.1% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+   },
    "drive_file_id": "10wXxEEqDlJVgjC8Re1QQH7YsEJrZtPRk"
   },
   {
@@ -235,7 +259,11 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": null,
+    "label": "engine agreement (proxy)",
+    "line": "A second engine was not run on this recording; a native ear decides."
+   },
    "drive_file_id": "1b6yQoNCdqhDQCHCfI8yR8EqJDuHR7whl"
   },
   {
@@ -262,7 +290,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.974,
+    "label": "engine agreement (proxy)",
+    "display": "97.4% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.4% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+   },
    "drive_file_id": "15wS1vySfHl8l7hGS044k6DWgiHD28Kbe"
   },
   {
@@ -289,7 +322,11 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": null,
+    "label": "engine agreement (proxy)",
+    "line": "A second engine was not run on this recording; a native ear decides."
+   },
    "drive_file_id": "125E8Ejdm6DWb3HdYkUrnCuJqWFntnSs6"
   },
   {
@@ -316,7 +353,12 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": 0.984,
+    "label": "engine agreement (proxy)",
+    "display": "98.4% engine agreement (proxy)",
+    "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 98.4% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+   },
    "drive_file_id": "1jhAnKbbjWZr4D32mTwk18aNX2fp0goc7"
   },
   {
@@ -347,7 +389,11 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": null,
+    "label": "engine agreement (proxy)",
+    "line": "A second engine was not run on this recording; a native ear decides."
+   },
    "drive_file_id": "1mGoi0Ri4Zw6BtLSyoz9Ywy3WHJ9Yswei"
   },
   {
@@ -401,7 +447,11 @@
     "end": null
    },
    "has_coaching": false,
-   "score": null,
+   "score": {
+    "value": null,
+    "label": "engine agreement (proxy)",
+    "line": "A second engine was not run on this recording; a native ear decides."
+   },
    "drive_file_id": "1ximKMvR_lG6_94qPSqot3tPRwlUQC5Pg"
   },
   {
@@ -544,7 +594,7 @@
     "start": 0,
     "end": null
    },
-   "has_coaching": false,
+   "has_coaching": true,
    "score": {
     "value": 0.836,
     "label": "engine agreement (proxy)",
@@ -579,7 +629,7 @@
     "start": 0,
     "end": null
    },
-   "has_coaching": false,
+   "has_coaching": true,
    "score": {
     "value": 0.849,
     "label": "engine agreement (proxy)",
@@ -614,7 +664,7 @@
     "start": 0,
     "end": null
    },
-   "has_coaching": false,
+   "has_coaching": true,
    "score": {
     "value": 0.742,
     "label": "engine agreement (proxy)",

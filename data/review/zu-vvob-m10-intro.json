@@ -1,0 +1,132 @@
+{
+ "id": "zu-vvob-m10-intro",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 0.8,
+   "end": 2.8,
+   "speaker": "Trainer",
+   "text": "Sanibonani futhi bothisha.",
+   "en": "Hello again teachers.",
+   "agree": null
+  },
+  {
+   "i": 1,
+   "start": 3.5,
+   "end": 6.5,
+   "speaker": "Trainer",
+   "text": "Asikhulume ngokufunda ngamaqembu aholwa nguthisha.",
+   "en": "Let us talk about reading in groups led by the teacher.",
+   "agree": null
+  },
+  {
+   "i": 2,
+   "start": 7.5,
+   "end": 16.5,
+   "speaker": "Trainer",
+   "text": "Ukufundisa abafundi ngokwamazinga abo okufunda kuyindlela ebalulekile eyenza ukwazi ukubona ukuthi abafundi bayathuthuka yini ekufundeni.",
+   "en": "Teaching learners according to their reading levels is an important way that makes you able to see if the learners are progressing in reading.",
+   "agree": null
+  },
+  {
+   "i": 3,
+   "start": 17.2,
+   "end": 27.8,
+   "speaker": "Trainer",
+   "text": "Kubalulekile ukuthi ukwazi ukukhetha izincwadi ezisesezingeni labo ukuze bangazitholi sebebhekene nenkinga yokufunda izincwadi ezilukhuni kakhulu.",
+   "en": "It is important that you are able to choose books that are at their level so that they do not find themselves facing the problem of reading books that are too difficult.",
+   "agree": null
+  },
+  {
+   "i": 4,
+   "start": 28.7,
+   "end": 31.5,
+   "speaker": "Trainer",
+   "text": "bebhekene nenkinga yokufunda izincwadi ezilula kakhulu.",
+   "en": "facing the problem of reading books that are too easy.",
+   "agree": null
+  },
+  {
+   "i": 5,
+   "start": 32.5,
+   "end": 39.3,
+   "speaker": "Trainer",
+   "text": "Emuva kokuqeda umsebenzi wale-module, uzokwazi ukuqonda ukufunda ngamaqembu aholwa nguthisha,",
+   "en": "After finishing the work of this module, you will be able to understand reading in groups led by the teacher,",
+   "agree": null
+  },
+  {
+   "i": 6,
+   "start": 39.7,
+   "end": 45.0,
+   "speaker": "Trainer",
+   "text": "ukubalula izindlela zokwakha amaqembu ngokwamazinga okufunda kwabafundi,",
+   "en": "to list the ways of forming groups according to the reading levels of the learners,",
+   "agree": null
+  },
+  {
+   "i": 7,
+   "start": 45.5,
+   "end": 50.0,
+   "speaker": "Trainer",
+   "text": "ukuqonda izigaba ezisetshenziswayo ukwenza isifundo sokufunda ngamaqembu,",
+   "en": "to understand the stages used to do a lesson of reading in groups,",
+   "agree": null
+  },
+  {
+   "i": 8,
+   "start": 50.5,
+   "end": 55.3,
+   "speaker": "Trainer",
+   "text": "ukwakha imisebenzi efanelekile yesifundo sokufunda ngamaqembu,",
+   "en": "to create appropriate activities for a lesson of reading in groups,",
+   "agree": null
+  },
+  {
+   "i": 9,
+   "start": 55.8,
+   "end": 59.0,
+   "speaker": "Trainer",
+   "text": "nokubalula izindlela ezingasetshenziswa ukuhlola isifundo sokufunda ngamaqembu.",
+   "en": "and to list the ways that can be used to assess a lesson of reading in groups.",
+   "agree": null
+  },
+  {
+   "i": 10,
+   "start": 59.0,
+   "end": 62.0,
+   "speaker": "Trainer",
+   "text": "ukuhlola isifundo sokufunda ngamaqembu.",
+   "en": "to assess a lesson of reading in groups.",
+   "agree": null
+  },
+  {
+   "i": 11,
+   "start": 63.5,
+   "end": 64.3,
+   "speaker": "Trainer",
+   "text": "Asiqale.",
+   "en": "Let us begin.",
+   "agree": null
+  }
+ ],
+ "score": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides."
+ },
+ "agreement": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides."
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

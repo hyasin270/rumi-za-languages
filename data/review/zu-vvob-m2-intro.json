@@ -1,0 +1,114 @@
+{
+ "id": "zu-vvob-m2-intro",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 3.0,
+   "end": 3.9,
+   "speaker": "Trainer",
+   "text": "Sanibonani futhi.",
+   "en": "Hello again.",
+   "agree": null
+  },
+  {
+   "i": 1,
+   "start": 4.6,
+   "end": 12.0,
+   "speaker": "Trainer",
+   "text": "Sisaqhubeka nokufunda. Njengamanje sesingena kwi-module yesibili emayelana nenqubekela phambili yokufunda ngokwamabanga ahlukene.",
+   "en": "We are still continuing with learning. Right now we are entering the second module about the progression of reading according to different grades.",
+   "agree": null
+  },
+  {
+   "i": 2,
+   "start": 12.8,
+   "end": 21.0,
+   "speaker": "Trainer",
+   "text": "Le module ibalulekile ngoba inika umhlahlandlela ngenqubo yokuthuthuka kancane kancane ekufundeni kuze kufinyelele esimweni esingcono.",
+   "en": "This module is important because it gives a guide about the process of progressing little by little in reading until reaching a better state.",
+   "agree": null
+  },
+  {
+   "i": 3,
+   "start": 22.2,
+   "end": 26.4,
+   "speaker": "Trainer",
+   "text": "Emva kokuqeda umsebenzi wale module, uzokwazi ukuqonda",
+   "en": "After finishing the work of this module, you will be able to understand",
+   "agree": null
+  },
+  {
+   "i": 4,
+   "start": 29.49,
+   "end": 37.09,
+   "speaker": "Trainer",
+   "text": "umsebenzi wale module uzokwazi ukuqonda inqubekela phambili yengqikithi kanye nokuqukethwe kwebanga ngalinye kusukela kokulula kuya kokunzima.",
+   "en": "the work of this module you will be able to understand the progression of the theme and the content of each grade from the easy to the difficult.",
+   "agree": null
+  },
+  {
+   "i": 5,
+   "start": 38.09,
+   "end": 42.79,
+   "speaker": "Trainer",
+   "text": "Kule module uzofunda futhi ngezigaba eziyisithupha zokuthuthukisa ukufunda.",
+   "en": "In this module you will also learn about the six stages of developing reading.",
+   "agree": null
+  },
+  {
+   "i": 6,
+   "start": 44.49,
+   "end": 52.09,
+   "speaker": "Trainer",
+   "text": "Ngithanda ukusebenzisa ulwazi lwami lwenqubekela phambili yokufunda nezigaba eziyisithupha ukubona izimpawu ngasinye ukuze ngifundise kangcono abafundi bami.",
+   "en": "I would like to use my knowledge of reading progression and the six stages to see the signs of each so that I can teach my learners better.",
+   "agree": null
+  },
+  {
+   "i": 7,
+   "start": 53.79,
+   "end": 57.59,
+   "speaker": "Trainer",
+   "text": "Engingithanda sikuqaphele kakhulu ukubona amakhono okufunda",
+   "en": "What I would like us to pay close attention to is to see reading skills",
+   "agree": null
+  },
+  {
+   "i": 8,
+   "start": 59.91,
+   "end": 65.11,
+   "speaker": "Trainer",
+   "text": "kufanele sikuqaphele kakhulu ukubona amakhono okufunda kuqala namakhono ebangeni lokuqala kuya kwelesithathu.",
+   "en": "we must pay close attention to see reading skills first and skills in grade one to three.",
+   "agree": null
+  },
+  {
+   "i": 9,
+   "start": 66.41,
+   "end": 72.11,
+   "speaker": "Trainer",
+   "text": "Sesingaqala manje sifunde kabanzi ngenqubekela phambili yokufunda ngokwamabanga ahlukene.",
+   "en": "We can start now and learn more about the progression of reading according to different grades.",
+   "agree": null
+  }
+ ],
+ "score": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides."
+ },
+ "agreement": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides."
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

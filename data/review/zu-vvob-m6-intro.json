@@ -1,0 +1,105 @@
+{
+ "id": "zu-vvob-m6-intro",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 4.0,
+   "end": 4.8,
+   "speaker": "Trainer",
+   "text": "Sanibonani.",
+   "en": "Hello.",
+   "agree": null
+  },
+  {
+   "i": 1,
+   "start": 5.3,
+   "end": 8.0,
+   "speaker": "Trainer",
+   "text": "Kule module sizokhuluma ngokufunda ngokugeleza.",
+   "en": "In this module we will talk about reading with fluency.",
+   "agree": null
+  },
+  {
+   "i": 2,
+   "start": 8.6,
+   "end": 14.0,
+   "speaker": "Trainer",
+   "text": "Bonke o-teacher bafisa ukubona abafundi babo befinyelela ezigabeni zokufunda ngokugeleza bangalokhu bebala amagama.",
+   "en": "All teachers wish to see their learners reaching the stages of reading with fluency without keeping on spelling words.",
+   "agree": null
+  },
+  {
+   "i": 3,
+   "start": 14.6,
+   "end": 24.5,
+   "speaker": "Trainer",
+   "text": "Ngakho ke kubalulekile ukuthi sisebenzise izilinganiso uma befunda ukuze befunde ngokuyikho, ngokushesha, besebenzisa iphimbo ngendlela efanele.",
+   "en": "Therefore it is important that we use measures when they read so that they read correctly, quickly, using the voice in the correct way.",
+   "agree": null
+  },
+  {
+   "i": 4,
+   "start": 24.8,
+   "end": 25.1,
+   "speaker": "Trainer",
+   "text": "Kule",
+   "en": "In this",
+   "agree": null
+  },
+  {
+   "i": 5,
+   "start": 31.3,
+   "end": 40.0,
+   "speaker": "Trainer",
+   "text": "Emuva kokuqeda umsebenzi wale-module, uzokwazi ukukhombisa ulwazi lokuthi kuyini ukufunda ngokugeleza nokuthi ungakufundisa kanjani eklasini.",
+   "en": "After finishing the work of this module, you will be able to show knowledge of what reading with fluency is and how you can teach it in the classroom.",
+   "agree": null
+  },
+  {
+   "i": 6,
+   "start": 40.7,
+   "end": 45.3,
+   "speaker": "Trainer",
+   "text": "Ukukhombisa umbhalo ofanele ozokwenza abafundi bathuthuke ekufundeni ngokugeleza,",
+   "en": "To show the appropriate text that will make learners progress in reading with fluency,",
+   "agree": null
+  },
+  {
+   "i": 7,
+   "start": 45.7,
+   "end": 53.0,
+   "speaker": "Trainer",
+   "text": "nokwenza imisebenzi yokuhlola eyahlukene ezokwazi ukuveza amazinga ahlukene okufunda ngokugeleza abafundi abakuwo.",
+   "en": "and to do different assessment activities that will be able to show the different levels of reading with fluency that the learners are at.",
+   "agree": null
+  },
+  {
+   "i": 8,
+   "start": 56.3,
+   "end": 57.3,
+   "speaker": "Trainer",
+   "text": "Asiqale.",
+   "en": "Let us start.",
+   "agree": null
+  }
+ ],
+ "score": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides."
+ },
+ "agreement": {
+  "value": null,
+  "label": "engine agreement (proxy)",
+  "line": "A second engine was not run on this recording; a native ear decides."
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

@@ -1,0 +1,584 @@
+{
+ "id": "xh-fw-what-is-orf",
+ "lang": "xh",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 13.8,
+   "end": 28.2,
+   "speaker": "Learner",
+   "text": "Ujakalashe olambileyo. Kudala-dala kwakukho usapho olwaluhlala efama. Kwakukho nojakalashe owayelambe kakhulu, engenakutya.",
+   "en": "The hungry jackal. Long, long ago there was a family that lived on a farm. There was also a jackal who was very hungry, having no food.",
+   "agree": 0.975
+  },
+  {
+   "i": 1,
+   "start": 29.0,
+   "end": 41.5,
+   "speaker": "Learner",
+   "text": "wayelambe kakhulu, engenakutya. Wahamba-hamba ekhangela ukutya. Wabona abantwana abazidlalelayo. Wabaleqa abo bantwana.",
+   "en": "he was very hungry, having no food. He walked around looking for food. He saw children playing by themselves. He chased those children.",
+   "agree": 0.868
+  },
+  {
+   "i": 2,
+   "start": 42.2,
+   "end": 51.2,
+   "speaker": "Learner",
+   "text": "Bayongena emakhayeni abo, baxelela oomama babo abo bantwana. Babekoyika uDakalashi.",
+   "en": "They went into their homes, those children told their mothers. They were afraid of Jackal.",
+   "agree": 0.938
+  },
+  {
+   "i": 3,
+   "start": 51.5,
+   "end": 61.2,
+   "speaker": "Learner",
+   "text": "Ngentsasa elandelayo bavuka baya edolophini. Xa bephuma babona uDakalashi ehleli phantsi komthi omkhulu.",
+   "en": "The following morning they woke up and went to town. When they went out they saw Jackal sitting under a big tree.",
+   "agree": 0.971
+  },
+  {
+   "i": 4,
+   "start": 68.08,
+   "end": 69.88,
+   "speaker": "Learner",
+   "text": "Esi sisigcawu.",
+   "en": "This is a spider.",
+   "agree": 0.308
+  },
+  {
+   "i": 5,
+   "start": 70.58,
+   "end": 73.88,
+   "speaker": "Learner",
+   "text": "Isigcawu asisisinambuzane.",
+   "en": "A spider is not an insect.",
+   "agree": 0.6
+  },
+  {
+   "i": 6,
+   "start": 73.98,
+   "end": 74.38,
+   "speaker": "Teacher",
+   "text": "Asi?",
+   "en": "It is not?",
+   "agree": 1.0
+  },
+  {
+   "i": 7,
+   "start": 74.68,
+   "end": 78.08,
+   "speaker": "Learner",
+   "text": "Asisisi- asiso isinambuzane.",
+   "en": "It is not a- it is not an insect.",
+   "agree": 0.5
+  },
+  {
+   "i": 8,
+   "start": 78.18,
+   "end": 78.88,
+   "speaker": "Teacher",
+   "text": "Khaw'phinde, asi?",
+   "en": "Please repeat, it is not?",
+   "agree": 0.2
+  },
+  {
+   "i": 9,
+   "start": 79.28,
+   "end": 82.08,
+   "speaker": "Learner",
+   "text": "Asiso asiso isinambuzane.",
+   "en": "It is not it is not an insect.",
+   "agree": 0.375
+  },
+  {
+   "i": 10,
+   "start": 82.48,
+   "end": 83.88,
+   "speaker": "Teacher",
+   "text": "Asiso si.",
+   "en": "It is not a.",
+   "agree": 0.0
+  },
+  {
+   "i": 11,
+   "start": 84.38,
+   "end": 86.58,
+   "speaker": "Learner",
+   "text": "Asiso sinambuzane.",
+   "en": "It is not an insect.",
+   "agree": 0.0
+  },
+  {
+   "i": 12,
+   "start": 86.68,
+   "end": 87.58,
+   "speaker": "Teacher",
+   "text": "Yitsho kakuhle ke.",
+   "en": "Say it well then.",
+   "agree": 0.529
+  },
+  {
+   "i": 13,
+   "start": 87.88,
+   "end": 89.58,
+   "speaker": "Learner",
+   "text": "Asiso sinambu-",
+   "en": "It is not an in-",
+   "agree": 0.0
+  },
+  {
+   "i": 14,
+   "start": 93.59,
+   "end": 95.09,
+   "speaker": "Learner",
+   "text": "Asisosinambuzane.",
+   "en": "It is not an insect.",
+   "agree": 0.0
+  },
+  {
+   "i": 15,
+   "start": 95.29,
+   "end": 95.79,
+   "speaker": "Teacher",
+   "text": "Good girl.",
+   "en": "Good girl.",
+   "agree": 1.0
+  },
+  {
+   "i": 16,
+   "start": 96.19,
+   "end": 100.09,
+   "speaker": "Learner",
+   "text": "Isigcawu sinemilenze esibhozo.",
+   "en": "A spider has eight legs.",
+   "agree": 0.966
+  },
+  {
+   "i": 17,
+   "start": 100.39,
+   "end": 102.49,
+   "speaker": "Teacher",
+   "text": "Khaw'phinde ufunde sasibhalwe khona.",
+   "en": "Please read again where it was written.",
+   "agree": 0.6
+  },
+  {
+   "i": 18,
+   "start": 102.99,
+   "end": 103.39,
+   "speaker": "Teacher",
+   "text": "Isigcawu.",
+   "en": "A spider.",
+   "agree": 0.875
+  },
+  {
+   "i": 19,
+   "start": 103.79,
+   "end": 107.09,
+   "speaker": "Learner",
+   "text": "Isigcawu sinemilenze esibhozo.",
+   "en": "A spider has eight legs.",
+   "agree": 0.966
+  },
+  {
+   "i": 20,
+   "start": 107.49,
+   "end": 107.99,
+   "speaker": "Teacher",
+   "text": "Okay.",
+   "en": "Okay.",
+   "agree": 1.0
+  },
+  {
+   "i": 21,
+   "start": 108.39,
+   "end": 116.09,
+   "speaker": "Teacher",
+   "text": "Isigcawu asinamaphiko. Isigcawu sitya izinambuzane.",
+   "en": "A spider does not have wings. A spider eats insects.",
+   "agree": 0.959
+  },
+  {
+   "i": 22,
+   "start": 116.39,
+   "end": 121.49,
+   "speaker": "Teacher",
+   "text": "Makhe siqale msinyane ke. Zeziphi ezi nambuzane esidibene nazo? Siqale sadibana nantoni?",
+   "en": "Let us start quickly then. Which are these insects we have met? First we met what?",
+   "agree": 0.929
+  },
+  {
+   "i": 23,
+   "start": 121.89,
+   "end": 122.49,
+   "speaker": "Learners",
+   "text": "Ngubululu.",
+   "en": "It is a caterpillar.",
+   "agree": 0.0
+  },
+  {
+   "i": 24,
+   "start": 122.59,
+   "end": 122.89,
+   "speaker": "Teacher",
+   "text": "Etheni?",
+   "en": "Which does what?",
+   "agree": 0.333
+  },
+  {
+   "i": 25,
+   "start": 123.39,
+   "end": 124.69,
+   "speaker": "Learners",
+   "text": "Enamabala amhlophe.",
+   "en": "With white spots.",
+   "agree": 0.778
+  },
+  {
+   "i": 26,
+   "start": 124.66,
+   "end": 126.06,
+   "speaker": "Learners",
+   "text": "Enamahlahla amakhulu.",
+   "en": "With big branches.",
+   "agree": 0.0
+  },
+  {
+   "i": 27,
+   "start": 126.36,
+   "end": 127.46,
+   "speaker": "Teacher",
+   "text": "Sadibana nantoni?",
+   "en": "We met what?",
+   "agree": 1.0
+  },
+  {
+   "i": 28,
+   "start": 127.76,
+   "end": 128.46,
+   "speaker": "Learners",
+   "text": "Nenyosi.",
+   "en": "With a bee.",
+   "agree": 1.0
+  },
+  {
+   "i": 29,
+   "start": 128.66,
+   "end": 129.16,
+   "speaker": "Teacher",
+   "text": "Etheni?",
+   "en": "Which does what?",
+   "agree": 1.0
+  },
+  {
+   "i": 30,
+   "start": 129.46,
+   "end": 130.66,
+   "speaker": "Learners",
+   "text": "Eyenza ubusi.",
+   "en": "Which makes honey.",
+   "agree": 0.917
+  },
+  {
+   "i": 31,
+   "start": 130.76,
+   "end": 131.66,
+   "speaker": "Teacher",
+   "text": "Eyenza ubusi.",
+   "en": "Which makes honey.",
+   "agree": 0.917
+  },
+  {
+   "i": 32,
+   "start": 131.76,
+   "end": 132.76,
+   "speaker": "Teacher",
+   "text": "Sadibana nantoni?",
+   "en": "We met what?",
+   "agree": 1.0
+  },
+  {
+   "i": 33,
+   "start": 132.96,
+   "end": 133.76,
+   "speaker": "Learners",
+   "text": "Nohlab'amanzi.",
+   "en": "With a water strider.",
+   "agree": 0.0
+  },
+  {
+   "i": 34,
+   "start": 133.76,
+   "end": 134.46,
+   "speaker": "Teacher",
+   "text": "Otheni?",
+   "en": "Which does what?",
+   "agree": 1.0
+  },
+  {
+   "i": 35,
+   "start": 134.76,
+   "end": 136.16,
+   "speaker": "Learners",
+   "text": "Ohlala ecaleni kwamanzi.",
+   "en": "Which lives next to the water.",
+   "agree": 0.913
+  },
+  {
+   "i": 36,
+   "start": 136.16,
+   "end": 137.26,
+   "speaker": "Teacher",
+   "text": "Ohlala ecaleni kwamanzi.",
+   "en": "Which lives next to the water.",
+   "agree": 0.913
+  },
+  {
+   "i": 37,
+   "start": 137.26,
+   "end": 138.26,
+   "speaker": "Teacher",
+   "text": "Sadibana nantoni?",
+   "en": "We met what?",
+   "agree": 1.0
+  },
+  {
+   "i": 38,
+   "start": 138.46,
+   "end": 139.66,
+   "speaker": "Learners",
+   "text": "Noqonqothwane.",
+   "en": "With a ladybird.",
+   "agree": 0.923
+  },
+  {
+   "i": 39,
+   "start": 139.66,
+   "end": 140.16,
+   "speaker": "Teacher",
+   "text": "Otheni?",
+   "en": "Which does what?",
+   "agree": 1.0
+  },
+  {
+   "i": 40,
+   "start": 140.46,
+   "end": 143.46,
+   "speaker": "Learner",
+   "text": "Onombala obomvu nemibala emibomvu namnyama.",
+   "en": "Which has a red colour and red and black colours.",
+   "agree": 0.667
+  },
+  {
+   "i": 41,
+   "start": 143.46,
+   "end": 147.16,
+   "speaker": "Teacher",
+   "text": "Onombala obomvu namachokoza amnyama.",
+   "en": "Which has a red colour and black spots.",
+   "agree": 1.0
+  },
+  {
+   "i": 42,
+   "start": 147.16,
+   "end": 148.16,
+   "speaker": "Teacher",
+   "text": "Sadibana nantoni?",
+   "en": "We met what?",
+   "agree": 1.0
+  },
+  {
+   "i": 43,
+   "start": 148.46,
+   "end": 149.26,
+   "speaker": "Learners",
+   "text": "Yibhabhathane.",
+   "en": "It is a butterfly.",
+   "agree": 0.846
+  },
+  {
+   "i": 44,
+   "start": 149.36,
+   "end": 151.56,
+   "speaker": "Teacher",
+   "text": "Yitheni ibhabhathane ye-legend?",
+   "en": "What does the butterfly of the legend do?",
+   "agree": 0.8
+  },
+  {
+   "i": 45,
+   "start": 151.74,
+   "end": 152.94,
+   "speaker": "Learner",
+   "text": "Ndiqokelele incindi.",
+   "en": "I collect nectar.",
+   "agree": 0.842
+  },
+  {
+   "i": 46,
+   "start": 153.04,
+   "end": 156.54,
+   "speaker": "Teacher",
+   "text": "Ndiqokelele incindi. Good boy. Sadibana nantoni?",
+   "en": "I collect nectar. Good boy. We met what?",
+   "agree": 0.956
+  },
+  {
+   "i": 47,
+   "start": 156.64,
+   "end": 158.74,
+   "speaker": "Learners",
+   "text": "Neqritsi.",
+   "en": "With a cricket.",
+   "agree": 0.875
+  },
+  {
+   "i": 48,
+   "start": 158.74,
+   "end": 163.64,
+   "speaker": "Teacher",
+   "text": "Iqritsi. Kuthiwa yintoni kaloku mgama lale sixhosa? Yinyendane. Yenza ntoni yona?",
+   "en": "A cricket. What is it called again in this Xhosa language? It is a cricket. What does it do?",
+   "agree": 0.896
+  },
+  {
+   "i": 49,
+   "start": 164.04,
+   "end": 166.94,
+   "speaker": "Learners",
+   "text": "Yenza ingxolo ngamaphiko.",
+   "en": "It makes noise with wings.",
+   "agree": 0.958
+  },
+  {
+   "i": 50,
+   "start": 167.04,
+   "end": 168.94,
+   "speaker": "Teacher",
+   "text": "Okay. Sadibana nantoni?",
+   "en": "Okay. We met what?",
+   "agree": 1.0
+  },
+  {
+   "i": 51,
+   "start": 169.04,
+   "end": 170.74,
+   "speaker": "Learners",
+   "text": "Nentsusu.",
+   "en": "With a cicada.",
+   "agree": 0.0
+  },
+  {
+   "i": 52,
+   "start": 170.74,
+   "end": 173.54,
+   "speaker": "Teacher",
+   "text": "Intsusu, isikhwazi. Thetha kakuhle. Sadibana nantoni?",
+   "en": "A cicada, a cicada. Speak well. We met what?",
+   "agree": 0.837
+  },
+  {
+   "i": 53,
+   "start": 173.64,
+   "end": 174.84,
+   "speaker": "Learners",
+   "text": "Nembovane.",
+   "en": "With an ant.",
+   "agree": 1.0
+  },
+  {
+   "i": 54,
+   "start": 174.84,
+   "end": 179.14,
+   "speaker": "Teacher",
+   "text": "Nembovane. Imbovane yona kuthiwa itheni? Iyathanda ukusebenza. Ikhuthele. Good. Iyathanda ukusebenza.",
+   "en": "With an ant. The ant, what is said about it? It likes to work. It is active. Good. It likes to work.",
+   "agree": 0.821
+  },
+  {
+   "i": 55,
+   "start": 179.24,
+   "end": 181.04,
+   "speaker": "Teacher",
+   "text": "Sadibana nantoni ke ngokokugqibela?",
+   "en": "We met what then lastly?",
+   "agree": 0.706
+  },
+  {
+   "i": 56,
+   "start": 181.14,
+   "end": 181.64,
+   "speaker": "Learners",
+   "text": "Isigcawu.",
+   "en": "A spider.",
+   "agree": 1.0
+  },
+  {
+   "i": 57,
+   "start": 181.64,
+   "end": 184.19,
+   "speaker": "Teacher",
+   "text": "Kuthiwa isigcawu sona sithini? Asosinambuzane. Senzantoni isigcawu? Sitya intoni?",
+   "en": "What is said about the spider itself? It is not an insect. What does a spider do? What does it eat?",
+   "agree": 0.61
+  },
+  {
+   "i": 58,
+   "start": 184.19,
+   "end": 188.09,
+   "speaker": "Teacher",
+   "text": "Sitya iintoni? Izinambuzane. Nifunde kakuhle kakhulu okumeke abantwana bam.",
+   "en": "What does it eat? Insects. You read very well indeed, my children.",
+   "agree": 0.764
+  },
+  {
+   "i": 59,
+   "start": 188.49,
+   "end": 191.09,
+   "speaker": "Teacher",
+   "text": "Buyelani ezidesikeni ke, sikhuphe la mbongo.",
+   "en": "Go back to the desks then, so we can take out that poem.",
+   "agree": 0.929
+  },
+  {
+   "i": 60,
+   "start": 191.49,
+   "end": 192.59,
+   "speaker": "Teacher",
+   "text": "[learner], ndicela iincwadi zam.",
+   "en": "[learner], I ask for my books.",
+   "agree": 0.962
+  },
+  {
+   "i": 61,
+   "start": 193.39,
+   "end": 193.79,
+   "speaker": "Teacher",
+   "text": "[learner].",
+   "en": "[learner].",
+   "agree": 0.8
+  }
+ ],
+ "score": {
+  "value": 0.83,
+  "label": "engine agreement (proxy)",
+  "display": "83.0% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 83.0% of characters across this 4-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+ },
+ "agreement": {
+  "value": 0.83,
+  "label": "engine agreement (proxy)",
+  "display": "83.0% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.5 Flash) agree on 83.0% of characters across this 4-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}

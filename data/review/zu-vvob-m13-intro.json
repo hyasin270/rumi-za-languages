@@ -1,0 +1,152 @@
+{
+ "id": "zu-vvob-m13-intro",
+ "lang": "zu",
+ "engine": "Gemini 2.5 Pro",
+ "version": 1,
+ "turns_version": 1,
+ "turns": [
+  {
+   "i": 0,
+   "start": 4.5,
+   "end": 10.0,
+   "speaker": "Trainer",
+   "text": "Sanibonani, namukelekile kwi-module egqugquzela usiko lokufunda emabangeni aphansi.",
+   "en": "Hello, you are welcome to the module that promotes a culture of reading in the foundation phase.",
+   "agree": 1.0
+  },
+  {
+   "i": 1,
+   "start": 10.9,
+   "end": 17.0,
+   "speaker": "Trainer",
+   "text": "Ubuwazi nje ukuthi izingane ezifunda njalo zenza kangcono esikoleni kunalezi ezingafundi nhlobo?",
+   "en": "Did you just know that children who read regularly do better in school than those who do not read at all?",
+   "agree": 0.947
+  },
+  {
+   "i": 2,
+   "start": 17.5,
+   "end": 23.5,
+   "speaker": "Trainer",
+   "text": "Kukhona ukuxhumana phakathi kokufundela ukuzijabulisa nalokho kufunda okuhleliwe okwenziwa uthisha.",
+   "en": "There is a connection between reading for pleasure and that structured reading done by the teacher.",
+   "agree": 1.0
+  },
+  {
+   "i": 3,
+   "start": 24.5,
+   "end": 26.8,
+   "speaker": "Trainer",
+   "text": "Ngakho-ke, sibakhuthaza kanjani?",
+   "en": "Therefore, how do we encourage them?",
+   "agree": 0.967
+  },
+  {
+   "i": 4,
+   "start": 28.29,
+   "end": 32.99,
+   "speaker": "Trainer",
+   "text": "Ngakho-ke, sibakhuthaza kanjani abafundi bethu ukuba bakujabulele ukufunda?",
+   "en": "Therefore, how do we encourage our learners to enjoy reading?",
+   "agree": 0.986
+  },
+  {
+   "i": 5,
+   "start": 34.49,
+   "end": 42.49,
+   "speaker": "Trainer",
+   "text": "Kule module, siqala ngokubheka izimo zengqondo nezinkolelo kanye nokuziphatha ngokufunda, bese sibheka izindlela zokugqugquzela isiko lokufunda esikoleni.",
+   "en": "In this module, we start by looking at attitudes and beliefs as well as behavior regarding reading, and then we look at ways to promote a culture of reading in school.",
+   "agree": 0.993
+  },
+  {
+   "i": 6,
+   "start": 43.69,
+   "end": 51.99,
+   "speaker": "Trainer",
+   "text": "Emva kokuqeda umsebenzi wale module, uzokwazi, one, ukuthi luyini usiko lokufunda nokuthi lubaluleke ngani.",
+   "en": "After completing the work of this module, you will know, one, what a culture of reading is and why it is important.",
+   "agree": 1.0
+  },
+  {
+   "i": 7,
+   "start": 52.69,
+   "end": 60.03,
+   "speaker": "Trainer",
+   "text": "Two, ukukhomba ukuqonda kokuthi yiliphi iqhaza uthisha okumele alibambe ekugqugquzeleni usiko",
+   "en": "Two, to identify the understanding of what role the teacher must play in promoting a culture",
+   "agree": 0.935
+  },
+  {
+   "i": 8,
+   "start": 60.03,
+   "end": 64.53,
+   "speaker": "Trainer",
+   "text": "isha okumele alibambe ekugqugquzeleni usiko lokufunda esikoleni.",
+   "en": "...teacher must play in promoting a culture of reading in school.",
+   "agree": 0.952
+  },
+  {
+   "i": 9,
+   "start": 65.53,
+   "end": 70.23,
+   "speaker": "Trainer",
+   "text": "Three, ukuchaza ukuthi angalwenza kanjani usiko lokufunda esikoleni.",
+   "en": "Three, to explain how they can make a culture of reading in school.",
+   "agree": 1.0
+  },
+  {
+   "i": 10,
+   "start": 71.23,
+   "end": 78.53,
+   "speaker": "Trainer",
+   "text": "Four, ukubona izinsiza ezifanele ongazisebenzisa ukuqala umtapo wolwazi waseklasini, phecelezi, ikhona lokufunda.",
+   "en": "Four, to identify appropriate resources you can use to start a classroom library, in other words, a reading corner.",
+   "agree": 0.945
+  },
+  {
+   "i": 11,
+   "start": 79.53,
+   "end": 89.23,
+   "speaker": "Trainer",
+   "text": "Five, ukuthola ukuthi obani ababalulekile ongasisebenzisana nabo ukugqugqumezela usiko lokufunda esikoleni.",
+   "en": "Five, to find out who are the important people you can work with to promote a culture of reading in school.",
+   "agree": 0.933
+  },
+  {
+   "i": 12,
+   "start": 90.13,
+   "end": 90.93,
+   "speaker": "Trainer",
+   "text": "Module",
+   "en": "Module",
+   "agree": 1.0
+  },
+  {
+   "i": 13,
+   "start": 91.89,
+   "end": 101.39,
+   "speaker": "Trainer",
+   "text": "Le module izokusiza kakhulu ekubambisaneni ne-SMT ukuze isikole sonke sikwazi ukuhlanganyela ekugqugquzeleni usiko lokufunda.",
+   "en": "This module will help you a lot in collaborating with the SMT so that the whole school can participate in promoting a culture of reading.",
+   "agree": 0.992
+  }
+ ],
+ "score": {
+  "value": 0.974,
+  "label": "engine agreement (proxy)",
+  "display": "97.4% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.4% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+ },
+ "agreement": {
+  "value": 0.974,
+  "label": "engine agreement (proxy)",
+  "display": "97.4% engine agreement (proxy)",
+  "line": "Two engines (Gemini 2.5 Pro and Gemini 3.1 Pro) agree on 97.4% of characters across this 2-minute recording. No human transcript exists yet, so this is a proxy, not an accuracy score."
+ },
+ "reference": {
+  "kind": "none",
+  "line": "No same-language written transcript exists for this recording; on-screen text, where present, is a translation or a heading, not a reference."
+ },
+ "sources": []
+}
