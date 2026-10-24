@@ -29,23 +29,23 @@
  "reviewer_pdf": "assets/pdf/zu_lp_reviewer_en.pdf",
  "voice_note": {
   "mp3": "assets/audio/zu_lp_voicenote.mp3",
-  "script": "Sawubona mngane wami. Namuhla abafundi bafunda ungwaqa wabo wokuqala, umsindo m. Lokhu kubalulekile kakhulu, ngoba manje sebengaqala ukufunda amalunga namagama abo okuqala. Into eyodwa okumele uyenze kahle yile: vumela abafundi bahlanganise imisindo bona ngokwabo. Ungahlanganisi esikhundleni sabo. Yisho m, yisho a, bese uyalinda, bona bathi ma. Uma uhlanganisa wena, bazophinda nje emva kwakho, bangafundi. Amalunga anamuhla ngu ma, me, mi, mo, mu. Amagama okuqala ngu umama, uma, nelithi mema. Emlolozelweni, khomba igama ngalinye ngomnwe, futhi ucele abafundi benze izenzo. Ngesikhathi sokukhuluma, cela abafundi baphendule ngomusho ophelele, njengokuthi igama lami ngu Nomsa. Ube nosuku oluhle.",
+  "script": "Sawubona mngane wami. Namuhla abafundi bafunda ungwaqa wabo wokuqala, umsindo m. Lokhu kubalulekile kakhulu, ngoba manje sebengaqala ukufunda amalunga namagama abo okuqala. Into eyodwa okufanele uyenze kahle yilena: vumela abafundi bahlanganise imisindo ngokwabo. Ungahlanganisi esikhundleni sabo. Yisho m, yisho a, bese uyalinda, bona bathi ma. Uma uhlanganisa wena, bazophinda nje emva kwakho, bangafundi. Amalunga anamuhla ngu ma, me, mi, mo, mu. Amagama okuqala ngu umama, uma, nelithi mema. Emlolozelweni, khomba igama ngalinye ngomnwe, futhi ucele abafundi benze izenzo. Ngesikhathi sokukhuluma, cela abafundi baphendule ngomusho ophelele, njengokuthi igama lami ngu Nomsa. Ube nosuku oluhle.",
   "script_en": "Hello, my friend. Today the learners learn their first consonant, the sound m. This is very important, because now they can start reading their first syllables and words. The one thing you must get right is this: let the learners blend the sounds by themselves. Do not blend for them. Say m, say a, then wait, and they say ma. If you blend for them, they will just repeat after you and not read. Today's syllables are ma, me, mi, mo, mu. The first words are umama, uma, and mema. In the rhyme, point to each word with your finger, and ask the learners to do the actions. During speaking time, ask the learners to answer in a full sentence, such as my name is Nomsa. Have a good day.",
   "words": [
    {
     "w": "Sawubona",
     "s": 0.0,
-    "e": 0.507
+    "e": 0.56
    },
    {
     "w": "mngane",
-    "s": 0.56,
-    "e": 0.827
+    "s": 0.613,
+    "e": 0.88
    },
    {
     "w": "wami.",
-    "s": 0.88,
-    "e": 1.227
+    "s": 0.92,
+    "e": 1.28
    },
    {
     "w": "Namuhla",
@@ -55,452 +55,447 @@
    {
     "w": "abafundi",
     "s": 2.32,
-    "e": 2.82
+    "e": 2.8
    },
    {
     "w": "bafunda",
-    "s": 2.88,
-    "e": 3.3
+    "s": 2.84,
+    "e": 3.28
    },
    {
     "w": "ungwaqa",
     "s": 3.36,
-    "e": 3.84
+    "e": 3.76
    },
    {
     "w": "wabo",
-    "s": 3.92,
-    "e": 4.24
+    "s": 3.8,
+    "e": 4.08
    },
    {
     "w": "wokuqala,",
-    "s": 4.28,
-    "e": 4.96
+    "s": 4.187,
+    "e": 4.8
    },
    {
     "w": "umsindo",
-    "s": 5.36,
-    "e": 5.76
+    "s": 5.2,
+    "e": 5.6
    },
    {
     "w": "m.",
-    "s": 5.84,
-    "e": 6.08
+    "s": 5.68,
+    "e": 6.0
    },
    {
     "w": "Lokhu",
-    "s": 6.64,
-    "e": 6.96
+    "s": 6.44,
+    "e": 6.72
    },
    {
     "w": "kubalulekile",
-    "s": 7.04,
-    "e": 7.76
+    "s": 6.76,
+    "e": 7.44
    },
    {
     "w": "kakhulu,",
-    "s": 7.867,
-    "e": 8.4
+    "s": 7.573,
+    "e": 8.08
    },
    {
     "w": "ngoba",
-    "s": 8.68,
-    "e": 8.96
+    "s": 8.36,
+    "e": 8.56
    },
    {
     "w": "manje",
-    "s": 9.08,
-    "e": 9.44
+    "s": 8.64,
+    "e": 9.04
    },
    {
     "w": "sebengaqala",
-    "s": 9.52,
-    "e": 10.32
+    "s": 9.12,
+    "e": 9.92
    },
    {
     "w": "ukufunda",
-    "s": 10.4,
-    "e": 10.8
+    "s": 10.0,
+    "e": 10.4
    },
    {
     "w": "amalunga",
-    "s": 10.88,
-    "e": 11.44
+    "s": 10.48,
+    "e": 11.04
    },
    {
     "w": "namagama",
-    "s": 11.6,
-    "e": 12.16
+    "s": 11.2,
+    "e": 11.76
    },
    {
     "w": "abo",
-    "s": 12.36,
-    "e": 12.56
+    "s": 11.84,
+    "e": 12.16
    },
    {
     "w": "okuqala.",
-    "s": 12.72,
-    "e": 13.2
+    "s": 12.32,
+    "e": 12.88
    },
    {
     "w": "Into",
-    "s": 13.76,
-    "e": 13.92
+    "s": 13.36,
+    "e": 13.52
    },
    {
     "w": "eyodwa",
-    "s": 14.0,
-    "e": 14.4
+    "s": 13.6,
+    "e": 14.08
    },
    {
-    "w": "okumele",
-    "s": 14.48,
-    "e": 14.88
+    "w": "okufanele",
+    "s": 14.16,
+    "e": 14.64
    },
    {
     "w": "uyenze",
-    "s": 15.04,
-    "e": 15.28
+    "s": 14.8,
+    "e": 15.04
    },
    {
     "w": "kahle",
-    "s": 15.4,
-    "e": 15.6
+    "s": 15.16,
+    "e": 15.36
    },
    {
-    "w": "yile:",
-    "s": 15.68,
-    "e": 16.0
+    "w": "yilena:",
+    "s": 15.4,
+    "e": 15.84
    },
    {
     "w": "vumela",
-    "s": 16.56,
-    "e": 16.96
+    "s": 16.32,
+    "e": 16.72
    },
    {
     "w": "abafundi",
-    "s": 17.04,
-    "e": 17.6
+    "s": 16.8,
+    "e": 17.28
    },
    {
     "w": "bahlanganise",
-    "s": 17.76,
-    "e": 18.4
+    "s": 17.4,
+    "e": 18.0
    },
    {
     "w": "imisindo",
-    "s": 18.48,
-    "e": 18.96
-   },
-   {
-    "w": "bona",
-    "s": 19.08,
-    "e": 19.28
+    "s": 18.08,
+    "e": 18.56
    },
    {
     "w": "ngokwabo.",
-    "s": 19.36,
-    "e": 20.0
+    "s": 18.64,
+    "e": 19.2
    },
    {
     "w": "Ungahlanganisi",
-    "s": 20.36,
-    "e": 21.2
+    "s": 19.56,
+    "e": 20.48
    },
    {
     "w": "esikhundleni",
-    "s": 21.28,
-    "e": 21.88
+    "s": 20.56,
+    "e": 21.16
    },
    {
     "w": "sabo.",
-    "s": 21.92,
-    "e": 22.32
+    "s": 21.2,
+    "e": 21.6
    },
    {
     "w": "Yisho",
-    "s": 22.76,
-    "e": 23.12
+    "s": 22.08,
+    "e": 22.4
    },
    {
     "w": "m,",
-    "s": 23.2,
-    "e": 23.44
+    "s": 22.48,
+    "e": 22.72
    },
    {
     "w": "yisho",
-    "s": 23.92,
-    "e": 24.24
+    "s": 23.2,
+    "e": 23.52
    },
    {
     "w": "a,",
-    "s": 24.32,
-    "e": 24.56
+    "s": 23.6,
+    "e": 23.84
    },
    {
     "w": "bese",
-    "s": 24.96,
-    "e": 25.28
+    "s": 24.24,
+    "e": 24.56
    },
    {
     "w": "uyalinda,",
-    "s": 25.36,
-    "e": 26.0
+    "s": 24.64,
+    "e": 25.28
    },
    {
     "w": "bona",
-    "s": 26.32,
-    "e": 26.64
+    "s": 25.6,
+    "e": 25.92
    },
    {
     "w": "bathi",
-    "s": 26.8,
-    "e": 27.12
+    "s": 26.08,
+    "e": 26.4
    },
    {
     "w": "ma.",
-    "s": 27.28,
-    "e": 27.44
+    "s": 26.48,
+    "e": 26.72
    },
    {
     "w": "Uma",
-    "s": 27.8,
-    "e": 28.0
+    "s": 27.12,
+    "e": 27.28
    },
    {
     "w": "uhlanganisa",
-    "s": 28.08,
-    "e": 28.72
+    "s": 27.36,
+    "e": 28.0
    },
    {
     "w": "wena,",
-    "s": 28.76,
-    "e": 29.04
+    "s": 28.04,
+    "e": 28.4
    },
    {
     "w": "bazophinda",
-    "s": 29.4,
-    "e": 30.0
+    "s": 28.64,
+    "e": 29.28
    },
    {
     "w": "nje",
-    "s": 30.04,
-    "e": 30.24
+    "s": 29.32,
+    "e": 29.52
    },
    {
     "w": "emva",
-    "s": 30.32,
-    "e": 30.56
+    "s": 29.6,
+    "e": 29.84
    },
    {
     "w": "kwakho,",
-    "s": 30.6,
-    "e": 30.96
+    "s": 29.92,
+    "e": 30.24
    },
    {
     "w": "bangafundi.",
-    "s": 31.2,
-    "e": 31.92
+    "s": 30.48,
+    "e": 31.2
    },
    {
     "w": "Amalunga",
-    "s": 32.4,
-    "e": 32.96
+    "s": 31.68,
+    "e": 32.24
    },
    {
     "w": "anamuhla",
-    "s": 33.04,
-    "e": 33.6
+    "s": 32.32,
+    "e": 32.88
    },
    {
     "w": "ngu",
-    "s": 33.68,
-    "e": 33.84
+    "s": 32.96,
+    "e": 33.12
    },
    {
     "w": "ma,",
-    "s": 33.92,
-    "e": 34.16
+    "s": 33.2,
+    "e": 33.52
    },
    {
     "w": "me,",
-    "s": 34.72,
-    "e": 35.04
+    "s": 34.0,
+    "e": 34.32
    },
    {
     "w": "mi,",
-    "s": 35.6,
-    "e": 35.84
+    "s": 34.8,
+    "e": 35.12
    },
    {
     "w": "mo,",
-    "s": 36.48,
-    "e": 36.72
+    "s": 35.6,
+    "e": 35.92
    },
    {
     "w": "mu.",
-    "s": 37.28,
-    "e": 37.52
+    "s": 36.4,
+    "e": 36.64
    },
    {
     "w": "Amagama",
-    "s": 38.0,
-    "e": 38.48
+    "s": 37.12,
+    "e": 37.6
    },
    {
     "w": "okuqala",
-    "s": 38.64,
-    "e": 39.12
+    "s": 37.76,
+    "e": 38.24
    },
    {
     "w": "ngu",
-    "s": 39.16,
-    "e": 39.36
+    "s": 38.32,
+    "e": 38.48
    },
    {
     "w": "umama,",
-    "s": 39.6,
-    "e": 40.16
+    "s": 38.72,
+    "e": 39.28
    },
    {
     "w": "uma,",
-    "s": 40.84,
-    "e": 41.04
+    "s": 39.96,
+    "e": 40.16
    },
    {
     "w": "nelithi",
-    "s": 41.48,
-    "e": 41.92
+    "s": 40.6,
+    "e": 41.04
    },
    {
     "w": "mema.",
-    "s": 42.16,
-    "e": 42.56
+    "s": 41.28,
+    "e": 41.76
    },
    {
     "w": "Emlolozelweni,",
-    "s": 43.0,
-    "e": 43.92
+    "s": 42.2,
+    "e": 43.12
    },
    {
     "w": "khomba",
-    "s": 44.24,
-    "e": 44.56
+    "s": 43.44,
+    "e": 43.76
    },
    {
     "w": "igama",
-    "s": 44.64,
-    "e": 44.96
+    "s": 43.84,
+    "e": 44.16
    },
    {
     "w": "ngalinye",
-    "s": 45.0,
-    "e": 45.48
+    "s": 44.2,
+    "e": 44.64
    },
    {
     "w": "ngomnwe,",
-    "s": 45.52,
-    "e": 46.0
+    "s": 44.72,
+    "e": 45.12
    },
    {
     "w": "futhi",
-    "s": 46.24,
-    "e": 46.56
+    "s": 45.36,
+    "e": 45.68
    },
    {
     "w": "ucele",
-    "s": 46.72,
-    "e": 46.96
+    "s": 45.84,
+    "e": 46.16
    },
    {
     "w": "abafundi",
-    "s": 47.04,
-    "e": 47.6
+    "s": 46.24,
+    "e": 46.72
    },
    {
     "w": "benze",
-    "s": 47.76,
-    "e": 48.08
+    "s": 46.8,
+    "e": 47.12
    },
    {
     "w": "izenzo.",
-    "s": 48.28,
-    "e": 48.56
+    "s": 47.32,
+    "e": 47.68
    },
    {
     "w": "Ngesikhathi",
-    "s": 49.04,
-    "e": 49.52
+    "s": 48.04,
+    "e": 48.56
    },
    {
     "w": "sokukhuluma,",
-    "s": 49.56,
-    "e": 50.24
+    "s": 48.6,
+    "e": 49.28
    },
    {
     "w": "cela",
-    "s": 50.56,
-    "e": 50.8
+    "s": 49.6,
+    "e": 49.84
    },
    {
     "w": "abafundi",
-    "s": 50.88,
-    "e": 51.36
+    "s": 49.92,
+    "e": 50.4
    },
    {
     "w": "baphendule",
-    "s": 51.4,
-    "e": 52.0
+    "s": 50.44,
+    "e": 50.96
    },
    {
     "w": "ngomusho",
-    "s": 52.08,
-    "e": 52.56
+    "s": 51.04,
+    "e": 51.6
    },
    {
     "w": "ophelele,",
-    "s": 52.72,
-    "e": 53.2
+    "s": 51.76,
+    "e": 52.24
    },
    {
     "w": "njengokuthi",
-    "s": 53.4,
-    "e": 54.04
+    "s": 52.48,
+    "e": 53.12
    },
    {
     "w": "igama",
-    "s": 54.08,
-    "e": 54.48
+    "s": 53.28,
+    "e": 53.68
    },
    {
     "w": "lami",
-    "s": 54.52,
-    "e": 54.8
+    "s": 53.72,
+    "e": 54.08
    },
    {
     "w": "ngu",
-    "s": 54.96,
-    "e": 55.12
+    "s": 54.16,
+    "e": 54.32
    },
    {
     "w": "Nomsa.",
-    "s": 55.16,
-    "e": 55.6
+    "s": 54.4,
+    "e": 54.8
    },
    {
     "w": "Ube",
-    "s": 55.96,
-    "e": 56.16
+    "s": 55.16,
+    "e": 55.36
    },
    {
     "w": "nosuku",
-    "s": 56.32,
-    "e": 56.72
+    "s": 55.52,
+    "e": 55.92
    },
    {
     "w": "oluhle.",
-    "s": 56.8,
-    "e": 57.36
+    "s": 56.04,
+    "e": 56.48
    }
   ]
  },

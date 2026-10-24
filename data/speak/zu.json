@@ -17,17 +17,41 @@
    "i": 2,
    "text": "Into eyodwa okumele uyenze kahle yile: vumela abafundi bahlanganise imisindo bona ngokwabo.",
    "en": "The one thing you must get right is this: let the learners blend the sounds by themselves.",
-   "source": "voice_note"
+   "source": "voice_note",
+   "retired": true,
+   "replaced_by": 5
   },
   {
    "i": 3,
    "text": "Ngiyabonga kakhulu ngokungivumela ukuthi ngibe sekilasini lakho namuhla.",
    "en": "Thank you very much for letting me be in your class today.",
-   "source": "debrief"
+   "source": "debrief",
+   "retired": true,
+   "replaced_by": 6
   },
   {
    "i": 4,
    "text": "Uzofundisa muphi umsindo olandelayo ngesonto elizayo?",
+   "en": "Which sound will you teach next week?",
+   "source": "conversation",
+   "retired": true,
+   "replaced_by": 7
+  },
+  {
+   "i": 5,
+   "text": "Into eyodwa okufanele uyenze kahle yilena: vumela abafundi bahlanganise imisindo ngokwabo.",
+   "en": "The one thing you must get right is this: let the learners blend the sounds by themselves.",
+   "source": "voice_note"
+  },
+  {
+   "i": 6,
+   "text": "Ngiyabonga kakhulu ukungivumele ukuthi ngibesekilasini lakho namuhla.",
+   "en": "Thank you very much for letting me be in your class today.",
+   "source": "debrief"
+  },
+  {
+   "i": 7,
+   "text": "Imuphi umsindo ozowufundisa ngesonto elizayo?",
    "en": "Which sound will you teach next week?",
    "source": "conversation"
   }
@@ -267,11 +291,156 @@
      "cer": 0.0,
      "f0_rise": 3.1,
      "rerendered": false
+    },
+    {
+     "i": 5,
+     "mp3": "assets/audio/speak/zu_v1_5.mp3",
+     "words": [
+      {
+       "w": "Into",
+       "s": 0.12,
+       "e": 0.28
+      },
+      {
+       "w": "eyodwa",
+       "s": 0.36,
+       "e": 0.84
+      },
+      {
+       "w": "okufanele",
+       "s": 0.92,
+       "e": 1.4
+      },
+      {
+       "w": "uyenze",
+       "s": 1.56,
+       "e": 1.8
+      },
+      {
+       "w": "kahle",
+       "s": 1.92,
+       "e": 2.12
+      },
+      {
+       "w": "yilena:",
+       "s": 2.16,
+       "e": 2.6
+      },
+      {
+       "w": "vumela",
+       "s": 3.08,
+       "e": 3.48
+      },
+      {
+       "w": "abafundi",
+       "s": 3.56,
+       "e": 4.04
+      },
+      {
+       "w": "bahlanganise",
+       "s": 4.16,
+       "e": 4.76
+      },
+      {
+       "w": "imisindo",
+       "s": 4.84,
+       "e": 5.32
+      },
+      {
+       "w": "ngokwabo.",
+       "s": 5.4,
+       "e": 5.96
+      }
+     ],
+     "secs": 6.21,
+     "cer": 0.0,
+     "f0_rise": 7.6,
+     "rerendered": false
+    },
+    {
+     "i": 6,
+     "mp3": "assets/audio/speak/zu_v1_6.mp3",
+     "words": [
+      {
+       "w": "Ngiyabonga",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "kakhulu",
+       "s": 0.52,
+       "e": 1.2
+      },
+      {
+       "w": "ukungivumele",
+       "s": 1.28,
+       "e": 1.92
+      },
+      {
+       "w": "ukuthi",
+       "s": 1.96,
+       "e": 2.32
+      },
+      {
+       "w": "ngibesekilasini",
+       "s": 2.4,
+       "e": 3.36
+      },
+      {
+       "w": "lakho",
+       "s": 3.4,
+       "e": 3.68
+      },
+      {
+       "w": "namuhla.",
+       "s": 3.8,
+       "e": 4.24
+      }
+     ],
+     "secs": 4.49,
+     "cer": 0.03,
+     "f0_rise": 0.87,
+     "rerendered": false
+    },
+    {
+     "i": 7,
+     "mp3": "assets/audio/speak/zu_v1_7.mp3",
+     "words": [
+      {
+       "w": "Imuphi",
+       "s": 0.12,
+       "e": 0.48
+      },
+      {
+       "w": "umsindo",
+       "s": 0.56,
+       "e": 1.04
+      },
+      {
+       "w": "ozowufundisa",
+       "s": 1.12,
+       "e": 1.76
+      },
+      {
+       "w": "ngesonto",
+       "s": 1.84,
+       "e": 2.24
+      },
+      {
+       "w": "elizayo?",
+       "s": 2.32,
+       "e": 2.8
+      }
+     ],
+     "secs": 2.96,
+     "cer": 0.0,
+     "f0_rise": 8.93,
+     "rerendered": false
     }
    ],
    "summary": {
-    "cer_mean": 0.005,
-    "f0_rise_mean": 5.37
+    "cer_mean": 0.007,
+    "f0_rise_mean": 5.53
    }
   },
   {
@@ -503,11 +672,153 @@
      "secs": 4.0,
      "cer": 0.0,
      "f0_rise": 6.37
+    },
+    {
+     "i": 5,
+     "mp3": "assets/audio/speak/zu_v2_5.mp3",
+     "words": [
+      {
+       "w": "Into",
+       "s": 0.0,
+       "e": 0.32
+      },
+      {
+       "w": "eyodwa",
+       "s": 0.44,
+       "e": 0.88
+      },
+      {
+       "w": "okufanele",
+       "s": 0.96,
+       "e": 1.52
+      },
+      {
+       "w": "uyenze",
+       "s": 1.6,
+       "e": 2.0
+      },
+      {
+       "w": "kahle",
+       "s": 2.16,
+       "e": 2.4
+      },
+      {
+       "w": "yilena:",
+       "s": 2.44,
+       "e": 2.96
+      },
+      {
+       "w": "vumela",
+       "s": 3.6,
+       "e": 4.08
+      },
+      {
+       "w": "abafundi",
+       "s": 4.16,
+       "e": 4.8
+      },
+      {
+       "w": "bahlanganise",
+       "s": 4.88,
+       "e": 5.6
+      },
+      {
+       "w": "imisindo",
+       "s": 5.68,
+       "e": 6.32
+      },
+      {
+       "w": "ngokwabo.",
+       "s": 6.4,
+       "e": 7.04
+      }
+     ],
+     "secs": 7.2,
+     "cer": 0.0,
+     "f0_rise": 9.5
+    },
+    {
+     "i": 6,
+     "mp3": "assets/audio/speak/zu_v2_6.mp3",
+     "words": [
+      {
+       "w": "Ngiyabonga",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "kakhulu",
+       "s": 0.52,
+       "e": 1.2
+      },
+      {
+       "w": "ukungivumele",
+       "s": 1.28,
+       "e": 2.08
+      },
+      {
+       "w": "ukuthi",
+       "s": 2.16,
+       "e": 2.56
+      },
+      {
+       "w": "ngibesekilasini",
+       "s": 2.72,
+       "e": 3.76
+      },
+      {
+       "w": "lakho",
+       "s": 3.8,
+       "e": 4.16
+      },
+      {
+       "w": "namuhla.",
+       "s": 4.28,
+       "e": 4.8
+      }
+     ],
+     "secs": 4.96,
+     "cer": 0.015,
+     "f0_rise": 4.79
+    },
+    {
+     "i": 7,
+     "mp3": "assets/audio/speak/zu_v2_7.mp3",
+     "words": [
+      {
+       "w": "Imuphi",
+       "s": 0.0,
+       "e": 0.64
+      },
+      {
+       "w": "umsindo",
+       "s": 0.72,
+       "e": 1.36
+      },
+      {
+       "w": "ozowufundisa",
+       "s": 1.44,
+       "e": 2.32
+      },
+      {
+       "w": "ngesonto",
+       "s": 2.4,
+       "e": 2.96
+      },
+      {
+       "w": "elizayo?",
+       "s": 3.04,
+       "e": 3.6
+      }
+     ],
+     "secs": 3.76,
+     "cer": 0.0,
+     "f0_rise": 6.59
     }
    ],
    "summary": {
     "cer_mean": 0.005,
-    "f0_rise_mean": 6.53
+    "f0_rise_mean": 6.69
    }
   },
   {
@@ -739,11 +1050,153 @@
      "secs": 3.52,
      "cer": 0.0,
      "f0_rise": 5.9
+    },
+    {
+     "i": 5,
+     "mp3": "assets/audio/speak/zu_v3_5.mp3",
+     "words": [
+      {
+       "w": "Into",
+       "s": 0.0,
+       "e": 0.4
+      },
+      {
+       "w": "eyodwa",
+       "s": 0.453,
+       "e": 0.8
+      },
+      {
+       "w": "okufanele",
+       "s": 0.853,
+       "e": 1.44
+      },
+      {
+       "w": "uyenze",
+       "s": 1.48,
+       "e": 1.92
+      },
+      {
+       "w": "kahle",
+       "s": 2.0,
+       "e": 2.32
+      },
+      {
+       "w": "yilena:",
+       "s": 2.4,
+       "e": 2.96
+      },
+      {
+       "w": "vumela",
+       "s": 3.36,
+       "e": 4.0
+      },
+      {
+       "w": "abafundi",
+       "s": 4.027,
+       "e": 4.48
+      },
+      {
+       "w": "bahlanganise",
+       "s": 4.54,
+       "e": 5.28
+      },
+      {
+       "w": "imisindo",
+       "s": 5.333,
+       "e": 5.84
+      },
+      {
+       "w": "ngokwabo.",
+       "s": 5.893,
+       "e": 6.56
+      }
+     ],
+     "secs": 6.64,
+     "cer": 0.012,
+     "f0_rise": 7.49
+    },
+    {
+     "i": 6,
+     "mp3": "assets/audio/speak/zu_v3_6.mp3",
+     "words": [
+      {
+       "w": "Ngiyabonga",
+       "s": 0.0,
+       "e": 0.48
+      },
+      {
+       "w": "kakhulu",
+       "s": 0.56,
+       "e": 1.12
+      },
+      {
+       "w": "ukungivumele",
+       "s": 1.227,
+       "e": 2.24
+      },
+      {
+       "w": "ukuthi",
+       "s": 2.32,
+       "e": 2.72
+      },
+      {
+       "w": "ngibesekilasini",
+       "s": 2.773,
+       "e": 3.84
+      },
+      {
+       "w": "lakho",
+       "s": 3.92,
+       "e": 4.24
+      },
+      {
+       "w": "namuhla.",
+       "s": 4.3,
+       "e": 4.88
+      }
+     ],
+     "secs": 5.04,
+     "cer": 0.015,
+     "f0_rise": 4.43
+    },
+    {
+     "i": 7,
+     "mp3": "assets/audio/speak/zu_v3_7.mp3",
+     "words": [
+      {
+       "w": "Imuphi",
+       "s": 0.0,
+       "e": 0.4
+      },
+      {
+       "w": "umsindo",
+       "s": 0.453,
+       "e": 0.88
+      },
+      {
+       "w": "ozowufundisa",
+       "s": 0.933,
+       "e": 1.76
+      },
+      {
+       "w": "ngesonto",
+       "s": 1.8,
+       "e": 2.24
+      },
+      {
+       "w": "elizayo?",
+       "s": 2.293,
+       "e": 2.96
+      }
+     ],
+     "secs": 3.12,
+     "cer": 0.0,
+     "f0_rise": 3.98
     }
    ],
    "summary": {
-    "cer_mean": 0.005,
-    "f0_rise_mean": 4.91
+    "cer_mean": 0.007,
+    "f0_rise_mean": 5.06
    }
   },
   {
@@ -975,11 +1428,153 @@
      "secs": 5.62,
      "cer": 0.0,
      "f0_rise": 4.85
+    },
+    {
+     "i": 5,
+     "mp3": "assets/audio/speak/zu_v5_5.mp3",
+     "words": [
+      {
+       "w": "Into",
+       "s": 0.0,
+       "e": 0.62
+      },
+      {
+       "w": "eyodwa",
+       "s": 0.62,
+       "e": 1.391
+      },
+      {
+       "w": "okufanele",
+       "s": 1.625,
+       "e": 2.42
+      },
+      {
+       "w": "uyenze",
+       "s": 2.42,
+       "e": 3.0
+      },
+      {
+       "w": "kahle",
+       "s": 3.0,
+       "e": 3.573
+      },
+      {
+       "w": "yilena:",
+       "s": 3.7,
+       "e": 4.252
+      },
+      {
+       "w": "vumela",
+       "s": 5.22,
+       "e": 5.62
+      },
+      {
+       "w": "abafundi",
+       "s": 5.62,
+       "e": 6.4
+      },
+      {
+       "w": "bahlanganise",
+       "s": 6.4,
+       "e": 7.38
+      },
+      {
+       "w": "imisindo",
+       "s": 7.38,
+       "e": 8.038
+      },
+      {
+       "w": "ngokwabo.",
+       "s": 8.038,
+       "e": 8.7
+      }
+     ],
+     "secs": 9.17,
+     "cer": 0.0,
+     "f0_rise": 5.54
+    },
+    {
+     "i": 6,
+     "mp3": "assets/audio/speak/zu_v5_6.mp3",
+     "words": [
+      {
+       "w": "Ngiyabonga",
+       "s": 0.0,
+       "e": 1.34
+      },
+      {
+       "w": "kakhulu",
+       "s": 1.34,
+       "e": 1.805
+      },
+      {
+       "w": "ukungivumele",
+       "s": 2.7,
+       "e": 3.64
+      },
+      {
+       "w": "ukuthi",
+       "s": 3.64,
+       "e": 4.065
+      },
+      {
+       "w": "ngibesekilasini",
+       "s": 4.065,
+       "e": 5.62
+      },
+      {
+       "w": "lakho",
+       "s": 5.62,
+       "e": 5.98
+      },
+      {
+       "w": "namuhla.",
+       "s": 5.98,
+       "e": 6.86
+      }
+     ],
+     "secs": 7.2,
+     "cer": 0.089,
+     "f0_rise": 0.94
+    },
+    {
+     "i": 7,
+     "mp3": "assets/audio/speak/zu_v5_7.mp3",
+     "words": [
+      {
+       "w": "Imuphi",
+       "s": 0.0,
+       "e": 1.14
+      },
+      {
+       "w": "umsindo",
+       "s": 1.14,
+       "e": 1.76
+      },
+      {
+       "w": "ozowufundisa",
+       "s": 1.76,
+       "e": 2.88
+      },
+      {
+       "w": "ngesonto",
+       "s": 3.38,
+       "e": 3.78
+      },
+      {
+       "w": "elizayo?",
+       "s": 3.78,
+       "e": 4.46
+      }
+     ],
+     "secs": 4.85,
+     "cer": 0.023,
+     "f0_rise": 4.65
     }
    ],
    "summary": {
-    "cer_mean": 0.022,
-    "f0_rise_mean": 3.19
+    "cer_mean": 0.028,
+    "f0_rise_mean": 3.38
    }
   }
  ],
@@ -1217,6 +1812,151 @@
     "cer": 0.0,
     "f0_rise": 3.1,
     "from": "conversation"
+   },
+   {
+    "i": 5,
+    "mp3": "assets/audio/speak/zu_v1_5.mp3",
+    "words": [
+     {
+      "w": "Into",
+      "s": 0.12,
+      "e": 0.28
+     },
+     {
+      "w": "eyodwa",
+      "s": 0.36,
+      "e": 0.84
+     },
+     {
+      "w": "okufanele",
+      "s": 0.92,
+      "e": 1.4
+     },
+     {
+      "w": "uyenze",
+      "s": 1.56,
+      "e": 1.8
+     },
+     {
+      "w": "kahle",
+      "s": 1.92,
+      "e": 2.12
+     },
+     {
+      "w": "yilena:",
+      "s": 2.16,
+      "e": 2.6
+     },
+     {
+      "w": "vumela",
+      "s": 3.08,
+      "e": 3.48
+     },
+     {
+      "w": "abafundi",
+      "s": 3.56,
+      "e": 4.04
+     },
+     {
+      "w": "bahlanganise",
+      "s": 4.16,
+      "e": 4.76
+     },
+     {
+      "w": "imisindo",
+      "s": 4.84,
+      "e": 5.32
+     },
+     {
+      "w": "ngokwabo.",
+      "s": 5.4,
+      "e": 5.96
+     }
+    ],
+    "secs": 6.21,
+    "cer": 0.0,
+    "f0_rise": 7.6,
+    "from": "voice_note"
+   },
+   {
+    "i": 6,
+    "mp3": "assets/audio/speak/zu_v1_6.mp3",
+    "words": [
+     {
+      "w": "Ngiyabonga",
+      "s": 0.0,
+      "e": 0.48
+     },
+     {
+      "w": "kakhulu",
+      "s": 0.52,
+      "e": 1.2
+     },
+     {
+      "w": "ukungivumele",
+      "s": 1.28,
+      "e": 1.92
+     },
+     {
+      "w": "ukuthi",
+      "s": 1.96,
+      "e": 2.32
+     },
+     {
+      "w": "ngibesekilasini",
+      "s": 2.4,
+      "e": 3.36
+     },
+     {
+      "w": "lakho",
+      "s": 3.4,
+      "e": 3.68
+     },
+     {
+      "w": "namuhla.",
+      "s": 3.8,
+      "e": 4.24
+     }
+    ],
+    "secs": 4.49,
+    "cer": 0.03,
+    "f0_rise": 0.87,
+    "from": "debrief"
+   },
+   {
+    "i": 7,
+    "mp3": "assets/audio/speak/zu_v1_7.mp3",
+    "words": [
+     {
+      "w": "Imuphi",
+      "s": 0.12,
+      "e": 0.48
+     },
+     {
+      "w": "umsindo",
+      "s": 0.56,
+      "e": 1.04
+     },
+     {
+      "w": "ozowufundisa",
+      "s": 1.12,
+      "e": 1.76
+     },
+     {
+      "w": "ngesonto",
+      "s": 1.84,
+      "e": 2.24
+     },
+     {
+      "w": "elizayo?",
+      "s": 2.32,
+      "e": 2.8
+     }
+    ],
+    "secs": 2.96,
+    "cer": 0.0,
+    "f0_rise": 8.93,
+    "from": "conversation"
    }
   ]
  },
@@ -1236,7 +1976,8 @@
  },
  "notes": [
   "No open-source voice is included. Meta's MMS-TTS publishes no model for this language. The one open South African multi-language model (South-African-TTS-11-Vits, non-commercial licence) is access-restricted: on 13 October our Hugging Face account was not on its access list, and we did not request access.",
-  "No calmer-intonation variant is offered for this language: every setting that lowered the start of the sentence either lost words on at least one test sentence or did not say the greeting right."
+  "No calmer-intonation variant is offered for this language: every setting that lowered the start of the sentence either lost words on at least one test sentence or did not say the greeting right.",
+  "Three sentences were rewritten on 15 October using a first-language reviewer's corrections; earlier ratings of the old wording are kept separately."
  ],
  "sources": []
 }

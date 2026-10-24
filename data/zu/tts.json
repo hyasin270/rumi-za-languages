@@ -6,7 +6,7 @@
  "score": {
   "value": 9.968102073365232,
   "display": "9.9",
-  "label": "intelligible to a machine · first-language listeners: not yet natural",
+  "label": "intelligible to a machine · one first-language reviewer: 3.2 of 5 for naturalness",
   "line": "ElevenLabs eleven_v4: text → speech → text came back with the measured share of characters lost (6 sentences, measured). That is intelligibility to a machine, not naturalness. Two first-language isiZulu speakers from the coalition heard this voice on 9 October: understandable, not yet natural. Native ratings on the speaking review decide the voice."
  },
  "conversation": [
@@ -210,7 +210,7 @@
   },
   {
    "from": "rumi",
-   "text": "Wenza umsebenzi omuhle kakhulu, thisha. Ukuphinda nsuku zonke kuyasiza. Uzofundisa muphi umsindo olandelayo ngesonto elizayo?",
+   "text": "Wenza umsebenzi omuhle kakhulu, thisha. Ukuphinda nsuku zonke kuyasiza. Imuphi umsindo ozowufundisa ngesonto elizayo?",
    "en": "You are doing very good work, teacher. Revising every day helps. Which sound will you teach next week?",
    "mp3": "assets/audio/zu_tts_3.mp3",
    "words": [
@@ -231,17 +231,17 @@
     },
     {
      "w": "kakhulu,",
-     "s": 1.52,
-     "e": 2.16
+     "s": 1.48,
+     "e": 2.08
     },
     {
      "w": "thisha.",
-     "s": 2.56,
+     "s": 2.68,
      "e": 3.04
     },
     {
      "w": "Ukuphinda",
-     "s": 3.6,
+     "s": 3.56,
      "e": 4.0
     },
     {
@@ -251,43 +251,38 @@
     },
     {
      "w": "zonke",
-     "s": 4.48,
+     "s": 4.56,
      "e": 4.88
     },
     {
      "w": "kuyasiza.",
      "s": 4.92,
-     "e": 5.68
+     "e": 5.6
     },
     {
-     "w": "Uzofundisa",
-     "s": 6.2,
-     "e": 6.8
-    },
-    {
-     "w": "muphi",
-     "s": 6.88,
-     "e": 7.28
+     "w": "Imuphi",
+     "s": 6.28,
+     "e": 6.64
     },
     {
      "w": "umsindo",
-     "s": 7.44,
-     "e": 7.84
+     "s": 6.72,
+     "e": 7.2
     },
     {
-     "w": "olandelayo",
-     "s": 8.0,
-     "e": 8.56
+     "w": "ozowufundisa",
+     "s": 7.28,
+     "e": 7.92
     },
     {
      "w": "ngesonto",
-     "s": 8.6,
-     "e": 8.96
+     "s": 8.0,
+     "e": 8.4
     },
     {
      "w": "elizayo?",
-     "s": 9.04,
-     "e": 9.52
+     "s": 8.48,
+     "e": 8.96
     }
    ],
    "dur": 9.76

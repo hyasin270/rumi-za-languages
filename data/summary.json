@@ -1,5 +1,5 @@
 {
- "source": "Numbers copied from the evaluation scorecard computed at 2026-10-13T14:40 UTC; nothing typed by hand.",
+ "source": "Numbers copied from the evaluation scorecard computed at 2026-10-24T17:25 UTC; nothing typed by hand.",
  "question": "Can Rumi work in isiZulu, isiXhosa and Sesotho?",
  "governing_thought": "Yes, with three conditions. Automated tests in all three languages show Rumi planning lessons, transcribing classrooms, drafting coaching and replying in voice notes; the first native listeners found its voice understandable, not yet natural.",
  "columns": [
@@ -48,9 +48,9 @@
     },
     "Q4": {
      "value": "9.9",
-     "label": "intelligible to a machine · first-language listeners: not yet natural",
+     "label": "intelligible to a machine · one first-language reviewer: 3.2 of 5 for naturalness",
      "href": "zu.html#speaking",
-     "note": "round trip measured; two first-language isiZulu speakers (9 October): understandable, not yet natural; blind voice review open",
+     "note": "round trip measured; two first-language isiZulu speakers (9 October): understandable, not yet natural; one first-language reviewer (15 October): 3.2 of 5 for naturalness, meaning lost in 2 of 5 voice notes, three sentences rewritten from their corrections; blind voice review open",
      "speak_href": "speak.html?lang=zu"
     },
     "verdict": {
@@ -195,9 +195,9 @@
      },
      "Q4": {
       "value": "9.6",
-      "label": "intelligible to a machine · one Afrikaans-speaking listener: impressed, not yet rated",
+      "label": "intelligible to a machine · one Afrikaans-speaking reviewer: 5.0 of 5 for naturalness, no meaning lost",
       "href": "index.html#also-tested",
-      "note": "round trip measured; one Afrikaans-speaking listener on the 9 October call praised this voice; not yet rated",
+      "note": "round trip measured; one Afrikaans-speaking reviewer (14 October): 5.0 of 5 for naturalness, no meaning lost in the voice notes they judged",
       "speak_href": "speak.html?lang=af"
      },
      "verdict": {

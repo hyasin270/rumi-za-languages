@@ -290,7 +290,20 @@
 
   /* ---------- one language ---------- */
   const cache = {};
-  const loadLang = async (l) => (l in cache ? cache[l] : (cache[l] = await RZ.load(`data/speak/${l}.json`)));
+  // 24 Oct: a sentence rewritten from a first-language reviewer's corrections stays in the data ("retired", what earlier reviewers
+  // rated) but is not shown; links to it land on its replacement ("replaced_by").
+  const RETIRED = {};   // lang → {old i: new i}
+  const liveOnly = (l, d) => {
+    if (!d || !Array.isArray(d.sentences)) return d;
+    RETIRED[l] = {};
+    d.sentences.forEach((s) => { if (s.retired && s.replaced_by !== undefined) RETIRED[l][String(s.i)] = String(s.replaced_by); });
+    const live = new Set(d.sentences.filter((s) => !s.retired).map((s) => Number(s.i)));
+    d.sentences = d.sentences.filter((s) => !s.retired);
+    (d.voices || []).forEach((v) => { v.clips = (v.clips || []).filter((c) => live.has(Number(c.i))); });
+    if (d.shipped && Array.isArray(d.shipped.clips)) d.shipped.clips = d.shipped.clips.filter((c) => live.has(Number(c.i)));
+    return d;
+  };
+  const loadLang = async (l) => (l in cache ? cache[l] : (cache[l] = liveOnly(l, await RZ.load(`data/speak/${l}.json`))));
   let lang = null;
 
   function renderTabs(ready) {
@@ -487,7 +500,8 @@
     if ((data.sources || []).length) bh.append(el("p", { class: "note", html: `${RZ.esc(RZ.ui("sources_label", "Sources"))} ${RZ.cite(data.sources)}` }));
     RZ.renderFootnotes($("fn-host"));
     // deep link to a sentence: banner + scroll; nothing plays
-    const sp = params.get("s");
+    let sp = params.get("s");
+    if (sp !== null && RETIRED[l] && RETIRED[l][sp] !== undefined) sp = RETIRED[l][sp];   // an old link to a rewritten sentence
     const banner = $("banner");
     banner.hidden = true;
     if (fromLink && sp !== null && sp !== "") {

@@ -372,585 +372,580 @@
    },
    {
     "w": "kakhulu",
-    "s": 0.587,
-    "e": 1.04
+    "s": 0.52,
+    "e": 1.2
    },
    {
-    "w": "ngokungivumela",
-    "s": 1.08,
-    "e": 1.84
+    "w": "ukungivumele",
+    "s": 1.28,
+    "e": 1.92
    },
    {
     "w": "ukuthi",
-    "s": 1.92,
-    "e": 2.2
+    "s": 1.96,
+    "e": 2.32
    },
    {
-    "w": "ngibe",
-    "s": 2.24,
-    "e": 2.48
-   },
-   {
-    "w": "sekilasini",
-    "s": 2.6,
-    "e": 3.2
+    "w": "ngibesekilasini",
+    "s": 2.4,
+    "e": 3.36
    },
    {
     "w": "lakho",
-    "s": 3.24,
-    "e": 3.52
+    "s": 3.4,
+    "e": 3.68
    },
    {
     "w": "namuhla.",
-    "s": 3.64,
-    "e": 4.08
+    "s": 3.8,
+    "e": 4.24
    },
    {
     "w": "Ngithandile",
-    "s": 4.68,
-    "e": 5.2
+    "s": 4.84,
+    "e": 5.36
    },
    {
     "w": "kakhulu",
-    "s": 5.24,
-    "e": 5.76
+    "s": 5.467,
+    "e": 5.92
    },
    {
     "w": "indlela",
-    "s": 5.92,
-    "e": 6.16
+    "s": 6.08,
+    "e": 6.32
    },
    {
     "w": "oqale",
-    "s": 6.24,
-    "e": 6.64
+    "s": 6.4,
+    "e": 6.8
    },
    {
     "w": "ngayo",
-    "s": 6.68,
-    "e": 6.96
+    "s": 6.84,
+    "e": 7.12
    },
    {
     "w": "ngomlolozelo,",
-    "s": 7.0,
-    "e": 7.84
+    "s": 7.16,
+    "e": 7.92
    },
    {
     "w": "abafundi",
-    "s": 8.24,
-    "e": 8.72
+    "s": 8.4,
+    "e": 8.88
    },
    {
     "w": "bame",
-    "s": 8.76,
-    "e": 9.04
+    "s": 8.987,
+    "e": 9.2
    },
    {
     "w": "bacula",
-    "s": 9.16,
-    "e": 9.52
+    "s": 9.28,
+    "e": 9.76
    },
    {
     "w": "ngenjabulo,",
-    "s": 9.64,
-    "e": 10.24
+    "s": 9.84,
+    "e": 10.4
    },
    {
     "w": "bese",
-    "s": 10.56,
-    "e": 10.8
+    "s": 10.84,
+    "e": 11.12
    },
    {
     "w": "ubabuza",
-    "s": 10.88,
-    "e": 11.36
+    "s": 11.2,
+    "e": 11.68
    },
    {
     "w": "ukuthi",
-    "s": 11.44,
-    "e": 11.84
+    "s": 11.76,
+    "e": 12.16
    },
    {
     "w": "yimuphi",
-    "s": 11.92,
-    "e": 12.56
+    "s": 12.24,
+    "e": 12.8
    },
    {
     "w": "umsindo",
-    "s": 12.72,
-    "e": 13.2
+    "s": 12.88,
+    "e": 13.44
    },
    {
     "w": "abawuzwa",
-    "s": 13.28,
-    "e": 13.68
+    "s": 13.52,
+    "e": 13.92
    },
    {
     "w": "kakhulu.",
-    "s": 13.72,
-    "e": 14.24
+    "s": 13.96,
+    "e": 14.56
    },
    {
     "w": "Lokho",
-    "s": 14.68,
-    "e": 15.04
+    "s": 15.24,
+    "e": 15.6
    },
    {
     "w": "kwenza",
-    "s": 15.08,
-    "e": 15.36
+    "s": 15.64,
+    "e": 15.92
    },
    {
     "w": "ukuthi",
-    "s": 15.44,
-    "e": 15.76
+    "s": 16.0,
+    "e": 16.4
    },
    {
     "w": "umsindo",
-    "s": 15.84,
-    "e": 16.32
+    "s": 16.48,
+    "e": 16.96
    },
    {
     "w": "ng",
-    "s": 16.4,
-    "e": 16.48
+    "s": 17.0,
+    "e": 17.08
    },
    {
     "w": "uvele",
-    "s": 16.6,
-    "e": 16.88
-   },
-   {
-    "w": "ezindlebeni",
-    "s": 16.96,
+    "s": 17.2,
     "e": 17.52
    },
    {
+    "w": "ezindlebeni",
+    "s": 17.6,
+    "e": 18.16
+   },
+   {
     "w": "zabo",
-    "s": 17.56,
-    "e": 17.84
+    "s": 18.2,
+    "e": 18.48
    },
    {
     "w": "kuqala.",
-    "s": 17.96,
-    "e": 18.4
+    "s": 18.6,
+    "e": 19.04
    },
    {
     "w": "Ngithandile",
-    "s": 18.8,
-    "e": 19.36
-   },
-   {
-    "w": "futhi",
-    "s": 19.4,
-    "e": 19.72
-   },
-   {
-    "w": "ibhokisi",
-    "s": 19.76,
+    "s": 19.72,
     "e": 20.24
    },
    {
-    "w": "lakho,",
-    "s": 20.28,
+    "w": "futhi",
+    "s": 20.32,
     "e": 20.64
    },
    {
+    "w": "ibhokisi",
+    "s": 20.72,
+    "e": 21.2
+   },
+   {
+    "w": "lakho,",
+    "s": 21.24,
+    "e": 21.6
+   },
+   {
     "w": "ngoba",
-    "s": 20.92,
-    "e": 21.12
+    "s": 21.96,
+    "e": 22.24
    },
    {
     "w": "lenze",
-    "s": 21.2,
-    "e": 21.52
+    "s": 22.36,
+    "e": 22.56
    },
    {
     "w": "ukushaya",
-    "s": 21.6,
-    "e": 22.0
+    "s": 22.64,
+    "e": 23.04
    },
    {
     "w": "izandla",
-    "s": 22.12,
-    "e": 22.48
+    "s": 23.16,
+    "e": 23.6
    },
    {
     "w": "kube",
-    "s": 22.56,
-    "e": 22.8
+    "s": 23.68,
+    "e": 23.92
    },
    {
     "w": "umdlalo,",
-    "s": 22.88,
-    "e": 23.36
+    "s": 24.0,
+    "e": 24.48
    },
    {
     "w": "futhi",
-    "s": 23.6,
-    "e": 23.88
-   },
-   {
-    "w": "ubonise",
-    "s": 23.92,
-    "e": 24.32
-   },
-   {
-    "w": "kahle",
-    "s": 24.4,
-    "e": 24.8
-   },
-   {
-    "w": "ukuthi",
     "s": 24.88,
     "e": 25.2
    },
    {
-    "w": "ng",
+    "w": "ubonise",
     "s": 25.28,
-    "e": 25.36
-   },
-   {
-    "w": "wakhiwe",
-    "s": 25.44,
-    "e": 25.84
-   },
-   {
-    "w": "ngu-n",
-    "s": 26.0,
-    "e": 26.72
-   },
-   {
-    "w": "no-g",
-    "s": 27.04,
-    "e": 27.76
-   },
-   {
-    "w": "odongeni",
-    "s": 28.0,
-    "e": 28.56
-   },
-   {
-    "w": "lwamagama.",
-    "s": 28.6,
-    "e": 29.2
-   },
-   {
-    "w": "Into",
-    "s": 29.76,
-    "e": 29.92
-   },
-   {
-    "w": "eyodwa",
-    "s": 30.0,
-    "e": 30.48
-   },
-   {
-    "w": "engifuna",
-    "s": 30.56,
-    "e": 30.96
-   },
-   {
-    "w": "sixoxe",
-    "s": 31.08,
-    "e": 31.44
-   },
-   {
-    "w": "ngayo",
-    "s": 31.52,
-    "e": 31.92
-   },
-   {
-    "w": "ukuthi",
-    "s": 32.0,
-    "e": 32.32
-   },
-   {
-    "w": "umfundi",
-    "s": 32.44,
-    "e": 32.88
-   },
-   {
-    "w": "oyedwa",
-    "s": 32.96,
-    "e": 33.28
-   },
-   {
-    "w": "kuphela",
-    "s": 33.32,
-    "e": 33.92
-   },
-   {
-    "w": "owakha",
-    "s": 34.0,
-    "e": 34.32
-   },
-   {
-    "w": "igama",
-    "s": 34.4,
-    "e": 34.8
-   },
-   {
-    "w": "elithi",
-    "s": 34.88,
-    "e": 35.28
-   },
-   {
-    "w": "ngena,",
-    "s": 35.36,
-    "e": 35.84
-   },
-   {
-    "w": "bese",
-    "s": 36.08,
-    "e": 36.4
-   },
-   {
-    "w": "ikilasi",
-    "s": 36.48,
-    "e": 36.88
-   },
-   {
-    "w": "lonke",
-    "s": 37.0,
-    "e": 37.36
-   },
-   {
-    "w": "liliphinda",
-    "s": 37.44,
-    "e": 38.0
-   },
-   {
-    "w": "ndawonye.",
-    "s": 38.08,
-    "e": 38.64
-   },
-   {
-    "w": "Lokho",
-    "s": 39.0,
-    "e": 39.28
-   },
-   {
-    "w": "kusho",
-    "s": 39.32,
-    "e": 39.6
-   },
-   {
-    "w": "ukuthi",
-    "s": 39.68,
-    "e": 40.04
-   },
-   {
-    "w": "abafundi",
-    "s": 40.08,
-    "e": 40.56
-   },
-   {
-    "w": "abaningi",
-    "s": 40.72,
-    "e": 41.12
-   },
-   {
-    "w": "abakazami",
-    "s": 41.2,
-    "e": 41.84
-   },
-   {
-    "w": "bebodwa,",
-    "s": 42.0,
-    "e": 42.48
-   },
-   {
-    "w": "futhi",
-    "s": 42.76,
-    "e": 43.04
-   },
-   {
-    "w": "akulula",
-    "s": 43.12,
-    "e": 43.6
-   },
-   {
-    "w": "ukwazi",
-    "s": 43.68,
-    "e": 44.08
-   },
-   {
-    "w": "ukuthi",
-    "s": 44.16,
-    "e": 44.48
-   },
-   {
-    "w": "ubani",
-    "s": 44.6,
-    "e": 45.04
-   },
-   {
-    "w": "osadinga",
-    "s": 45.12,
-    "e": 45.64
-   },
-   {
-    "w": "usizo.",
-    "s": 45.68,
-    "e": 46.24
-   },
-   {
-    "w": "Esifundweni",
-    "s": 46.72,
-    "e": 47.24
-   },
-   {
-    "w": "esilandelayo,",
-    "s": 47.28,
-    "e": 48.16
-   },
-   {
-    "w": "ungazama",
-    "s": 48.4,
-    "e": 48.96
-   },
-   {
-    "w": "ukunika",
-    "s": 49.04,
-    "e": 49.44
-   },
-   {
-    "w": "abafundi",
-    "s": 49.52,
-    "e": 50.0
-   },
-   {
-    "w": "amakhadi",
-    "s": 50.08,
-    "e": 50.56
-   },
-   {
-    "w": "ezinhlamvu",
-    "s": 50.64,
-    "e": 51.36
-   },
-   {
-    "w": "ngababili,",
-    "s": 51.4,
-    "e": 52.0
-   },
-   {
-    "w": "bakhe",
-    "s": 52.28,
-    "e": 52.48
-   },
-   {
-    "w": "amagama",
-    "s": 52.56,
-    "e": 53.12
-   },
-   {
-    "w": "ane-ng,",
-    "s": 53.24,
-    "e": 53.92
-   },
-   {
-    "w": "wena",
-    "s": 54.2,
-    "e": 54.56
-   },
-   {
-    "w": "uhambe",
-    "s": 54.64,
-    "e": 55.04
-   },
-   {
-    "w": "ulalele",
-    "s": 55.12,
-    "e": 55.6
-   },
-   {
-    "w": "abambalwa",
-    "s": 55.68,
-    "e": 56.24
-   },
-   {
-    "w": "befunda.",
-    "s": 56.4,
-    "e": 56.88
-   },
-   {
-    "w": "Uqale",
-    "s": 57.2,
-    "e": 57.52
+    "e": 25.68
    },
    {
     "w": "kahle",
-    "s": 57.64,
-    "e": 57.84
-   },
-   {
-    "w": "kakhulu,",
-    "s": 57.947,
-    "e": 58.4
-   },
-   {
-    "w": "futhi",
-    "s": 58.68,
-    "e": 58.933
-   },
-   {
-    "w": "ngiyakholwa",
-    "s": 58.987,
-    "e": 59.52
+    "s": 25.84,
+    "e": 26.08
    },
    {
     "w": "ukuthi",
-    "s": 59.6,
-    "e": 60.0
+    "s": 26.16,
+    "e": 26.56
+   },
+   {
+    "w": "ng",
+    "s": 26.64,
+    "e": 26.72
+   },
+   {
+    "w": "wakhiwe",
+    "s": 26.76,
+    "e": 27.28
+   },
+   {
+    "w": "ngu-n",
+    "s": 27.36,
+    "e": 28.08
+   },
+   {
+    "w": "no-g",
+    "s": 28.4,
+    "e": 29.2
+   },
+   {
+    "w": "odongeni",
+    "s": 29.52,
+    "e": 30.08
+   },
+   {
+    "w": "lwamagama.",
+    "s": 30.12,
+    "e": 30.72
+   },
+   {
+    "w": "Into",
+    "s": 31.44,
+    "e": 31.68
+   },
+   {
+    "w": "eyodwa",
+    "s": 31.8,
+    "e": 32.24
+   },
+   {
+    "w": "engifuna",
+    "s": 32.32,
+    "e": 32.64
+   },
+   {
+    "w": "sixoxe",
+    "s": 32.72,
+    "e": 33.2
+   },
+   {
+    "w": "ngayo",
+    "s": 33.28,
+    "e": 33.6
+   },
+   {
+    "w": "ukuthi",
+    "s": 33.68,
+    "e": 34.08
+   },
+   {
+    "w": "umfundi",
+    "s": 34.16,
+    "e": 34.64
+   },
+   {
+    "w": "oyedwa",
+    "s": 34.72,
+    "e": 35.04
+   },
+   {
+    "w": "kuphela",
+    "s": 35.12,
+    "e": 35.6
+   },
+   {
+    "w": "owakha",
+    "s": 36.0,
+    "e": 36.4
+   },
+   {
+    "w": "igama",
+    "s": 36.52,
+    "e": 36.88
+   },
+   {
+    "w": "elithi",
+    "s": 36.96,
+    "e": 37.28
+   },
+   {
+    "w": "ngena,",
+    "s": 37.36,
+    "e": 37.68
+   },
+   {
+    "w": "bese",
+    "s": 38.12,
+    "e": 38.4
+   },
+   {
+    "w": "ikilasi",
+    "s": 38.48,
+    "e": 38.88
+   },
+   {
+    "w": "lonke",
+    "s": 39.04,
+    "e": 39.36
+   },
+   {
+    "w": "liliphinda",
+    "s": 39.44,
+    "e": 40.0
+   },
+   {
+    "w": "ndawonye.",
+    "s": 40.08,
+    "e": 40.64
+   },
+   {
+    "w": "Lokho",
+    "s": 41.24,
+    "e": 41.52
+   },
+   {
+    "w": "kusho",
+    "s": 41.56,
+    "e": 41.84
+   },
+   {
+    "w": "ukuthi",
+    "s": 41.92,
+    "e": 42.32
+   },
+   {
+    "w": "abafundi",
+    "s": 42.4,
+    "e": 42.88
+   },
+   {
+    "w": "abaningi",
+    "s": 43.04,
+    "e": 43.52
+   },
+   {
+    "w": "abakazami",
+    "s": 43.6,
+    "e": 44.24
+   },
+   {
+    "w": "bebodwa,",
+    "s": 44.36,
+    "e": 44.8
+   },
+   {
+    "w": "futhi",
+    "s": 45.2,
+    "e": 45.52
+   },
+   {
+    "w": "akulula",
+    "s": 45.6,
+    "e": 46.08
+   },
+   {
+    "w": "ukwazi",
+    "s": 46.16,
+    "e": 46.56
+   },
+   {
+    "w": "ukuthi",
+    "s": 46.64,
+    "e": 47.0
+   },
+   {
+    "w": "ubani",
+    "s": 47.04,
+    "e": 47.6
+   },
+   {
+    "w": "osadinga",
+    "s": 47.68,
+    "e": 48.2
+   },
+   {
+    "w": "usizo.",
+    "s": 48.24,
+    "e": 48.8
+   },
+   {
+    "w": "Esifundweni",
+    "s": 49.64,
+    "e": 50.16
+   },
+   {
+    "w": "esilandelayo,",
+    "s": 50.24,
+    "e": 51.04
+   },
+   {
+    "w": "ungazama",
+    "s": 51.44,
+    "e": 52.0
+   },
+   {
+    "w": "ukunika",
+    "s": 52.08,
+    "e": 52.48
+   },
+   {
+    "w": "abafundi",
+    "s": 52.52,
+    "e": 52.96
+   },
+   {
+    "w": "amakhadi",
+    "s": 53.04,
+    "e": 53.6
+   },
+   {
+    "w": "ezinhlamvu",
+    "s": 53.68,
+    "e": 54.32
+   },
+   {
+    "w": "ngababili,",
+    "s": 54.36,
+    "e": 54.96
+   },
+   {
+    "w": "bakhe",
+    "s": 55.48,
+    "e": 55.68
+   },
+   {
+    "w": "amagama",
+    "s": 55.76,
+    "e": 56.24
+   },
+   {
+    "w": "ane-ng,",
+    "s": 56.32,
+    "e": 57.12
+   },
+   {
+    "w": "wena",
+    "s": 57.56,
+    "e": 57.92
+   },
+   {
+    "w": "uhambe",
+    "s": 58.0,
+    "e": 58.48
+   },
+   {
+    "w": "ulalele",
+    "s": 58.56,
+    "e": 59.04
+   },
+   {
+    "w": "abambalwa",
+    "s": 59.12,
+    "e": 59.68
+   },
+   {
+    "w": "befunda.",
+    "s": 59.84,
+    "e": 60.24
+   },
+   {
+    "w": "Uqale",
+    "s": 60.88,
+    "e": 61.2
+   },
+   {
+    "w": "kahle",
+    "s": 61.32,
+    "e": 61.52
+   },
+   {
+    "w": "kakhulu,",
+    "s": 61.653,
+    "e": 62.16
+   },
+   {
+    "w": "futhi",
+    "s": 62.56,
+    "e": 62.827
+   },
+   {
+    "w": "ngiyakholwa",
+    "s": 62.853,
+    "e": 63.44
+   },
+   {
+    "w": "ukuthi",
+    "s": 63.52,
+    "e": 63.84
    },
    {
     "w": "lesi",
-    "s": 60.08,
-    "e": 60.32
+    "s": 63.92,
+    "e": 64.16
    },
    {
     "w": "sinyathelo",
-    "s": 60.36,
-    "e": 60.96
+    "s": 64.24,
+    "e": 64.8
    },
    {
     "w": "sizokusiza",
-    "s": 61.0,
-    "e": 61.84
+    "s": 64.84,
+    "e": 65.6
    },
    {
     "w": "ubone",
-    "s": 61.92,
-    "e": 62.24
+    "s": 65.68,
+    "e": 66.08
    },
    {
     "w": "wonke",
-    "s": 62.32,
-    "e": 62.64
+    "s": 66.16,
+    "e": 66.48
    },
    {
     "w": "umfundi.",
-    "s": 62.72,
-    "e": 63.28
+    "s": 66.56,
+    "e": 67.12
    },
    {
     "w": "Qhubeka",
-    "s": 63.56,
-    "e": 63.92
+    "s": 67.573,
+    "e": 67.84
    },
    {
     "w": "kanjalo.",
-    "s": 64.04,
-    "e": 64.56
+    "s": 67.96,
+    "e": 68.48
    }
   ],
-  "script": "Ngiyabonga kakhulu ngokungivumela ukuthi ngibe sekilasini lakho namuhla. Ngithandile kakhulu indlela oqale ngayo ngomlolozelo, abafundi bame bacula ngenjabulo, bese ubabuza ukuthi yimuphi umsindo abawuzwa kakhulu. Lokho kwenza ukuthi umsindo ng uvele ezindlebeni zabo kuqala. Ngithandile futhi ibhokisi lakho, ngoba lenze ukushaya izandla kube umdlalo, futhi ubonise kahle ukuthi ng wakhiwe ngu-n no-g odongeni lwamagama. Into eyodwa engifuna sixoxe ngayo ukuthi umfundi oyedwa kuphela owakha igama elithi ngena, bese ikilasi lonke liliphinda ndawonye. Lokho kusho ukuthi abafundi abaningi abakazami bebodwa, futhi akulula ukwazi ukuthi ubani osadinga usizo. Esifundweni esilandelayo, ungazama ukunika abafundi amakhadi ezinhlamvu ngababili, bakhe amagama ane-ng, wena uhambe ulalele abambalwa befunda. Uqale kahle kakhulu, futhi ngiyakholwa ukuthi lesi sinyathelo sizokusiza ubone wonke umfundi. Qhubeka kanjalo.",
+  "script": "Ngiyabonga kakhulu ukungivumele ukuthi ngibesekilasini lakho namuhla. Ngithandile kakhulu indlela oqale ngayo ngomlolozelo, abafundi bame bacula ngenjabulo, bese ubabuza ukuthi yimuphi umsindo abawuzwa kakhulu. Lokho kwenza ukuthi umsindo ng uvele ezindlebeni zabo kuqala. Ngithandile futhi ibhokisi lakho, ngoba lenze ukushaya izandla kube umdlalo, futhi ubonise kahle ukuthi ng wakhiwe ngu-n no-g odongeni lwamagama. Into eyodwa engifuna sixoxe ngayo ukuthi umfundi oyedwa kuphela owakha igama elithi ngena, bese ikilasi lonke liliphinda ndawonye. Lokho kusho ukuthi abafundi abaningi abakazami bebodwa, futhi akulula ukwazi ukuthi ubani osadinga usizo. Esifundweni esilandelayo, ungazama ukunika abafundi amakhadi ezinhlamvu ngababili, bakhe amagama ane-ng, wena uhambe ulalele abambalwa befunda. Uqale kahle kakhulu, futhi ngiyakholwa ukuthi lesi sinyathelo sizokusiza ubone wonke umfundi. Qhubeka kanjalo.",
   "en": "Thank you very much for letting me be in your class today. I really liked how you began with a rhyme: the learners stood and chanted happily, and then you asked them which sound they heard most. That made the sound ng come from their ears first. I also liked your box, because it turned clapping into a game, and you showed clearly that ng is made of n and g on the word wall. One thing I'd like us to talk about is that only one learner built the word ngena, and then the whole class repeated it together. That means many learners have not yet tried on their own, and it is not easy to know who still needs help. In the next lesson, you could try giving learners letter cards in pairs to build ng words, while you walk round and listen to a few reading. You have started very well, and I believe this step will help you see every learner. Keep it up.",
   "engine": "ElevenLabs eleven_v4",
   "voice": "Neo (South African voice from the ElevenLabs library)",
-  "seconds": 64.7,
+  "seconds": 68.64,
   "label": "native ear pending",
   "note_en": "Generated voice reading Rumi's debrief. A native speaker has not rated it yet."
  },
